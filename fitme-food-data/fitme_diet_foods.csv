@@ -1,0 +1,825 @@
+id,name,aka,category,cuisine,diet_type,serving_label,serving_g,kcal_serving,protein_serving,carbs_serving,fat_serving,fiber_serving,tags
+fitme-in-besan-chilla,Besan chilla,Besan cheela,Breakfast,Indian,vegan,1 chilla (80 g),80,170,8.2,22.1,5.4,4.2,diet_friendly
+fitme-in-dhokla,Dhokla,Khaman dhokla,Breakfast,Indian,vegetarian,2 pieces (80 g),80,165,7.3,21.1,5.7,3.4,diet_friendly
+fitme-in-idli-home-style,Idli (home style),Idly,Breakfast,Indian,vegan,2 idlis (100 g),100,144,4.7,29.9,0.4,2.2,low_fat|diet_friendly
+fitme-in-moong-dal-chilla,Moong dal chilla,Pesarattu,Breakfast,Indian,vegan,1 chilla (90 g),90,154,8.5,23.4,3.4,5.9,high_fiber|diet_friendly
+fitme-in-oats-chilla,Oats chilla,Oats cheela,Breakfast,Indian,vegan,1 chilla (80 g),80,188,7.5,27.0,5.8,4.5,diet_friendly
+fitme-in-oats-upma,Oats upma,Masala oats,Breakfast,Indian,vegan,1 katori (180 g),180,172,6.6,26.6,4.8,5.1,high_fiber|low_fat|diet_friendly
+fitme-in-overnight-oats-curd-chia,"Overnight oats (curd, chia)",Overnight oats,Breakfast,Indian,vegetarian,1 jar (250 g),250,293,15.4,44.1,6.9,6.7,high_fiber|low_fat|diet_friendly
+fitme-in-paneer-sandwich-brown-bread,Paneer sandwich (brown bread),Paneer sandwich,Breakfast,Indian,vegetarian,1 sandwich (160 g),160,320,16.5,40.2,10.1,4.2,diet_friendly
+fitme-in-paneer-stuffed-moong-chilla,Paneer stuffed moong chilla,Paneer chilla,Breakfast,Indian,vegetarian,1 chilla (120 g),120,242,13.2,29.6,8.1,5.9,high_fiber|diet_friendly
+fitme-in-poha-low-oil-extra-veg,"Poha (low oil, extra veg)",Light poha,Breakfast,Indian,vegan,1 plate (150 g),150,197,4.4,38.4,2.7,2.9,low_fat|diet_friendly
+fitme-in-sprouts-poha,Sprouts poha,Sprouts poha,Breakfast,Indian,vegan,1 plate (160 g),160,201,4.7,38.1,3.4,1.9,low_fat|diet_friendly
+fitme-in-vegetable-daliya,Vegetable daliya,Broken wheat upma,Breakfast,Indian,vegan,1 katori (180 g),180,138,4.5,26.0,2.7,5.0,low_calorie|high_fiber|low_fat|diet_friendly
+fitme-in-aloo-matar-curry-low-oil,Aloo matar curry (low oil),Aloo mutter gravy,Curry,Indian,vegan,1 katori (150 g),150,102,3.6,18.7,2.0,4.4,low_calorie|low_fat|diet_friendly
+fitme-in-chole-restaurant-style-low-oil,Chole (restaurant style) (low oil),Pindi chole,Curry,Indian,vegan,1 katori (150 g),150,139,6.5,22.1,3.3,4.8,low_fat|diet_friendly
+fitme-in-dum-aloo-low-oil,Dum aloo (low oil),Dum aloo,Curry,Indian,vegetarian,1 katori (150 g),150,102,2.8,18.9,2.2,3.1,low_calorie|low_fat|diet_friendly
+fitme-in-kofta-curry-lauki-low-oil,Kofta curry (lauki) (low oil),Lauki kofta,Curry,Indian,vegan,1 katori (150 g),150,91,3.8,14.0,2.7,3.1,low_calorie|low_fat|diet_friendly
+fitme-in-malai-kofta-low-oil,Malai kofta (low oil),Kofta curry,Curry,Indian,vegetarian,1 katori (150 g),150,186,7.7,21.8,7.8,2.5,diet_friendly
+fitme-in-matar-paneer-low-oil,Matar paneer (low oil),Mutter paneer,Curry,Indian,vegetarian,1 katori (150 g),150,198,9.7,20.1,8.9,3.5,diet_friendly
+fitme-in-mixed-veg-curry,Mixed veg curry,Sabz gravy,Curry,Indian,vegan,1 katori (150 g),150,105,2.8,13.6,5.0,4.0,low_calorie|diet_friendly
+fitme-in-mixed-veg-curry-low-oil,Mixed veg curry (low oil),Sabz gravy,Curry,Indian,vegan,1 katori (150 g),150,78,2.9,13.9,1.9,4.1,low_calorie|low_fat|diet_friendly
+fitme-in-mushroom-matar-low-oil,Mushroom matar (low oil),Mushroom peas curry,Curry,Indian,vegan,1 katori (150 g),150,71,4.0,10.7,2.2,3.6,low_calorie|low_fat|diet_friendly
+fitme-in-palak-paneer-low-oil,Palak paneer (low oil),Saag paneer,Curry,Indian,vegetarian,1 katori (150 g),150,172,9.1,15.9,8.5,2.7,diet_friendly
+fitme-in-soya-chunks-masala,Soya chunks masala,Nutrela curry,Curry,Indian,vegan,1 katori (150 g),150,141,12.0,12.6,5.7,5.4,high_protein|high_fiber|diet_friendly
+fitme-in-soya-chunks-masala-low-oil,Soya chunks masala (low oil),Nutrela curry,Curry,Indian,vegan,1 katori (150 g),150,112,12.3,12.9,2.2,5.5,high_protein|low_calorie|high_fiber|low_fat|diet_friendly
+fitme-in-chana-dal-low-oil,Chana dal (low oil),Chane ki dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,149,6.7,21.7,4.6,4.6,diet_friendly
+fitme-in-chole-masala,Chole masala,Chana masala,Dal & legumes,Indian,vegan,1 katori (150 g),150,183,7.3,24.7,6.9,5.3,high_fiber|diet_friendly
+fitme-in-chole-masala-low-oil,Chole masala (low oil),Chana masala,Dal & legumes,Indian,vegan,1 katori (150 g),150,162,7.3,24.7,4.5,5.3,high_fiber|diet_friendly
+fitme-in-dal-fry-mixed,Dal fry (mixed),Dal fry,Dal & legumes,Indian,vegan,1 katori (150 g),150,161,7.3,21.6,5.7,5.6,high_fiber|diet_friendly
+fitme-in-dal-fry-mixed-low-oil,Dal fry (mixed) (low oil),Dal fry,Dal & legumes,Indian,vegan,1 katori (150 g),150,139,7.3,21.6,3.2,5.6,high_fiber|low_fat|diet_friendly
+fitme-in-dal-makhani-low-oil,Dal makhani (low oil),Kali dal,Dal & legumes,Indian,vegetarian,1 katori (150 g),150,195,8.3,20.6,9.5,6.2,high_fiber|diet_friendly
+fitme-in-dal-palak,Dal palak,Palak dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,142,6.8,19.2,4.9,5.3,high_fiber|diet_friendly
+fitme-in-dal-palak-low-oil,Dal palak (low oil),Palak dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,123,6.8,19.2,2.8,5.3,high_fiber|low_fat|diet_friendly
+fitme-in-kadhi-besan-low-oil,Kadhi (besan) (low oil),Punjabi kadhi without pakora,Dal & legumes,Indian,vegetarian,1 katori (150 g),150,99,4.6,9.7,4.7,1.5,low_calorie|diet_friendly
+fitme-in-kala-chana-curry,Kala chana curry,Black chickpea curry,Dal & legumes,Indian,vegan,1 katori (150 g),150,183,7.4,24.0,7.2,5.1,high_fiber|diet_friendly
+fitme-in-kala-chana-curry-low-oil,Kala chana curry (low oil),Black chickpea curry,Dal & legumes,Indian,vegan,1 katori (150 g),150,162,7.4,24.0,4.7,5.1,high_fiber|diet_friendly
+fitme-in-lauki-chana-dal-low-oil,Lauki chana dal (low oil),Ghiya chana dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,112,4.9,16.7,3.4,3.5,low_calorie|low_fat|diet_friendly
+fitme-in-lobia-masala-low-oil,Lobia masala (low oil),Rongi / black-eyed beans curry,Dal & legumes,Indian,vegan,1 katori (150 g),150,145,8.2,22.6,3.1,4.5,low_fat|diet_friendly
+fitme-in-masoor-dal-low-oil,Masoor dal (low oil),Lal masoor dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,143,7.7,21.7,3.4,4.2,low_fat|diet_friendly
+fitme-in-moong-dal-yellow,Moong dal (yellow),Peeli moong dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,162,7.7,21.6,5.6,5.8,high_fiber|diet_friendly
+fitme-in-moong-dal-yellow-low-oil,Moong dal (yellow) (low oil),Peeli moong dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,140,7.7,21.6,3.1,5.8,high_fiber|low_fat|diet_friendly
+fitme-in-moth-bean-usal-low-oil,Moth bean usal (low oil),Matki usal,Dal & legumes,Indian,vegan,1 katori (150 g),150,180,8.9,25.8,5.3,1.5,diet_friendly
+fitme-in-panchmel-dal,Panchmel dal,Rajasthani mixed dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,160,7.2,21.0,5.8,5.2,high_fiber|diet_friendly
+fitme-in-panchmel-dal-low-oil,Panchmel dal (low oil),Rajasthani mixed dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,138,7.2,21.0,3.3,5.2,high_fiber|low_fat|diet_friendly
+fitme-in-rajma-masala,Rajma masala,Rajma,Dal & legumes,Indian,vegan,1 katori (150 g),150,169,7.9,23.9,5.3,6.1,high_fiber|diet_friendly
+fitme-in-rajma-masala-low-oil,Rajma masala (low oil),Rajma,Dal & legumes,Indian,vegan,1 katori (150 g),150,148,7.9,23.9,3.0,6.1,high_fiber|low_fat|diet_friendly
+fitme-in-rasam-low-oil,Rasam (low oil),Saaru,Dal & legumes,Indian,vegan,1 katori (150 g),150,58,2.0,8.5,2.2,2.0,low_calorie|low_fat|diet_friendly
+fitme-in-sambar,Sambar,Sambhar,Dal & legumes,Indian,vegan,1 katori (150 g),150,114,4.5,16.6,4.0,4.2,low_calorie|low_fat|diet_friendly
+fitme-in-sambar-low-oil,Sambar (low oil),Sambhar,Dal & legumes,Indian,vegan,1 katori (150 g),150,99,4.5,16.6,2.2,4.2,low_calorie|low_fat|diet_friendly
+fitme-in-soya-chunks-curry,Soya chunks curry,Soya badi sabzi,Dal & legumes,Indian,vegan,1 katori (150 g),150,157,14.7,14.4,5.7,6.2,high_protein|high_fiber|diet_friendly
+fitme-in-soya-chunks-curry-low-oil,Soya chunks curry (low oil),Soya badi sabzi,Dal & legumes,Indian,vegan,1 katori (150 g),150,134,14.7,14.4,3.2,6.2,high_protein|high_fiber|low_fat|diet_friendly
+fitme-in-toor-dal-tadka,Toor dal tadka,Arhar dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,161,7.0,21.6,5.7,5.4,high_fiber|diet_friendly
+fitme-in-toor-dal-tadka-low-oil,Toor dal tadka (low oil),Arhar dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,139,7.0,21.6,3.2,5.4,high_fiber|low_fat|diet_friendly
+fitme-in-urad-dal-dhuli,Urad dal (dhuli),Safed urad dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,160,8.1,20.5,5.8,6.4,high_fiber|diet_friendly
+fitme-in-urad-dal-dhuli-low-oil,Urad dal (dhuli) (low oil),Safed urad dal,Dal & legumes,Indian,vegan,1 katori (150 g),150,138,8.1,20.5,3.3,6.4,high_fiber|low_fat|diet_friendly
+fitme-in-whole-moong-dal,Whole moong dal,Sabut moong,Dal & legumes,Indian,vegan,1 katori (150 g),150,170,8.0,22.6,5.9,6.1,high_fiber|diet_friendly
+fitme-in-whole-moong-dal-low-oil,Whole moong dal (low oil),Sabut moong,Dal & legumes,Indian,vegan,1 katori (150 g),150,146,8.0,22.6,3.3,6.1,high_fiber|low_fat|diet_friendly
+fitme-in-amaranth-rajgira-porridge,Amaranth (rajgira) porridge,Rajgira dalia,Diet meals,Indian,vegetarian,1 bowl (200 g),200,209,9.8,34.9,3.9,2.9,low_fat|diet_friendly
+fitme-in-chicken-clear-soup,Chicken clear soup,Chicken shorba,Diet meals,Indian,non_vegetarian,1 bowl (250 ml),250,64,9.4,3.9,1.1,1.1,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-chicken-salad-bowl,Chicken salad bowl,Grilled chicken salad,Diet meals,Indian,non_vegetarian,1 bowl (280 g),280,271,37.5,6.8,9.8,1.4,high_protein|diet_friendly
+fitme-in-chicken-wrap-whole-wheat,Chicken wrap (whole wheat),Chicken roll (atta),Diet meals,Indian,non_vegetarian,1 wrap (200 g),200,299,28.4,29.7,7.8,4.6,high_protein|diet_friendly
+fitme-in-chickpea-salad,Chickpea salad,Chana salad,Diet meals,Indian,vegan,1 bowl (200 g),200,225,10.5,34.7,5.9,6.7,high_fiber|low_fat|diet_friendly
+fitme-in-cottage-cheese-low-fat-bowl,Cottage cheese (low-fat) bowl,Low-fat cottage cheese,Diet meals,Indian,vegetarian,1 bowl (150 g),150,108,18.6,4.1,1.5,0.0,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-egg-white-omelette-with-veg-4-whites,Egg white omelette with veg (4 whites),Egg white omelette,Diet meals,Indian,eggetarian,1 omelette (170 g),170,101,15.3,4.0,2.4,1.1,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-greek-style-curd-bowl-with-fruit-and-seeds,Greek-style curd bowl with fruit and seeds,Hung curd bowl,Diet meals,Indian,vegetarian,1 bowl (220 g),220,311,19.6,37.8,10.3,3.8,high_protein|diet_friendly
+fitme-in-grilled-fish-with-sauteed-veg,Grilled fish with sauteed veg,Grilled fish plate,Diet meals,Indian,non_vegetarian,1 plate (280 g),280,318,32.8,10.8,15.8,3.6,high_protein|diet_friendly
+fitme-in-high-protein-dal-bowl,High-protein dal bowl,Dal + curd + salad bowl,Diet meals,Indian,vegetarian,1 bowl (350 g),350,212,13.6,31.4,4.2,6.6,high_protein|low_calorie|high_fiber|low_fat|diet_friendly
+fitme-in-lauki-soup,Lauki soup,Bottle gourd soup,Diet meals,Indian,vegetarian,1 bowl (250 ml),250,45,1.2,7.2,1.7,1.1,low_calorie|low_fat|diet_friendly
+fitme-in-mango-smoothie-bowl-curd,Mango smoothie bowl (curd),Aam curd bowl,Diet meals,Indian,vegetarian,1 bowl (220 g),220,169,9.6,27.0,3.1,2.2,low_calorie|low_fat|diet_friendly
+fitme-in-millet-khichdi-bajra,Millet khichdi (bajra),Bajra khichdi,Diet meals,Indian,vegetarian,1 katori (200 g),200,157,6.5,26.4,3.0,5.1,low_calorie|high_fiber|low_fat|diet_friendly
+fitme-in-mixed-millet-upma,Mixed millet upma,Millet upma,Diet meals,Indian,vegan,1 katori (180 g),180,156,4.0,27.4,3.6,3.8,low_fat|diet_friendly
+fitme-in-moong-dal-soup,Moong dal soup,Dal shorba,Diet meals,Indian,vegan,1 bowl (250 ml),250,85,5.7,15.5,0.3,4.0,low_calorie|low_fat|diet_friendly
+fitme-in-palak-soup,Palak soup,Spinach soup,Diet meals,Indian,vegetarian,1 bowl (250 ml),250,72,5.3,9.2,2.5,3.0,low_calorie|low_fat|diet_friendly
+fitme-in-paneer-bhurji-wrap-whole-wheat,Paneer bhurji wrap (whole wheat),Paneer roll (atta),Diet meals,Indian,vegetarian,1 wrap (180 g),180,352,14.8,42.9,14.3,4.8,diet_friendly
+fitme-in-paneer-salad-bowl,Paneer salad bowl,Paneer salad,Diet meals,Indian,vegetarian,1 bowl (250 g),250,269,13.8,25.6,12.4,1.9,diet_friendly
+fitme-in-quinoa-khichdi,Quinoa khichdi,Quinoa moong khichdi,Diet meals,Indian,vegan,1 katori (200 g),200,153,7.2,25.1,3.0,4.9,low_calorie|low_fat|diet_friendly
+fitme-in-rajma-salad,Rajma salad,Kidney bean salad,Diet meals,Indian,vegan,1 bowl (200 g),200,180,11.4,33.9,0.6,8.1,high_protein|high_fiber|low_fat|diet_friendly
+fitme-in-soya-chunks-pulao-light,Soya chunks pulao (light),Soya pulao,Diet meals,Indian,vegan,1 plate (250 g),250,247,14.2,40.5,3.5,6.0,high_fiber|low_fat|diet_friendly
+fitme-in-sprouts-and-paneer-salad,Sprouts and paneer salad,Sprouts paneer salad,Diet meals,Indian,vegetarian,1 bowl (220 g),220,188,11.3,19.7,7.9,2.3,diet_friendly
+fitme-in-sweet-potato-chaat,Sweet potato chaat,Shakarkandi chaat,Diet meals,Indian,vegan,1 bowl (150 g),150,133,2.5,31.1,0.2,5.0,high_fiber|low_fat|diet_friendly
+fitme-in-banana-peanut-butter-smoothie,Banana peanut butter smoothie,Banana shake (PB),Drinks,Indian,vegetarian,1 glass (300 ml),300,288,12.0,41.1,10.3,4.3,diet_friendly
+fitme-in-black-coffee,Black coffee,Black coffee,Drinks,Indian,vegan,1 cup (200 ml),200,2,0.2,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+fitme-in-chaas-buttermilk,Chaas (buttermilk),Mattha,Drinks,Indian,vegetarian,1 glass (250 ml),250,66,5.4,7.5,1.8,0.1,low_calorie|low_fat|diet_friendly
+fitme-in-coconut-water,Coconut water,Nariyal pani,Drinks,Indian,vegan,1 glass (240 ml),240,46,1.7,8.9,0.5,2.6,low_calorie|low_fat|diet_friendly
+fitme-in-nimbu-pani-no-sugar,Nimbu pani (no sugar),Lemon water,Drinks,Indian,vegan,1 glass (250 ml),250,4,0.1,1.4,0.0,0.1,low_calorie|low_fat|diet_friendly
+fitme-in-sattu-drink-savoury,Sattu drink (savoury),Sattu sharbat (roasted gram approximated by chickpea flour),Drinks,Indian,vegan,1 glass (250 ml),250,115,6.6,17.3,2.0,3.2,low_calorie|low_fat|diet_friendly
+fitme-in-whey-protein-shake-toned-milk,Whey protein shake (toned milk),Protein shake with milk,Drinks,Indian,vegetarian,1 scoop in milk (280 ml),280,213,25.9,21.2,2.8,0.0,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-whey-protein-shake-water,Whey protein shake (water),Protein shake,Drinks,Indian,vegetarian,1 scoop in water (330 ml),330,108,17.4,8.7,0.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-egg-white-bhurji-4-whites,Egg white bhurji (4 whites),Egg white scramble,Egg dishes,Indian,eggetarian,1 serving (160 g),160,100,14.7,4.3,2.3,0.8,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-chicken-breast-curry,Chicken breast curry,Lean chicken curry,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,167,20.3,4.7,7.2,1.4,high_protein|diet_friendly
+fitme-in-chicken-breast-curry-low-oil,Chicken breast curry (low oil),Lean chicken curry,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,141,20.7,4.8,4.0,1.4,high_protein|low_fat|diet_friendly
+fitme-in-chicken-curry-home-style-low-oil,Chicken curry (home style) (low oil),Murgh curry,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,142,18.2,4.8,5.4,1.4,high_protein|diet_friendly
+fitme-in-chicken-korma-low-oil,Chicken korma (low oil),Murgh korma,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,138,17.0,5.1,5.4,1.3,high_protein|diet_friendly
+fitme-in-chicken-tikka-masala-low-oil,Chicken tikka masala (low oil),Chicken tikka gravy,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,138,19.5,5.1,4.2,1.3,high_protein|low_fat|diet_friendly
+fitme-in-fish-curry-home-style-low-oil,Fish curry (home style) (low oil),Machli curry,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,147,16.5,4.8,6.7,1.4,high_protein|diet_friendly
+fitme-in-kadai-chicken,Kadai chicken,Karahi chicken,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,152,15.9,5.1,7.5,1.6,high_protein|diet_friendly
+fitme-in-kadai-chicken-low-oil,Kadai chicken (low oil),Karahi chicken,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,129,16.2,5.2,4.8,1.6,high_protein|diet_friendly
+fitme-in-keema-matar,Keema matar,Mutton keema,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,174,18.6,9.1,6.9,3.1,high_protein|diet_friendly
+fitme-in-keema-matar-low-oil,Keema matar (low oil),Mutton keema,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,147,18.9,9.2,3.7,3.2,high_protein|low_fat|diet_friendly
+fitme-in-mutton-curry,Mutton curry,Gosht curry,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,167,19.8,5.0,7.3,1.5,high_protein|diet_friendly
+fitme-in-mutton-curry-low-oil,Mutton curry (low oil),Gosht curry,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,140,20.2,5.1,4.0,1.5,high_protein|low_fat|diet_friendly
+fitme-in-mutton-rogan-josh,Mutton rogan josh,Rogan josh,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,162,18.5,5.4,7.2,1.4,high_protein|diet_friendly
+fitme-in-mutton-rogan-josh-low-oil,Mutton rogan josh (low oil),Rogan josh,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,137,18.8,5.5,4.2,1.4,high_protein|low_fat|diet_friendly
+fitme-in-palak-chicken,Palak chicken,Saag chicken,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,142,15.0,5.2,7.1,2.1,high_protein|diet_friendly
+fitme-in-palak-chicken-low-oil,Palak chicken (low oil),Saag chicken,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,120,15.2,5.3,4.4,2.1,high_protein|low_fat|diet_friendly
+fitme-in-prawn-masala,Prawn masala,Jhinga masala,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,136,17.2,5.0,5.6,1.5,high_protein|diet_friendly
+fitme-in-prawn-masala-low-oil,Prawn masala (low oil),Jhinga masala,Non-veg curry,Indian,non_vegetarian,1 katori (150 g),150,108,17.6,5.1,2.3,1.5,high_protein|low_calorie|low_fat|diet_friendly
+fitme-in-chicken-seekh-kebab,Chicken seekh kebab,Seekh kebab,Non-veg dry,Indian,non_vegetarian,2 kebabs (100 g),100,184,24.0,2.5,8.2,1.3,high_protein|diet_friendly
+fitme-in-chicken-tikka-grilled-breast,Chicken tikka (grilled breast),Murgh tikka,Non-veg dry,Indian,non_vegetarian,6 pieces (150 g),150,247,39.2,3.4,7.6,1.3,high_protein|diet_friendly
+fitme-in-fish-tikka-grilled,Fish tikka (grilled),Machli tikka,Non-veg dry,Indian,non_vegetarian,6 pieces (150 g),150,256,31.2,3.1,12.5,1.3,high_protein|diet_friendly
+fitme-in-mutton-seekh-kebab,Mutton seekh kebab,Gosht seekh,Non-veg dry,Indian,non_vegetarian,2 kebabs (100 g),100,175,26.2,2.5,6.2,1.3,high_protein|diet_friendly
+fitme-in-tandoori-chicken-2-pieces,Tandoori chicken (2 pieces),Tandoori murgh,Non-veg dry,Indian,non_vegetarian,2 pieces (180 g cooked),180,305,40.2,3.6,13.7,1.8,high_protein|diet_friendly
+fitme-in-brown-rice,Brown rice,Brown chawal,Rice dishes,Indian,vegan,1 katori (150 g),150,184,3.8,38.1,1.6,1.8,low_fat|diet_friendly
+fitme-in-jeera-rice-with-quinoa,Jeera rice with quinoa,Quinoa pulao,Rice dishes,Indian,vegan,1 katori (150 g),150,193,6.8,30.6,5.1,4.4,diet_friendly
+fitme-in-vegetable-khichdi-low-oil,Vegetable khichdi (low oil),Masala khichdi light,Rice dishes,Indian,vegan,1 katori (200 g),200,140,5.4,25.8,1.8,4.0,low_calorie|low_fat|diet_friendly
+fitme-in-aloo-paratha,Aloo paratha,Aloo ka paratha,Roti & breads,Indian,vegan,1 paratha (120 g),120,292,8.0,47.5,9.4,7.2,high_fiber|diet_friendly
+fitme-in-bajra-roti,Bajra roti,Bajre ki roti,Roti & breads,Indian,vegan,1 roti (50 g),50,151,4.4,29.1,1.7,3.4,high_fiber|diet_friendly
+fitme-in-gobi-paratha,Gobi paratha,Gobhi paratha,Roti & breads,Indian,vegan,1 paratha (110 g),110,253,7.6,38.5,9.4,6.3,high_fiber|diet_friendly
+fitme-in-jowar-roti,Jowar roti,Jolada rotti / jowar bhakri,Roti & breads,Indian,vegan,1 roti (50 g),50,144,3.4,30.7,1.3,2.6,low_fat|diet_friendly
+fitme-in-jowar-bajra-bhakri,Jowar-bajra bhakri,Bajra-jowar bhakri,Roti & breads,Indian,vegan,1 bhakri (50 g),50,147,3.9,29.9,1.5,3.0,high_fiber|diet_friendly
+fitme-in-methi-thepla,Methi thepla,Thepla (fenugreek leaves approximated by spinach),Roti & breads,Indian,vegetarian,1 thepla (40 g),40,127,4.3,20.2,4.0,3.2,high_fiber|diet_friendly
+fitme-in-missi-roti,Missi roti,Besan roti,Roti & breads,Indian,vegetarian,1 roti (45 g),45,146,6.1,23.5,3.5,3.8,high_fiber|diet_friendly
+fitme-in-multigrain-roti,Multigrain roti,Mixed atta roti,Roti & breads,Indian,vegan,1 roti (35 g),35,103,3.8,20.6,1.0,2.8,high_fiber|low_fat|diet_friendly
+fitme-in-oats-roti,Oats roti,Oats chapati,Roti & breads,Indian,vegan,1 roti (35 g),35,98,4.0,18.7,1.2,2.9,high_fiber|diet_friendly
+fitme-in-paneer-paratha,Paneer paratha,Paneer paratha,Roti & breads,Indian,vegetarian,1 paratha (110 g),110,360,12.9,45.0,15.5,5.3,high_fiber|diet_friendly
+fitme-in-phulka-no-ghee,Phulka (no ghee),Roti / chapati,Roti & breads,Indian,vegan,1 roti (30 g),30,85,3.3,18.0,0.6,2.7,high_fiber|low_fat|diet_friendly
+fitme-in-plain-paratha,Plain paratha,Tawa paratha,Roti & breads,Indian,vegan,1 paratha (60 g),60,198,5.3,28.8,8.0,4.3,high_fiber|diet_friendly
+fitme-in-roti-with-ghee,Roti with ghee,Chapati with ghee,Roti & breads,Indian,vegetarian,1 roti (33 g),33,112,3.3,18.0,3.6,2.7,high_fiber|diet_friendly
+fitme-in-tandoori-roti,Tandoori roti,Tandoori roti,Roti & breads,Indian,vegan,1 roti (50 g),50,136,5.3,28.8,1.0,4.3,high_fiber|low_fat|diet_friendly
+fitme-in-aloo-gobi-low-oil,Aloo gobi (low oil),Aloo gobhi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,77,2.4,12.7,2.5,3.0,low_calorie|low_fat|diet_friendly
+fitme-in-aloo-matar-dry-low-oil,Aloo matar (dry) (low oil),Aloo mutter,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,108,3.7,18.1,2.8,4.4,low_calorie|low_fat|diet_friendly
+fitme-in-aloo-palak-low-oil,Aloo palak (low oil),Palak aloo,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,71,3.0,11.2,2.3,3.0,low_calorie|low_fat|diet_friendly
+fitme-in-aloo-sabzi-dry-low-oil,Aloo sabzi (dry) (low oil),Sukhi aloo,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,106,2.5,19.2,2.7,3.1,low_calorie|low_fat|diet_friendly
+fitme-in-baingan-bharta-low-oil,Baingan bharta (low oil),Bharta,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,53,1.4,8.3,2.3,3.9,low_calorie|low_fat|diet_friendly
+fitme-in-bhindi-masala-low-oil,Bhindi masala (low oil),Bhindi fry,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,66,2.4,10.0,2.8,4.1,low_calorie|low_fat|diet_friendly
+fitme-in-chukandar-sabzi-low-oil,Chukandar sabzi (low oil),Beetroot poriyal,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,88,2.1,12.2,4.1,4.0,low_calorie|diet_friendly
+fitme-in-corn-capsicum-sabzi-low-oil,Corn capsicum sabzi (low oil),Sweet corn sabzi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,95,2.8,16.0,3.5,2.9,low_calorie|diet_friendly
+fitme-in-gajar-matar-low-oil,Gajar matar (low oil),Carrot peas sabzi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,86,3.0,13.7,2.7,4.7,low_calorie|low_fat|diet_friendly
+fitme-in-gobi-sabzi-low-oil,Gobi sabzi (low oil),Phool gobhi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,59,2.3,7.7,2.8,3.0,low_calorie|low_fat|diet_friendly
+fitme-in-kaddu-sabzi-low-oil,Kaddu sabzi (low oil),Pumpkin sabzi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,66,1.5,10.8,2.6,1.6,low_calorie|low_fat|diet_friendly
+fitme-in-lauki-sabzi-low-oil,Lauki sabzi (low oil),Ghiya / dudhi sabzi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,43,1.1,5.9,2.1,1.4,low_calorie|low_fat|diet_friendly
+fitme-in-mixed-veg-sabzi-low-oil,Mixed veg sabzi (low oil),Mix veg,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,77,2.7,12.5,2.5,3.8,low_calorie|low_fat|diet_friendly
+fitme-in-palak-sabzi-low-oil,Palak sabzi (low oil),Spinach stir-fry,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,51,3.3,6.1,2.5,3.1,low_calorie|low_fat|diet_friendly
+fitme-in-patta-gobhi-sabzi-low-oil,Patta gobhi sabzi (low oil),Cabbage sabzi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,59,1.8,8.5,2.7,3.4,low_calorie|low_fat|diet_friendly
+fitme-in-sarson-ka-saag-low-oil,Sarson ka saag (low oil),Saag,Sabzi (dry vegetable),Indian,vegetarian,1 katori (100 g),100,66,3.5,9.5,2.5,4.0,low_calorie|low_fat|diet_friendly
+fitme-in-shakarkandi-chaat-sabzi-low-oil,Shakarkandi chaat sabzi (low oil),Sweet potato sabzi,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,115,2.0,21.6,2.6,3.9,low_calorie|low_fat|diet_friendly
+fitme-in-soya-chunks-bhurji,Soya chunks bhurji,Soya keema,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,171,15.2,14.7,6.9,6.8,high_protein|high_fiber|diet_friendly
+fitme-in-soya-chunks-bhurji-low-oil,Soya chunks bhurji (low oil),Soya keema,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,141,15.7,15.2,3.0,7.0,high_protein|high_fiber|low_fat|diet_friendly
+fitme-in-tori-sabzi-low-oil,Tori sabzi (low oil),Turai / ridge gourd,Sabzi (dry vegetable),Indian,vegan,1 katori (100 g),100,48,1.6,6.8,2.3,2.0,low_calorie|low_fat|diet_friendly
+fitme-in-cucumber-raita,Cucumber raita,Kheera raita,Sides & salads,Indian,vegetarian,1 katori (150 g),150,76,4.2,7.0,3.8,0.3,low_calorie|low_fat|diet_friendly
+fitme-in-cucumber-raita-low-fat-curd,Cucumber raita (low-fat curd),Light raita,Sides & salads,Indian,vegetarian,1 katori (150 g),150,79,6.2,9.6,2.0,0.3,low_calorie|low_fat|diet_friendly
+fitme-in-green-salad,Green salad,Salad,Sides & salads,Indian,vegan,1 plate (150 g),150,32,1.1,7.4,0.2,1.9,low_calorie|low_fat|diet_friendly
+fitme-in-hung-curd-greek-style,Hung curd (Greek-style),Chakka,Sides & salads,Indian,vegetarian,1 katori (100 g),100,139,11.6,15.5,3.4,0.0,high_protein|diet_friendly
+fitme-in-kachumber-salad,Kachumber salad,Indian salad,Sides & salads,Indian,vegan,1 bowl (150 g),150,33,1.3,7.7,0.2,1.6,low_calorie|low_fat|diet_friendly
+fitme-in-low-fat-curd-dahi,Low-fat curd (dahi),Toned-milk dahi,Sides & salads,Indian,vegetarian,1 katori (150 g),150,94,7.9,10.6,2.3,0.0,low_calorie|low_fat|diet_friendly
+fitme-in-chana-chaat,Chana chaat,Kala chana chaat,Snacks,Indian,vegan,1 bowl (150 g),150,202,10.6,34.5,3.1,6.7,high_fiber|low_fat|diet_friendly
+fitme-in-corn-chaat,Corn chaat,Sweet corn chaat,Snacks,Indian,vegetarian,1 cup (120 g),120,115,3.5,20.3,3.9,2.2,low_calorie|diet_friendly
+fitme-in-dates-and-nuts-2-dates-5-almonds,Dates and nuts (2 dates + 5 almonds),Khajur badam,Snacks,Indian,vegan,1 serving (30 g),30,101,1.7,19.3,3.0,2.4,high_fiber|diet_friendly
+fitme-in-dhokla-style-steamed-besan-no-sugar,Dhokla-style steamed besan (no sugar),Plain besan dhokla,Snacks,Indian,vegetarian,2 pieces (80 g),80,140,7.2,18.1,4.2,3.2,diet_friendly
+fitme-in-fruit-chaat,Fruit chaat,Fruit chaat,Snacks,Indian,vegan,1 bowl (150 g),150,94,1.6,23.0,0.7,4.5,low_calorie|low_fat|diet_friendly
+fitme-in-roasted-makhana,Roasted makhana,Phool makhana,Snacks,Indian,vegetarian,1 bowl (25 g),25,98,3.7,15.5,2.5,0.0,diet_friendly
+fitme-in-sprouts-chaat,Sprouts chaat,Moong sprouts chaat,Snacks,Indian,vegan,1 bowl (150 g),150,44,3.5,9.3,0.3,2.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709632,Channa Saag,,Vegetable dishes,Indian,vegan,1 cup,245.0,218,10.0,21.5,10.6,7.3,high_fiber|diet_friendly
+usda-fndds-2707713,"Bread, chappatti or roti",,Yeast breads,Indian,vegan,"1 small chappatti or roti (6"")",27.0,81,2.1,12.5,2.5,2.6,high_fiber|diet_friendly
+usda-fndds-2707715,"Bread, paratha",,Yeast breads,Indian,vegan,1 paratha,70.0,228,4.5,31.7,9.2,6.7,high_fiber|diet_friendly
+usda-fndds-2709319,Apple cider,,Apple juice,Global,vegan,1 fl oz (no ice),31.0,14,0.0,3.5,0.0,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709320,"Apple juice, 100%",,Apple juice,Global,vegan,1 bottle (10 fl oz),310.0,149,0.3,35.2,0.8,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709321,"Apple juice, 100%, with calcium added",,Apple juice,Global,vegan,1 fl oz (no ice),31.0,15,0.0,3.6,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709215,"Apple, raw",,Apples,Global,vegan,1 small,165.0,101,0.3,24.4,0.2,3.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709033,Beans and brown rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,275,10.9,41.3,7.7,6.6,high_fiber|diet_friendly
+usda-fndds-2708990,Beans and white rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,279,11.1,42.8,7.2,6.3,high_fiber|diet_friendly
+usda-fndds-2707395,Black bean salad,,"Bean, pea, legume dishes",Global,vegan,1 cup,231.0,217,7.1,29.1,8.9,7.9,high_fiber|diet_friendly
+usda-fndds-2709035,Black beans and brown rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,269,10.0,40.0,7.9,9.0,high_fiber|diet_friendly
+usda-fndds-2708994,Black beans and white rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,272,10.2,41.5,7.3,8.5,high_fiber|diet_friendly
+usda-fndds-2708993,Kidney beans and white rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,269,10.0,40.6,7.3,7.3,high_fiber|diet_friendly
+usda-fndds-2709036,Pinto beans and brown rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,279,10.2,42.4,8.0,9.2,high_fiber|diet_friendly
+usda-fndds-2708995,Pinto beans and white rice,,"Bean, pea, legume dishes",Global,vegan,1 cup,170.0,284,10.4,43.9,7.4,8.8,high_fiber|diet_friendly
+usda-fndds-2707390,Baked beans,,"Beans, peas, legumes",Global,non_vegetarian,1 cup,260.0,273,11.8,56.1,2.3,11.4,high_fiber|low_fat|diet_friendly
+usda-fndds-2707405,Beans and franks,,"Beans, peas, legumes",Global,non_vegetarian,1 cup,260.0,359,17.5,45.0,13.6,8.6,high_fiber|diet_friendly
+usda-fndds-2707347,"Beans, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,350,15.4,44.0,13.1,15.4,high_fiber|diet_friendly
+usda-fndds-2707366,Black beans with meat,,"Beans, peas, legumes",Global,non_vegetarian,100 g,100.0,177,10.6,19.1,6.8,7.0,high_fiber|diet_friendly
+usda-fndds-2707359,"Black beans, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,335,15.2,40.8,13.0,15.0,high_fiber|diet_friendly
+usda-fndds-2707412,"Blackeyed peas, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,307,13.3,35.7,12.9,11.1,high_fiber|diet_friendly
+usda-fndds-2707414,"Chickpeas, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,390,15.2,47.1,16.5,13.1,high_fiber|diet_friendly
+usda-fndds-2707367,"Fava beans, cooked",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,298,13.1,33.8,12.7,9.2,high_fiber|diet_friendly
+usda-fndds-2707386,Kidney beans with meat,,"Beans, peas, legumes",Global,non_vegetarian,1 cup,260.0,450,27.2,47.7,17.6,15.3,high_fiber|diet_friendly
+usda-fndds-2707379,"Kidney beans, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,327,14.9,39.2,12.9,12.8,high_fiber|diet_friendly
+usda-fndds-2707423,"Lentils, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,307,15.5,34.6,12.7,13.5,high_fiber|diet_friendly
+usda-fndds-2707368,"Lima beans, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,305,13.4,35.9,12.7,12.0,high_fiber|diet_friendly
+usda-fndds-2707369,"Lima beans, from dried",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,305,13.4,35.9,12.7,12.0,high_fiber|diet_friendly
+usda-fndds-2707389,"Mung beans, cooked",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,289,12.1,32.9,12.7,13.1,high_fiber|diet_friendly
+usda-fndds-2707370,"Pink beans, cooked",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,364,15.6,48.0,12.9,9.1,high_fiber|diet_friendly
+usda-fndds-2707378,Pinto beans with meat,,"Beans, peas, legumes",Global,non_vegetarian,100 g,100.0,186,10.7,21.1,6.9,7.2,high_fiber|diet_friendly
+usda-fndds-2707371,"Pinto beans, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,353,15.5,45.1,13.2,15.5,high_fiber|diet_friendly
+usda-fndds-2707406,Pork and beans,,"Beans, peas, legumes",Global,non_vegetarian,1 cup,260.0,273,11.8,56.1,2.3,11.4,high_fiber|low_fat|diet_friendly
+usda-fndds-2707353,"White beans, NFS",,"Beans, peas, legumes",Global,vegan,1 cup,185.0,348,16.7,43.1,12.6,10.9,high_fiber|diet_friendly
+usda-sr-169429,"Beef, grass-fed, strip steaks, lean only, raw",,Beef Products,Global,non_vegetarian,4 oz,113.0,132,26.1,0.0,3.0,0.0,high_protein|low_fat|diet_friendly
+usda-sr-173110,"Beef, ground, 93% lean meat / 7% fat, raw",,Beef Products,Global,non_vegetarian,4 oz,113.0,172,23.6,0.0,7.9,0.0,high_protein|diet_friendly
+usda-sr-171790,"Beef, ground, 95% lean meat / 5% fat, raw",,Beef Products,Global,non_vegetarian,4 oz,113.0,155,24.2,0.0,5.7,0.0,high_protein|diet_friendly
+usda-sr-173111,"Beef, ground, 97% lean meat / 3% fat, raw",,Beef Products,Global,non_vegetarian,4 oz,113.0,137,24.8,0.0,3.4,0.0,high_protein|low_fat|diet_friendly
+usda-fndds-2705909,"Veal, chop",,"Beef, excludes ground",Global,non_vegetarian,"1 chop, any size",90.0,142,26.6,0.1,4.0,0.0,high_protein|diet_friendly
+usda-sr-167723,"Alcoholic beverage, rice (sake)",,Beverages,Global,vegan,1 fl oz,29.1,39,0.1,1.5,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-174115,"Beverages, Carob-flavor beverage mix, powder, prepared with whole milk",,Beverages,Global,vegetarian,1 cup (8 fl oz),256.0,192,8.1,22.2,8.0,1.0,low_calorie|diet_friendly
+usda-sr-169044,"Beverages, Orange juice drink",,Beverages,Global,vegan,1 cup,249.0,134,0.5,33.4,0.0,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709271,"Berries, NFS",,Blueberries and other berries,Global,vegan,1 cup,150.0,66,1.0,14.9,0.4,3.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709275,"Blueberries, raw",,Blueberries and other berries,Global,vegan,1 cup,150.0,96,1.1,21.9,0.5,3.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709279,"Cranberries, raw",,Blueberries and other berries,Global,vegan,1 cup,100.0,46,0.5,12.0,0.1,3.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2710708,"Water, bottled, plain",,Bottled water,Global,vegan,1 cup,240.0,0,0.0,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-173896,"Cereals ready-to-eat, wheat germ, toasted, plain",,Breakfast Cereals,Global,vegan,1 oz,28.4,108,8.2,14.1,3.0,4.3,high_protein|high_fiber|diet_friendly
+usda-sr-171655,"Cereals, corn grits, white, regular and quick, enriched, cooked with water",,Breakfast Cereals,Global,vegan,1 cup,257.0,182,4.4,37.9,1.2,2.1,low_calorie|low_fat|diet_friendly
+usda-sr-171672,"Cereals, corn grits, yellow, regular and quick, enriched, cooked with water",,Breakfast Cereals,Global,vegan,1 cup,233.0,151,2.9,32.3,0.9,1.6,low_calorie|low_fat|diet_friendly
+usda-sr-171661,"Cereals, oats, instant, fortified, plain, dry",,Breakfast Cereals,Global,vegan,1 packet,28.0,101,3.3,19.5,1.9,2.8,high_fiber|diet_friendly
+usda-sr-171662,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",,Breakfast Cereals,Global,vegan,"1 cup, cooked",234.0,159,5.5,27.3,3.2,4.0,low_calorie|low_fat|diet_friendly
+usda-sr-173905,"Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving)",,Breakfast Cereals,Global,vegan,1 cup,234.0,166,5.9,28.1,3.6,4.0,low_calorie|low_fat|diet_friendly
+usda-sr-171668,"Cereals, whole wheat hot natural cereal, cooked with water",,Breakfast Cereals,Global,vegan,1 cup,242.0,150,4.8,33.2,1.0,3.9,low_calorie|low_fat|diet_friendly
+usda-sr-171667,"Cereals, whole wheat hot natural cereal, dry",,Breakfast Cereals,Global,vegan,1 cup,94.0,321,10.5,70.7,1.9,8.9,high_fiber|low_fat|diet_friendly
+usda-fndds-2709572,"Broccoli raab, raw",,Broccoli,Global,vegan,1 cup,40.0,9,1.3,1.1,0.2,1.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709657,"Broccoli, chinese, raw",,Broccoli,Global,vegan,1 cup,36.0,9,0.4,1.7,0.3,0.9,low_calorie|low_fat|diet_friendly
+usda-fndds-2709643,"Broccoli, raw",,Broccoli,Global,vegan,1 cup,90.0,35,2.3,5.6,0.3,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2707019,"Turkey or chicken burger, on wheat bun",,Burgers,Global,non_vegetarian,1 sandwich,145.0,329,30.0,27.2,11.2,3.2,high_protein|diet_friendly
+usda-fndds-2707018,"Turkey or chicken burger, on white bun",,Burgers,Global,non_vegetarian,1 sandwich,145.0,339,29.0,30.0,11.2,1.0,high_protein|diet_friendly
+usda-fndds-2708509,Taco or tostada salad with chicken,,Burritos and tacos,Global,non_vegetarian,1 small taco salad,240.0,401,18.8,39.1,19.2,6.7,high_fiber|diet_friendly
+usda-fndds-2709774,"Cabbage, Chinese, raw",,Cabbage,Global,vegan,1 cup,90.0,12,1.4,2.0,0.2,0.9,low_calorie|low_fat|diet_friendly
+usda-fndds-2709773,"Cabbage, green, raw",,Cabbage,Global,vegan,1 cup,90.0,28,0.9,5.7,0.2,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709893,"Cabbage, red, cooked",,Cabbage,Global,vegan,1 cup,155.0,90,2.0,10.6,4.4,3.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709775,"Cabbage, red, raw",,Cabbage,Global,vegan,1 cup,90.0,31,1.1,6.1,0.2,1.9,low_calorie|low_fat|diet_friendly
+usda-fndds-2709668,"Carrots, fresh, cooked with butter or margarine",,Carrots,Global,vegetarian,1 cup,160.0,110,1.5,16.6,4.2,5.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709667,"Carrots, fresh, cooked with oil",,Carrots,Global,vegan,1 cup,160.0,122,1.5,16.6,5.4,5.0,low_calorie|diet_friendly
+usda-fndds-2709664,"Carrots, fresh, cooked, no added fat",,Carrots,Global,vegan,1 cup,155.0,78,1.5,16.5,0.6,5.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709660,"Carrots, raw",,Carrots,Global,vegan,1 cup,120.0,53,1.0,11.6,0.3,3.5,low_calorie|low_fat|diet_friendly
+usda-sr-170683,"Amaranth grain, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,246.0,251,9.3,46.0,3.9,5.2,high_fiber|low_fat|diet_friendly
+usda-sr-170682,"Amaranth grain, uncooked",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,371,13.6,65.2,7.0,6.7,high_fiber|diet_friendly
+usda-sr-170285,"Barley, pearled, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,157.0,193,3.5,44.3,0.7,6.0,high_fiber|low_fat|diet_friendly
+usda-sr-170284,"Barley, pearled, raw",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,352,9.9,77.7,1.2,15.6,high_fiber|low_fat|diet_friendly
+usda-sr-170687,"Buckwheat flour, whole-groat",,Cereal Grains and Pasta,Global,vegan,1 cup,120.0,402,15.1,84.7,3.7,12.0,high_fiber|diet_friendly
+usda-sr-170685,"Buckwheat groats, roasted, dry",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,346,11.7,75.0,2.7,10.3,high_fiber|low_fat|diet_friendly
+usda-sr-170287,"Bulgur, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,182.0,151,5.6,33.8,0.4,8.2,high_fiber|low_fat|diet_friendly
+usda-sr-168921,"Corn flour, whole-grain, blue (harina de maiz morado)",,Cereal Grains and Pasta,Global,vegan,1 tbsp,6.9,25,0.6,5.1,0.4,0.6,high_fiber|diet_friendly
+usda-sr-169748,"Corn flour, whole-grain, white",,Cereal Grains and Pasta,Global,vegan,1 cup,117.0,422,8.1,89.9,4.5,8.5,high_fiber|diet_friendly
+usda-sr-170290,"Corn flour, whole-grain, yellow",,Cereal Grains and Pasta,Global,vegan,1 cup,117.0,422,8.1,89.9,4.5,8.5,high_fiber|diet_friendly
+usda-sr-169750,"Cornmeal, whole-grain, white",,Cereal Grains and Pasta,Global,vegan,1 cup,122.0,442,9.9,93.8,4.4,8.9,high_fiber|diet_friendly
+usda-sr-169697,"Cornmeal, whole-grain, yellow",,Cereal Grains and Pasta,Global,vegan,1 cup,122.0,442,9.9,93.8,4.4,8.9,high_fiber|diet_friendly
+usda-sr-168904,"Macaroni, vegetable, enriched, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup spiral shaped,134.0,172,6.1,35.7,0.1,5.8,high_fiber|low_fat|diet_friendly
+usda-sr-169702,"Millet, raw",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,378,11.0,72.8,4.2,8.5,high_fiber|diet_friendly
+usda-sr-168907,"Noodles, japanese, soba, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,114.0,113,5.8,24.4,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168873,"Oat bran, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,219.0,88,7.0,25.1,1.9,5.7,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168872,"Oat bran, raw",,Cereal Grains and Pasta,Global,vegan,1 cup,94.0,231,16.3,62.2,6.6,14.5,high_protein|high_fiber|diet_friendly
+usda-sr-169730,"Pasta, fresh-refrigerated, spinach, cooked",,Cereal Grains and Pasta,Global,vegan,2 oz,57.0,74,2.9,14.3,0.5,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168900,"Pasta, gluten-free, corn, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,140.0,176,3.7,39.1,1.0,6.7,high_fiber|low_fat|diet_friendly
+usda-sr-168901,"Pasta, homemade, made with egg, cooked",,Cereal Grains and Pasta,Global,eggetarian,2 oz,57.0,74,3.0,13.4,1.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168902,"Pasta, homemade, made without egg, cooked",,Cereal Grains and Pasta,Global,eggetarian,2 oz,57.0,71,2.5,14.3,0.6,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168917,"Quinoa, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,185.0,222,8.1,39.4,3.6,5.2,high_fiber|low_fat|diet_friendly
+usda-sr-168874,"Quinoa, uncooked",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,368,14.1,64.2,6.1,7.0,high_fiber|diet_friendly
+usda-sr-168943,"Sorghum flour, whole-grain",,Cereal Grains and Pasta,Global,vegan,1 cup,121.0,434,10.2,92.7,4.0,8.0,high_fiber|diet_friendly
+usda-sr-169746,"Spelt, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,194.0,246,10.7,51.3,1.6,7.6,high_fiber|low_fat|diet_friendly
+usda-sr-169745,"Spelt, uncooked",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,338,14.6,70.2,2.4,10.7,high_fiber|low_fat|diet_friendly
+usda-sr-168918,"Teff, cooked",,Cereal Grains and Pasta,Global,vegan,1 cup,252.0,255,9.8,50.0,1.6,7.1,high_fiber|low_fat|diet_friendly
+usda-sr-169747,"Teff, uncooked",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,367,13.3,73.1,2.4,8.0,high_fiber|low_fat|diet_friendly
+usda-sr-168888,"Triticale flour, whole-grain",,Cereal Grains and Pasta,Global,vegan,1 cup,130.0,439,17.1,95.1,2.4,19.0,high_fiber|low_fat|diet_friendly
+usda-sr-168944,"Wheat flour, whole-grain, soft wheat",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,332,9.6,74.5,1.9,13.1,high_fiber|low_fat|diet_friendly
+usda-sr-169726,"Wild rice, raw",,Cereal Grains and Pasta,Global,vegan,100 g,100.0,357,14.7,74.9,1.1,6.2,high_fiber|low_fat|diet_friendly
+usda-fndds-2705965,"Chicken breast, stewed, skin eaten",,"Chicken, whole pieces",Global,non_vegetarian,"1 cup, cooked, diced",135.0,244,33.3,0.0,11.2,0.0,high_protein|diet_friendly
+usda-fndds-2709164,"Clementine, raw",,Citrus fruits,Global,vegan,1 fruit,85.0,45,0.7,11.3,0.3,1.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709167,"Kumquat, raw",,Citrus fruits,Global,vegan,1 cup,185.0,131,3.5,29.4,1.6,12.0,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709168,"Lemon, raw",,Citrus fruits,Global,vegan,1 fruit,65.0,19,0.7,6.1,0.2,1.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709170,"Lime, raw",,Citrus fruits,Global,vegan,1 fruit,65.0,20,0.5,6.9,0.1,1.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709171,"Orange, raw",,Citrus fruits,Global,vegan,1 fruit,154.0,77,1.4,18.1,0.2,3.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709175,"Tangerine, raw",,Citrus fruits,Global,vegan,1 fruit,109.0,58,0.9,14.5,0.3,2.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709176,"Grapefruit juice, 100%, freshly squeezed",,Citrus juice,Global,vegan,1 fl oz (no ice),31.0,12,0.2,2.9,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709186,"Orange juice, 100%, NFS",,Citrus juice,Global,vegan,1 fl oz (no ice),31.0,15,0.2,3.2,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709187,"Orange juice, 100%, freshly squeezed",,Citrus juice,Global,vegan,1 fl oz (no ice),31.0,15,0.3,3.1,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709193,"Tangerine juice, 100%",,Citrus juice,Global,vegan,1 fl oz (no ice),31.0,13,0.2,3.1,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2710487,Chicory beverage,,Coffee,Global,vegan,1 cup (8 fl oz),240.0,17,0.5,3.4,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710486,Coffee substitute,,Coffee,Global,vegan,1 cup (8 fl oz),240.0,14,0.2,3.1,0.1,1.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710410,"Coffee, Cafe Mocha",,Coffee,Global,vegetarian,1 cup (8 fl oz),248.0,159,6.3,25.3,3.6,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710472,"Coffee, Cappuccino",,Coffee,Global,vegetarian,1 cup (8 fl oz),240.0,65,4.1,6.6,2.4,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710431,"Coffee, Iced Latte",,Coffee,Global,vegetarian,1 cup (8 fl oz),240.0,65,4.2,6.7,2.4,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710386,"Coffee, Latte",,Coffee,Global,vegetarian,1 cup (8 fl oz),240.0,103,6.7,10.4,3.9,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710377,"Coffee, Turkish",,Coffee,Global,vegan,1 cup (8 fl oz),248.0,67,0.3,16.0,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710375,"Coffee, brewed",,Coffee,Global,vegan,1 cup (8 fl oz),240.0,2,0.3,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710378,"Coffee, espresso",,Coffee,Global,vegan,1 fl oz,30.0,3,0.0,0.5,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710382,"Coffee, macchiato",,Coffee,Global,vegetarian,1 fl oz,30.0,7,0.4,0.8,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710428,"Iced Coffee, brewed",,Coffee,Global,vegan,1 cup (8 fl oz),240.0,2,0.2,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2705747,"Cheese, cottage, NFS",,Cottage/ricotta cheese,Global,vegetarian,1 cup,210.0,172,23.1,9.1,4.8,0.0,high_protein|low_fat|diet_friendly
+usda-fndds-2705753,"Cheese, cottage, dry curd",,Cottage/ricotta cheese,Global,vegetarian,"1 cup, dry type",145.0,104,15.0,9.7,0.4,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2705756,"Cheese, cottage, low fat",,Cottage/ricotta cheese,Global,vegetarian,1 cup,226.0,185,24.9,9.7,5.2,0.0,high_protein|low_fat|diet_friendly
+usda-fndds-2705751,"Cheese, cottage, with fruit",,Cottage/ricotta cheese,Global,vegetarian,1 cup,226.0,167,21.3,11.2,4.4,0.5,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2707702,Melba toast,,"Crackers, excludes saltines",Global,vegan,"1 cup, NFS",30.0,117,3.6,23.0,1.0,1.9,high_fiber|diet_friendly
+usda-sr-172183,"Egg, white, raw, fresh",,Dairy and Egg Products,Global,eggetarian,1 large,33.0,17,3.6,0.2,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-172203,"Egg, white, raw, frozen, pasteurized",,Dairy and Egg Products,Global,eggetarian,1 oz,28.0,13,2.9,0.3,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-171274,"Milk, buttermilk, dried",,Dairy and Egg Products,Global,vegetarian,0.25 cup,30.0,116,10.3,14.7,1.7,0.0,high_protein|diet_friendly
+usda-sr-170905,"Yogurt, Greek, fruit, whole milk",,Dairy and Egg Products,Global,vegetarian,100 g,100.0,106,7.3,12.3,3.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-170903,"Yogurt, Greek, plain, lowfat",,Dairy and Egg Products,Global,vegetarian,1 container (7 oz),200.0,146,19.9,7.9,3.8,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-170886,"Yogurt, plain, low fat",,Dairy and Egg Products,Global,vegetarian,1 container (6 oz),170.0,107,8.9,12.0,2.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-170887,"Yogurt, plain, skim milk",,Dairy and Egg Products,Global,vegetarian,1 container (6 oz),170.0,95,9.7,13.1,0.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2709196,"Apple, dried",,Dried fruits,Global,vegan,1 cup,90.0,219,0.8,59.3,0.3,7.8,high_fiber|low_fat|diet_friendly
+usda-fndds-2709203,Date,,Dried fruits,Global,vegan,100 g,100.0,282,2.5,75.0,0.4,8.0,high_fiber|low_fat|diet_friendly
+usda-fndds-2709204,"Fig, dried",,Dried fruits,Global,vegan,1 cup,160.0,443,5.3,102.2,1.5,15.7,high_fiber|low_fat|diet_friendly
+usda-fndds-2709207,"Peach, dried",,Dried fruits,Global,vegan,1 cup,160.0,382,5.8,98.1,1.2,13.1,high_fiber|low_fat|diet_friendly
+usda-fndds-2709208,"Pear, dried",,Dried fruits,Global,vegan,1 cup,160.0,419,3.0,111.5,1.0,12.0,high_fiber|low_fat|diet_friendly
+usda-fndds-2709211,"Prune, dried",,Dried fruits,Global,vegan,1 cup,160.0,384,3.5,102.2,0.6,11.4,high_fiber|low_fat|diet_friendly
+usda-fndds-2708965,Sushi roll tuna,,"Egg rolls, dumplings, sushi",Global,non_vegetarian,1 piece,30.0,29,2.2,4.6,0.1,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2708962,"Sushi roll, eel",,"Egg rolls, dumplings, sushi",Global,non_vegetarian,1 piece,30.0,35,1.8,4.6,0.9,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2708963,"Sushi roll, salmon",,"Egg rolls, dumplings, sushi",Global,non_vegetarian,1 piece,30.0,31,2.1,4.6,0.4,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2708959,"Sushi, NFS",,"Egg rolls, dumplings, sushi",Global,vegan,1 piece,30.0,28,0.9,5.5,0.2,0.3,low_calorie|low_fat|diet_friendly
+usda-sr-174204,"Crustaceans, crab, blue, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,74,15.4,0.0,0.9,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175180,"Crustaceans, shrimp, cooked",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,84,20.4,0.2,0.2,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175179,"Crustaceans, shrimp, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,72,17.1,0.0,0.4,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-174182,"Fish, anchovy, european, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,111,17.3,0.0,4.1,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-171948,"Fish, bass, striped, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,82,15.1,0.0,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-171949,"Fish, bluefish, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,150.0,186,30.1,0.0,6.4,0.0,high_protein|diet_friendly
+usda-sr-171950,"Fish, burbot, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,116.0,104,22.4,0.0,0.9,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-174185,"Fish, carp, cooked, dry heat",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,138,19.4,0.0,6.1,0.0,high_protein|diet_friendly
+usda-sr-171952,"Fish, carp, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,108,15.2,0.0,4.8,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-171953,"Fish, cisco, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,79.0,77,15.0,0.0,1.5,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-171955,"Fish, cod, Atlantic, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,70,15.1,0.0,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175178,"Fish, cod, Pacific, cooked",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,71,17.4,0.0,0.2,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-174192,"Fish, croaker, Atlantic, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,79.0,82,14.0,0.0,2.5,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-171991,"Fish, cusk, cooked, dry heat",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,95.0,106,23.1,0.0,0.8,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-171958,"Fish, cusk, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,122.0,106,23.2,0.0,0.8,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-171960,"Fish, drum, freshwater, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,101,14.9,0.0,4.2,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-174196,"Fish, flatfish (flounder and sole species), raw",,Finfish and Shellfish Products,Global,non_vegetarian,"1 oz, boneless",28.4,20,3.5,0.0,0.5,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-171964,"Fish, haddock, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,63,13.9,0.0,0.4,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173670,"Fish, ling, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,74,16.1,0.0,0.5,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173671,"Fish, lingcod, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,72,15.0,0.0,0.9,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175122,"Fish, mackerel, king, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,89,17.2,0.0,1.7,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173673,"Fish, mackerel, spanish, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,118,16.4,0.0,5.4,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-171959,"Fish, mahimahi, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,72,15.7,0.0,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173675,"Fish, milkfish, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,126,17.5,0.0,5.7,0.0,high_protein|diet_friendly
+usda-sr-173676,"Fish, monkfish, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,65,12.3,0.0,1.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175123,"Fish, mullet, striped, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 oz,28.4,33,5.5,0.0,1.1,0.0,low_calorie|diet_friendly
+usda-sr-173680,"Fish, pike, northern, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,75,16.4,0.0,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175128,"Fish, pike, walleye, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,79,16.3,0.0,1.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173725,"Fish, pollock, Alaska, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,65,14.6,0.0,0.7,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173677,"Fish, pout, ocean, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,67,14.1,0.0,0.8,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175133,"Fish, roughy, orange, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,65,13.9,0.0,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173689,"Fish, salmon, chum, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,102,17.1,0.0,3.2,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-175138,"Fish, salmon, pink, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,108,17.4,0.0,3.7,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-173691,"Fish, salmon, sockeye, raw",,Finfish and Shellfish Products,Global,non_vegetarian,"1 oz, boneless",28.4,37,6.3,0.0,1.3,0.0,low_calorie|diet_friendly
+usda-sr-175141,"Fish, scup, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,89,16.0,0.0,2.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175144,"Fish, sheepshead, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,92,17.2,0.0,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-175146,"Fish, smelt, rainbow, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,82,15.0,0.0,2.1,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173700,"Fish, spot, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,64.0,79,11.8,0.0,3.1,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-175150,"Fish, sucker, white, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,78,14.2,0.0,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173703,"Fish, swordfish, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,122,16.7,0.0,5.7,0.0,high_protein|diet_friendly
+usda-sr-175176,"Fish, tilapia, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 fillet,116.0,111,23.3,0.0,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173705,"Fish, tilefish, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,82,14.9,0.0,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-173710,"Fish, turbot, european, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,81,13.6,0.0,2.5,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-168148,"Frog legs, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 leg,45.0,33,7.4,0.0,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-174216,"Mollusks, mussel, blue, raw",,Finfish and Shellfish Products,Global,non_vegetarian,1 cup,150.0,129,17.9,5.5,3.4,0.0,high_protein|low_fat|diet_friendly
+usda-sr-167744,"Mollusks, snail, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,76,13.7,1.7,1.2,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-167745,"Turtle, green, raw",,Finfish and Shellfish Products,Global,non_vegetarian,3 oz,85.0,76,16.8,0.0,0.4,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2706294,"Fish, bass, NFS",,Fish,Global,non_vegetarian,1 small/regular fillet,90.0,145,20.6,0.0,6.3,0.0,high_protein|diet_friendly
+usda-fndds-2706246,"Fish, croaker",,Fish,Global,non_vegetarian,"1 fillet, any size",90.0,170,17.9,7.0,7.4,0.3,high_protein|diet_friendly
+usda-fndds-2706260,"Fish, halibut",,Fish,Global,non_vegetarian,"1 fillet, any size",140.0,245,29.0,10.9,8.7,0.4,high_protein|diet_friendly
+usda-fndds-2706269,"Fish, mullet",,Fish,Global,non_vegetarian,"1 fillet, any size",140.0,283,30.2,10.9,12.3,0.4,high_protein|diet_friendly
+usda-fndds-2706276,"Fish, pike",,Fish,Global,non_vegetarian,"1 fillet, any size",140.0,241,30.1,10.9,7.8,0.4,high_protein|diet_friendly
+usda-fndds-2706223,"Fish, raw",,Fish,Global,non_vegetarian,1 cup,135.0,127,23.2,0.0,3.2,0.0,high_protein|low_fat|diet_friendly
+usda-fndds-2706300,"Fish, shark",,Fish,Global,non_vegetarian,"1 fillet, any size",140.0,302,32.6,10.9,13.4,0.4,high_protein|diet_friendly
+usda-fndds-2706283,"Fish, snapper",,Fish,Global,non_vegetarian,"1 fillet, any size",90.0,166,20.5,7.0,5.6,0.3,high_protein|diet_friendly
+usda-fndds-2705500,"Strawberry milk, reduced sugar",,"Flavored milk, lowfat",Global,vegetarian,1 cup,248.0,146,8.1,16.7,5.2,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2705501,"Milk, malted",,"Flavored milk, reduced fat",Global,vegetarian,1 cup,256.0,169,8.2,22.1,5.2,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2705495,"Strawberry milk, NFS",,"Flavored milk, reduced fat",Global,vegetarian,1 cup,248.0,161,7.9,21.2,5.1,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710710,"Water beverage, fruit flavored",,Flavored or carbonated water,Global,vegan,1 cup,240.0,43,0.0,10.8,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710538,"Water, tonic",,Flavored or carbonated water,Global,vegan,1 can (12 fl oz),360.0,122,0.0,31.7,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2706607,Beef chow mein or chop suey with noodles,,Fried rice and lo/chow mein,Global,non_vegetarian,1 cup,220.0,284,23.7,24.6,10.8,3.3,high_protein|diet_friendly
+usda-fndds-2708796,Chow fun noodles with meat and vegetables,,Fried rice and lo/chow mein,Global,non_vegetarian,1 cup,152.0,155,10.8,17.5,4.2,1.4,high_protein|low_fat|diet_friendly
+usda-fndds-2706648,Pork chow mein or chop suey with noodles,,Fried rice and lo/chow mein,Global,non_vegetarian,1 cup,220.0,315,22.9,24.6,14.0,3.3,high_protein|diet_friendly
+usda-fndds-2709715,Sweet potato tots,,Fried vegetables,Global,vegan,1 cup,130.0,248,2.9,48.5,12.2,7.8,high_fiber|diet_friendly
+usda-sr-167782,"Abiyuch, raw",,Fruits and Fruit Juices,Global,vegan,0.5 cup,114.0,79,1.7,20.1,0.1,6.0,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-171687,"Acerola juice, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,242.0,56,1.0,11.6,0.7,0.7,low_calorie|low_fat|diet_friendly
+usda-sr-171689,"Apples, raw, without skin",,Fruits and Fruit Juices,Global,vegan,1 cup slices,110.0,53,0.3,14.0,0.1,1.4,low_calorie|low_fat|diet_friendly
+usda-sr-171697,"Apricots, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, halves",155.0,74,2.2,17.2,0.6,3.1,low_calorie|low_fat|diet_friendly
+usda-sr-173944,"Bananas, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, mashed",225.0,200,2.5,51.4,0.7,5.8,high_fiber|low_fat|diet_friendly
+usda-sr-173946,"Blackberries, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,144.0,62,2.0,13.8,0.7,7.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168158,"Blueberries, dried, sweetened",,Fruits and Fruit Juices,Global,vegan,0.25 cup,40.0,127,1.0,32.0,1.0,3.0,high_fiber|low_fat|diet_friendly
+usda-sr-171714,"Breadfruit, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,220.0,227,2.4,59.7,0.5,10.8,high_fiber|low_fat|diet_friendly
+usda-sr-171715,"Carambola, (starfruit), raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, cubes",132.0,41,1.4,8.9,0.4,3.7,low_calorie|low_fat|diet_friendly
+usda-sr-173952,"Carissa, (natal-plum), raw",,Fruits and Fruit Juices,Global,vegan,1 cup slices,150.0,93,0.8,20.4,1.9,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-173953,"Cherimoya, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, pieces",160.0,120,2.5,28.3,1.1,4.8,low_calorie|low_fat|diet_friendly
+usda-sr-171719,"Cherries, sweet, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, without pits",154.0,97,1.6,24.7,0.3,3.2,low_calorie|low_fat|diet_friendly
+usda-sr-168195,"Clementines, raw",,Fruits and Fruit Juices,Global,vegan,1 fruit,74.0,35,0.6,8.9,0.1,1.3,low_calorie|low_fat|diet_friendly
+usda-sr-171721,"Crabapples, raw",,Fruits and Fruit Juices,Global,vegan,1 cup slices,110.0,84,0.4,21.9,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-173964,"Currants, red and white, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,112.0,63,1.6,15.5,0.2,4.8,low_calorie|low_fat|diet_friendly
+usda-sr-171724,"Currants, zante, dried",,Fruits and Fruit Juices,Global,vegan,1 cup,144.0,418,4.9,110.9,0.3,6.3,high_fiber|low_fat|diet_friendly
+usda-sr-168192,"Durian, raw or frozen",,Fruits and Fruit Juices,Global,vegan,"1 cup, chopped or diced",243.0,357,3.6,65.8,13.0,9.2,high_fiber|diet_friendly
+usda-sr-171727,"Elderberries, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,145.0,106,1.0,26.7,0.7,10.2,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168176,"Feijoa, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, pureed",243.0,148,1.7,37.0,1.0,15.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-174666,"Figs, dried, stewed",,Fruits and Fruit Juices,Global,vegan,1 cup,259.0,277,3.7,71.4,1.0,10.9,high_fiber|low_fat|diet_friendly
+usda-sr-174665,"Figs, dried, uncooked",,Fruits and Fruit Juices,Global,vegan,1 cup,149.0,371,4.9,95.2,1.4,14.6,high_fiber|low_fat|diet_friendly
+usda-sr-173021,"Figs, raw",,Fruits and Fruit Juices,Global,vegan,"1 large (2-1/2"" dia)",64.0,47,0.5,12.3,0.2,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-173032,"Goji berries, dried",,Fruits and Fruit Juices,Global,vegan,5 tbsp,28.0,98,4.0,21.6,0.1,3.6,high_fiber|low_fat|diet_friendly
+usda-sr-173030,"Gooseberries, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,150.0,66,1.3,15.3,0.9,6.5,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-167774,"Grapefruit juice, pink, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,247.0,96,1.2,22.7,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-173039,"Grapefruit juice, white, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,247.0,96,1.2,22.7,0.2,0.2,low_calorie|low_fat|diet_friendly
+usda-sr-173040,"Grapes, muscadine, raw",,Fruits and Fruit Juices,Global,vegan,1 grape,6.0,3,0.0,0.8,0.0,0.2,low_calorie|low_fat|diet_friendly
+usda-sr-174686,"Guava sauce, cooked",,Fruits and Fruit Juices,Global,vegan,1 cup,238.0,86,0.8,22.6,0.3,8.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-173044,"Guavas, common, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,165.0,112,4.2,23.6,1.6,8.9,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-173045,"Guavas, strawberry, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,244.0,168,1.4,42.4,1.5,13.2,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168150,"Java-plum, (jambolan), raw",,Fruits and Fruit Juices,Global,vegan,1 cup,135.0,81,1.0,21.0,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168151,"Jujube, raw",,Fruits and Fruit Juices,Global,vegan,100 g,100.0,79,1.2,20.2,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168153,"Kiwifruit, green, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, sliced",180.0,110,2.1,26.4,0.9,5.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168154,"Kumquats, raw",,Fruits and Fruit Juices,Global,vegan,1 fruit without refuse,19.0,13,0.4,3.0,0.2,1.2,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-167747,"Lemon juice, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,244.0,54,0.9,16.8,0.6,0.7,low_calorie|low_fat|diet_friendly
+usda-sr-167749,"Lemon peel, raw",,Fruits and Fruit Juices,Global,vegan,1 tbsp,6.0,3,0.1,1.0,0.0,0.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-167746,"Lemons, raw, without peel",,Fruits and Fruit Juices,Global,vegan,"1 cup, sections",212.0,61,2.3,19.8,0.6,5.9,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168156,"Lime juice, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,242.0,60,1.0,20.4,0.2,1.0,low_calorie|low_fat|diet_friendly
+usda-sr-168155,"Limes, raw",,Fruits and Fruit Juices,Global,vegan,"1 fruit (2"" dia)",67.0,20,0.5,7.1,0.1,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-169086,"Litchis, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,190.0,125,1.6,31.4,0.8,2.5,low_calorie|low_fat|diet_friendly
+usda-sr-169089,"Longans, raw",,Fruits and Fruit Juices,Global,vegan,1 fruit without refuse,3.2,2,0.0,0.5,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169908,"Loquats, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, cubed",149.0,70,0.6,18.1,0.3,2.5,low_calorie|low_fat|diet_friendly
+usda-sr-169909,"Mammy-apple, (mamey), raw",,Fruits and Fruit Juices,Global,vegan,1 fruit without refuse,846.0,431,4.2,105.8,4.2,25.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169910,"Mangos, raw",,Fruits and Fruit Juices,Global,vegan,1 cup pieces,165.0,99,1.4,24.7,0.6,2.6,low_calorie|low_fat|diet_friendly
+usda-sr-169092,"Melons, cantaloupe, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, balls",177.0,60,1.5,14.4,0.3,1.6,low_calorie|low_fat|diet_friendly
+usda-sr-169093,"Melons, casaba, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, cubes",170.0,48,1.9,11.2,0.2,1.5,low_calorie|low_fat|diet_friendly
+usda-sr-169911,"Melons, honeydew, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, diced (approx 20 pieces per cup)",170.0,61,0.9,15.5,0.2,1.4,low_calorie|low_fat|diet_friendly
+usda-sr-169913,"Mulberries, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,140.0,60,2.0,13.7,0.5,2.4,low_calorie|low_fat|diet_friendly
+usda-sr-169914,"Nectarines, raw",,Fruits and Fruit Juices,Global,vegan,1 cup slices,143.0,63,1.5,15.1,0.5,2.4,low_calorie|low_fat|diet_friendly
+usda-sr-169915,"Oheloberries, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,140.0,39,0.5,9.6,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169103,"Orange peel, raw",,Fruits and Fruit Juices,Global,vegan,1 tbsp,6.0,6,0.1,1.5,0.0,0.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169918,"Oranges, raw, Florida",,Fruits and Fruit Juices,Global,vegan,"1 cup sections, without membranes",185.0,85,1.3,21.3,0.4,4.4,low_calorie|low_fat|diet_friendly
+usda-sr-169919,"Oranges, raw, with peel",,Fruits and Fruit Juices,Global,vegan,1 cup,170.0,107,2.2,26.4,0.5,7.7,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169926,"Papayas, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, mashed",230.0,99,1.1,24.9,0.6,3.9,low_calorie|low_fat|diet_friendly
+usda-sr-169928,"Peaches, yellow, raw",,Fruits and Fruit Juices,Global,vegan,1 cup slices,154.0,60,1.4,14.7,0.4,2.3,low_calorie|low_fat|diet_friendly
+usda-sr-168177,"Pears, asian, raw",,Fruits and Fruit Juices,Global,vegan,"1 fruit 2-1/4"" high x 2-1/2"" dia",122.0,51,0.6,13.0,0.3,4.4,low_calorie|low_fat|diet_friendly
+usda-sr-169118,"Pears, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, cubes",161.0,92,0.6,24.5,0.2,5.0,low_calorie|low_fat|diet_friendly
+usda-sr-167777,"Pears, raw, red anjou",,Fruits and Fruit Juices,Global,vegan,1 small,126.0,78,0.4,18.8,0.2,3.8,low_calorie|low_fat|diet_friendly
+usda-sr-169942,"Persimmons, japanese, dried",,Fruits and Fruit Juices,Global,vegan,1 fruit without refuse,34.0,93,0.5,25.0,0.2,4.9,high_fiber|low_fat|diet_friendly
+usda-sr-169941,"Persimmons, japanese, raw",,Fruits and Fruit Juices,Global,vegan,"1 fruit (2-1/2"" dia)",168.0,118,1.0,31.2,0.3,6.0,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169943,"Persimmons, native, raw",,Fruits and Fruit Juices,Global,vegan,1 fruit without refuse,25.0,32,0.2,8.4,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168215,"Plantains, green, raw",,Fruits and Fruit Juices,Global,vegan,1 plantain,267.0,406,3.3,97.9,0.2,5.9,high_fiber|low_fat|diet_friendly
+usda-sr-169949,"Plums, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, sliced",165.0,76,1.2,18.8,0.5,2.3,low_calorie|low_fat|diet_friendly
+usda-sr-169134,"Pomegranates, raw",,Fruits and Fruit Juices,Global,vegan,0.5 cup arils (seed/juice sacs),87.0,72,1.5,16.3,1.0,3.5,low_calorie|low_fat|diet_friendly
+usda-sr-167750,"Prickly pears, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,149.0,61,1.1,14.3,0.8,5.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-167754,"Pummelo, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, sections",190.0,72,1.4,18.3,0.1,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-168163,"Quinces, raw",,Fruits and Fruit Juices,Global,vegan,1 fruit without refuse,92.0,52,0.4,14.1,0.1,1.7,low_calorie|low_fat|diet_friendly
+usda-sr-167755,"Raspberries, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,123.0,64,1.5,14.7,0.8,8.0,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168168,"Rhubarb, frozen, uncooked",,Fruits and Fruit Juices,Global,vegan,"1 cup, diced",137.0,29,0.8,7.0,0.2,2.5,low_calorie|low_fat|diet_friendly
+usda-sr-167758,"Rhubarb, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, diced",122.0,26,1.1,5.5,0.2,2.2,low_calorie|low_fat|diet_friendly
+usda-sr-168171,"Rose-apples, raw",,Fruits and Fruit Juices,Global,vegan,100 g,100.0,25,0.6,5.7,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168170,"Roselle, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, without refuse",57.0,28,0.5,6.4,0.4,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-167783,"Rowal, raw",,Fruits and Fruit Juices,Global,vegan,0.5 cup,114.0,127,2.6,27.2,2.3,7.1,high_fiber|low_fat|diet_friendly
+usda-sr-167759,"Sapodilla, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, pulp",241.0,200,1.1,48.1,2.7,12.8,high_fiber|low_fat|diet_friendly
+usda-sr-167760,"Sapote, mamey, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup 1"" pieces",175.0,217,2.5,56.2,0.8,9.5,high_fiber|low_fat|diet_friendly
+usda-sr-167761,"Soursop, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, pulp",225.0,148,2.2,37.9,0.7,7.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-167763,"Tamarinds, raw",,Fruits and Fruit Juices,Global,vegan,"1 cup, pulp",120.0,287,3.4,75.0,0.7,6.1,high_fiber|low_fat|diet_friendly
+usda-sr-169925,"Tangerine juice, raw",,Fruits and Fruit Juices,Global,vegan,1 cup,247.0,106,1.2,24.9,0.5,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2710320,Popsicle,,"Gelatins, ices, sorbets",Global,vegan,1 single stick,50.0,40,0.0,9.6,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2708360,"Cereal, cooked, NFS",,Grits and other cooked cereals,Global,vegan,"1 cup, cooked",240.0,154,5.3,27.3,2.6,4.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2708374,"Cornmeal mush, no added fat",,Grits and other cooked cereals,Global,vegan,"1 cup, cooked",240.0,139,2.7,29.9,0.7,1.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2708363,"Grits, NFS",,Grits and other cooked cereals,Global,vegan,"1 cup, cooked",240.0,170,2.9,29.3,4.4,1.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2708444,"Oat bran cereal, cooked",,Grits and other cooked cereals,Global,vegan,"1 cup, cooked",240.0,110,7.7,29.5,3.1,7.0,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2708442,"Whole wheat cereal, cooked",,Grits and other cooked cereals,Global,vegan,"1 cup, cooked",240.0,113,3.7,24.9,0.7,3.1,low_calorie|low_fat|diet_friendly
+usda-sr-172602,"Game meat, deer, ground, raw",,"Lamb, Veal, and Game Products",Global,non_vegetarian,1 patty (cooked from 4 oz raw),85.0,133,18.5,0.0,6.1,0.0,high_protein|diet_friendly
+usda-sr-175303,"Game meat, goat, raw",,"Lamb, Veal, and Game Products",Global,non_vegetarian,1 oz,28.4,31,5.8,0.0,0.7,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-175291,"Veal, ground, cooked, broiled",,"Lamb, Veal, and Game Products",Global,non_vegetarian,3 oz,85.0,146,20.7,0.0,6.4,0.0,high_protein|diet_friendly
+usda-fndds-2705920,Bison,,"Lamb, goat, game",Global,vegan,1 patty,85.0,151,21.5,0.0,7.3,0.0,high_protein|diet_friendly
+usda-fndds-2705908,Goat,,"Lamb, goat, game",Global,non_vegetarian,1 cup,135.0,192,36.3,0.0,4.1,0.0,high_protein|diet_friendly
+usda-fndds-2705917,Moose,,"Lamb, goat, game",Global,non_vegetarian,1 cup,135.0,180,39.2,0.0,1.3,0.0,high_protein|low_fat|diet_friendly
+usda-sr-173727,"Beans, adzuki, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,329,19.9,62.9,0.5,12.7,high_fiber|low_fat|diet_friendly
+usda-sr-175182,"Beans, baked, canned, plain or vegetarian",,Legumes and Legume Products,Global,vegan,1 cup,254.0,239,12.1,53.7,0.9,10.4,high_fiber|low_fat|diet_friendly
+usda-sr-175186,"Beans, black turtle, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,339,21.2,63.2,0.9,15.5,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173734,"Beans, black, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,341,21.6,62.4,1.4,15.5,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-175189,"Beans, cranberry (roman), mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,335,23.0,60.0,1.2,24.7,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173738,"Beans, french, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,343,18.8,64.1,2.0,25.2,high_fiber|low_fat|diet_friendly
+usda-sr-175193,"Beans, kidney, all types, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,333,23.6,60.0,0.8,24.9,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173742,"Beans, kidney, california red, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,330,24.4,59.8,0.2,24.9,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173744,"Beans, kidney, red, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,337,22.5,61.3,1.1,15.2,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-175196,"Beans, kidney, royal red, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,329,25.3,58.3,0.5,24.9,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173745,"Beans, navy, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,337,22.3,60.8,1.5,15.3,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173748,"Beans, pink, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,343,21.0,64.2,1.1,12.7,high_fiber|low_fat|diet_friendly
+usda-sr-173749,"Beans, small white, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,336,21.1,62.2,1.2,24.9,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-175202,"Beans, white, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,333,23.4,60.3,0.8,15.2,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173751,"Beans, yellow, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,345,22.0,60.7,2.6,25.1,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-175205,"Broadbeans (fava beans), mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,341,26.1,58.3,1.5,25.0,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-173756,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,378,20.5,63.0,6.0,12.2,high_fiber|diet_friendly
+usda-sr-175208,"Cowpeas, catjang, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,343,23.9,59.6,2.1,10.7,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-175210,"Hyacinth beans, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,344,23.9,60.7,1.7,25.6,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-174284,"Lentils, pink or red, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,358,23.9,63.1,2.2,10.8,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-172420,"Lentils, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,352,24.6,63.4,1.1,10.7,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-174252,"Lima beans, large, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,338,21.5,63.4,0.7,19.0,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-174255,"Lima beans, thin seeded (baby), mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,335,20.6,62.8,0.9,20.6,high_fiber|low_fat|diet_friendly
+usda-sr-172424,"Lupins, mature seeds, cooked, boiled",,Legumes and Legume Products,Global,vegan,1 cup,166.0,198,25.8,16.4,4.8,4.6,high_protein|low_fat|diet_friendly
+usda-sr-172423,"Lupins, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,371,36.2,40.4,9.7,18.9,high_protein|high_fiber|diet_friendly
+usda-sr-172425,"Mothbeans, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,343,22.9,61.5,1.6,0.0,high_protein|low_fat|diet_friendly
+usda-sr-174256,"Mung beans, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,347,23.9,62.6,1.1,16.3,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-174259,"Mungo beans, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,341,25.2,59.0,1.6,18.3,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-172428,"Peas, green, split, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,364,23.1,61.6,3.9,22.2,high_protein|high_fiber|diet_friendly
+usda-sr-172436,"Pigeon peas (red gram), mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,343,21.7,62.8,1.5,15.0,high_protein|high_fiber|low_fat|diet_friendly
+usda-sr-172445,"Soy meal, defatted, raw",,Legumes and Legume Products,Global,vegan,1 cup,122.0,411,60.0,43.8,2.9,0.0,high_protein|low_fat|diet_friendly
+usda-sr-174281,"Yardlong beans, mature seeds, raw",,Legumes and Legume Products,Global,vegan,100 g,100.0,347,24.3,61.9,1.3,11.0,high_protein|high_fiber|low_fat|diet_friendly
+usda-fndds-2709790,"Lettuce, Boston, raw",,Lettuce and lettuce salads,Global,vegan,1 head,163.0,29,1.4,5.3,0.2,1.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709789,"Lettuce, raw",,Lettuce and lettuce salads,Global,vegan,1 cup,35.0,7,0.3,1.3,0.0,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709792,"Mixed salad greens, raw",,Lettuce and lettuce salads,Global,vegan,1 cup,35.0,7,0.5,1.2,0.1,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709613,"Radicchio, raw",,Lettuce and lettuce salads,Global,vegan,1 cup,40.0,9,0.6,1.8,0.1,0.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709590,"Romaine lettuce, raw",,Lettuce and lettuce salads,Global,vegan,1 cup,35.0,7,0.3,1.4,0.0,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2706156,Heart,,Liver and organ meats,Global,non_vegetarian,1 cup,145.0,238,41.0,0.2,6.8,0.0,high_protein|diet_friendly
+usda-fndds-2706157,Kidney,,Liver and organ meats,Global,non_vegetarian,1 kidney,230.0,361,62.2,0.0,10.6,0.0,high_protein|diet_friendly
+usda-fndds-2706162,Tripe,,Liver and organ meats,Global,non_vegetarian,1 cup,140.0,125,17.6,0.0,5.4,0.0,high_protein|diet_friendly
+usda-fndds-2709242,"Mango, raw",,Mango and papaya,Global,vegan,1 slice/chunk,25.0,15,0.2,3.7,0.1,0.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709246,"Papaya, raw",,Mango and papaya,Global,vegan,1 slice/chunk,40.0,17,0.2,4.3,0.1,0.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2709554,Stewed potatoes,,Mashed potatoes and white potato mixtures,Global,vegan,1 cup,250.0,258,5.0,40.7,8.5,5.2,high_fiber|diet_friendly
+usda-fndds-2706371,Beef burgundy,,Meat mixed dishes,Global,non_vegetarian,1 cup,244.0,361,45.1,10.2,14.6,2.0,high_protein|diet_friendly
+usda-fndds-2706732,Swiss steak,,Meat mixed dishes,Global,non_vegetarian,1 cup,249.0,286,38.5,9.1,11.0,2.2,high_protein|diet_friendly
+usda-fndds-2706416,Veal Marsala,,Meat mixed dishes,Global,non_vegetarian,1 slice with sauce,96.0,168,17.1,6.5,8.2,0.5,high_protein|diet_friendly
+usda-fndds-2709226,"Cantaloupe, raw",,Melons,Global,vegan,1 cup,155.0,59,1.3,12.6,0.3,1.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709241,"Honeydew melon, raw",,Melons,Global,vegan,1 cup,155.0,56,0.8,14.1,0.2,1.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709270,"Watermelon, raw",,Melons,Global,vegan,1 cup,155.0,46,0.9,11.7,0.2,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2705507,Milk shake with malt,,Milk shakes and other dairy drinks,Global,vegetarian,1 fl oz,28.0,35,1.1,3.8,1.7,0.1,low_calorie|diet_friendly
+usda-fndds-2705394,Kefir,,"Milk, lowfat",Global,vegan,1 cup,244.0,127,8.8,18.3,2.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2705396,"Milk, dry, reconstituted, nonfat",,"Milk, nonfat",Global,vegetarian,1 cup,244.0,78,7.8,11.2,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2705384,"Milk, NFS",,"Milk, reduced fat",Global,vegetarian,1 cup,244.0,127,8.1,11.8,5.2,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2705393,Buttermilk,,"Milk, whole",Global,vegan,1 cup,244.0,105,8.4,11.7,2.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2709780,"Basil, raw",,Not included in a food category,Global,vegan,1 cup,24.0,6,0.8,0.6,0.2,0.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709781,"Chives, raw",,Not included in a food category,Global,vegan,1 tablespoon,3.0,1,0.1,0.1,0.0,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709782,"Cilantro, raw",,Not included in a food category,Global,vegan,1 cup,16.0,4,0.3,0.6,0.1,0.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2708489,"Oats, raw",,Not included in a food category,Global,vegan,1 cup,80.0,303,10.5,54.2,5.2,8.1,high_fiber|diet_friendly
+usda-fndds-2709796,"Parsley, raw",,Not included in a food category,Global,vegan,1 cup,60.0,22,1.8,3.8,0.5,2.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2708488,Wheat bran,,Not included in a food category,Global,vegan,1 cup,60.0,130,9.3,38.7,2.5,25.7,high_protein|high_fiber|diet_friendly
+usda-fndds-2708477,Wheat germ,,Not included in a food category,Global,vegan,100 g,100.0,382,29.1,49.6,10.7,15.1,high_protein|high_fiber|diet_friendly
+usda-fndds-2710005,Yeast,,Not included in a food category,Global,vegan,1 tablespoon,12.0,39,4.9,4.9,0.9,3.2,high_fiber|diet_friendly
+usda-sr-170190,"Nuts, chestnuts, european, roasted",,Nut and Seed Products,Global,vegan,1 cup,143.0,350,4.5,75.7,3.1,7.3,high_fiber|low_fat|diet_friendly
+usda-sr-168589,"Nuts, chestnuts, japanese, boiled and steamed",,Nut and Seed Products,Global,vegan,1 oz,28.4,16,0.2,3.6,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-170595,"Seeds, breadfruit seeds, roasted",,Nut and Seed Products,Global,vegan,1 oz,28.4,59,1.8,11.4,0.8,1.7,high_fiber|low_fat|diet_friendly
+usda-sr-170553,"Seeds, breadnut tree seeds, dried",,Nut and Seed Products,Global,vegan,1 oz,28.4,104,2.4,22.5,0.5,4.2,high_fiber|low_fat|diet_friendly
+usda-sr-168591,"Seeds, lotus seeds, raw",,Nut and Seed Products,Global,vegan,1 oz,28.4,25,1.2,4.9,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2707499,Chestnuts,,Nuts and seeds,Global,vegan,1 cup,143.0,350,4.5,75.7,3.1,7.3,high_fiber|low_fat|diet_friendly
+usda-fndds-2708380,"Oatmeal, NFS",,Oatmeal,Global,vegan,"1 cup, cooked",240.0,182,5.2,26.8,6.3,4.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2708398,"Oatmeal, multigrain",,Oatmeal,Global,vegan,"1 cup, cooked",240.0,134,5.1,29.3,1.1,4.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2710077,Kimchi,,"Olives, pickles, pickled vegetables",Global,vegan,1 cup,150.0,22,1.6,3.6,0.8,2.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709935,Leeks,,Onions,Global,vegan,1 whole,85.0,75,1.3,12.5,2.6,1.6,low_calorie|diet_friendly
+usda-fndds-2709794,"Onions, green, raw",,Onions,Global,vegan,1 cup,100.0,32,1.8,7.3,0.2,2.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709795,"Onions, raw",,Onions,Global,vegan,1 cup,160.0,61,1.4,13.5,0.1,2.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2709570,"Beet greens, raw",,Other dark green vegetables,Global,vegan,1 cup,38.0,8,0.8,1.6,0.0,1.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709574,"Chard, raw",,Other dark green vegetables,Global,vegan,1 cup,36.0,7,0.6,1.3,0.1,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709576,"Collards, raw",,Other dark green vegetables,Global,vegan,1 cup,36.0,12,1.1,2.0,0.2,1.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709586,"Cress, raw",,Other dark green vegetables,Global,vegan,1 cup,50.0,16,1.3,2.8,0.3,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709589,"Dandelion greens, cooked",,Other dark green vegetables,Global,vegan,1 cup,110.0,78,3.1,10.5,3.8,4.0,low_calorie|diet_friendly
+usda-fndds-2709588,"Dandelion greens, raw",,Other dark green vegetables,Global,vegan,1 cup,55.0,25,1.5,5.1,0.4,1.9,low_calorie|low_fat|diet_friendly
+usda-fndds-2706759,Greens with ham or pork,,Other dark green vegetables,Global,non_vegetarian,1 cup,144.0,68,7.1,6.7,2.0,5.2,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709599,"Kale, raw",,Other dark green vegetables,Global,vegan,1 cup,25.0,11,0.7,1.1,0.4,1.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709606,"Mustard greens, raw",,Other dark green vegetables,Global,vegan,1 cup,56.0,15,1.6,2.6,0.2,1.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709639,"Watercress, raw",,Other dark green vegetables,Global,vegan,1 cup,34.0,4,0.8,0.4,0.0,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709833,Aloe vera juice drink,,Other fruit juice,Global,vegan,1 fl oz (no ice),31.0,5,0.0,1.2,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709323,Blueberry juice,,Other fruit juice,Global,vegan,1 fl oz (no ice),31.0,13,0.1,2.9,0.1,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709315,"Fruit juice, NFS",,Other fruit juice,Global,vegan,1 fl oz (no ice),31.0,16,0.1,3.8,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709325,"Grape juice, 100%",,Other fruit juice,Global,vegan,1 fl oz (no ice),31.0,20,0.1,4.9,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709327,"Papaya juice, 100%",,Other fruit juice,Global,vegan,1 fl oz (no ice),31.0,18,0.1,4.5,0.0,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709331,"Prune juice, 100%",,Other fruit juice,Global,vegan,1 fl oz (no ice),31.0,22,0.2,5.4,0.0,0.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709286,Ambrosia,,Other fruits and fruit salads,Global,vegan,1 cup,193.0,145,1.6,31.7,1.9,3.9,low_calorie|low_fat|diet_friendly
+usda-fndds-2709221,"Apricot, raw",,Other fruits and fruit salads,Global,vegan,1 apricot,35.0,17,0.5,3.9,0.1,0.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2709229,"Cherries, maraschino",,Other fruits and fruit salads,Global,vegan,1 cup,160.0,264,0.4,67.2,0.3,5.1,high_fiber|low_fat|diet_friendly
+usda-fndds-2709231,"Cherries, raw",,Other fruits and fruit salads,Global,vegan,1 cup,150.0,106,1.6,24.2,0.3,3.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709234,Dragon fruit,,Other fruits and fruit salads,Global,vegan,1 fruit,75.0,51,0.5,12.2,0.2,1.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709235,"Fig, raw",,Other fruits and fruit salads,Global,vegan,1 fig,50.0,37,0.4,9.6,0.1,1.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709213,"Fruit, NFS",,Other fruits and fruit salads,Global,vegan,1 fruit,185.0,126,1.3,30.0,0.4,3.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709238,"Guava, raw",,Other fruits and fruit salads,Global,vegan,1 fruit,55.0,37,1.4,7.9,0.5,3.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709239,"Kiwi fruit, raw",,Other fruits and fruit salads,Global,vegan,1 fruit,75.0,48,0.8,10.5,0.3,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709240,Lychee,,Other fruits and fruit salads,Global,vegan,1 cup,190.0,125,1.6,31.4,0.8,2.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709248,"Passion fruit, raw",,Other fruits and fruit salads,Global,vegan,1 cup,236.0,229,5.2,55.2,1.7,24.5,high_fiber|low_fat|diet_friendly
+usda-fndds-2709259,"Persimmon, raw",,Other fruits and fruit salads,Global,vegan,1 fruit,170.0,119,1.0,31.6,0.3,6.1,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709265,"Plum, raw",,Other fruits and fruit salads,Global,vegan,1 fruit,75.0,34,0.5,8.6,0.2,1.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709267,"Pomegranate, raw",,Other fruits and fruit salads,Global,vegan,1 fruit,250.0,208,4.2,46.8,2.9,10.0,high_fiber|low_fat|diet_friendly
+usda-fndds-2709268,Rhubarb,,Other fruits and fruit salads,Global,vegan,1 cup,240.0,175,1.9,41.9,0.5,3.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709228,"Starfruit, raw",,Other fruits and fruit salads,Global,vegan,1 fruit,90.0,28,0.9,6.1,0.3,2.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709697,"Sweet potato, NFS",,Other red and orange vegetables,Global,vegan,1 small,80.0,92,1.3,13.7,3.6,2.4,low_calorie|diet_friendly
+usda-fndds-2709699,"Sweet potato, baked, no added fat",,Other red and orange vegetables,Global,vegan,1 small,80.0,66,1.3,14.4,0.3,2.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709708,"Sweet potato, casserole or mashed",,Other red and orange vegetables,Global,vegetarian,1 cup,250.0,248,4.7,43.0,6.4,6.0,high_fiber|low_fat|diet_friendly
+usda-fndds-2709693,"Winter squash, raw",,Other red and orange vegetables,Global,vegan,1 cup,140.0,36,1.4,9.1,0.1,0.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2709879,"Breadfruit, cooked",,Other starchy vegetables,Global,vegan,1 piece,35.0,43,0.4,9.2,1.0,1.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709568,Fufu,,Other starchy vegetables,Global,vegan,"1 cup, cooked",240.0,398,3.6,80.6,7.2,7.4,high_fiber|low_fat|diet_friendly
+usda-fndds-2709966,"Green peas, fresh, cooked with oil",,Other starchy vegetables,Global,vegan,1 cup,165.0,180,9.0,24.0,5.7,9.4,high_fiber|diet_friendly
+usda-fndds-2709797,"Green peas, raw",,Other starchy vegetables,Global,vegan,1 cup,145.0,117,7.9,21.0,0.6,8.3,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2710026,"Peas and corn, cooked, no added fat",,Other starchy vegetables,Global,vegan,1 cup,160.0,126,6.1,26.8,0.8,5.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709567,"Taro, cooked",,Other starchy vegetables,Global,vegan,1 cup,160.0,226,2.5,44.1,4.7,6.9,high_fiber|low_fat|diet_friendly
+usda-fndds-2710003,Water Chesnut,,Other starchy vegetables,Global,vegan,1 cup,158.0,123,2.2,30.4,0.1,6.2,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709766,Artichoke,,Other vegetables and combinations,Global,vegan,1 cup,150.0,80,4.3,17.9,0.5,8.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709767,"Asparagus, raw",,Other vegetables and combinations,Global,vegan,1 cup,135.0,27,3.0,5.2,0.2,2.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709768,"Bean sprouts, raw",,Other vegetables and combinations,Global,vegan,1 cup,90.0,27,2.7,5.3,0.2,1.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709770,"Beets, raw",,Other vegetables and combinations,Global,vegan,1 cup,135.0,58,2.2,12.9,0.2,3.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709771,"Broccoflower, raw",,Other vegetables and combinations,Global,vegan,1 cup,64.0,20,1.9,3.9,0.2,2.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709776,"Cactus, raw",,Other vegetables and combinations,Global,vegan,1 cup,150.0,24,2.0,5.0,0.1,3.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709777,"Cauliflower, raw",,Other vegetables and combinations,Global,vegan,1 cup,110.0,28,2.1,5.5,0.3,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709778,"Celery, raw",,Other vegetables and combinations,Global,vegan,1 stalk,40.0,7,0.2,1.3,0.1,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709784,"Cucumber, raw",,Other vegetables and combinations,Global,vegan,1 regular,200.0,32,1.2,5.9,0.4,1.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709785,"Eggplant, raw",,Other vegetables and combinations,Global,vegan,1 cup,80.0,20,0.8,4.7,0.1,2.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709779,"Fennel bulb, raw",,Other vegetables and combinations,Global,vegan,1 fennel bulb,235.0,73,2.9,17.2,0.5,7.3,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2710037,"Jai, Monk's Food",,Other vegetables and combinations,Global,vegan,1 cup,188.0,113,8.0,14.5,3.5,3.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709787,"Jicama, raw",,Other vegetables and combinations,Global,vegan,1 cup,130.0,49,0.9,11.5,0.1,6.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709788,"Kohlrabi, raw",,Other vegetables and combinations,Global,vegan,1 cup,135.0,36,2.3,8.4,0.1,4.9,low_calorie|low_fat|diet_friendly
+usda-fndds-2709793,"Mushrooms, raw",,Other vegetables and combinations,Global,vegan,1 cup,70.0,22,2.0,2.9,0.2,1.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709955,"Parsnips, cooked",,Other vegetables and combinations,Global,vegan,1 cup,160.0,147,2.1,26.4,4.5,5.6,high_fiber|low_fat|diet_friendly
+usda-fndds-2709803,Radish,,Other vegetables and combinations,Global,vegan,1 cup,115.0,18,0.8,3.9,0.1,1.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2709980,"Rutabaga, cooked",,Other vegetables and combinations,Global,vegan,1 cup,175.0,110,2.0,15.7,5.1,4.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709804,"Rutabaga, raw",,Other vegetables and combinations,Global,vegan,1 cup,140.0,52,1.5,12.1,0.2,3.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709805,"Seaweed, raw",,Other vegetables and combinations,Global,vegan,1 cup,80.0,33,2.8,6.4,0.4,0.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2709806,"Snowpeas, raw",,Other vegetables and combinations,Global,vegan,1 cup,65.0,27,1.8,4.9,0.1,1.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2709764,"Sprouts, NFS",,Other vegetables and combinations,Global,vegan,1 cup,56.0,17,1.7,3.3,0.1,1.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709809,"Turnip, raw",,Other vegetables and combinations,Global,vegan,1 whole,120.0,34,1.1,7.7,0.1,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2708361,Barley,,"Pasta, noodles, cooked grains",Global,vegan,"1 cup, cooked",170.0,236,3.7,46.3,4.7,6.3,high_fiber|low_fat|diet_friendly
+usda-fndds-2708438,"Bulgur, no added fat",,"Pasta, noodles, cooked grains",Global,vegan,"1 cup, cooked",140.0,116,4.3,25.9,0.3,6.3,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2708353,"Noodles, whole grain, cooked",,"Pasta, noodles, cooked grains",Global,vegan,"1 cup, cooked",160.0,237,9.5,47.9,2.7,6.2,high_fiber|low_fat|diet_friendly
+usda-fndds-2708351,"Pasta, vegetable, cooked",,"Pasta, noodles, cooked grains",Global,vegan,"1 cup, cooked",140.0,179,6.3,37.2,0.2,6.0,high_fiber|low_fat|diet_friendly
+usda-fndds-2708358,"Pasta, whole grain, cooked",,"Pasta, noodles, cooked grains",Global,vegan,"1 cup, cooked",140.0,207,8.3,41.8,2.4,5.5,high_fiber|low_fat|diet_friendly
+usda-fndds-2709245,"Nectarine, raw",,Peaches and nectarines,Global,vegan,1 fruit,140.0,60,1.5,12.9,0.4,2.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2709249,"Peach, raw",,Peaches and nectarines,Global,vegan,1 fruit,150.0,69,1.4,15.2,0.4,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2709255,"Pear, Asian, raw",,Pears,Global,vegan,1 fruit,275.0,116,1.4,29.3,0.6,9.9,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709254,"Pear, raw",,Pears,Global,vegan,1 fruit,180.0,106,0.7,27.3,0.3,5.6,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709260,"Pineapple, raw",,Pineapple,Global,vegan,1 slice,56.0,34,0.3,7.9,0.1,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2705411,Rice milk,,Plant-based milk,Global,vegan,1 cup,244.0,115,0.7,22.4,2.4,0.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2705404,"Soy milk, sweetened",,Plant-based milk,Global,vegan,1 cup,244.0,129,8.3,12.7,5.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2705862,"Pork, NFS",,Pork,Global,non_vegetarian,"1 slice, any size",30.0,58,8.1,0.0,2.6,0.0,high_protein|diet_friendly
+usda-sr-169193,"Pork, ground, 96% lean / 4% fat, cooked, crumbles",,Pork Products,Global,non_vegetarian,3 oz grilled patties,85.0,159,26.0,0.0,6.1,0.0,high_protein|diet_friendly
+usda-sr-169190,"Pork, ground, 96% lean / 4% fat, raw",,Pork Products,Global,non_vegetarian,4 oz,113.0,137,23.8,0.2,4.5,0.0,high_protein|diet_friendly
+usda-sr-174476,"Emu, fan fillet, raw",,Poultry Products,Global,non_vegetarian,1 serving ( 3 oz ),85.0,88,19.1,0.0,0.7,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-174478,"Emu, flat fillet, raw",,Poultry Products,Global,non_vegetarian,3 oz,85.0,87,18.9,0.0,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-174479,"Emu, full rump, raw",,Poultry Products,Global,non_vegetarian,3 oz,85.0,95,19.4,0.0,1.4,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172832,"Emu, ground, raw",,Poultry Products,Global,non_vegetarian,1 patty,117.0,157,26.6,0.0,4.7,0.0,high_protein|diet_friendly
+usda-sr-172835,"Emu, inside drum, raw",,Poultry Products,Global,non_vegetarian,3 oz,85.0,92,18.9,0.0,1.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172837,"Emu, outside drum, raw",,Poultry Products,Global,non_vegetarian,3 oz,85.0,88,19.6,0.0,0.4,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172838,"Emu, oyster, raw",,Poultry Products,Global,non_vegetarian,3 oz,85.0,120,19.4,0.0,4.1,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-172415,"Goose, liver, raw",,Poultry Products,Global,non_vegetarian,1 liver,94.0,125,15.4,5.9,4.0,0.0,high_protein|diet_friendly
+usda-sr-174483,"Ostrich, fan, raw",,Poultry Products,Global,non_vegetarian,1 serving ( cooked from 4oz raw),85.0,99,18.5,0.0,2.3,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172839,"Ostrich, inside leg, raw",,Poultry Products,Global,non_vegetarian,1 serving ( cooked from 4 oz raw ),85.0,94,19.0,0.0,1.5,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172843,"Ostrich, oyster, cooked",,Poultry Products,Global,non_vegetarian,1 serving ( 3 oz ),85.0,135,24.5,0.0,3.4,0.0,high_protein|diet_friendly
+usda-sr-174487,"Ostrich, oyster, raw",,Poultry Products,Global,non_vegetarian,1 serving ( cooked from 4 oz raw),85.0,106,18.3,0.0,3.1,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-172844,"Ostrich, round, raw",,Poultry Products,Global,non_vegetarian,1 serving (cooked from 4 oz raw),85.0,99,18.7,0.0,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172845,"Ostrich, tenderloin, raw",,Poultry Products,Global,non_vegetarian,1 serving (cooked from 4 oz raw),85.0,105,18.8,0.0,2.7,0.0,high_protein|low_calorie|diet_friendly
+usda-sr-174489,"Ostrich, top loin, raw",,Poultry Products,Global,non_vegetarian,1 serving (cooked from 4 oz raw),85.0,101,18.4,0.0,2.5,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-sr-172419,"Quail, meat only, raw",,Poultry Products,Global,non_vegetarian,1 quail,92.0,123,20.0,0.0,4.2,0.0,high_protein|diet_friendly
+usda-fndds-2706434,Barbecue chicken,,Poultry mixed dishes,Global,non_vegetarian,1 cup,240.0,401,45.6,29.4,11.1,0.7,high_protein|diet_friendly
+usda-fndds-2708745,Chicken cornbread,,Poultry mixed dishes,Global,non_vegetarian,"1 piece (2-1/2"" x 2-1/2"" x 1-1/2"")",67.0,112,9.2,6.3,5.5,0.3,high_protein|diet_friendly
+usda-fndds-2706527,Chicken or turkey hash,,Poultry mixed dishes,Global,non_vegetarian,1 cup,190.0,209,18.2,15.7,7.8,2.5,high_protein|diet_friendly
+usda-fndds-2706439,Chicken with mole sauce,,Poultry mixed dishes,Global,non_vegetarian,1 cup,244.0,334,46.3,7.9,13.6,0.7,high_protein|diet_friendly
+usda-fndds-2706426,Chili with chicken,,Poultry mixed dishes,Global,non_vegetarian,1 cup,255.0,255,36.0,6.1,9.5,1.3,high_protein|diet_friendly
+usda-fndds-2706425,Chili with chicken and beans,,Poultry mixed dishes,Global,non_vegetarian,1 cup,255.0,252,26.0,26.1,5.3,7.7,high_protein|high_fiber|low_fat|diet_friendly
+usda-fndds-2708418,Congee,,Rice,Global,vegan,1 cup,255.0,99,2.0,21.4,0.2,0.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2708426,"Rice, white and wild, cooked, no added fat",,Rice,Global,vegan,"1 cup, cooked",166.0,131,3.0,28.6,0.3,0.8,low_calorie|low_fat|diet_friendly
+usda-fndds-2708950,"Bibimbap, Korean",,Rice mixed dishes,Global,non_vegetarian,1 cup,162.0,123,8.9,13.1,4.0,1.8,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2708984,"Congee, with egg",,Rice mixed dishes,Global,eggetarian,1 cup,255.0,153,8.0,17.6,5.3,0.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2706727,Jambalaya with meat and rice,,Rice mixed dishes,Global,non_vegetarian,1 cup,244.0,393,33.6,21.1,19.4,1.7,high_protein|diet_friendly
+usda-fndds-2706463,Ceviche,,Seafood mixed dishes,Global,non_vegetarian,1 cup,250.0,158,26.3,8.9,1.9,1.2,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2706551,Gefilte fish,,Seafood mixed dishes,Global,non_vegetarian,1 cup,250.0,205,26.0,21.9,1.0,1.0,high_protein|low_fat|diet_friendly
+usda-fndds-2706850,Lomi salmon,,Seafood mixed dishes,Global,non_vegetarian,1 cup,234.0,140,17.7,7.7,4.4,2.3,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2706337,Abalone,,Shellfish,Global,vegan,1 cup,135.0,239,28.7,10.1,8.3,0.0,high_protein|diet_friendly
+usda-fndds-2706344,Crab,,Shellfish,Global,non_vegetarian,1 crab,40.0,33,7.2,0.0,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2706349,Lobster,,Shellfish,Global,non_vegetarian,1 lobster,200.0,194,41.8,0.0,1.9,0.0,high_protein|low_fat|diet_friendly
+usda-fndds-2706350,Mussels,,Shellfish,Global,non_vegetarian,1 cup,135.0,147,20.3,6.3,3.8,0.0,high_protein|low_fat|diet_friendly
+usda-fndds-2706335,Turtle,,Shellfish,Global,vegan,1 cup,135.0,212,33.2,0.0,7.8,0.0,high_protein|diet_friendly
+usda-fndds-2710504,Corn beverage,,Smoothies and grain drinks,Global,vegan,1 cup,240.0,106,2.0,22.6,0.5,1.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2710604,Frescavena,,Smoothies and grain drinks,Global,vegan,1 cup,248.0,112,0.6,26.3,0.4,0.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2705513,"Fruit smoothie, NFS",,Smoothies and grain drinks,Global,vegetarian,1 cup,216.0,143,5.0,25.9,2.4,2.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709339,"Fruit smoothie, bottled",,Smoothies and grain drinks,Global,vegan,1 cup,248.0,124,1.2,28.9,0.7,1.5,low_calorie|low_fat|diet_friendly
+usda-fndds-2709338,"Fruit smoothie, light",,Smoothies and grain drinks,Global,vegetarian,1 cup,216.0,114,5.6,21.0,1.3,2.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2705512,Licuado or Batido,,Smoothies and grain drinks,Global,vegetarian,1 cup,216.0,162,5.0,28.4,3.1,1.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709144,"Soup, NFS",,"Soups, broth-based",Global,non_vegetarian,1 cup,245.0,120,8.6,14.9,3.2,4.4,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2707453,"Soup, bean",,"Soups, broth-based",Global,vegan,1 cup,255.0,171,9.6,29.6,1.9,10.2,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2710115,"Soup, beef",,"Soups, broth-based",Global,non_vegetarian,1 cup,245.0,115,8.0,9.9,5.0,2.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2707132,"Soup, broth",,"Soups, broth-based",Global,non_vegetarian,1 cup,240.0,14,2.1,0.6,0.5,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709311,"Soup, fruit",,"Soups, broth-based",Global,vegan,1 cup,245.0,74,1.3,17.2,0.3,2.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2707462,"Soup, lentil",,"Soups, broth-based",Global,vegan,1 cup,255.0,153,9.7,26.0,1.8,9.4,high_protein|low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2707129,"Soup, pozole",,"Soups, broth-based",Global,non_vegetarian,1 cup,245.0,105,8.3,11.2,3.0,2.2,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2709146,"Soup, rice",,"Soups, broth-based",Global,non_vegetarian,1 cup,245.0,125,8.7,16.6,2.8,1.2,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2707473,"Veggie burger patty, no bun",,Soy and meat-alternative products,Global,vegan,1 patty,100.0,177,15.7,14.3,6.3,4.9,high_protein|diet_friendly
+usda-fndds-2709615,"Spinach, fresh, cooked, no added fat",,Spinach,Global,vegan,1 cup,180.0,59,6.1,5.6,1.3,3.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2709614,"Spinach, raw",,Spinach,Global,vegan,1 cup,25.0,7,0.7,0.6,0.2,0.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2706387,Steak teriyaki,,Stir-fry and soy-based sauce mixtures,Global,non_vegetarian,100 g,100.0,198,28.9,1.9,8.2,0.0,high_protein|diet_friendly
+usda-fndds-2709283,"Strawberries, raw",,Strawberries,Global,vegan,1 cup,150.0,54,1.0,11.9,0.3,2.7,low_calorie|low_fat|diet_friendly
+usda-fndds-2709860,"Green beans, fresh, cooked with butter or margarine",,String beans,Global,vegetarian,1 cup,145.0,88,2.9,10.8,3.7,4.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709859,"Green beans, fresh, cooked with oil",,String beans,Global,vegan,1 cup,145.0,99,2.9,10.8,4.8,4.3,low_calorie|diet_friendly
+usda-fndds-2709852,"Green beans, fresh, cooked, no added fat",,String beans,Global,vegan,1 cup,140.0,59,2.9,10.8,0.4,4.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709769,"Green beans, raw",,String beans,Global,vegan,1 cup,100.0,40,2.0,7.4,0.3,3.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710706,"Water, NFS",,Tap water,Global,vegan,1 cup,240.0,0,0.0,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710512,Iced Tea / Lemonade juice drink,,Tea,Global,vegan,1 bottle (12 fl oz),360.0,122,0.7,32.9,0.2,1.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2710514,"Iced Tea / Lemonade juice drink, diet",,Tea,Global,vegan,1 fl oz (no ice),30.0,1,0.0,0.2,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710513,"Iced Tea / Lemonade juice drink, light",,Tea,Global,vegan,1 bottle (12 fl oz),360.0,76,0.8,22.0,0.1,1.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2710508,"Tea, bubble",,Tea,Global,vegetarian,1 cup,240.0,132,0.9,24.8,3.3,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2710507,"Tea, ginger",,Tea,Global,vegan,1 cup,240.0,2,0.0,0.4,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710505,"Tea, hot, chamomile",,Tea,Global,vegan,1 cup,240.0,2,0.0,0.5,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710502,"Tea, hot, herbal",,Tea,Global,vegan,1 cup,240.0,2,0.0,0.5,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710503,"Tea, hot, hibiscus",,Tea,Global,vegan,1 cup,240.0,0,0.0,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710488,"Tea, hot, leaf, black",,Tea,Global,vegan,1 cup,240.0,2,0.0,0.7,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710490,"Tea, hot, leaf, green",,Tea,Global,vegan,1 cup,240.0,2,0.5,0.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2710506,"Tea, hot, with milk",,Tea,Global,vegetarian,1 cup,240.0,122,3.8,21.5,2.5,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2710509,"Tea, kombucha",,Tea,Global,vegan,1 can or bottle (12 fl oz),372.0,60,0.4,14.8,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2709719,"Tomatoes, raw",,Tomatoes,Global,vegan,1 slice,20.0,4,0.2,0.8,0.1,0.2,low_calorie|low_fat|diet_friendly
+usda-fndds-2707823,"Tortilla, corn",,Tortillas,Global,vegan,1 medium,28.0,61,1.6,12.5,0.8,1.8,high_fiber|low_fat|diet_friendly
+usda-fndds-2705928,Ostrich,,"Turkey, duck, other poultry",Global,non_vegetarian,1 cup,135.0,235,35.0,0.0,9.5,0.0,high_protein|diet_friendly
+usda-fndds-2706104,"Turkey, NFS",,"Turkey, duck, other poultry",Global,non_vegetarian,1 small or thin slice,30.0,42,8.6,0.0,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2706127,"Turkey, neck",,"Turkey, duck, other poultry",Global,non_vegetarian,1 small neck (from 11 to 13 lb turkey),115.0,185,25.6,0.0,8.4,0.0,high_protein|diet_friendly
+usda-fndds-2707812,Cornbread stuffing,,Turnovers and other grain-based items,Global,vegan,"1 cup, NFS",200.0,358,5.8,43.8,17.6,5.8,high_fiber|diet_friendly
+usda-fndds-2710039,"Artichokes, stuffed",,Vegetable dishes,Global,vegetarian,1 stuffed globe,250.0,400,13.3,55.7,14.8,9.8,high_fiber|diet_friendly
+usda-fndds-2709832,"Cobb salad, no dressing",,Vegetable dishes,Global,non_vegetarian,1 cup,105.0,98,11.9,2.8,4.5,1.3,high_protein|low_calorie|diet_friendly
+usda-fndds-2709830,"Greek Salad, no dressing",,Vegetable dishes,Global,non_vegetarian,1 cup,105.0,50,2.9,4.6,2.4,1.6,low_calorie|low_fat|diet_friendly
+usda-fndds-2710040,Green bean casserole,,Vegetable dishes,Global,vegetarian,1 cup,230.0,129,4.5,16.2,5.1,4.4,low_calorie|low_fat|diet_friendly
+usda-fndds-2710063,"Stew, vegetable",,Vegetable dishes,Global,vegan,1 cup,255.0,120,3.6,25.7,0.6,5.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-fndds-2709682,Beet juice,,Vegetable juice,Global,vegan,1 fl oz (no ice),31.0,8,0.2,1.8,0.0,0.3,low_calorie|low_fat|diet_friendly
+usda-fndds-2709811,Celery juice,,Vegetable juice,Global,vegan,1 cup,236.0,40,1.2,7.8,0.4,3.8,low_calorie|low_fat|diet_friendly
+usda-sr-168385,"Amaranth leaves, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,28.0,6,0.7,1.1,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169203,"Arrowhead, raw",,Vegetables and Vegetable Products,Global,vegan,1 large,25.0,25,1.3,5.1,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168490,"Arrowroot, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, sliced",120.0,78,5.1,16.1,0.2,1.6,low_calorie|low_fat|diet_friendly
+usda-sr-169387,"Arugula, raw",,Vegetables and Vegetable Products,Global,vegan,1 leaf,2.0,0,0.1,0.1,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169210,"Bamboo shoots, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup (1/2"" slices)",151.0,41,3.9,7.9,0.5,3.3,low_calorie|low_fat|diet_friendly
+usda-sr-170481,"Borage, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup (1"" pieces)",89.0,19,1.6,2.7,0.6,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169329,"Broccoli, leaves, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,28,3.0,5.1,0.3,2.3,low_calorie|low_fat|diet_friendly
+usda-sr-169331,"Broccoli, stalks, raw",,Vegetables and Vegetable Products,Global,vegan,1 stalk,114.0,32,3.4,6.0,0.4,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-170383,"Brussels sprouts, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,88.0,38,3.0,7.9,0.3,3.3,low_calorie|low_fat|diet_friendly
+usda-sr-169974,"Burdock root, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup (1"" pieces)",118.0,85,1.8,20.5,0.2,3.9,low_calorie|low_fat|diet_friendly
+usda-sr-170385,"Butterbur, (fuki), raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,94.0,13,0.4,3.4,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168572,"Cabbage, napa, cooked",,Vegetables and Vegetable Products,Global,vegan,1 cup,109.0,13,1.2,2.4,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169975,"Cabbage, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",89.0,22,1.1,5.2,0.1,2.2,low_calorie|low_fat|diet_friendly
+usda-sr-170388,"Cabbage, savoy, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, shredded",70.0,19,1.4,4.3,0.1,2.2,low_calorie|low_fat|diet_friendly
+usda-sr-169981,"Cardoon, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, shredded",178.0,30,1.2,7.2,0.2,2.8,low_calorie|low_fat|diet_friendly
+usda-sr-168568,"Carrots, baby, raw",,Vegetables and Vegetable Products,Global,vegan,1 NLEA serving,85.0,30,0.5,7.0,0.1,2.5,low_calorie|low_fat|diet_friendly
+usda-sr-169389,"Cauliflower, green, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,64.0,20,1.9,3.9,0.2,2.0,low_calorie|low_fat|diet_friendly
+usda-sr-170400,"Celeriac, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,156.0,66,2.3,14.4,0.5,2.8,low_calorie|low_fat|diet_friendly
+usda-sr-169990,"Celtuce, raw",,Vegetables and Vegetable Products,Global,vegan,1 leaf,8.0,1,0.1,0.3,0.0,0.1,low_calorie|low_fat|diet_friendly
+usda-sr-169991,"Chard, swiss, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,36.0,7,0.6,1.3,0.1,0.6,low_calorie|low_fat|diet_friendly
+usda-sr-170402,"Chayote, fruit, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup (1"" pieces)",132.0,25,1.1,6.0,0.2,2.2,low_calorie|low_fat|diet_friendly
+usda-sr-169992,"Chicory greens, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",29.0,7,0.5,1.4,0.1,1.2,low_calorie|low_fat|diet_friendly
+usda-sr-169993,"Chicory roots, raw",,Vegetables and Vegetable Products,Global,vegan,1 root,60.0,43,0.8,10.5,0.1,0.9,low_calorie|low_fat|diet_friendly
+usda-sr-170404,"Chicory, witloof, raw",,Vegetables and Vegetable Products,Global,vegan,1 head,53.0,9,0.5,2.1,0.1,1.6,low_calorie|low_fat|diet_friendly
+usda-sr-168491,"Chrysanthemum leaves, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",51.0,12,1.7,1.5,0.3,1.5,low_calorie|low_fat|diet_friendly
+usda-sr-169995,"Chrysanthemum, garland, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup (1"" pieces)",25.0,6,0.8,0.8,0.1,0.8,low_calorie|low_fat|diet_friendly
+usda-sr-169997,"Coriander (cilantro) leaves, raw",,Vegetables and Vegetable Products,Global,vegan,9 sprigs,20.0,5,0.4,0.7,0.1,0.6,low_calorie|low_fat|diet_friendly
+usda-sr-169219,"Cornsalad, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,56.0,12,1.1,2.0,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169224,"Cowpeas, leafy tips, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",36.0,10,1.5,1.7,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168407,"Cress, garden, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,50.0,16,1.3,2.8,0.3,0.6,low_calorie|low_fat|diet_friendly
+usda-sr-169225,"Cucumber, peeled, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, pared, chopped",133.0,13,0.8,2.9,0.2,0.9,low_calorie|low_fat|diet_friendly
+usda-sr-168409,"Cucumber, with peel, raw",,Vegetables and Vegetable Products,Global,vegan,0.5 cup slices,52.0,8,0.3,1.9,0.1,0.3,low_calorie|low_fat|diet_friendly
+usda-sr-170076,"Dock, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",133.0,29,2.7,4.3,0.9,3.9,low_calorie|low_fat|diet_friendly
+usda-sr-168416,"Drumstick leaves, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",21.0,13,2.0,1.7,0.3,0.4,low_calorie|low_fat|diet_friendly
+usda-sr-170483,"Drumstick pods, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,100.0,37,2.1,8.5,0.2,3.2,low_calorie|low_fat|diet_friendly
+usda-sr-168412,"Endive, raw",,Vegetables and Vegetable Products,Global,vegan,"0.5 cup, chopped",25.0,4,0.3,0.8,0.1,0.8,low_calorie|low_fat|diet_friendly
+usda-sr-169398,"Epazote, raw",,Vegetables and Vegetable Products,Global,vegan,1 tbsp,0.8,0,0.0,0.1,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169405,"Fiddlehead ferns, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,34,4.5,5.5,0.4,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169399,"Fireweed, leaves, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",23.0,24,1.1,4.4,0.6,2.4,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-168581,"Fungi, Cloud ears, dried",,Vegetables and Vegetable Products,Global,vegan,1 cup,28.0,80,2.6,20.4,0.2,19.6,high_fiber|low_fat|diet_friendly
+usda-sr-169231,"Ginger root, raw",,Vegetables and Vegetable Products,Global,vegan,"0.25 cup slices (1"" dia)",24.0,19,0.4,4.3,0.2,0.5,low_calorie|low_fat|diet_friendly
+usda-sr-168575,"Grape leaves, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,14.0,13,0.8,2.4,0.3,1.5,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169236,"Jerusalem-artichokes, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,150.0,110,3.0,26.2,0.0,2.4,low_calorie|low_fat|diet_friendly
+usda-sr-169237,"Jew's ear, (pepeao), raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,99.0,25,0.5,6.7,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168419,"Jute, potherb, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,28.0,10,1.3,1.6,0.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169241,"Kanpyo, (dried gourd strips)",,Vegetables and Vegetable Products,Global,vegan,0.5 cup,27.0,70,2.3,17.6,0.2,2.6,high_fiber|low_fat|diet_friendly
+usda-sr-169244,"Lambsquarters, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,43,4.2,7.3,0.8,4.0,low_calorie|low_fat|diet_friendly
+usda-sr-168573,"Lemon grass (citronella), raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,67.0,66,1.2,17.0,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168427,"Lentils, sprouted, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,77.0,82,6.9,17.0,0.4,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169249,"Lettuce, green leaf, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup shredded,36.0,5,0.5,1.0,0.1,0.5,low_calorie|low_fat|diet_friendly
+usda-sr-168431,"Lettuce, red leaf, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup shredded,28.0,4,0.4,0.6,0.1,0.3,low_calorie|low_fat|diet_friendly
+usda-sr-169250,"Lotus root, raw",,Vegetables and Vegetable Products,Global,vegan,"10 slices (2-1/2"" dia)",81.0,60,2.1,14.0,0.1,4.0,low_calorie|low_fat|diet_friendly
+usda-sr-169400,"Malabar spinach, cooked",,Vegetables and Vegetable Products,Global,vegan,1 cup,44.0,10,1.3,1.2,0.3,0.9,low_calorie|low_fat|diet_friendly
+usda-sr-168432,"Mountain yam, hawaii, raw",,Vegetables and Vegetable Products,Global,vegan,"0.5 cup, cubes",68.0,46,0.9,11.1,0.1,1.7,low_calorie|low_fat|diet_friendly
+usda-sr-168422,"Mushrooms, Chanterelle, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,54.0,17,0.8,3.7,0.3,2.1,low_calorie|low_fat|diet_friendly
+usda-sr-169382,"Mushrooms, enoki, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup whole,64.0,24,1.7,5.0,0.2,1.7,low_calorie|low_fat|diet_friendly
+usda-sr-169403,"Mushrooms, maitake, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup diced,70.0,22,1.4,4.9,0.1,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-168423,"Mushrooms, morel, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,66.0,20,2.1,3.4,0.4,1.8,low_calorie|low_fat|diet_friendly
+usda-sr-168580,"Mushrooms, oyster, raw",,Vegetables and Vegetable Products,Global,non_vegetarian,1 large,148.0,49,4.9,9.0,0.6,3.4,low_calorie|low_fat|diet_friendly
+usda-sr-169255,"Mushrooms, portabella, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup diced,86.0,19,1.8,3.3,0.3,1.1,low_calorie|low_fat|diet_friendly
+usda-sr-168436,"Mushrooms, shiitake, dried",,Vegetables and Vegetable Products,Global,vegan,1 mushroom,3.6,11,0.3,2.7,0.0,0.4,high_fiber|low_fat|diet_friendly
+usda-sr-169242,"Mushrooms, shiitake, raw",,Vegetables and Vegetable Products,Global,vegan,1 piece whole,19.0,6,0.4,1.3,0.1,0.5,low_calorie|low_fat|diet_friendly
+usda-sr-169251,"Mushrooms, white, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, pieces or slices",70.0,15,2.2,2.3,0.2,0.7,low_calorie|low_fat|diet_friendly
+usda-sr-168440,"New Zealand spinach, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",56.0,8,0.8,1.4,0.1,0.8,low_calorie|low_fat|diet_friendly
+usda-sr-168571,"Nopales, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, sliced",86.0,14,1.1,2.9,0.1,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-169260,"Okra, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,100.0,33,1.9,7.5,0.2,3.2,low_calorie|low_fat|diet_friendly
+usda-sr-170008,"Onions, sweet, raw",,Vegetables and Vegetable Products,Global,vegan,1 NLEA serving,148.0,47,1.2,11.2,0.1,1.3,low_calorie|low_fat|diet_friendly
+usda-sr-170007,"Onions, welsh, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,34,1.9,6.5,0.4,2.4,low_calorie|low_fat|diet_friendly
+usda-sr-170417,"Parsnips, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,133.0,100,1.6,23.9,0.4,6.5,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-170010,"Peas, edible-podded, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",98.0,41,2.7,7.4,0.2,2.5,low_calorie|low_fat|diet_friendly
+usda-sr-170419,"Peas, green, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,145.0,117,7.9,21.0,0.6,8.3,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169394,"Pepper, banana, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,124.0,33,2.1,6.6,0.6,4.2,low_calorie|low_fat|diet_friendly
+usda-sr-169396,"Peppers, ancho, dried",,Vegetables and Vegetable Products,Global,vegan,1 pepper,17.0,48,2.0,8.7,1.4,3.7,high_fiber|diet_friendly
+usda-sr-168578,"Peppers, hungarian, raw",,Vegetables and Vegetable Products,Global,vegan,1 pepper,27.0,8,0.2,1.8,0.1,0.3,low_calorie|low_fat|diet_friendly
+usda-sr-168576,"Peppers, jalapeno, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, sliced",90.0,26,0.8,5.8,0.3,2.5,low_calorie|low_fat|diet_friendly
+usda-sr-168579,"Peppers, pasilla, dried",,Vegetables and Vegetable Products,Global,vegan,1 pepper,7.0,24,0.9,3.6,1.1,1.9,high_fiber|diet_friendly
+usda-sr-169395,"Peppers, serrano, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",105.0,34,1.8,7.0,0.5,3.9,low_calorie|low_fat|diet_friendly
+usda-sr-170032,"Potatoes, raw, skin",,Vegetables and Vegetable Products,Global,vegan,1 skin,38.0,22,1.0,4.7,0.0,0.9,low_calorie|low_fat|diet_friendly
+usda-sr-169270,"Pumpkin flowers, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,33.0,5,0.3,1.1,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169272,"Pumpkin leaves, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,39.0,7,1.2,0.9,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168448,"Pumpkin, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup (1"" cubes)",116.0,30,1.2,7.5,0.1,0.6,low_calorie|low_fat|diet_friendly
+usda-sr-169274,"Purslane, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,43.0,9,0.9,1.5,0.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168451,"Radishes, oriental, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,116.0,21,0.7,4.8,0.1,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-169276,"Radishes, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,116.0,19,0.8,3.9,0.1,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-170081,"Radishes, white icicle, raw",,Vegetables and Vegetable Products,Global,vegan,0.5 cup slices,50.0,7,0.6,1.3,0.1,0.7,low_calorie|low_fat|diet_friendly
+usda-sr-168454,"Rutabagas, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, cubes",140.0,52,1.5,12.1,0.2,3.2,low_calorie|low_fat|diet_friendly
+usda-sr-170090,"Seaweed, agar, dried",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,306,6.2,80.9,0.3,7.7,high_fiber|low_fat|diet_friendly
+usda-sr-169280,"Seaweed, agar, raw",,Vegetables and Vegetable Products,Global,vegan,2 tbsp (1/8 cup),10.0,3,0.1,0.7,0.0,0.1,low_calorie|low_fat|diet_friendly
+usda-sr-168456,"Seaweed, irishmoss, raw",,Vegetables and Vegetable Products,Global,vegan,2 tbsp (1/8 cup),10.0,5,0.2,1.2,0.0,0.1,low_calorie|low_fat|diet_friendly
+usda-sr-168457,"Seaweed, kelp, raw",,Vegetables and Vegetable Products,Global,vegan,2 tbsp (1/8 cup),10.0,4,0.2,1.0,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-sr-168458,"Seaweed, laver, raw",,Vegetables and Vegetable Products,Global,vegan,10 sheets,26.0,9,1.5,1.3,0.1,0.1,low_calorie|low_fat|diet_friendly
+usda-sr-170091,"Seaweed, spirulina, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,26,5.9,2.4,0.4,0.4,low_calorie|low_fat|diet_friendly
+usda-sr-168459,"Sesbania flower, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup flowers,20.0,5,0.3,1.3,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-170499,"Shallots, raw",,Vegetables and Vegetable Products,Global,vegan,1 tbsp chopped,10.0,7,0.2,1.7,0.0,0.3,low_calorie|low_fat|diet_friendly
+usda-sr-169282,"Soybeans, green, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,256.0,376,33.2,28.3,17.4,10.8,high_protein|high_fiber|diet_friendly
+usda-sr-169303,"Sweet potato leaves, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",35.0,15,0.9,3.1,0.2,1.9,low_calorie|low_fat|diet_friendly
+usda-sr-168487,"Taro leaves, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,28.0,12,1.4,1.9,0.2,1.0,low_calorie|low_fat|diet_friendly
+usda-sr-168489,"Taro shoots, raw",,Vegetables and Vegetable Products,Global,vegan,0.5 cup slices,43.0,5,0.4,1.0,0.0,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-169308,"Taro, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, sliced",104.0,116,1.6,27.5,0.2,4.3,low_calorie|low_fat|diet_friendly
+usda-sr-169310,"Taro, tahitian, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,125.0,55,3.5,8.6,1.2,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168566,"Tomatillos, raw",,Vegetables and Vegetable Products,Global,vegan,1 medium,34.0,11,0.3,2.0,0.3,0.6,low_calorie|low_fat|diet_friendly
+usda-sr-170456,"Tomatoes, green, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup,180.0,41,2.2,9.2,0.4,2.0,low_calorie|low_fat|diet_friendly
+usda-sr-170502,"Tomatoes, orange, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",158.0,25,1.8,5.0,0.3,1.4,low_calorie|low_fat|diet_friendly
+usda-sr-170096,"Tomatoes, yellow, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",139.0,21,1.4,4.1,0.4,1.0,low_calorie|low_fat|diet_friendly
+usda-sr-170061,"Turnip greens, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",55.0,18,0.8,3.9,0.2,1.8,low_calorie|low_fat|diet_friendly
+usda-sr-170465,"Turnips, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, cubes",130.0,36,1.2,8.4,0.1,2.3,low_calorie|low_fat|diet_friendly
+usda-sr-170474,"Vinespinach, (basella), raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,19,1.8,3.4,0.3,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-168583,"Wasabi, root, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, sliced",130.0,142,6.2,30.6,0.8,10.1,high_fiber|low_fat|diet_friendly
+usda-sr-169301,"Water convolvulus,raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, chopped",56.0,11,1.5,1.8,0.1,1.2,low_calorie|low_fat|diet_friendly
+usda-sr-170478,"Winged bean leaves, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,74,5.8,14.1,1.1,0.0,low_calorie|low_fat|diet_friendly
+usda-sr-170070,"Winged bean tuber, raw",,Vegetables and Vegetable Products,Global,vegan,100 g,100.0,148,11.6,28.1,0.9,0.0,high_protein|low_fat|diet_friendly
+usda-sr-170071,"Yam, raw",,Vegetables and Vegetable Products,Global,vegan,"1 cup, cubes",150.0,177,2.3,41.8,0.3,6.2,high_fiber|low_fat|diet_friendly
+usda-sr-170073,"Yambean (jicama), raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,120.0,46,0.9,10.6,0.1,5.9,low_calorie|high_fiber|low_fat|diet_friendly
+usda-sr-169222,"Yardlong bean, raw",,Vegetables and Vegetable Products,Global,vegan,1 cup slices,91.0,43,2.5,7.6,0.4,0.0,low_calorie|low_fat|diet_friendly
+usda-fndds-2707764,"Bread, black",,Yeast breads,Global,vegan,1 small or thin/very thin slice,24.0,60,2.1,11.4,0.7,1.6,high_fiber|diet_friendly
+usda-fndds-2707642,"Bread, potato",,Yeast breads,Global,vegan,1 small or thin/very thin slice,26.0,69,3.2,12.2,0.8,1.6,high_fiber|diet_friendly
+usda-fndds-2705431,"Yogurt, Greek, low fat milk, fruit",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,136,13.7,16.2,2.0,0.1,high_protein|low_fat|diet_friendly
+usda-fndds-2705423,"Yogurt, Greek, low fat milk, plain",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,100,15.3,5.4,2.0,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2705432,"Yogurt, Greek, nonfat milk, fruit",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,124,13.8,16.2,0.5,0.1,high_protein|low_fat|diet_friendly
+usda-fndds-2705424,"Yogurt, Greek, nonfat milk, plain",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,88,15.4,5.5,0.6,0.0,high_protein|low_calorie|low_fat|diet_friendly
+usda-fndds-2705438,"Yogurt, Greek, whole milk, flavors other than fruit",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,156,11.7,13.8,5.9,0.0,high_protein|diet_friendly
+usda-fndds-2705430,"Yogurt, Greek, whole milk, fruit",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,171,11.8,17.7,5.9,0.1,high_protein|diet_friendly
+usda-fndds-2705422,"Yogurt, Greek, whole milk, plain",,"Yogurt, Greek",Global,vegetarian,1 5.3 oz container,150.0,141,13.2,7.1,6.6,0.0,high_protein|diet_friendly
+usda-fndds-2705443,Yogurt tube,,"Yogurt, regular",Global,vegetarian,1 tube,75.0,61,3.3,10.3,0.8,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2705414,"Yogurt, NFS",,"Yogurt, regular",Global,vegetarian,1 4 oz container,113.0,106,7.5,11.5,3.2,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2705442,"Yogurt, liquid",,"Yogurt, regular",Global,vegetarian,1 bottle,150.0,111,5.5,18.8,1.6,0.1,low_calorie|low_fat|diet_friendly
+usda-fndds-2705426,"Yogurt, whole milk, fruit",,"Yogurt, regular",Global,vegetarian,1 4 oz container,113.0,120,3.8,16.3,4.4,0.2,low_calorie|diet_friendly
