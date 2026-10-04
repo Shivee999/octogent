@@ -133,14 +133,21 @@ def load_medicines():
                 "sources": row.get("sources", ""),
                 "us_brands": [b for b in (row.get("us_brand_examples") or "").split("|") if b],
             }
-    aliases = defaultdict(set)
+    # alias -> {molecule: rank}; lower rank = more important for matching an Indian label
+    # (INN names like "paracetamol" must never be cut off by thousands of US brand names).
+    rank = {"inn_ip_or_alternate_name": 0, "spelling_variant": 1, "salt_or_ester_form": 2, "us_brand": 3}
+    aliases = defaultdict(dict)
     path = os.path.join(RES, "medicine_aliases.csv")
     if os.path.exists(path):
         with open(path, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
+                r = rank.get(row.get("alias_type"), 4)
+                if r == 3 and "NDA/BLA" not in (row.get("note") or "") and "nda" not in (row.get("note") or "").lower():
+                    r = 4  # generic/OTC brand listings are noisy; keep them after innovator brands
                 for m in (row.get("molecules") or "").split("|"):
                     if m in meds:
-                        aliases[row["alias"].strip().lower()].add(m)
+                        a = row["alias"].strip().lower()
+                        aliases[a][m] = min(r, aliases[a].get(m, 9))
     return meds, aliases
 
 
@@ -182,13 +189,16 @@ def main():
     classified = {k: v for k, v in meds.items() if v["classes"]}
     by_mol_alias = defaultdict(list)
     for a, ms in aliases.items():
-        for m in ms:
-            if m in classified and a != m:
-                by_mol_alias[m].append(a)
+        for m, r in ms.items():
+            if a != m:
+                by_mol_alias[m].append((r, a))
+    by_mol_alias = {m: [a for r, a in sorted(v) if r <= 2] + [a for r, a in sorted(v) if r > 2][:40]
+                    for m, v in by_mol_alias.items()}
     with open(os.path.join(HERE, "medicines.json"), "w", encoding="utf-8") as f:
-        json.dump({"meta": {"count": len(classified), "note": "Only molecules with at least one interaction class. "
-                            "aliases are lower-case brand/alternate names for scanner matching."},
-                   "medicines": [dict(v, aliases=sorted(by_mol_alias.get(k, []))[:40]) for k, v in sorted(classified.items())]},
+        json.dump({"meta": {"count": len(meds), "classified": len(classified),
+                            "note": "classes=[] means no known herb-class interactions in this database, not 'safe'. "
+                                    "aliases are lower-case INN/alternate names, salt forms and brand names for scanner matching."},
+                   "medicines": [dict(v, aliases=by_mol_alias.get(k, [])) for k, v in sorted(meds.items())]},
                   f, ensure_ascii=False, separators=(",", ":"))
 
     rows = 0
