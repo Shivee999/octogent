@@ -1,0 +1,1469 @@
+molecule,drug_class,basis,source
+abacavir,antiretroviral,FDA EPC: Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+abacavir,antiretroviral,manual,medicine_rules.OVERRIDES
+abatacept,immunosuppressant,FDA EPC: Selective T Cell Costimulation Modulator,openFDA
+abemaciclib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+abiraterone,anticancer,FDA EPC: Cytochrome P450 17A1 Inhibitor,openFDA
+abiraterone,anticancer,manual,medicine_rules.OVERRIDES
+abrocitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+acalabrutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+acarbose,antidiabetic_other,FDA EPC: alpha-Glucosidase Inhibitor,openFDA
+acarbose,antidiabetic_other,manual,medicine_rules.OVERRIDES
+acebrophylline,theophylline,manual: ambroxol salt of theophylline-7-acetic acid (India); grouped with theophylline key (judgement call),medicine_rules.OVERRIDES
+acebutolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+aceclofenac,nephrotoxic,manual,medicine_rules.OVERRIDES
+aceclofenac,nsaid,manual,medicine_rules.OVERRIDES
+acenocoumarol,anticoagulant_vka,"manual: VKA marketed in India/EU, not US",medicine_rules.OVERRIDES
+acetaminophen,hepatotoxic,manual: dose-related hepatotoxicity (US boxed warning on Rx products),medicine_rules.OVERRIDES
+adalimumab,immunosuppressant,FDA EPC: Tumor Necrosis Factor Blocker,openFDA
+afatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+agomelatine,hepatotoxic,manual: EU SmPC requires liver-function monitoring; antidepressant with no matching spec key,medicine_rules.OVERRIDES
+alclometasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+alectinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+alfuzosin,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+aliskiren,antihypertensive,FDA EPC: Renin Inhibitor,openFDA
+aliskiren,potassium_sparing,FDA EPC: Renin Inhibitor,openFDA
+allylestrenol,hormonal_contraceptive_estrogen,manual: progestogen (India),medicine_rules.OVERRIDES
+alogliptin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+alogliptin benzoate,antidiabetic_other,FDA EPC: Dipeptidyl Peptidase 4 Inhibitor,openFDA
+alosetron,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+alprazolam,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+alprazolam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+alprazolam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+aluminum hydroxide,ppi_antacid,manual,medicine_rules.OVERRIDES
+amcinonide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+amikacin,antibiotic_other,FDA EPC: Aminoglycoside Antibacterial,openFDA
+amikacin,antibiotic_other,manual,medicine_rules.OVERRIDES
+amikacin,nephrotoxic,FDA EPC: Aminoglycoside Antibacterial,openFDA
+amikacin,nephrotoxic,manual,medicine_rules.OVERRIDES
+amiloride,potassium_sparing,FDA EPC: Potassium-sparing Diuretic,openFDA
+amiloride,potassium_sparing,manual,medicine_rules.OVERRIDES
+aminophylline,theophylline,manual,medicine_rules.OVERRIDES
+aminosalicylic acid,antitubercular,manual,medicine_rules.OVERRIDES
+amiodarone,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+amiodarone,antiarrhythmic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+amiodarone,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+amisulpride,antipsychotic,manual: not US-marketed as oral antipsychotic (IV antiemetic only),medicine_rules.OVERRIDES
+amitriptyline,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+amitriptyline,antidepressant_tca,manual,medicine_rules.OVERRIDES
+amlodipine,antihypertensive,FDA EPC: Calcium Channel Blocker,openFDA
+amlodipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+amlodipine,antihypertensive,manual,medicine_rules.OVERRIDES
+amlodipine benzoate,antihypertensive,FDA EPC: Calcium Channel Blocker,openFDA
+amlodipine benzoate,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+amoxapine,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+amoxapine,antidepressant_tca,manual,medicine_rules.OVERRIDES
+amoxicillin,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+amoxicillin,antibiotic_other,manual,medicine_rules.OVERRIDES
+amphotericin b,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+ampicillin,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+ampicillin,antibiotic_other,manual,medicine_rules.OVERRIDES
+anastrozole,anticancer,FDA EPC: Aromatase Inhibitor,openFDA
+anastrozole,anticancer,manual,medicine_rules.OVERRIDES
+apixaban,anticoagulant_doac,FDA EPC: Factor Xa Inhibitor,openFDA
+apixaban,anticoagulant_doac,manual,medicine_rules.OVERRIDES
+aprepitant,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+argatroban,anticoagulant_heparin,manual: parenteral direct thrombin inhibitor grouped with heparin key,medicine_rules.OVERRIDES
+aripiprazole,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+aripiprazole,antipsychotic,manual,medicine_rules.OVERRIDES
+arsenic trioxide,anticancer,manual,medicine_rules.OVERRIDES
+asenapine,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+asenapine,antipsychotic,manual,medicine_rules.OVERRIDES
+aspirin,antiplatelet,FDA EPC: Platelet Aggregation Inhibitor,openFDA
+aspirin,antiplatelet,manual,medicine_rules.OVERRIDES
+aspirin,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+aspirin,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+aspirin,nsaid,manual,medicine_rules.OVERRIDES
+atazanavir,antiretroviral,FDA MoA: HIV Protease Inhibitors,openFDA
+atazanavir,antiretroviral,manual,medicine_rules.OVERRIDES
+atenolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+atezolizumab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+atomoxetine,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+atorvastatin,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+atorvastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+atorvastatin,statin,manual,medicine_rules.OVERRIDES
+atorvastatin calcium propylene glycol solvate,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+atracurium,anaesthesia_surgery,FDA EPC: Nondepolarizing Neuromuscular Blocker,openFDA
+atracurium,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+avanafil,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+avanafil,nitrate_pde5,FDA EPC: Phosphodiesterase 5 Inhibitor,openFDA
+avanafil,nitrate_pde5,manual,medicine_rules.OVERRIDES
+avapritinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+avelumab,anticancer,FDA EPC: Programmed Death Ligand-1 Blocker,openFDA
+avibactam,antibiotic_other,FDA EPC: beta Lactamase Inhibitor,openFDA
+axicabtagene ciloleucel,anticancer,FDA EPC: CD19-directed Chimeric Antigen Receptor,openFDA
+axitinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+azacitidine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+azathioprine,anticancer,FDA EPC: Purine Antimetabolite,openFDA
+azathioprine,immunosuppressant,manual,medicine_rules.OVERRIDES
+azelnidipine,antihypertensive,manual,medicine_rules.OVERRIDES
+azilsartan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+azilsartan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+azithromycin,antibiotic_other,FDA EPC: Macrolide Antimicrobial,openFDA
+azithromycin,antibiotic_other,manual,medicine_rules.OVERRIDES
+aztreonam,antibiotic_other,FDA EPC: Monobactam Antibacterial,openFDA
+baricitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+basiliximab,immunosuppressant,FDA EPC: Interleukin-2 Receptor Blocking Antibody,openFDA
+basiliximab,immunosuppressant,manual,medicine_rules.OVERRIDES
+bazedoxifene,hormonal_contraceptive_estrogen,FDA EPC: Estrogen Agonist/Antagonist,openFDA
+beclomethasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+beclomethasone,corticosteroid,manual,medicine_rules.OVERRIDES
+bedaquiline,antitubercular,FDA EPC: Diarylquinoline Antimycobacterial,openFDA
+bedaquiline,antitubercular,manual,medicine_rules.OVERRIDES
+belatacept,immunosuppressant,FDA EPC: Selective T Cell Costimulation Blocker,openFDA
+belatacept,immunosuppressant,manual,medicine_rules.OVERRIDES
+belinostat,anticancer,FDA EPC: Histone Deacetylase Inhibitor,openFDA
+benazepril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+benazepril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+bendamustine,anticancer,FDA EPC: Alkylating Drug,openFDA
+benidipine,antihypertensive,manual,medicine_rules.OVERRIDES
+besifloxacin,antibiotic_chelating,FDA EPC: Quinolone Antimicrobial,openFDA
+betaine,anticancer,FDA EPC: Methylating Agent,openFDA
+betamethasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+betamethasone,corticosteroid,manual,medicine_rules.OVERRIDES
+betaxolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+bevacizumab,anticancer,manual,medicine_rules.OVERRIDES
+bexagliflozin,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+bicalutamide,anticancer,FDA EPC: Androgen Receptor Inhibitor,openFDA
+bicalutamide,anticancer,manual,medicine_rules.OVERRIDES
+bisacodyl,laxative_stimulant,FDA EPC: Stimulant Laxative,openFDA
+bisacodyl,laxative_stimulant,manual,medicine_rules.OVERRIDES
+bisoprolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+bivalirudin,anticoagulant_heparin,manual: parenteral direct thrombin inhibitor grouped with heparin key,medicine_rules.OVERRIDES
+bortezomib,anticancer,FDA EPC: Proteasome Inhibitor,openFDA
+bosentan,hepatotoxic,manual: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+bosutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+botulinum toxin type a,anaesthesia_surgery,FDA EPC: Neuromuscular Blocker,openFDA
+brentuximab vedotin,anticancer,FDA EPC: CD30-directed Immunoconjugate,openFDA
+brexpiprazole,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+brexpiprazole,antipsychotic,manual,medicine_rules.OVERRIDES
+brigatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+brigatinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+brivaracetam,antiepileptic,manual,medicine_rules.OVERRIDES
+bromfenac,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+bromfenac,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+budesonide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+budesonide,corticosteroid,manual,medicine_rules.OVERRIDES
+budesonide,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+bumetanide,diuretic_loop_thiazide,FDA EPC: Loop Diuretic,openFDA
+buprenorphine,opioid,FDA EPC: Partial Opioid Agonist,openFDA
+buprenorphine,opioid,manual,medicine_rules.OVERRIDES
+buspirone,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+busulfan,anticancer,FDA EPC: Alkylating Drug,openFDA
+butalbital,sedative_hypnotic,FDA EPC: Barbiturate,openFDA
+butalbital,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+butorphanol,opioid,FDA EPC: Opioid Agonist/Antagonist,openFDA
+butorphanol,opioid,manual,medicine_rules.OVERRIDES
+cabotegravir,antiretroviral,FDA EPC: Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor,openFDA
+cabozantinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+caffeine,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+caffeine,cyp1a2_substrate,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+calcium,iron_mineral_supplement,FDA EPC: Calcium,openFDA
+calcium carbonate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+calcium carbonate,ppi_antacid,manual,medicine_rules.OVERRIDES
+calcium citrate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+calcium citrate malate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+calcium gluconate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+calcium lactate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+canagliflozin,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+canagliflozin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+candesartan cilexetil,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+candesartan cilexetil,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+cangrelor,antiplatelet,FDA EPC: P2Y12 Platelet Inhibitor,openFDA
+cangrelor,antiplatelet,manual,medicine_rules.OVERRIDES
+cannabidiol,antiepileptic,manual,medicine_rules.OVERRIDES
+capecitabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+capecitabine,anticancer,manual,medicine_rules.OVERRIDES
+capmatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+captopril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+captopril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+carbamazepine,antiepileptic,manual,medicine_rules.OVERRIDES
+carbimazole,antithyroid,manual: prodrug of methimazole (India/UK),medicine_rules.OVERRIDES
+carbonyl iron,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+carboplatin,anticancer,FDA EPC: Platinum-based Drug,openFDA
+carfilzomib,anticancer,FDA EPC: Proteasome Inhibitor,openFDA
+cariprazine,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+cariprazine,antipsychotic,manual,medicine_rules.OVERRIDES
+carmustine,anticancer,FDA EPC: Alkylating Drug,openFDA
+carteolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+carvedilol,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+carvedilol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+castor oil,laxative_stimulant,manual,medicine_rules.OVERRIDES
+cefaclor,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefadroxil,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefazolin,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefdinir,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefepime,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefiderocol,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefixime,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefixime,antibiotic_other,manual,medicine_rules.OVERRIDES
+cefoperazone,antibiotic_other,manual,medicine_rules.OVERRIDES
+cefotaxime,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefotetan,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefoxitin,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefpodoxime,antibiotic_other,manual,medicine_rules.OVERRIDES
+cefpodoxime proxetil,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefprozil,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+ceftaroline fosamil,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+ceftazidime,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+ceftobiprole medocaril,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+ceftriaxone,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+ceftriaxone,antibiotic_other,manual,medicine_rules.OVERRIDES
+cefuroxime,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+cefuroxime,antibiotic_other,manual,medicine_rules.OVERRIDES
+celecoxib,cyp2c9_substrate,2C9 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+celecoxib,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+celecoxib,nephrotoxic,manual,medicine_rules.OVERRIDES
+celecoxib,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+celecoxib,nsaid,manual,medicine_rules.OVERRIDES
+cenobamate,antiepileptic,manual,medicine_rules.OVERRIDES
+cephalexin,antibiotic_other,FDA EPC: Cephalosporin Antibacterial,openFDA
+ceritinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+certolizumab pegol,immunosuppressant,FDA EPC: Tumor Necrosis Factor Blocker,openFDA
+cetuximab,anticancer,FDA EPC: Epidermal Growth Factor Receptor Antagonist,openFDA
+chlorambucil,anticancer,FDA EPC: Alkylating Drug,openFDA
+chloramphenicol,antibiotic_other,FDA EPC: Amphenicol-class Antibacterial,openFDA
+chlordiazepoxide,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+chlordiazepoxide,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+chlorothiazide,antihypertensive,FDA EPC: Thiazide Diuretic,openFDA
+chlorothiazide,diuretic_loop_thiazide,FDA EPC: Thiazide Diuretic,openFDA
+chlorpromazine,antipsychotic,manual,medicine_rules.OVERRIDES
+chlorthalidone,antihypertensive,FDA EPC: Thiazide-like Diuretic,openFDA
+chlorthalidone,antihypertensive,manual,medicine_rules.OVERRIDES
+chlorthalidone,diuretic_loop_thiazide,FDA EPC: Thiazide-like Diuretic,openFDA
+chlorthalidone,diuretic_loop_thiazide,manual,medicine_rules.OVERRIDES
+ciclesonide,corticosteroid,manual,medicine_rules.OVERRIDES
+cidofovir,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+cilnidipine,antihypertensive,manual: dihydropyridine CCB (India/Japan),medicine_rules.OVERRIDES
+cilostazol,antiplatelet,manual,medicine_rules.OVERRIDES
+cimetidine,ppi_antacid,FDA EPC: Histamine-2 Receptor Antagonist,openFDA
+cimetidine,ppi_antacid,manual,medicine_rules.OVERRIDES
+ciprofloxacin,antibiotic_chelating,FDA EPC: Fluoroquinolone Antibacterial,openFDA
+ciprofloxacin,antibiotic_chelating,FDA EPC: Quinolone Antimicrobial,openFDA
+ciprofloxacin,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+cisatracurium,anaesthesia_surgery,FDA EPC: Nondepolarizing Neuromuscular Blocker,openFDA
+cisatracurium,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+cisplatin,anticancer,FDA EPC: Platinum-based Drug,openFDA
+cisplatin,anticancer,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+cisplatin,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+citalopram,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+citalopram,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+cladribine,anticancer,FDA EPC: Purine Antimetabolite,openFDA
+clarithromycin,antibiotic_other,FDA EPC: Macrolide Antimicrobial,openFDA
+clarithromycin,antibiotic_other,manual,medicine_rules.OVERRIDES
+clavulanate,antibiotic_other,FDA EPC: beta Lactamase Inhibitor,openFDA
+clavulanate,antibiotic_other,manual,medicine_rules.OVERRIDES
+clevidipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+clindamycin,antibiotic_other,FDA EPC: Lincosamide Antibacterial,openFDA
+clindamycin,antibiotic_other,manual,medicine_rules.OVERRIDES
+clobazam,antiepileptic,manual,medicine_rules.OVERRIDES
+clobazam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+clobazam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+clobetasol,corticosteroid,FDA EPC: Corticosteroid,openFDA
+clobetasol,corticosteroid,manual,medicine_rules.OVERRIDES
+clocortolone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+clofarabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+clofazimine,antitubercular,FDA EPC: Antimycobacterial,openFDA
+clomiphene,hormonal_contraceptive_estrogen,FDA EPC: Estrogen Agonist/Antagonist,openFDA
+clomiphene,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+clomipramine,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+clomipramine,antidepressant_tca,manual,medicine_rules.OVERRIDES
+clonazepam,antiepileptic,manual,medicine_rules.OVERRIDES
+clonazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+clonazepam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+clonidine,antihypertensive,FDA EPC: Central alpha-2 Adrenergic Agonist,openFDA
+clonidine,antihypertensive,manual,medicine_rules.OVERRIDES
+clopidogrel,antiplatelet,FDA EPC: P2Y12 Platelet Inhibitor,openFDA
+clopidogrel,antiplatelet,manual,medicine_rules.OVERRIDES
+clorazepate,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+cloxacillin,antibiotic_other,manual,medicine_rules.OVERRIDES
+clozapine,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+clozapine,antipsychotic,manual,medicine_rules.OVERRIDES
+clozapine,cyp1a2_substrate,1A2 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+cobicistat,antiretroviral,manual: pharmacokinetic booster used only with HIV drugs,medicine_rules.OVERRIDES
+cobimetinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+codeine,opioid,FDA EPC: Opioid Agonist,openFDA
+codeine,opioid,manual,medicine_rules.OVERRIDES
+colchicine,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+colchicine,pgp_substrate,P-gp substrate (FDA 2006 Table 11),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+colistimethate,antibiotic_other,FDA EPC: Polymyxin-class Antibacterial,openFDA
+colistimethate,antibiotic_other,manual,medicine_rules.OVERRIDES
+colistimethate,nephrotoxic,FDA EPC: Polymyxin-class Antibacterial,openFDA
+colistimethate,nephrotoxic,manual,medicine_rules.OVERRIDES
+colistin,antibiotic_other,manual,medicine_rules.OVERRIDES
+colistin,nephrotoxic,manual,medicine_rules.OVERRIDES
+conjugated estrogens,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+cortisone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+cosibelimab,anticancer,FDA EPC: Programmed Death Ligand-1 Blocker,openFDA
+crizotinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+cyclophosphamide,anticancer,FDA EPC: Alkylating Drug,openFDA
+cyclophosphamide,anticancer,manual,medicine_rules.OVERRIDES
+cyclophosphamide,immunosuppressant,manual,medicine_rules.OVERRIDES
+cycloserine,antitubercular,manual,medicine_rules.OVERRIDES
+cyclosporine,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+cyclosporine,immunosuppressant,FDA EPC: Calcineurin Inhibitor Immunosuppressant,openFDA
+cyclosporine,immunosuppressant,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+cyclosporine,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+cyproterone,hepatotoxic,manual: progestogenic antiandrogen used with ethinylestradiol; SmPC hepatotoxicity warning (high dose),medicine_rules.OVERRIDES
+cyproterone,hormonal_contraceptive_estrogen,manual: progestogenic antiandrogen used with ethinylestradiol; SmPC hepatotoxicity warning (high dose),medicine_rules.OVERRIDES
+cytarabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+dabigatran,anticoagulant_doac,FDA EPC: Direct Thrombin Inhibitor,openFDA
+dabigatran,anticoagulant_doac,manual,medicine_rules.OVERRIDES
+dabigatran,pgp_substrate,P-gp substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+dabrafenib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+dacarbazine,anticancer,FDA EPC: Alkylating Drug,openFDA
+dactinomycin,anticancer,FDA EPC: Actinomycin,openFDA
+dalbavancin,antibiotic_other,FDA EPC: Lipoglycopeptide Antibacterial,openFDA
+dalteparin,anticoagulant_heparin,FDA EPC: Low Molecular Weight Heparin,openFDA
+dalteparin,anticoagulant_heparin,manual,medicine_rules.OVERRIDES
+dantrolene,hepatotoxic,manual: oral form: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+dapagliflozin,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+dapagliflozin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+dapagliflozin 2 3-butanediol,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+dapagliflozin propanediol,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+dapoxetine,antidepressant_ssri_snri,manual: short-acting SSRI sold for premature ejaculation (India/EU),medicine_rules.OVERRIDES
+daptomycin,antibiotic_other,FDA EPC: Lipopeptide Antibacterial,openFDA
+daratumumab,anticancer,FDA EPC: CD38-directed Cytolytic Antibody,openFDA
+daridorexant,sedative_hypnotic,FDA EPC: Orexin Receptor Antagonist,openFDA
+daridorexant,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+darifenacin,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+darunavir,antiretroviral,FDA MoA: HIV Protease Inhibitors,openFDA
+darunavir,antiretroviral,manual,medicine_rules.OVERRIDES
+darunavir,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+darunavir propylene glycolate,antiretroviral,FDA MoA: HIV Protease Inhibitors,openFDA
+dasatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+dasatinib,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+daunorubicin,anticancer,FDA EPC: Anthracycline Topoisomerase Inhibitor,openFDA
+deacetylbisacodyl,laxative_stimulant,FDA EPC: Stimulant Laxative,openFDA
+decitabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+deferasirox,hepatotoxic,manual: boxed warning: renal and hepatic failure,medicine_rules.OVERRIDES
+deferasirox,nephrotoxic,manual: boxed warning: renal and hepatic failure,medicine_rules.OVERRIDES
+deflazacort,corticosteroid,FDA EPC: Corticosteroid,openFDA
+deflazacort,corticosteroid,manual,medicine_rules.OVERRIDES
+delafloxacin,antibiotic_chelating,FDA EPC: Fluoroquinolone Antibacterial,openFDA
+delamanid,antitubercular,manual: not US-marketed,medicine_rules.OVERRIDES
+delgocitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+demeclocycline,antibiotic_chelating,FDA EPC: Tetracycline-class Antimicrobial,openFDA
+desflurane,anaesthesia_surgery,FDA EPC: General Anesthetic,openFDA
+desflurane,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+desipramine,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+desipramine,antidepressant_tca,manual,medicine_rules.OVERRIDES
+desipramine,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+desipramine,cyp2d6_substrate,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+desogestrel,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+desonide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+desoximetasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+desvenlafaxine,antidepressant_ssri_snri,FDA EPC: Serotonin and Norepinephrine Reuptake Inhibitor,openFDA
+desvenlafaxine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+deuruxolitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+dexamethasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+dexamethasone,corticosteroid,manual,medicine_rules.OVERRIDES
+dexlansoprazole,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+dexlansoprazole,ppi_antacid,manual,medicine_rules.OVERRIDES
+dexmedetomidine,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+dexmedetomidine,antihypertensive,FDA EPC: Central alpha-2 Adrenergic Agonist,openFDA
+dexmedetomidine,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+dextromethorphan,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+dextromethorphan,cyp2d6_substrate,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+diacerein,hepatotoxic,manual: EMA 2014 restriction for severe diarrhoea and liver effects,medicine_rules.OVERRIDES
+diazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+diazepam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+diclofenac,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+diclofenac,nephrotoxic,manual,medicine_rules.OVERRIDES
+diclofenac,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+diclofenac,nsaid,manual,medicine_rules.OVERRIDES
+dicloxacillin,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+dicloxacillin,antibiotic_other,manual,medicine_rules.OVERRIDES
+diflorasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+diflunisal,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+diflunisal,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+digoxin,cardiac_glycoside,FDA EPC: Cardiac Glycoside,openFDA
+digoxin,cardiac_glycoside,manual,medicine_rules.OVERRIDES
+digoxin,pgp_substrate,P-gp substrate (FDA 2006 Table 11),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+digoxin,pgp_substrate,P-gp substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+digoxin,pgp_substrate,P-gp substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+dihydroergotamine,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+diltiazem,antihypertensive,FDA EPC: Calcium Channel Blocker,openFDA
+dinutuximab,anticancer,FDA EPC: Glycolipid Disialoganglioside-directed Antibody,openFDA
+dipyridamole,antiplatelet,FDA EPC: Platelet Aggregation Inhibitor,openFDA
+dipyridamole,antiplatelet,manual,medicine_rules.OVERRIDES
+disopyramide,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+disopyramide,antiarrhythmic,manual,medicine_rules.OVERRIDES
+docetaxel,anticancer,FDA EPC: Microtubule Inhibitor,openFDA
+dofetilide,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+dofetilide,antiarrhythmic,manual,medicine_rules.OVERRIDES
+dolutegravir,antiretroviral,FDA EPC: Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor,openFDA
+dolutegravir,antiretroviral,manual,medicine_rules.OVERRIDES
+doravirine,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+dostarlimab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+dosulepin,antidepressant_tca,manual: dothiepin (India/UK),medicine_rules.OVERRIDES
+doxazosin,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+doxepin,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+doxepin,antidepressant_tca,manual,medicine_rules.OVERRIDES
+doxofylline,theophylline,manual: methylxanthine bronchodilator (India/EU); grouped with theophylline key (judgement call),medicine_rules.OVERRIDES
+doxorubicin,anticancer,FDA EPC: Anthracycline Topoisomerase Inhibitor,openFDA
+doxycycline,antibiotic_chelating,FDA EPC: Tetracycline-class Drug,openFDA
+doxycycline,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+dronedarone,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+dronedarone,antiarrhythmic,manual,medicine_rules.OVERRIDES
+dronedarone,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+drospirenone,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+drospirenone,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+dulaglutide,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+dulaglutide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+duloxetine,antidepressant_ssri_snri,FDA EPC: Serotonin and Norepinephrine Reuptake Inhibitor,openFDA
+duloxetine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+duloxetine,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+durvalumab,anticancer,FDA EPC: Programmed Death Ligand-1 Blocker,openFDA
+dydrogesterone,hormonal_contraceptive_estrogen,manual: progestogen (HRT/pregnancy support; not US-marketed),medicine_rules.OVERRIDES
+edoxaban,anticoagulant_doac,FDA EPC: Factor Xa Inhibitor,openFDA
+edoxaban,anticoagulant_doac,manual,medicine_rules.OVERRIDES
+edoxaban,pgp_substrate,P-gp substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+efavirenz,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+efavirenz,antiretroviral,manual,medicine_rules.OVERRIDES
+efonidipine,antihypertensive,manual: dihydropyridine CCB (India/Japan),medicine_rules.OVERRIDES
+elacestrant,anticancer,FDA EPC: Estrogen Receptor Antagonist,openFDA
+eletriptan,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+eliglustat,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+eliglustat,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+elotuzumab,anticancer,FDA EPC: SLAMF7-directed Immunostimulatory Antibody,openFDA
+elvitegravir,antiretroviral,FDA EPC: Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor,openFDA
+empagliflozin,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+empagliflozin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+emtricitabine,antiretroviral,FDA EPC: Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+emtricitabine,antiretroviral,manual,medicine_rules.OVERRIDES
+enalapril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+enalapril,antihypertensive,manual,medicine_rules.OVERRIDES
+enalapril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+enalapril,potassium_sparing,manual,medicine_rules.OVERRIDES
+enalaprilat,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+enalaprilat,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+enasidenib,anticancer,FDA EPC: Isocitrate Dehydrogenase 2 Inhibitor,openFDA
+enoxaparin,anticoagulant_heparin,FDA EPC: Low Molecular Weight Heparin,openFDA
+enoxaparin,anticoagulant_heparin,manual,medicine_rules.OVERRIDES
+entrectinib,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+enzalutamide,anticancer,FDA EPC: Androgen Receptor Inhibitor,openFDA
+enzalutamide,anticancer,manual,medicine_rules.OVERRIDES
+epcoritamab,anticancer,FDA EPC: Bispecific CD20-directed CD3 T Cell Engager,openFDA
+epirubicin,anticancer,FDA EPC: Anthracycline Topoisomerase Inhibitor,openFDA
+eplerenone,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+eplerenone,potassium_sparing,FDA EPC: Aldosterone Antagonist,openFDA
+eplerenone,potassium_sparing,manual,medicine_rules.OVERRIDES
+eptifibatide,antiplatelet,FDA EPC: Platelet Aggregation Inhibitor,openFDA
+eptifibatide,antiplatelet,manual,medicine_rules.OVERRIDES
+eravacycline,antibiotic_chelating,FDA EPC: Tetracycline-class Antibacterial,openFDA
+erdafitinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ergotamine,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+eribulin,anticancer,FDA EPC: Microtubule Inhibitor,openFDA
+erlotinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ertapenem,antibiotic_other,FDA EPC: Penem Antibacterial,openFDA
+erythromycin,antibiotic_other,FDA EPC: Macrolide,openFDA
+erythromycin,antibiotic_other,FDA EPC: Macrolide Antimicrobial,openFDA
+erythromycin,antibiotic_other,manual,medicine_rules.OVERRIDES
+escitalopram,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+escitalopram,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+esketamine,anaesthesia_surgery,manual: nasal antidepressant form; anaesthetic class (judgement call),medicine_rules.OVERRIDES
+eslicarbazepine,antiepileptic,manual,medicine_rules.OVERRIDES
+esmolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+esomeprazole,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+esomeprazole,ppi_antacid,manual,medicine_rules.OVERRIDES
+esomeprazole strontium,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+estazolam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+estradiol,hormonal_contraceptive_estrogen,FDA EPC: Estrogen,openFDA
+estradiol,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+estrogens conjugated,hormonal_contraceptive_estrogen,FDA EPC: Estrogen,openFDA
+eszopiclone,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+etanercept,immunosuppressant,FDA EPC: Tumor Necrosis Factor Blocker,openFDA
+ethacrynate,diuretic_loop_thiazide,FDA EPC: Loop Diuretic,openFDA
+ethacrynic acid,diuretic_loop_thiazide,FDA EPC: Loop Diuretic,openFDA
+ethambutol,antitubercular,FDA EPC: Antimycobacterial,openFDA
+ethambutol,antitubercular,manual,medicine_rules.OVERRIDES
+ethinyl estradiol,hormonal_contraceptive_estrogen,FDA EPC: Estrogen,openFDA
+ethinyl estradiol,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+ethionamide,antitubercular,manual,medicine_rules.OVERRIDES
+ethosuximide,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+ethosuximide,antiepileptic,manual,medicine_rules.OVERRIDES
+etizolam,sedative_hypnotic,manual: thienodiazepine (India/Japan),medicine_rules.OVERRIDES
+etodolac,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+etodolac,nephrotoxic,manual,medicine_rules.OVERRIDES
+etodolac,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+etodolac,nsaid,manual,medicine_rules.OVERRIDES
+etofylline,theophylline,"manual: theophylline derivative (India, in 'Deriphylline'); judgement call",medicine_rules.OVERRIDES
+etomidate,anaesthesia_surgery,FDA EPC: General Anesthetic,openFDA
+etomidate,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+etonogestrel,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+etoposide,anticancer,FDA EPC: Topoisomerase Inhibitor,openFDA
+etoricoxib,nephrotoxic,manual,medicine_rules.OVERRIDES
+etoricoxib,nsaid,manual,medicine_rules.OVERRIDES
+etrasimod,immunosuppressant,FDA EPC: Sphingosine 1-phosphate Receptor Modulator,openFDA
+etravirine,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+everolimus,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+everolimus,anticancer,manual,medicine_rules.OVERRIDES
+everolimus,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+everolimus,immunosuppressant,FDA EPC: mTOR Inhibitor Immunosuppressant,openFDA
+everolimus,immunosuppressant,manual,medicine_rules.OVERRIDES
+evogliptin,antidiabetic_other,manual: DPP-4 inhibitor (India/Korea),medicine_rules.OVERRIDES
+exemestane,anticancer,FDA EPC: Aromatase Inhibitor,openFDA
+exenatide,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+exenatide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+famotidine,ppi_antacid,FDA EPC: Histamine-2 Receptor Antagonist,openFDA
+famotidine,ppi_antacid,manual,medicine_rules.OVERRIDES
+faropenem,antibiotic_other,manual: oral penem (India),medicine_rules.OVERRIDES
+felbamate,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+felbamate,antiepileptic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+felbamate,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+felodipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+felodipine,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+fenoprofen,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+fenoprofen,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+fentanyl,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+fentanyl,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+fentanyl,opioid,FDA EPC: Opioid Agonist,openFDA
+fentanyl,opioid,manual,medicine_rules.OVERRIDES
+ferric carboxymaltose,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+ferric carboxymaltose,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferric citrate,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+ferric maltol,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+ferric subsulfate,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+ferric sulfate,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+ferrous ascorbate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferrous bisglycinate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferrous fumarate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferrous gluconate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferrous salts,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferrous sulfate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ferumoxytol,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+ferumoxytol non-stoichiometric magnetite,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+fexinidazole,antibiotic_other,FDA EPC: Nitroimidazole Antimicrobial,openFDA
+fexofenadine,pgp_substrate,P-gp substrate (FDA 2006 Table 11),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+fexofenadine,pgp_substrate,P-gp substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+fexofenadine,pgp_substrate,P-gp substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+fezolinetant,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+fidaxomicin,antibiotic_other,FDA EPC: Macrolide Antibacterial,openFDA
+finafloxacin,antibiotic_chelating,FDA EPC: Quinolone Antimicrobial,openFDA
+finerenone,potassium_sparing,FDA EPC: Nonsteroidal Mineralocorticoid-Receptor Antagonist,openFDA
+finerenone,potassium_sparing,manual,medicine_rules.OVERRIDES
+fingolimod,immunosuppressant,FDA EPC: Sphingosine 1-phosphate Receptor Modulator,openFDA
+fingolimod lauryl,immunosuppressant,FDA EPC: Sphingosine 1-phosphate Receptor Modulator,openFDA
+flecainide,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+flecainide,antiarrhythmic,manual,medicine_rules.OVERRIDES
+floxuridine,anticancer,FDA EPC: Antimetabolite,openFDA
+fludarabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+fludrocortisone,corticosteroid,manual,medicine_rules.OVERRIDES
+flunisolide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+fluocinolone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+fluocinonide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+fluorometholone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+fluorouracil,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+fluorouracil,anticancer,manual,medicine_rules.OVERRIDES
+fluoxetine,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+fluoxetine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+flupentixol,antipsychotic,manual: not US-marketed,medicine_rules.OVERRIDES
+fluphenazine,antipsychotic,manual,medicine_rules.OVERRIDES
+flupirtine,hepatotoxic,manual: EMA 2018 withdrawal for liver injury; not an NSAID,medicine_rules.OVERRIDES
+flurandrenolide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+flurazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+flurbiprofen,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+flurbiprofen,nephrotoxic,manual,medicine_rules.OVERRIDES
+flurbiprofen,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+flurbiprofen,nsaid,manual,medicine_rules.OVERRIDES
+flutamide,anticancer,FDA EPC: Androgen Receptor Inhibitor,openFDA
+flutamide,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+flutamide,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+fluticasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+fluticasone,corticosteroid,manual,medicine_rules.OVERRIDES
+fluticasone,cyp3a4_substrate_narrow,sensitive (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+fluvastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+fluvastatin,statin,manual,medicine_rules.OVERRIDES
+fluvoxamine,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+fluvoxamine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+fondaparinux,anticoagulant_heparin,manual: parenteral factor Xa inhibitor grouped with heparin key,medicine_rules.OVERRIDES
+fosamprenavir,antiretroviral,FDA MoA: HIV Protease Inhibitors,openFDA
+foscarnet,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+fosinopril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+fosinopril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+fosphenytoin,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+fosphenytoin,antiepileptic,manual,medicine_rules.OVERRIDES
+fostamatinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+fulvestrant,anticancer,FDA EPC: Estrogen Receptor Antagonist,openFDA
+furazolidone,antibiotic_other,manual,medicine_rules.OVERRIDES
+furosemide,diuretic_loop_thiazide,FDA EPC: Loop Diuretic,openFDA
+furosemide,diuretic_loop_thiazide,manual,medicine_rules.OVERRIDES
+futibatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+gabapentin,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+gabapentin,antiepileptic,manual,medicine_rules.OVERRIDES
+gatifloxacin,antibiotic_chelating,FDA EPC: Quinolone Antimicrobial,openFDA
+gedatolisib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+gefitinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+gemcitabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+gemtuzumab ozogamicin,anticancer,FDA EPC: CD33-directed Immunoconjugate,openFDA
+gentamicin,antibiotic_other,FDA EPC: Aminoglycoside Antibacterial,openFDA
+gentamicin,antibiotic_other,manual,medicine_rules.OVERRIDES
+gentamicin,nephrotoxic,FDA EPC: Aminoglycoside Antibacterial,openFDA
+gentamicin,nephrotoxic,manual,medicine_rules.OVERRIDES
+gepotidacin,antibiotic_other,FDA EPC: Triazaacenaphthylene Bacterial Type II Topoisomerase Inhibitor,openFDA
+givinostat,anticancer,FDA EPC: Histone Deacetylase Inhibitor,openFDA
+glasdegib,anticancer,FDA EPC: Hedgehog Pathway Inhibitor,openFDA
+gliclazide,antidiabetic_sulfonylurea,manual: not US-marketed,medicine_rules.OVERRIDES
+glimepiride,antidiabetic_sulfonylurea,FDA EPC: Sulfonylurea,openFDA
+glimepiride,antidiabetic_sulfonylurea,manual,medicine_rules.OVERRIDES
+glimepiride,cyp2c9_substrate,2C9 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+glipizide,antidiabetic_sulfonylurea,FDA EPC: Sulfonylurea,openFDA
+glipizide,antidiabetic_sulfonylurea,manual,medicine_rules.OVERRIDES
+glofitamab,anticancer,FDA EPC: Bispecific CD20-directed CD3 T Cell Engager,openFDA
+glyburide,antidiabetic_sulfonylurea,FDA EPC: Sulfonylurea,openFDA
+glyburide,antidiabetic_sulfonylurea,manual,medicine_rules.OVERRIDES
+golimumab,immunosuppressant,FDA EPC: Tumor Necrosis Factor Blocker,openFDA
+griseofulvin,anticancer,FDA EPC: Tubulin Inhibiting Agent,openFDA
+guanfacine,antihypertensive,FDA EPC: Central alpha-2 Adrenergic Agonist,openFDA
+halcinonide,corticosteroid,FDA EPC: Corticosteroid,openFDA
+halobetasol,corticosteroid,FDA EPC: Corticosteroid,openFDA
+haloperidol,antipsychotic,FDA EPC: Typical Antipsychotic,openFDA
+haloperidol,antipsychotic,manual,medicine_rules.OVERRIDES
+halothane,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+heparin,anticoagulant_heparin,FDA EPC: Unfractionated Heparin,openFDA
+heparin,anticoagulant_heparin,manual,medicine_rules.OVERRIDES
+hydralazine,antihypertensive,FDA EPC: Arteriolar Vasodilator,openFDA
+hydralazine,antihypertensive,manual,medicine_rules.OVERRIDES
+hydrochlorothiazide,antihypertensive,FDA EPC: Thiazide Diuretic,openFDA
+hydrochlorothiazide,antihypertensive,manual,medicine_rules.OVERRIDES
+hydrochlorothiazide,diuretic_loop_thiazide,FDA EPC: Thiazide Diuretic,openFDA
+hydrochlorothiazide,diuretic_loop_thiazide,manual,medicine_rules.OVERRIDES
+hydrocodone,opioid,FDA EPC: Opioid Agonist,openFDA
+hydrocodone,opioid,manual,medicine_rules.OVERRIDES
+hydrocortisone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+hydrocortisone,corticosteroid,manual,medicine_rules.OVERRIDES
+hydromorphone,opioid,FDA EPC: Opioid Agonist,openFDA
+hydroxyprogesterone,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+hydroxyurea,anticancer,FDA EPC: Antimetabolite,openFDA
+hydroxyurea,anticancer,manual,medicine_rules.OVERRIDES
+ibalizumab,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Post-attachment Fusion Inhibitor,openFDA
+ibrutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ibrutinib,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+ibuprofen,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+ibuprofen,nephrotoxic,manual,medicine_rules.OVERRIDES
+ibuprofen,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+ibuprofen,nsaid,manual,medicine_rules.OVERRIDES
+ibutilide,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+idarubicin,anticancer,FDA EPC: Anthracycline Topoisomerase Inhibitor,openFDA
+idelalisib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+idelalisib,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+idelalisib,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+ifosfamide,anticancer,FDA EPC: Alkylating Drug,openFDA
+ifosfamide,anticancer,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+ifosfamide,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+ilaprazole,ppi_antacid,manual: PPI (India/China/Korea),medicine_rules.OVERRIDES
+iloperidone,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+iloperidone,antipsychotic,manual,medicine_rules.OVERRIDES
+imatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+imatinib,anticancer,manual,medicine_rules.OVERRIDES
+imeglimin,antidiabetic_other,manual: glimin-class oral antidiabetic (India/Japan),medicine_rules.OVERRIDES
+imetelstat,anticancer,FDA EPC: Oligonucleotide Telomerase Inhibitor,openFDA
+imipramine,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+imipramine,antidepressant_tca,manual,medicine_rules.OVERRIDES
+imipramine,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+imlunestrant,anticancer,FDA EPC: Estrogen Receptor Antagonist,openFDA
+inavolisib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+indapamide,antihypertensive,FDA EPC: Thiazide-like Diuretic,openFDA
+indapamide,antihypertensive,manual,medicine_rules.OVERRIDES
+indapamide,diuretic_loop_thiazide,FDA EPC: Thiazide-like Diuretic,openFDA
+indapamide,diuretic_loop_thiazide,manual,medicine_rules.OVERRIDES
+indomethacin,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+indomethacin,nephrotoxic,manual,medicine_rules.OVERRIDES
+indomethacin,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+indomethacin,nsaid,manual,medicine_rules.OVERRIDES
+inebilizumab,anticancer,FDA EPC: CD19-directed Cytolytic Antibody,openFDA
+infliximab,immunosuppressant,FDA EPC: Tumor Necrosis Factor Blocker,openFDA
+inotuzumab ozogamicin,anticancer,FDA EPC: CD22-directed Immunoconjugate,openFDA
+insulin aspart,antidiabetic_insulin,FDA EPC: Insulin Analog,openFDA
+insulin degludec,antidiabetic_insulin,FDA EPC: Insulin Analog,openFDA
+insulin detemir,antidiabetic_insulin,FDA EPC: Insulin Analog,openFDA
+insulin glargine,antidiabetic_insulin,FDA EPC: Insulin Analog,openFDA
+insulin glulisine,antidiabetic_insulin,FDA EPC: Insulin Analog,openFDA
+insulin human,antidiabetic_insulin,FDA EPC: Insulin,openFDA
+insulin lispro,antidiabetic_insulin,FDA EPC: Insulin Analog,openFDA
+ipilimumab,anticancer,FDA EPC: CTLA-4-directed Blocking Antibody,openFDA
+irbesartan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+irbesartan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+irinotecan,anticancer,FDA EPC: Topoisomerase Inhibitor,openFDA
+iron,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+iron dextran,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+iron dextran,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+iron sucrose,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+iron sucrose,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+isatuximab,anticancer,FDA EPC: CD38-directed Cytolytic Antibody,openFDA
+isocarboxazid,antidepressant_maoi,FDA EPC: Monoamine Oxidase Inhibitor,openFDA
+isocarboxazid,antidepressant_maoi,manual,medicine_rules.OVERRIDES
+isoflurane,anaesthesia_surgery,FDA EPC: General Anesthetic,openFDA
+isoflurane,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+isoniazid,antitubercular,FDA EPC: Antimycobacterial,openFDA
+isoniazid,antitubercular,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+isoniazid,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+isosorbide dinitrate,nitrate_pde5,FDA EPC: Nitrate Vasodilator,openFDA
+isosorbide dinitrate,nitrate_pde5,manual,medicine_rules.OVERRIDES
+isosorbide mononitrate,nitrate_pde5,FDA EPC: Nitrate Vasodilator,openFDA
+isosorbide mononitrate,nitrate_pde5,manual,medicine_rules.OVERRIDES
+isradipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+ivabradine,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+ivosidenib,anticancer,FDA EPC: Isocitrate Dehydrogenase 1 Inhibitor,openFDA
+ixazomib,anticancer,FDA EPC: Proteasome Inhibitor,openFDA
+ketamine,anaesthesia_surgery,FDA EPC: General Anesthetic,openFDA
+ketamine,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+ketoconazole,hepatotoxic,manual: oral form: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+ketoprofen,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+ketoprofen,nephrotoxic,manual,medicine_rules.OVERRIDES
+ketoprofen,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+ketoprofen,nsaid,manual,medicine_rules.OVERRIDES
+ketorolac,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+ketorolac,nephrotoxic,manual,medicine_rules.OVERRIDES
+ketorolac,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+ketorolac,nsaid,manual,medicine_rules.OVERRIDES
+labetalol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+lacosamide,antiepileptic,manual,medicine_rules.OVERRIDES
+lamivudine,antiretroviral,FDA EPC: Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+lamivudine,antiretroviral,manual,medicine_rules.OVERRIDES
+lamotrigine,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+lamotrigine,antiepileptic,manual,medicine_rules.OVERRIDES
+landiolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+lansoprazole,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+lansoprazole,ppi_antacid,manual,medicine_rules.OVERRIDES
+lapatinib,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+lapatinib,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+lapatinib ditosylate,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+larotrectinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+larotrectinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+lazertinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+lefamulin,antibiotic_other,FDA EPC: Pleuromutilin Antibacterial,openFDA
+leflunomide,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+leflunomide,immunosuppressant,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+lemborexant,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+lemborexant,sedative_hypnotic,FDA EPC: Orexin Receptor Antagonist,openFDA
+lemborexant,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+lenacapavir,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Capsid Inhibitor,openFDA
+lenalidomide,anticancer,FDA EPC: Thalidomide Analog,openFDA
+lenalidomide,anticancer,manual,medicine_rules.OVERRIDES
+leniolisib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+leniolisib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+lenvatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+letibotulinumtoxina,anaesthesia_surgery,FDA EPC: Neuromuscular Blocker,openFDA
+letrozole,anticancer,FDA EPC: Aromatase Inhibitor,openFDA
+letrozole,anticancer,manual,medicine_rules.OVERRIDES
+levamlodipine,antihypertensive,manual,medicine_rules.OVERRIDES
+levetiracetam,antiepileptic,manual,medicine_rules.OVERRIDES
+levobunolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+levofloxacin,antibiotic_chelating,FDA EPC: Fluoroquinolone Antibacterial,openFDA
+levofloxacin,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+levomilnacipran,antidepressant_ssri_snri,FDA EPC: Serotonin and Norepinephrine Reuptake Inhibitor,openFDA
+levomilnacipran,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+levonorgestrel,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+levonorgestrel,hormonal_contraceptive_estrogen,FDA EPC: Progestin-containing Intrauterine Device,openFDA
+levonorgestrel,hormonal_contraceptive_estrogen,FDA EPC: Progestin-containing Intrauterine System,openFDA
+levonorgestrel,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+levorphanol,opioid,FDA EPC: Opioid Agonist,openFDA
+levosulpiride,antipsychotic,manual: D2-antagonist benzamide (S-sulpiride); in India mostly used as a prokinetic (judgement call),medicine_rules.OVERRIDES
+levothyroxine,thyroid_hormone,FDA EPC: l-Thyroxine,openFDA
+levothyroxine,thyroid_hormone,manual,medicine_rules.OVERRIDES
+lidocaine,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+linagliptin,antidiabetic_other,FDA EPC: Dipeptidyl Peptidase 4 Inhibitor,openFDA
+linagliptin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+linezolid,antibiotic_other,FDA EPC: Oxazolidinone Antibacterial,openFDA
+linezolid,antibiotic_other,manual,medicine_rules.OVERRIDES
+liothyronine,thyroid_hormone,FDA EPC: l-Triiodothyronine,openFDA
+liothyronine,thyroid_hormone,manual,medicine_rules.OVERRIDES
+liraglutide,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+liraglutide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+lisinopril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+lisinopril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+lithium carbonate,lithium,manual,medicine_rules.OVERRIDES
+lithium citrate,lithium,manual,medicine_rules.OVERRIDES
+lixisenatide,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+lobeglitazone,antidiabetic_other,manual,medicine_rules.OVERRIDES
+lomitapide,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+lomitapide,hepatotoxic,manual: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+lomustine,anticancer,FDA EPC: Alkylating Drug,openFDA
+loperamide,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+loperamide,pgp_substrate,P-gp substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+loperamide,pgp_substrate,P-gp substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+lopinavir,antiretroviral,manual,medicine_rules.OVERRIDES
+lorazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+lorazepam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+lorlatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+lornoxicam,nephrotoxic,manual,medicine_rules.OVERRIDES
+lornoxicam,nsaid,manual,medicine_rules.OVERRIDES
+losartan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+losartan,antihypertensive,manual,medicine_rules.OVERRIDES
+losartan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+losartan,potassium_sparing,manual,medicine_rules.OVERRIDES
+loteprednol etabonate,corticosteroid,FDA EPC: Corticosteroid,openFDA
+lovastatin,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+lovastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+lovastatin,statin,manual,medicine_rules.OVERRIDES
+loxapine,antipsychotic,manual,medicine_rules.OVERRIDES
+lumateperone,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+lurasidone,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+lurasidone,antipsychotic,manual,medicine_rules.OVERRIDES
+lurasidone,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+lurbinectedin,anticancer,FDA EPC: Alkylating Drug,openFDA
+lutetium lu-177 vipivotide tetraxetan,anticancer,FDA EPC: Radioligand Therapeutic Agent,openFDA
+mafenide,antibiotic_other,FDA EPC: Methylated Sulfonamide Antibacterial,openFDA
+magaldrate,ppi_antacid,manual,medicine_rules.OVERRIDES
+magnesium carbonate,ppi_antacid,manual,medicine_rules.OVERRIDES
+magnesium hydroxide,ppi_antacid,manual,medicine_rules.OVERRIDES
+magnesium oxide,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+magnesium sulfate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+maraviroc,antiretroviral,FDA EPC: CCR5 Co-receptor Antagonist,openFDA
+maraviroc,antiretroviral,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+maraviroc,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+maraviroc,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+margetuximab,anticancer,FDA EPC: HER2/neu Receptor Antagonist,openFDA
+mechlorethamine,anticancer,FDA EPC: Alkylating Drug,openFDA
+medroxyprogesterone,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+medroxyprogesterone,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+mefenamic acid,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+mefenamic acid,nephrotoxic,manual,medicine_rules.OVERRIDES
+mefenamic acid,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+mefenamic acid,nsaid,manual,medicine_rules.OVERRIDES
+megestrol,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+melatonin,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+melitracen,antidepressant_tca,manual: tricyclic antidepressant sold with flupentixol (India),medicine_rules.OVERRIDES
+meloxicam,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+meloxicam,nephrotoxic,manual,medicine_rules.OVERRIDES
+meloxicam,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+meloxicam,nsaid,manual,medicine_rules.OVERRIDES
+melphalan,anticancer,FDA EPC: Alkylating Drug,openFDA
+meperidine,opioid,FDA EPC: Opioid Agonist,openFDA
+meperidine,opioid,manual,medicine_rules.OVERRIDES
+meprobamate,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+mercaptopurine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+mercaptopurine,anticancer,manual,medicine_rules.OVERRIDES
+mercaptopurine,immunosuppressant,manual,medicine_rules.OVERRIDES
+meropenem,antibiotic_other,FDA EPC: Penem Antibacterial,openFDA
+metformin,antidiabetic_other,FDA EPC: Biguanide,openFDA
+metformin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+methadone,opioid,FDA EPC: Opioid Agonist,openFDA
+methadone,opioid,manual,medicine_rules.OVERRIDES
+methimazole,antithyroid,FDA EPC: Thyroid Hormone Synthesis Inhibitor,openFDA
+methimazole,antithyroid,manual,medicine_rules.OVERRIDES
+methohexital,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+methohexital,sedative_hypnotic,FDA EPC: Barbiturate,openFDA
+methohexital,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+methotrexate,anticancer,FDA EPC: Folate Analog Metabolic Inhibitor,openFDA
+methotrexate,anticancer,manual: hepatotoxic/nephrotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+methotrexate,hepatotoxic,manual: hepatotoxic/nephrotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+methotrexate,immunosuppressant,manual: hepatotoxic/nephrotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+methotrexate,nephrotoxic,manual: hepatotoxic/nephrotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+methsuximide,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+methyldopa,antihypertensive,FDA EPC: Central alpha-2 Adrenergic Agonist,openFDA
+methyldopa,antihypertensive,manual,medicine_rules.OVERRIDES
+methylprednisolone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+methylprednisolone,corticosteroid,manual,medicine_rules.OVERRIDES
+metolazone,antihypertensive,FDA EPC: Thiazide-like Diuretic,openFDA
+metolazone,antihypertensive,manual,medicine_rules.OVERRIDES
+metolazone,diuretic_loop_thiazide,FDA EPC: Thiazide-like Diuretic,openFDA
+metolazone,diuretic_loop_thiazide,manual,medicine_rules.OVERRIDES
+metoprolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+metoprolol,antihypertensive,manual,medicine_rules.OVERRIDES
+metoprolol,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+metronidazole,antibiotic_other,FDA EPC: Nitroimidazole Antimicrobial,openFDA
+metronidazole,antibiotic_other,manual,medicine_rules.OVERRIDES
+mexiletine,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+mexiletine,antiarrhythmic,manual,medicine_rules.OVERRIDES
+midazolam,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+midazolam,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+midazolam,cyp3a4_substrate_narrow,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+midazolam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+midazolam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+midostaurin,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+miglitol,antidiabetic_other,FDA EPC: alpha-Glucosidase Inhibitor,openFDA
+miglitol,antidiabetic_other,manual,medicine_rules.OVERRIDES
+milnacipran,antidepressant_ssri_snri,FDA EPC: Serotonin and Norepinephrine Reuptake Inhibitor,openFDA
+milnacipran,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+minocycline,antibiotic_chelating,FDA EPC: Tetracycline-class Drug,openFDA
+minocycline,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+minoxidil,antihypertensive,FDA EPC: Arteriolar Vasodilator,openFDA
+minoxidil,antihypertensive,manual: oral form is an antihypertensive; topical (hair) form has little systemic effect,medicine_rules.OVERRIDES
+mirdametinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+mitomycin,anticancer,FDA EPC: Alkylating Drug,openFDA
+mitoxantrone,anticancer,FDA EPC: Topoisomerase Inhibitor,openFDA
+moexipril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+moexipril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+molindone,antipsychotic,FDA EPC: Typical Antipsychotic,openFDA
+momelotinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+mometasone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+mometasone,corticosteroid,manual,medicine_rules.OVERRIDES
+morphine,opioid,FDA EPC: Opioid Agonist,openFDA
+morphine,opioid,manual,medicine_rules.OVERRIDES
+moxifloxacin,antibiotic_chelating,FDA EPC: Fluoroquinolone Antibacterial,openFDA
+moxifloxacin,antibiotic_chelating,FDA EPC: Quinolone Antimicrobial,openFDA
+moxifloxacin,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+moxonidine,antihypertensive,manual,medicine_rules.OVERRIDES
+mupirocin,antibiotic_other,FDA EPC: RNA Synthetase Inhibitor Antibacterial,openFDA
+mycophenolic acid,immunosuppressant,FDA EPC: Antimetabolite Immunosuppressant,openFDA
+mycophenolic acid,immunosuppressant,manual,medicine_rules.OVERRIDES
+nabumetone,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+nabumetone,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+nadifloxacin,antibiotic_chelating,manual: topical fluoroquinolone,medicine_rules.OVERRIDES
+nadolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+nafcillin,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+nalbuphine,opioid,FDA EPC: Opioid Agonist/Antagonist,openFDA
+nalbuphine,opioid,manual,medicine_rules.OVERRIDES
+nalidixic acid,antibiotic_chelating,manual: first-generation quinolone,medicine_rules.OVERRIDES
+naloxegol,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+naproxen,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+naproxen,nephrotoxic,manual,medicine_rules.OVERRIDES
+naproxen,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+naproxen,nsaid,manual,medicine_rules.OVERRIDES
+nateglinide,antidiabetic_other,FDA EPC: Glinide,openFDA
+nateglinide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+naxitamab,anticancer,FDA EPC: Glycolipid Disialoganglioside-directed Antibody,openFDA
+nebivolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+nebivolol,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+nebivolol,cyp2d6_substrate,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+nefazodone,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+nelarabine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+nelfinavir,antiretroviral,FDA MoA: HIV Protease Inhibitors,openFDA
+neomycin,antibiotic_other,FDA EPC: Aminoglycoside Antibacterial,openFDA
+neomycin,nephrotoxic,FDA EPC: Aminoglycoside Antibacterial,openFDA
+nepafenac,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+nepafenac,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+neratinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+nevirapine,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+nevirapine,antiretroviral,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+nevirapine,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+nicardipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+nicorandil,nitrate_pde5,manual: K-channel opener with a nitrate moiety; labels contraindicate PDE5 inhibitors (India/EU),medicine_rules.OVERRIDES
+nifedipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+nilotinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+nilutamide,anticancer,FDA EPC: Androgen Receptor Inhibitor,openFDA
+nimesulide,hepatotoxic,manual: hepatotoxicity is why it was withdrawn/restricted in several countries (EMA 2007/2012 review),medicine_rules.OVERRIDES
+nimesulide,nephrotoxic,manual: hepatotoxicity is why it was withdrawn/restricted in several countries (EMA 2007/2012 review),medicine_rules.OVERRIDES
+nimesulide,nsaid,manual: hepatotoxicity is why it was withdrawn/restricted in several countries (EMA 2007/2012 review),medicine_rules.OVERRIDES
+nimodipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+niraparib,anticancer,FDA EPC: Poly(ADP-Ribose) Polymerase Inhibitor,openFDA
+nisoldipine,antihypertensive,FDA EPC: Dihydropyridine Calcium Channel Blocker,openFDA
+nisoldipine,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+nitrazepam,sedative_hypnotic,manual: not US-marketed,medicine_rules.OVERRIDES
+nitrofurantoin,antibiotic_other,FDA EPC: Nitrofuran Antibacterial,openFDA
+nitrofurantoin,antibiotic_other,manual,medicine_rules.OVERRIDES
+nitroglycerin,nitrate_pde5,FDA EPC: Nitrate Vasodilator,openFDA
+nitroglycerin,nitrate_pde5,manual,medicine_rules.OVERRIDES
+nitrous oxide,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+nivolumab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+nizatidine,ppi_antacid,FDA EPC: Histamine-2 Receptor Antagonist,openFDA
+nizatidine,ppi_antacid,manual,medicine_rules.OVERRIDES
+norethindrone,hormonal_contraceptive_estrogen,FDA EPC: Progestin,openFDA
+norethindrone,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+norfloxacin,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+nortriptyline,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+nortriptyline,antidepressant_tca,manual,medicine_rules.OVERRIDES
+nortriptyline,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+obeticholic acid,hepatotoxic,manual: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+ofloxacin,antibiotic_chelating,FDA EPC: Quinolone Antimicrobial,openFDA
+ofloxacin,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+olanzapine,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+olanzapine,antipsychotic,manual,medicine_rules.OVERRIDES
+olaparib,anticancer,FDA EPC: Poly(ADP-Ribose) Polymerase Inhibitor,openFDA
+olmesartan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+olmesartan,antihypertensive,manual,medicine_rules.OVERRIDES
+olmesartan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+olmesartan,potassium_sparing,manual,medicine_rules.OVERRIDES
+omadacycline,antibiotic_chelating,FDA EPC: Tetracycline-class Antibacterial,openFDA
+omeprazole,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+omeprazole,ppi_antacid,manual,medicine_rules.OVERRIDES
+orforglipron,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+oritavancin,antibiotic_other,FDA EPC: Lipoglycopeptide Antibacterial,openFDA
+ormeloxifene,hormonal_contraceptive_estrogen,"manual: centchroman, SERM oral contraceptive (India)",medicine_rules.OVERRIDES
+ornidazole,antibiotic_other,manual: nitroimidazole (India/EU),medicine_rules.OVERRIDES
+oseltamivir,pgp_substrate,P-gp substrate prodrug (FDA HCP table footnote 1),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+osimertinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ospemifene,hormonal_contraceptive_estrogen,FDA EPC: Estrogen Agonist/Antagonist,openFDA
+ovine digoxin immune fab,cardiac_glycoside,FDA EPC: Cardiac Glycoside,openFDA
+oxacillin,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+oxaliplatin,anticancer,FDA EPC: Platinum-based Drug,openFDA
+oxaprozin,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+oxaprozin,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+oxazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+oxcarbazepine,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+oxcarbazepine,antiepileptic,manual,medicine_rules.OVERRIDES
+oxycodone,opioid,FDA EPC: Opioid Agonist,openFDA
+oxycodone,opioid,manual,medicine_rules.OVERRIDES
+oxymorphone,opioid,FDA EPC: Opioid Agonist,openFDA
+ozanimod,immunosuppressant,FDA EPC: Sphingosine 1-phosphate Receptor Modulator,openFDA
+paclitaxel,anticancer,FDA EPC: Microtubule Inhibitor,openFDA
+paclitaxel,pgp_substrate,P-gp substrate (FDA 2006 Table 11),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+pacritinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+palbociclib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+paliperidone,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+paliperidone,antipsychotic,manual,medicine_rules.OVERRIDES
+panitumumab,anticancer,FDA EPC: Epidermal Growth Factor Receptor Antagonist,openFDA
+pantoprazole,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+pantoprazole,ppi_antacid,manual,medicine_rules.OVERRIDES
+paroxetine,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+paroxetine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+pazopanib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+pazopanib,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+pazopanib,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+pembrolizumab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+pemetrexed,anticancer,FDA EPC: Folate Analog Metabolic Inhibitor,openFDA
+pemetrexed disodium hemipentahydrate,anticancer,FDA EPC: Folate Analog Metabolic Inhibitor,openFDA
+pemigatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+penicillin g,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+penicillin g benzathine,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+penicillin v,antibiotic_other,FDA EPC: Penicillin-class Antibacterial,openFDA
+pentamidine,nephrotoxic,manual,medicine_rules.OVERRIDES
+pentazocine,opioid,FDA EPC: Partial Opioid Agonist/Antagonist,openFDA
+pentazocine,opioid,manual,medicine_rules.OVERRIDES
+pentostatin,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+perampanel,antiepileptic,FDA EPC: Noncompetitive AMPA Glutamate Receptor Antagonist,openFDA
+perampanel,antiepileptic,manual,medicine_rules.OVERRIDES
+perindopril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+perindopril,antihypertensive,manual,medicine_rules.OVERRIDES
+perindopril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+perindopril,potassium_sparing,manual,medicine_rules.OVERRIDES
+perphenazine,antipsychotic,manual,medicine_rules.OVERRIDES
+perphenazine,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+pertuzumab,anticancer,FDA EPC: HER2/neu Receptor Antagonist,openFDA
+pexidartinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+pexidartinib,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+pexidartinib,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+phenelzine,antidepressant_maoi,FDA EPC: Monoamine Oxidase Inhibitor,openFDA
+phenelzine,antidepressant_maoi,manual,medicine_rules.OVERRIDES
+phenobarbital,antiepileptic,manual,medicine_rules.OVERRIDES
+phenobarbital,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+phenoxybenzamine,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+phentolamine,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+phenytoin,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+phenytoin,antiepileptic,manual,medicine_rules.OVERRIDES
+phenytoin,cyp2c9_substrate,2C9 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+phenytoin,cyp2c9_substrate,NTI (FDA 2006 Table 8),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+pimavanserin,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+pimecrolimus,immunosuppressant,FDA EPC: Calcineurin Inhibitor Immunosuppressant,openFDA
+pimozide,antipsychotic,FDA EPC: Typical Antipsychotic,openFDA
+pimozide,antipsychotic,manual,medicine_rules.OVERRIDES
+pimozide,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+pimozide,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+pimozide,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+pindolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+pioglitazone,antidiabetic_other,FDA EPC: Thiazolidinedione,openFDA
+pioglitazone,antidiabetic_other,manual,medicine_rules.OVERRIDES
+pirfenidone,cyp1a2_substrate,1A2 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+piroxicam,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+piroxicam,nephrotoxic,manual,medicine_rules.OVERRIDES
+piroxicam,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+piroxicam,nsaid,manual,medicine_rules.OVERRIDES
+pirtobrutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+pitavastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+pitavastatin,statin,manual,medicine_rules.OVERRIDES
+polymyxin b,antibiotic_other,FDA EPC: Polymyxin-class Antibacterial,openFDA
+polymyxin b,antibiotic_other,manual,medicine_rules.OVERRIDES
+polymyxin b,nephrotoxic,FDA EPC: Polymyxin-class Antibacterial,openFDA
+polymyxin b,nephrotoxic,manual,medicine_rules.OVERRIDES
+pomalidomide,anticancer,FDA EPC: Thalidomide Analog,openFDA
+ponatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ponesimod,immunosuppressant,FDA EPC: Sphingosine 1-phosphate Receptor Modulator,openFDA
+potassium acetate,iron_mineral_supplement,FDA EPC: Potassium Salt,openFDA
+potassium bicarbonate,iron_mineral_supplement,FDA EPC: Potassium Salt,openFDA
+potassium bitartrate,iron_mineral_supplement,FDA EPC: Potassium Salt,openFDA
+potassium chloride,iron_mineral_supplement,FDA EPC: Potassium Salt,openFDA
+potassium chloride,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+potassium citrate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+potassium sulfate,iron_mineral_supplement,FDA EPC: Potassium Salt,openFDA
+pralatrexate,anticancer,FDA EPC: Folate Analog Metabolic Inhibitor,openFDA
+pralsetinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+pralsetinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+pramlintide,antidiabetic_other,FDA EPC: Amylin Analog,openFDA
+prasugrel,antiplatelet,FDA EPC: P2Y12 Platelet Inhibitor,openFDA
+prasugrel,antiplatelet,manual,medicine_rules.OVERRIDES
+pravastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+pravastatin,statin,manual,medicine_rules.OVERRIDES
+prazosin,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+prazosin,antihypertensive,manual,medicine_rules.OVERRIDES
+prednisolone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+prednisolone,corticosteroid,manual,medicine_rules.OVERRIDES
+prednisone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+prednisone,corticosteroid,manual,medicine_rules.OVERRIDES
+pregabalin,antiepileptic,manual,medicine_rules.OVERRIDES
+pretomanid,antitubercular,FDA EPC: Antimycobacterial,openFDA
+pretomanid,antitubercular,manual,medicine_rules.OVERRIDES
+primidone,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+primidone,antiepileptic,manual,medicine_rules.OVERRIDES
+procainamide,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+procainamide,antiarrhythmic,manual,medicine_rules.OVERRIDES
+procarbazine,anticancer,FDA EPC: Alkylating Drug,openFDA
+prochlorperazine,antipsychotic,manual: phenothiazine mainly used as antiemetic,medicine_rules.OVERRIDES
+progesterone,hormonal_contraceptive_estrogen,FDA EPC: Progesterone,openFDA
+propafenone,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+propafenone,antiarrhythmic,manual,medicine_rules.OVERRIDES
+propafenone,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+propofol,anaesthesia_surgery,FDA EPC: General Anesthetic,openFDA
+propofol,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+propofol,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+propranolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+propranolol,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+propylthiouracil,antithyroid,FDA EPC: Thyroid Hormone Synthesis Inhibitor,openFDA
+propylthiouracil,antithyroid,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+propylthiouracil,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+protriptyline,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+protriptyline,antidepressant_tca,manual,medicine_rules.OVERRIDES
+pyrazinamide,antitubercular,FDA EPC: Antimycobacterial,openFDA
+pyrazinamide,antitubercular,manual,medicine_rules.OVERRIDES
+pyrazinamide,hepatotoxic,manual,medicine_rules.OVERRIDES
+quazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+quetiapine,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+quetiapine,antipsychotic,manual,medicine_rules.OVERRIDES
+quetiapine,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+quinapril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+quinapril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+quinidine,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+quinidine,antiarrhythmic,manual,medicine_rules.OVERRIDES
+quinidine,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+quinidine,pgp_substrate,P-gp substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+quizartinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+rabeprazole,ppi_antacid,FDA EPC: Proton Pump Inhibitor,openFDA
+rabeprazole,ppi_antacid,manual,medicine_rules.OVERRIDES
+raloxifene,hormonal_contraceptive_estrogen,FDA EPC: Estrogen Agonist/Antagonist,openFDA
+raloxifene,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+raltegravir,antiretroviral,FDA EPC: Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor,openFDA
+raltegravir,antiretroviral,manual,medicine_rules.OVERRIDES
+ramelteon,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+ramelteon,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+ramipril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+ramipril,antihypertensive,manual,medicine_rules.OVERRIDES
+ramipril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+ramipril,potassium_sparing,manual,medicine_rules.OVERRIDES
+ranitidine,ppi_antacid,FDA EPC: Histamine-2 Receptor Antagonist,openFDA
+ranitidine,ppi_antacid,manual,medicine_rules.OVERRIDES
+rasagiline,antidepressant_maoi,FDA EPC: Monoamine Oxidase Inhibitor,openFDA
+regorafenib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+regorafenib,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+regorafenib,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+relatlimab,anticancer,FDA EPC: Lymphocyte Activation Gene-3 Blocker,openFDA
+remibrutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+remifentanil,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+remifentanil,opioid,FDA EPC: Opioid Agonist,openFDA
+remifentanil,opioid,manual,medicine_rules.OVERRIDES
+remimazolam,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+remimazolam,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+remogliflozin etabonate,antidiabetic_other,manual: SGLT2 inhibitor (India),medicine_rules.OVERRIDES
+repaglinide,antidiabetic_other,FDA EPC: Glinide,openFDA
+repaglinide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+repotrectinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+repotrectinib,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+retifanlimab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+revumenib,anticancer,FDA EPC: Menin Inhibitor,openFDA
+ribociclib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+rifabutin,antitubercular,FDA EPC: Rifamycin Antimycobacterial,openFDA
+rifabutin,antitubercular,manual,medicine_rules.OVERRIDES
+rifampin,antibiotic_other,FDA EPC: Rifamycin Antibacterial,openFDA
+rifampin,antitubercular,manual,medicine_rules.OVERRIDES
+rifampin,hepatotoxic,manual,medicine_rules.OVERRIDES
+rifapentine,antitubercular,FDA EPC: Rifamycin Antimycobacterial,openFDA
+rifapentine,antitubercular,manual,medicine_rules.OVERRIDES
+rifaximin,antibiotic_other,FDA EPC: Rifamycin Antibacterial,openFDA
+rifaximin,antibiotic_other,manual,medicine_rules.OVERRIDES
+rilpivirine,antiretroviral,FDA EPC: Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+rilpivirine,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+rilzabrutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+riociguat,nitrate_pde5,manual: sGC stimulator; label contraindicates nitrates and PDE5 inhibitors (judgement call),medicine_rules.OVERRIDES
+ripretinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+risperidone,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+risperidone,antipsychotic,manual,medicine_rules.OVERRIDES
+ritlecitinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ritonavir,antiretroviral,FDA MoA: HIV Protease Inhibitors,openFDA
+ritonavir,antiretroviral,manual,medicine_rules.OVERRIDES
+rituximab,anticancer,manual,medicine_rules.OVERRIDES
+rituximab,immunosuppressant,manual,medicine_rules.OVERRIDES
+rivaroxaban,anticoagulant_doac,FDA EPC: Factor Xa Inhibitor,openFDA
+rivaroxaban,anticoagulant_doac,manual,medicine_rules.OVERRIDES
+rivaroxaban,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+rocuronium,anaesthesia_surgery,FDA EPC: Nondepolarizing Neuromuscular Blocker,openFDA
+rocuronium,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+romidepsin,anticancer,FDA EPC: Histone Deacetylase Inhibitor,openFDA
+rosuvastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+rosuvastatin,statin,manual,medicine_rules.OVERRIDES
+roxithromycin,antibiotic_other,manual: macrolide (not US-marketed),medicine_rules.OVERRIDES
+rucaparib,anticancer,FDA EPC: Poly(ADP-Ribose) Polymerase Inhibitor,openFDA
+rufinamide,antiepileptic,manual,medicine_rules.OVERRIDES
+ruxolitinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ruxolitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+s-metoprolol,antihypertensive,manual: single enantiomer of metoprolol (India),medicine_rules.OVERRIDES
+sacubitril,antihypertensive,"manual: neprilysin inhibitor, only sold with valsartan",medicine_rules.OVERRIDES
+safinamide,antidepressant_maoi,FDA EPC: Monoamine Oxidase Type B Inhibitor,openFDA
+sarecycline,antibiotic_chelating,FDA EPC: Tetracycline-class Drug,openFDA
+sarilumab,immunosuppressant,FDA EPC: Interleukin-6 Receptor Antagonist,openFDA
+saroglitazar,antidiabetic_other,manual: PPAR-alpha/gamma agonist approved in India for diabetic dyslipidaemia; glucose-lowering (judgement call),medicine_rules.OVERRIDES
+saxagliptin,antidiabetic_other,FDA EPC: Dipeptidyl Peptidase 4 Inhibitor,openFDA
+saxagliptin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+secnidazole,antibiotic_other,FDA EPC: Nitroimidazole Antimicrobial,openFDA
+secnidazole,antibiotic_other,manual,medicine_rules.OVERRIDES
+selegiline,antidepressant_maoi,FDA EPC: Monoamine Oxidase Inhibitor,openFDA
+selegiline,antidepressant_maoi,FDA EPC: Monoamine Oxidase Type B Inhibitor,openFDA
+selegiline,antidepressant_maoi,manual,medicine_rules.OVERRIDES
+selinexor,anticancer,FDA EPC: Nuclear Export Inhibitor,openFDA
+selpercatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+selpercatinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+selumetinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+semaglutide,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+semaglutide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+sennosides,laxative_stimulant,manual,medicine_rules.OVERRIDES
+sertraline,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+sertraline,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+sevabertinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+sevoflurane,anaesthesia_surgery,FDA EPC: General Anesthetic,openFDA
+sevoflurane,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+sildenafil,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+sildenafil,nitrate_pde5,FDA EPC: Phosphodiesterase 5 Inhibitor,openFDA
+sildenafil,nitrate_pde5,manual,medicine_rules.OVERRIDES
+silodosin,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+silver sulfadiazine,antibiotic_other,FDA EPC: Sulfonamide Antibacterial,openFDA
+simvastatin,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+simvastatin,statin,FDA EPC: HMG-CoA Reductase Inhibitor,openFDA
+simvastatin,statin,manual,medicine_rules.OVERRIDES
+siponimod,immunosuppressant,FDA EPC: Sphingosine 1-phosphate Receptor Modulator,openFDA
+sirolimus,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+sirolimus,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+sirolimus,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+sirolimus,immunosuppressant,FDA EPC: mTOR Inhibitor Immunosuppressant,openFDA
+sirolimus,immunosuppressant,manual,medicine_rules.OVERRIDES
+sitagliptin,antidiabetic_other,FDA EPC: Dipeptidyl Peptidase 4 Inhibitor,openFDA
+sitagliptin,antidiabetic_other,manual,medicine_rules.OVERRIDES
+sodium bicarbonate,ppi_antacid,manual,medicine_rules.OVERRIDES
+sodium ferric gluconate complex,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+sodium oxybate,sedative_hypnotic,FDA EPC: Central Nervous System Depressant,openFDA
+sodium oxybate,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+sodium picosulfate,laxative_stimulant,FDA EPC: Stimulant Laxative,openFDA
+sodium picosulfate,laxative_stimulant,manual,medicine_rules.OVERRIDES
+sonidegib,anticancer,FDA EPC: Hedgehog Pathway Inhibitor,openFDA
+sorafenib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+sotagliflozin,antidiabetic_other,FDA EPC: Sodium-Glucose Cotransporter 2 Inhibitor,openFDA
+sotalol,antiarrhythmic,FDA EPC: Antiarrhythmic,openFDA
+sotalol,antiarrhythmic,manual,medicine_rules.OVERRIDES
+sotalol,antihypertensive,manual,medicine_rules.OVERRIDES
+sparsentan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+sparsentan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+spironolactone,potassium_sparing,FDA EPC: Aldosterone Antagonist,openFDA
+spironolactone,potassium_sparing,manual,medicine_rules.OVERRIDES
+stiripentol,antiepileptic,manual,medicine_rules.OVERRIDES
+streptomycin,antibiotic_other,FDA EPC: Aminoglycoside Antibacterial,openFDA
+streptomycin,antibiotic_other,manual,medicine_rules.OVERRIDES
+streptomycin,antitubercular,FDA EPC: Antimycobacterial,openFDA
+streptomycin,antitubercular,manual,medicine_rules.OVERRIDES
+streptomycin,nephrotoxic,FDA EPC: Aminoglycoside Antibacterial,openFDA
+streptomycin,nephrotoxic,manual,medicine_rules.OVERRIDES
+streptozocin,anticancer,FDA EPC: Alkylating Drug,openFDA
+succinylcholine,anaesthesia_surgery,FDA EPC: Depolarizing Neuromuscular Blocker,openFDA
+succinylcholine,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+sucralfate,ppi_antacid,manual: aluminium complex; binds other drugs (judgement call),medicine_rules.OVERRIDES
+sufentanil,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+sufentanil,opioid,FDA EPC: Opioid Agonist,openFDA
+sufentanil,opioid,manual,medicine_rules.OVERRIDES
+sulbactam,antibiotic_other,FDA EPC: beta Lactamase Inhibitor,openFDA
+sulbactam,antibiotic_other,manual,medicine_rules.OVERRIDES
+sulfacetamide,antibiotic_other,FDA EPC: Sulfonamide Antibacterial,openFDA
+sulfadiazine,antibiotic_other,FDA EPC: Sulfonamide Antibacterial,openFDA
+sulfamethoxazole,antibiotic_other,FDA EPC: Sulfonamide Antimicrobial,openFDA
+sulfamethoxazole,antibiotic_other,manual,medicine_rules.OVERRIDES
+sulindac,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+sulindac,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+sunitinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+sunitinib,anticancer,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+sunitinib,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+suvorexant,sedative_hypnotic,FDA EPC: Orexin Receptor Antagonist,openFDA
+suvorexant,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+tacrolimus,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tacrolimus,cyp3a4_substrate_narrow,NTI (FDA 2006 Table 7),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+tacrolimus,immunosuppressant,FDA EPC: Calcineurin Inhibitor Immunosuppressant,openFDA
+tacrolimus,immunosuppressant,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+tacrolimus,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+tadalafil,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tadalafil,nitrate_pde5,FDA EPC: Phosphodiesterase 5 Inhibitor,openFDA
+tadalafil,nitrate_pde5,manual,medicine_rules.OVERRIDES
+talazoparib,anticancer,FDA EPC: Poly(ADP-Ribose) Polymerase Inhibitor,openFDA
+taletrectinib adipate,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+tamoxifen,anticancer,manual,medicine_rules.OVERRIDES
+tamoxifen,hormonal_contraceptive_estrogen,FDA EPC: Estrogen Agonist/Antagonist,openFDA
+tamoxifen,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+tamsulosin,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+tapentadol,opioid,FDA EPC: Opioid Agonist,openFDA
+tapentadol,opioid,manual,medicine_rules.OVERRIDES
+tasimelteon,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tazemetostat,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tazobactam,antibiotic_other,manual,medicine_rules.OVERRIDES
+tebentafusp,anticancer,FDA EPC: Bispecific gp100 Peptide-HLA-directed CD3 T Cell Engager,openFDA
+tedizolid,antibiotic_other,FDA EPC: Oxazolidinone Antibacterial,openFDA
+teicoplanin,antibiotic_other,manual,medicine_rules.OVERRIDES
+telavancin,antibiotic_other,FDA EPC: Lipoglycopeptide Antibacterial,openFDA
+telmisartan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+telmisartan,antihypertensive,manual,medicine_rules.OVERRIDES
+telmisartan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+telmisartan,potassium_sparing,manual,medicine_rules.OVERRIDES
+temazepam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+temozolomide,anticancer,FDA EPC: Alkylating Drug,openFDA
+temozolomide,anticancer,manual,medicine_rules.OVERRIDES
+teneligliptin,antidiabetic_other,manual: DPP-4 inhibitor (India/Japan),medicine_rules.OVERRIDES
+tenofovir,antiretroviral,FDA EPC: Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+tenofovir,antiretroviral,manual: also used for hepatitis B; nephrotoxic: labelled renal impairment/Fanconi warning (TDF),medicine_rules.OVERRIDES
+tenofovir,nephrotoxic,manual: also used for hepatitis B; nephrotoxic: labelled renal impairment/Fanconi warning (TDF),medicine_rules.OVERRIDES
+tenofovir,pgp_substrate,P-gp substrate prodrug (FDA HCP table footnote 1),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tepotinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+terazosin,antihypertensive,FDA EPC: alpha-Adrenergic Blocker,openFDA
+terbinafine,hepatotoxic,manual: oral form: labelled liver failure warning,medicine_rules.OVERRIDES
+teriflunomide,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+teriflunomide,immunosuppressant,FDA EPC: Pyrimidine Synthesis Inhibitor,openFDA
+teriflunomide,immunosuppressant,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+tetracycline,antibiotic_chelating,FDA EPC: Tetracycline-class Antimicrobial,openFDA
+tetracycline,antibiotic_chelating,manual,medicine_rules.OVERRIDES
+tetraferric tricitrate decahydrate,iron_mineral_supplement,FDA EPC: Parenteral Iron Replacement,openFDA
+thalidomide,anticancer,manual,medicine_rules.OVERRIDES
+theophylline,cyp1a2_substrate,1A2 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+theophylline,cyp1a2_substrate,NTI (FDA 2006 Table 8),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+theophylline,theophylline,manual,medicine_rules.OVERRIDES
+thioguanine,anticancer,FDA EPC: Antimetabolite,openFDA
+thiopental,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+thiopental,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+thioridazine,antipsychotic,manual,medicine_rules.OVERRIDES
+thioridazine,cyp2d6_substrate,NTI (FDA 2006 Table 8),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+thiotepa,anticancer,FDA EPC: Alkylating Drug,openFDA
+thiothixene,antipsychotic,FDA EPC: Typical Antipsychotic,openFDA
+thyroid,thyroid_hormone,manual: desiccated thyroid (porcine),medicine_rules.OVERRIDES
+tiagabine,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+tiagabine,antiepileptic,manual,medicine_rules.OVERRIDES
+ticagrelor,antiplatelet,FDA EPC: P2Y12 Platelet Inhibitor,openFDA
+ticagrelor,antiplatelet,manual,medicine_rules.OVERRIDES
+ticagrelor,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tigecycline,antibiotic_chelating,FDA EPC: Tetracycline-class Antibacterial,openFDA
+timolol,antihypertensive,FDA EPC: beta-Adrenergic Blocker,openFDA
+tinidazole,antibiotic_other,FDA EPC: Nitroimidazole Antimicrobial,openFDA
+tinidazole,antibiotic_other,manual,medicine_rules.OVERRIDES
+tirbanibulin,anticancer,FDA EPC: Microtubule Inhibitor,openFDA
+tirofiban,antiplatelet,FDA EPC: Platelet Aggregation Inhibitor,openFDA
+tirofiban,antiplatelet,manual,medicine_rules.OVERRIDES
+tirzepatide,antidiabetic_other,FDA EPC: GLP-1 Receptor Agonist,openFDA
+tirzepatide,antidiabetic_other,FDA EPC: Glucose-dependent Insulinotropic Polypeptide Receptor Agonist,openFDA
+tirzepatide,antidiabetic_other,manual,medicine_rules.OVERRIDES
+tisagenlecleucel,anticancer,FDA EPC: CD19-directed Chimeric Antigen Receptor,openFDA
+tislelizumab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+tivozanib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+tizanidine,antihypertensive,FDA EPC: Central alpha-2 Adrenergic Agonist,openFDA
+tizanidine,cyp1a2_substrate,1A2 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tizanidine,cyp1a2_substrate,NTI (FDA 2006 Table 8),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+tizanidine,cyp1a2_substrate,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+tobramycin,antibiotic_other,FDA EPC: Aminoglycoside Antibacterial,openFDA
+tobramycin,antibiotic_other,manual,medicine_rules.OVERRIDES
+tobramycin,nephrotoxic,FDA EPC: Aminoglycoside Antibacterial,openFDA
+tobramycin,nephrotoxic,manual,medicine_rules.OVERRIDES
+tocilizumab,immunosuppressant,FDA EPC: Interleukin-6 Receptor Antagonist,openFDA
+tofacitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+tolmetin,nephrotoxic,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+tolmetin,nsaid,FDA EPC: Nonsteroidal Anti-inflammatory Drug,openFDA
+tolterodine,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tolvaptan,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tolvaptan,hepatotoxic,manual: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+topiramate,antiepileptic,manual,medicine_rules.OVERRIDES
+topotecan,anticancer,FDA EPC: Topoisomerase Inhibitor,openFDA
+topotecan,pgp_substrate,P-gp substrate (FDA 2006 Table 11),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+toremifene,anticancer,manual,medicine_rules.OVERRIDES
+toremifene,hormonal_contraceptive_estrogen,FDA EPC: Estrogen Agonist/Antagonist,openFDA
+toremifene,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+toripalimab,anticancer,FDA EPC: Programmed Death Receptor-1 Blocking Antibody,openFDA
+torsemide,diuretic_loop_thiazide,FDA EPC: Loop Diuretic,openFDA
+torsemide,diuretic_loop_thiazide,manual,medicine_rules.OVERRIDES
+tovorafenib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+trabectedin,anticancer,FDA EPC: Alkylating Drug,openFDA
+tramadol,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tramadol,opioid,FDA EPC: Opioid Agonist,openFDA
+tramadol,opioid,manual,medicine_rules.OVERRIDES
+trametinib dimethyl sulfoxide,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+trandolapril,antihypertensive,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+trandolapril,potassium_sparing,FDA EPC: Angiotensin Converting Enzyme Inhibitor,openFDA
+tranylcypromine,antidepressant_maoi,FDA EPC: Monoamine Oxidase Inhibitor,openFDA
+tranylcypromine,antidepressant_maoi,manual,medicine_rules.OVERRIDES
+trastuzumab,anticancer,FDA EPC: HER2/neu Receptor Antagonist,openFDA
+trastuzumab,anticancer,manual,medicine_rules.OVERRIDES
+trazodone,antidepressant_ssri_snri,FDA EPC: Serotonin Reuptake Inhibitor,openFDA
+tremelimumab,anticancer,FDA EPC: CTLA-4-directed Blocking Antibody,openFDA
+triamcinolone,corticosteroid,FDA EPC: Corticosteroid,openFDA
+triamcinolone,corticosteroid,manual,medicine_rules.OVERRIDES
+triamterene,potassium_sparing,FDA EPC: Potassium-sparing Diuretic,openFDA
+triamterene,potassium_sparing,manual,medicine_rules.OVERRIDES
+triazolam,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+triazolam,cyp3a4_substrate_narrow,sensitive index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+triazolam,sedative_hypnotic,FDA EPC: Benzodiazepine,openFDA
+trifluoperazine,antipsychotic,manual,medicine_rules.OVERRIDES
+trifluridine,anticancer,FDA EPC: Nucleoside Metabolic Inhibitor,openFDA
+trilaciclib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+trimethoprim,antibiotic_other,FDA EPC: Dihydrofolate Reductase Inhibitor Antibacterial,openFDA
+trimethoprim,antibiotic_other,manual,medicine_rules.OVERRIDES
+trimipramine,antidepressant_tca,FDA EPC: Tricyclic Antidepressant,openFDA
+trimipramine,antidepressant_tca,manual,medicine_rules.OVERRIDES
+trimipramine,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+tucatinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+ulipristal,hormonal_contraceptive_estrogen,FDA EPC: Progesterone Agonist/Antagonist,openFDA
+ulipristal,hormonal_contraceptive_estrogen,manual,medicine_rules.OVERRIDES
+upadacitinib,immunosuppressant,FDA EPC: Janus Kinase Inhibitor,openFDA
+vaborbactam,antibiotic_other,FDA EPC: beta Lactamase Inhibitor,openFDA
+valproic acid,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+valproic acid,antiepileptic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+valproic acid,hepatotoxic,manual: hepatotoxic: FDA boxed or labelled warning for serious liver injury,medicine_rules.OVERRIDES
+valsartan,antihypertensive,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+valsartan,potassium_sparing,FDA EPC: Angiotensin 2 Receptor Blocker,openFDA
+vancomycin,antibiotic_other,FDA EPC: Glycopeptide Antibacterial,openFDA
+vancomycin,antibiotic_other,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+vancomycin,nephrotoxic,manual: nephrotoxic: FDA boxed or labelled warning for nephrotoxicity,medicine_rules.OVERRIDES
+vandetanib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+vardenafil,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+vardenafil,nitrate_pde5,FDA EPC: Phosphodiesterase 5 Inhibitor,openFDA
+vardenafil,nitrate_pde5,manual,medicine_rules.OVERRIDES
+vecuronium,anaesthesia_surgery,FDA EPC: Nondepolarizing Neuromuscular Blocker,openFDA
+vecuronium,anaesthesia_surgery,manual,medicine_rules.OVERRIDES
+vemurafenib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+venetoclax,anticancer,FDA EPC: BCL-2 Inhibitor,openFDA
+venetoclax,cyp3a4_substrate_narrow,3A sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+venlafaxine,antidepressant_ssri_snri,FDA EPC: Serotonin and Norepinephrine Reuptake Inhibitor,openFDA
+venlafaxine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+venlafaxine,cyp2d6_substrate,2D6 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+venlafaxine,cyp2d6_substrate,2D6 sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+verapamil,antihypertensive,FDA EPC: Calcium Channel Blocker,openFDA
+vigabatrin,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+vigabatrin,antiepileptic,manual,medicine_rules.OVERRIDES
+vilazodone,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+vildagliptin,antidiabetic_other,manual: DPP-4 inhibitor (EU/India),medicine_rules.OVERRIDES
+vimseltinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+vinblastine,anticancer,FDA EPC: Vinca Alkaloid,openFDA
+vinblastine,pgp_substrate,P-gp substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+vincristine,anticancer,FDA EPC: Vinca Alkaloid,openFDA
+vincristine,pgp_substrate,P-gp substrate (FDA 2006 Table 11),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+vinorelbine,anticancer,FDA EPC: Vinca Alkaloid,openFDA
+vismodegib,anticancer,FDA EPC: Hedgehog Pathway Inhibitor,openFDA
+voclosporin,immunosuppressant,FDA EPC: Calcineurin Inhibitor Immunosuppressant,openFDA
+voclosporin,immunosuppressant,manual,medicine_rules.OVERRIDES
+voglibose,antidiabetic_other,manual: alpha-glucosidase inhibitor (India/Japan),medicine_rules.OVERRIDES
+vonoprazan,ppi_antacid,manual: potassium-competitive acid blocker,medicine_rules.OVERRIDES
+vorasidenib,anticancer,FDA EPC: Isocitrate Dehydrogenase 1 Inhibitor,openFDA
+vorasidenib,anticancer,FDA EPC: Isocitrate Dehydrogenase 2 Inhibitor,openFDA
+vorinostat,anticancer,FDA EPC: Histone Deacetylase Inhibitor,openFDA
+vortioxetine,antidepressant_ssri_snri,manual,medicine_rules.OVERRIDES
+warfarin,anticoagulant_vka,FDA EPC: Vitamin K Antagonist,openFDA
+warfarin,anticoagulant_vka,manual,medicine_rules.OVERRIDES
+warfarin,cyp2c9_substrate,2C9 moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+warfarin,cyp2c9_substrate,NTI (FDA 2006 Table 8),https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/DrugInteractionsLabeling/ucm093664.htm (2006 version; copy at https://courses.washington.edu/medch527/PDFs/Literature/527_fdatable.pdf)
+warfarin,cyp2c9_substrate,index substrate (FDA index table),https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers
+zaleplon,sedative_hypnotic,FDA EPC: gamma-Aminobutyric Acid A Receptor Agonist,openFDA
+zaleplon,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+zanidatamab,anticancer,FDA EPC: Bispecific HER2-directed Antibody,openFDA
+zanubrutinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+zanubrutinib,cyp3a4_substrate_narrow,3A moderate sensitive substrate (FDA HCP table),https://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems
+zidovudine,antiretroviral,FDA EPC: Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,openFDA
+zidovudine,antiretroviral,manual,medicine_rules.OVERRIDES
+ziftomenib,anticancer,FDA EPC: Menin Inhibitor,openFDA
+zinc acetate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+zinc gluconate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+zinc sulfate,iron_mineral_supplement,manual,medicine_rules.OVERRIDES
+ziprasidone,antipsychotic,FDA EPC: Atypical Antipsychotic,openFDA
+ziprasidone,antipsychotic,manual,medicine_rules.OVERRIDES
+zolbetuximab,anticancer,FDA EPC: Claudin 18.2-directed Cytolytic Antibody,openFDA
+zoledronic acid,nephrotoxic,manual: labelled renal toxicity warning,medicine_rules.OVERRIDES
+zolpidem,sedative_hypnotic,manual,medicine_rules.OVERRIDES
+zongertinib,anticancer,FDA EPC: Kinase Inhibitor,openFDA
+zonisamide,antiepileptic,FDA EPC: Anti-epileptic Agent,openFDA
+zonisamide,antiepileptic,manual,medicine_rules.OVERRIDES

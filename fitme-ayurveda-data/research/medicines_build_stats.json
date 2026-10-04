@@ -1,0 +1,2267 @@
+{
+ "ndc_products_used": 97984,
+ "ndc_export_date": "2026-10-02",
+ "label_records_used": 76412,
+ "label_export_date": "2026-10-02",
+ "combo_inferred_epc": {
+  "clavulanate": [
+   "beta Lactamase Inhibitor"
+  ],
+  "avibactam": [
+   "beta Lactamase Inhibitor"
+  ],
+  "ethinyl estradiol": [
+   "Estrogen"
+  ],
+  "sulfamethoxazole": [
+   "Sulfonamide Antimicrobial"
+  ],
+  "sulbactam": [
+   "beta Lactamase Inhibitor"
+  ],
+  "sacubitril": [
+   "Neprilysin Inhibitor"
+  ],
+  "diphenoxylate": [
+   "Antidiarrheal"
+  ],
+  "sodium picosulfate": [
+   "Stimulant Laxative"
+  ],
+  "ledipasvir": [
+   "Hepatitis C Virus NS5A Inhibitor"
+  ],
+  "velpatasvir": [
+   "Hepatitis C Virus NS5A Inhibitor"
+  ],
+  "clidinium": [
+   "Anticholinergic"
+  ],
+  "samidorphan l-malate": [
+   "Opioid Antagonist"
+  ],
+  "vilanterol": [
+   "beta2-Adrenergic Agonist"
+  ],
+  "netupitant": [
+   "Substance P/Neurokinin-1 Receptor Antagonist"
+  ],
+  "butalbital": [
+   "Barbiturate"
+  ],
+  "cholecalciferol": [
+   "Vitamin D"
+  ],
+  "xanomeline": [
+   "Cholinergic Muscarinic Agonist"
+  ],
+  "berahyaluronidase alfa": [
+   "Endoglycosidase"
+  ],
+  "articaine": [
+   "Amide Local Anesthetic"
+  ],
+  "drospirenone": [
+   "Progestin"
+  ],
+  "bismuth subcitrate": [
+   "Bismuth"
+  ],
+  "difenoxin": [
+   "Antidiarrheal"
+  ],
+  "lixisenatide": [
+   "GLP-1 Receptor Agonist"
+  ],
+  "clioquinol": [
+   "Standardized Chemical Allergen"
+  ],
+  "bazedoxifene": [
+   "Estrogen Agonist/Antagonist"
+  ],
+  "tipiracil": [
+   "Thymidine Phosphorylase Inhibitor"
+  ],
+  "vaborbactam": [
+   "beta Lactamase Inhibitor"
+  ],
+  "relatlimab": [
+   "Lymphocyte Activation Gene-3 Blocker"
+  ],
+  "elvitegravir": [
+   "Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor"
+  ],
+  "pentazocine": [
+   "Partial Opioid Agonist/Antagonist"
+  ],
+  "potassium bitartrate": [
+   "Potassium Salt"
+  ],
+  "urea c-13": [
+   "Helicobacter pylori Diagnostic"
+  ]
+ },
+ "fda_hcp_table_as_of": "05/29/2026",
+ "nlem_entries": 384,
+ "nlem_molecules": 363,
+ "janaushadhi_products": 2439,
+ "janaushadhi_products_with_molecule": 2041,
+ "janaushadhi_molecules": 777,
+ "molecules": 3187,
+ "classified": 895,
+ "with_fda_epc": 1507,
+ "by_source": {
+  "openfda": 2996,
+  "nlem": 363,
+  "janaushadhi": 777,
+  "manual": 476
+ },
+ "in_nlem": 363,
+ "india_only": 191,
+ "india_only_classified": 67,
+ "class_counts": {
+  "anticancer": 207,
+  "antibiotic_other": 79,
+  "antihypertensive": 76,
+  "cyp3a4_substrate_narrow": 58,
+  "nephrotoxic": 46,
+  "immunosuppressant": 37,
+  "iron_mineral_supplement": 36,
+  "antidiabetic_other": 34,
+  "hepatotoxic": 33,
+  "sedative_hypnotic": 32,
+  "corticosteroid": 30,
+  "antipsychotic": 28,
+  "antiepileptic": 28,
+  "antiretroviral": 25,
+  "nsaid": 25,
+  "potassium_sparing": 25,
+  "hormonal_contraceptive_estrogen": 24,
+  "anaesthesia_surgery": 24,
+  "ppi_antacid": 20,
+  "antibiotic_chelating": 19,
+  "opioid": 18,
+  "cyp2d6_substrate": 17,
+  "antidepressant_ssri_snri": 16,
+  "antitubercular": 14,
+  "pgp_substrate": 13,
+  "antiarrhythmic": 12,
+  "cyp1a2_substrate": 11,
+  "antidepressant_tca": 11,
+  "diuretic_loop_thiazide": 10,
+  "antiplatelet": 9,
+  "nitrate_pde5": 9,
+  "statin": 8,
+  "antidiabetic_insulin": 7,
+  "anticoagulant_heparin": 6,
+  "antidepressant_maoi": 6,
+  "theophylline": 5,
+  "laxative_stimulant": 5,
+  "anticoagulant_doac": 4,
+  "cyp2c9_substrate": 4,
+  "antidiabetic_sulfonylurea": 4,
+  "antithyroid": 3,
+  "thyroid_hormone": 3,
+  "anticoagulant_vka": 2,
+  "cardiac_glycoside": 2,
+  "lithium": 2
+ },
+ "unused_spec_keys": [
+  "any_medicine"
+ ],
+ "aliases": {
+  "inn_ip_or_alternate_name": 199,
+  "spelling_variant": 35,
+  "salt_or_ester_form": 904,
+  "us_brand": 26377
+ },
+ "nlem_unclassified": [
+  "mesalamine",
+  "acetazolamide",
+  "activated charcoal",
+  "acyclovir",
+  "adenosine",
+  "epinephrine",
+  "albendazole",
+  "allopurinol",
+  "tretinoin",
+  "alprostadil",
+  "anti-d immunoglobulin",
+  "anti-rabies immunoglobulin",
+  "anti-tetanus immunoglobulin",
+  "artemether",
+  "lumefantrine",
+  "artesunate",
+  "sulfadoxine",
+  "pyrimethamine",
+  "ascorbic acid",
+  "atropine",
+  "baclofen",
+  "barium sulfate",
+  "bcg vaccine",
+  "benzoyl peroxide",
+  "bleomycin",
+  "formoterol",
+  "bupivacaine",
+  "naloxone",
+  "calamine",
+  "leucovorin",
+  "carboxymethylcellulose",
+  "cetirizine",
+  "chlorhexidine",
+  "chloroquine",
+  "cholecalciferol",
+  "clotrimazole",
+  "coagulation factor ix",
+  "coagulation factor viii",
+  "coal tar",
+  "salicylic acid",
+  "penicillamine",
+  "daclatasvir",
+  "dapsone",
+  "deferoxamine",
+  "dextran-40",
+  "dicyclomine",
+  "diethylcarbamazine",
+  "dinoprostone",
+  "diphtheria antitoxin",
+  "dobutamine",
+  "domperidone",
+  "donepezil",
+  "dopamine",
+  "dpt vaccine",
+  "dpt+hib+hep b vaccine",
+  "entecavir",
+  "epoetin alfa",
+  "alcohol",
+  "folic acid",
+  "filgrastim",
+  "fluconazole",
+  "flunarizine",
+  "fluorescein",
+  "framycetin",
+  "fusidic acid",
+  "gadobenate",
+  "dextrose",
+  "sodium chloride",
+  "glutaraldehyde",
+  "glycerin",
+  "glycopyrrolate",
+  "hepatitis b immunoglobulin",
+  "hepatitis b vaccine",
+  "homatropine",
+  "chorionic gonadotropin",
+  "human normal immunoglobulin",
+  "hydrogen peroxide",
+  "hydroxocobalamin",
+  "hydroxychloroquine",
+  "hypromellose",
+  "hyoscine butylbromide",
+  "insulin isophane human",
+  "iohexol",
+  "ipratropium",
+  "psyllium",
+  "itraconazole",
+  "ivermectin",
+  "japanese encephalitis vaccine",
+  "lactulose",
+  "asparaginase",
+  "latanoprost",
+  "leuprolide",
+  "levodopa",
+  "carbidopa",
+  "mannitol",
+  "measles vaccine",
+  "mebendazole",
+  "mefloquine",
+  "meglumine diatrizoate",
+  "mesna",
+  "methylergonovine",
+  "gentian violet",
+  "methylene blue",
+  "metoclopramide",
+  "mifepristone",
+  "miltefosine",
+  "misoprostol",
+  "montelukast",
+  "acetylcysteine",
+  "natamycin",
+  "neostigmine",
+  "nicotine",
+  "norepinephrine",
+  "nystatin",
+  "ondansetron",
+  "oral poliomyelitis vaccine",
+  "oral rehydration salts",
+  "oxygen",
+  "oxytocin",
+  "paromomycin",
+  "permethrin",
+  "pheniramine",
+  "phenylephrine",
+  "phytonadione",
+  "pilocarpine",
+  "piperacillin",
+  "podophyllin resin",
+  "potassium permanganate",
+  "povidone-iodine",
+  "pralidoxime",
+  "praziquantel",
+  "primaquine",
+  "penicillin g procaine",
+  "proparacaine",
+  "protamine",
+  "pyridoxine",
+  "quinine",
+  "rabies vaccine",
+  "ribavirin",
+  "riboflavin",
+  "ringer lactate",
+  "rotavirus vaccine",
+  "albuterol",
+  "snake venom antiserum",
+  "sodium nitrite",
+  "sodium nitroprusside",
+  "sodium thiosulfate",
+  "sofosbuvir",
+  "somatostatin",
+  "streptokinase",
+  "sulfasalazine",
+  "sumatriptan",
+  "tenecteplase",
+  "tetanus toxoid",
+  "thiamine",
+  "tiotropium",
+  "tranexamic acid",
+  "trihexyphenidyl",
+  "tropicamide",
+  "tuberculin purified protein derivative",
+  "valganciclovir",
+  "vitamin a",
+  "xylometazoline"
+ ],
+ "ja_unmatched_top": [
+  [
+   "size",
+   31
+  ],
+  [
+   "suture length cm",
+   26
+  ],
+  [
+   "length cm",
+   25
+  ],
+  [
+   "cir rb",
+   20
+  ],
+  [
+   "mm needle",
+   20
+  ],
+  [
+   "polypropylene suture",
+   19
+  ],
+  [
+   "medium",
+   17
+  ],
+  [
+   "large",
+   17
+  ],
+  [
+   "small",
+   16
+  ],
+  [
+   "disposable",
+   12
+  ],
+  [
+   "sterilized",
+   11
+  ],
+  [
+   "b",
+   10
+  ],
+  [
+   "endotracheal tube cuffed",
+   10
+  ],
+  [
+   "vitamin b",
+   9
+  ],
+  [
+   "suction catheter fg",
+   9
+  ],
+  [
+   "cir rb needle mm",
+   9
+  ],
+  [
+   "extra large",
+   9
+  ],
+  [
+   "needle",
+   8
+  ],
+  [
+   "inch",
+   8
+  ],
+  [
+   "cm",
+   8
+  ],
+  [
+   "arm",
+   8
+  ],
+  [
+   "endotracheal tube",
+   7
+  ],
+  [
+   "catheter urinary drainage",
+   7
+  ],
+  [
+   "foley balloon catheter",
+   7
+  ],
+  [
+   "way",
+   7
+  ],
+  [
+   "fg",
+   7
+  ],
+  [
+   "surgical suture",
+   7
+  ],
+  [
+   "absorbable",
+   7
+  ],
+  [
+   "synthetic",
+   7
+  ],
+  [
+   "polyamide",
+   7
+  ],
+  [
+   "janaushadhi swabhiman",
+   7
+  ],
+  [
+   "diaper",
+   7
+  ],
+  [
+   "janaushadhi urja",
+   6
+  ],
+  [
+   "knee",
+   6
+  ],
+  [
+   "chromic suture",
+   6
+  ],
+  [
+   "silk suture",
+   6
+  ],
+  [
+   "cervical collar",
+   6
+  ],
+  [
+   "janaushadhi bachpan",
+   6
+  ],
+  [
+   "baby diaper",
+   6
+  ],
+  [
+   "janaushadhi suvidha",
+   6
+  ],
+  [
+   "wings",
+   6
+  ],
+  [
+   "janaushadhi kavach",
+   6
+  ],
+  [
+   "male latex condom",
+   6
+  ],
+  [
+   "janaushadhi poshan",
+   5
+  ],
+  [
+   "malt based food",
+   5
+  ],
+  [
+   "sustained-release",
+   5
+  ],
+  [
+   "i.v cannula",
+   5
+  ],
+  [
+   "ryles tube",
+   5
+  ],
+  [
+   "nasogastric tube",
+   5
+  ],
+  [
+   "niddle mm",
+   5
+  ],
+  [
+   "abdominal belt velcro",
+   5
+  ],
+  [
+   "color",
+   5
+  ],
+  [
+   "vein compression stocking knee length",
+   5
+  ],
+  [
+   "vein compression stocking thigh length",
+   5
+  ],
+  [
+   "lumbo-sacral support belt",
+   5
+  ],
+  [
+   "waist",
+   5
+  ],
+  [
+   "back support",
+   5
+  ],
+  [
+   "linseed oil",
+   4
+  ],
+  [
+   "simethicone",
+   4
+  ],
+  [
+   "indacaterol",
+   4
+  ],
+  [
+   "m",
+   4
+  ],
+  [
+   "scalp vein set",
+   4
+  ],
+  [
+   "surgical rubber gloves-disposable",
+   4
+  ],
+  [
+   "usp",
+   4
+  ],
+  [
+   "tapercut",
+   4
+  ],
+  [
+   "polybutylate",
+   4
+  ],
+  [
+   "blue",
+   4
+  ],
+  [
+   "thumb",
+   4
+  ],
+  [
+   "wrist brace",
+   4
+  ],
+  [
+   "anklet",
+   4
+  ],
+  [
+   "tubular support",
+   4
+  ],
+  [
+   "elbow support",
+   4
+  ],
+  [
+   "pant style",
+   4
+  ],
+  [
+   "waist size inch",
+   4
+  ],
+  [
+   "net fixator bandage",
+   4
+  ],
+  [
+   "r-dna origin",
+   3
+  ],
+  [
+   "s",
+   3
+  ],
+  [
+   "enteric-coated",
+   3
+  ],
+  [
+   "multivitamins",
+   3
+  ],
+  [
+   "solvent",
+   3
+  ],
+  [
+   "hydrochloride",
+   3
+  ],
+  [
+   "im",
+   3
+  ],
+  [
+   "janaushadhi protein",
+   3
+  ],
+  [
+   "janushadhi madhurak",
+   3
+  ],
+  [
+   "stevia natural sweetener",
+   3
+  ],
+  [
+   "vanilla",
+   3
+  ],
+  [
+   "cocoa",
+   3
+  ],
+  [
+   "hand sanitizer",
+   3
+  ],
+  [
+   "ethanol",
+   3
+  ],
+  [
+   "evening primrose oil",
+   3
+  ],
+  [
+   "omega fatty acid",
+   3
+  ],
+  [
+   "madhu",
+   3
+  ],
+  [
+   "makshik",
+   3
+  ],
+  [
+   "hour",
+   3
+  ],
+  [
+   "absorbent cotton wool",
+   3
+  ],
+  [
+   "paper adhesive plaster inch x m",
+   3
+  ],
+  [
+   "gauze pad size x",
+   3
+  ],
+  [
+   "infant feeding tube",
+   3
+  ],
+  [
+   "size fg",
+   3
+  ],
+  [
+   "circle reverse cutting needle mm",
+   3
+  ],
+  [
+   "conventional cutting needle mm length cm",
+   3
+  ],
+  [
+   "cir tapercut",
+   3
+  ],
+  [
+   "born",
+   3
+  ],
+  [
+   "xl",
+   3
+  ],
+  [
+   "xxl",
+   3
+  ],
+  [
+   "adhesive surgical paper tape size cmx m",
+   3
+  ],
+  [
+   "cm x cm",
+   3
+  ],
+  [
+   "grey",
+   3
+  ],
+  [
+   "reusable menstrual cup",
+   3
+  ],
+  [
+   "patellar ring",
+   3
+  ],
+  [
+   "tricholine citrate",
+   2
+  ],
+  [
+   "vitamin b-complex",
+   2
+  ],
+  [
+   "who formula",
+   2
+  ],
+  [
+   "vitamins",
+   2
+  ],
+  [
+   "b complex",
+   2
+  ],
+  [
+   "minerals",
+   2
+  ],
+  [
+   "citrate",
+   2
+  ],
+  [
+   "vitamin",
+   2
+  ],
+  [
+   "iv",
+   2
+  ],
+  [
+   "janaushadhi janani",
+   2
+  ],
+  [
+   "epa",
+   2
+  ],
+  [
+   "dha",
+   2
+  ],
+  [
+   "methylsalicylate",
+   2
+  ],
+  [
+   "bicarbonate",
+   2
+  ],
+  [
+   "suger",
+   2
+  ],
+  [
+   "janaushadhi women protein",
+   2
+  ],
+  [
+   "chocolate",
+   2
+  ],
+  [
+   "chyawanprash special jar",
+   2
+  ],
+  [
+   "ozenoxacin",
+   2
+  ],
+  [
+   "penicillin",
+   2
+  ],
+  [
+   "lyophilised",
+   2
+  ],
+  [
+   "janaushadhi ragi malt based food",
+   2
+  ],
+  [
+   "crepe bandage cm x m",
+   2
+  ],
+  [
+   "cotton bandage cm x m",
+   2
+  ],
+  [
+   "plaster paris bandages cm x m",
+   2
+  ],
+  [
+   "roll",
+   2
+  ],
+  [
+   "surgical blade",
+   2
+  ],
+  [
+   "no",
+   2
+  ],
+  [
+   "disposable spinal needle x inch",
+   2
+  ],
+  [
+   "sterilised",
+   2
+  ],
+  [
+   "abdominal drainage",
+   2
+  ],
+  [
+   "graduate",
+   2
+  ],
+  [
+   "rubber examination gloves",
+   2
+  ],
+  [
+   "non-sterile",
+   2
+  ],
+  [
+   "surgical",
+   2
+  ],
+  [
+   "disposable set",
+   2
+  ],
+  [
+   "microdrip",
+   2
+  ],
+  [
+   "i.v",
+   2
+  ],
+  [
+   "cir rb mm needle",
+   2
+  ],
+  [
+   "silicon polyster braided green",
+   2
+  ],
+  [
+   "polyster braided",
+   2
+  ],
+  [
+   "green",
+   2
+  ],
+  [
+   "circle tapercut",
+   2
+  ],
+  [
+   "mm armed needle",
+   2
+  ],
+  [
+   "pledgets size x x mm",
+   2
+  ],
+  [
+   "polyglecaprone",
+   2
+  ],
+  [
+   "polyglyconate suture",
+   2
+  ],
+  [
+   "circle cutting mm needle",
+   2
+  ],
+  [
+   "knee brace belt",
+   2
+  ],
+  [
+   "lancets",
+   2
+  ],
+  [
+   "round",
+   2
+  ],
+  [
+   "mask",
+   2
+  ],
+  [
+   "tubing",
+   2
+  ],
+  [
+   "oxo biodegradable sanitary napkins regular size",
+   2
+  ],
+  [
+   "arm sling pouch",
+   2
+  ],
+  [
+   "gauze bandages cm",
+   2
+  ],
+  [
+   "combined dressing pad",
+   2
+  ],
+  [
+   "x cm",
+   2
+  ],
+  [
+   "hard",
+   2
+  ],
+  [
+   "range motion",
+   2
+  ],
+  [
+   "disposable maternity pad fixator",
+   2
+  ],
+  [
+   "finger saperator",
+   2
+  ],
+  [
+   "ankle binder support",
+   2
+  ],
+  [
+   "polyvitamin nfi",
+   1
+  ],
+  [
+   "prophylactic",
+   1
+  ],
+  [
+   "intravenous",
+   1
+  ],
+  [
+   "alkalyser",
+   1
+  ],
+  [
+   "tetanus vaccine",
+   1
+  ],
+  [
+   "wfi",
+   1
+  ],
+  [
+   "k",
+   1
+  ],
+  [
+   "linceed oil",
+   1
+  ],
+  [
+   "saline",
+   1
+  ],
+  [
+   "pine oil",
+   1
+  ],
+  [
+   "soft",
+   1
+  ],
+  [
+   "human",
+   1
+  ],
+  [
+   "ginseng",
+   1
+  ],
+  [
+   "multiminerals",
+   1
+  ],
+  [
+   "c",
+   1
+  ],
+  [
+   "d",
+   1
+  ],
+  [
+   "e",
+   1
+  ],
+  [
+   "l carnitine l tartrate",
+   1
+  ],
+  [
+   "vit-b",
+   1
+  ],
+  [
+   "inhalent softgel",
+   1
+  ],
+  [
+   "turpineol",
+   1
+  ],
+  [
+   "mix",
+   1
+  ],
+  [
+   "diastase",
+   1
+  ],
+  [
+   "ulcer",
+   1
+  ],
+  [
+   "vitamin b complex",
+   1
+  ],
+  [
+   "multivitamin",
+   1
+  ],
+  [
+   "micronized",
+   1
+  ],
+  [
+   "spirit",
+   1
+  ],
+  [
+   "multi minerals",
+   1
+  ],
+  [
+   "amino acid iv",
+   1
+  ],
+  [
+   "ammonium",
+   1
+  ],
+  [
+   "cough",
+   1
+  ],
+  [
+   "janaushadhi nirmal",
+   1
+  ],
+  [
+   "jan pudina soft",
+   1
+  ],
+  [
+   "enzyme",
+   1
+  ],
+  [
+   "janaushadhi protein bar",
+   1
+  ],
+  [
+   "janaushadhi immunity bar",
+   1
+  ],
+  [
+   "kesar pista",
+   1
+  ],
+  [
+   "anti-d",
+   1
+  ],
+  [
+   "rho",
+   1
+  ],
+  [
+   "immunoglobulin",
+   1
+  ],
+  [
+   "monoclonal",
+   1
+  ],
+  [
+   "antioxidant",
+   1
+  ],
+  [
+   "from coral grains",
+   1
+  ],
+  [
+   "omega fatty acids",
+   1
+  ],
+  [
+   "collagen peptide",
+   1
+  ],
+  [
+   "type i",
+   1
+  ],
+  [
+   "amylase activity",
+   1
+  ],
+  [
+   "lipase activity",
+   1
+  ],
+  [
+   "protease activity",
+   1
+  ],
+  [
+   "tauroglycocholate digestive enzyme",
+   1
+  ],
+  [
+   "carminatives",
+   1
+  ],
+  [
+   "glargine disposable",
+   1
+  ],
+  [
+   "isosorbide",
+   1
+  ],
+  [
+   "lecithin",
+   1
+  ],
+  [
+   "janaushadhi mosquito repellent",
+   1
+  ],
+  [
+   "n",
+   1
+  ],
+  [
+   "n-diethyl benzamide mosquito repellent",
+   1
+  ],
+  [
+   "probiotic microbes",
+   1
+  ],
+  [
+   "rosehip extract",
+   1
+  ],
+  [
+   "devil's claw extract",
+   1
+  ],
+  [
+   "boswellia serrata extract",
+   1
+  ],
+  [
+   "vitamine b complex",
+   1
+  ],
+  [
+   "vitamin-c",
+   1
+  ],
+  [
+   "dill oil",
+   1
+  ],
+  [
+   "fennel oil",
+   1
+  ],
+  [
+   "l-carnitine-l-tartrate",
+   1
+  ],
+  [
+   "carica papaya leaf extract",
+   1
+  ],
+  [
+   "goat milk",
+   1
+  ],
+  [
+   "tinospora cordifolia extract",
+   1
+  ],
+  [
+   "papaya leaf extract",
+   1
+  ],
+  [
+   "extended-relase",
+   1
+  ],
+  [
+   "pressurise container",
+   1
+  ],
+  [
+   "sustained-relase",
+   1
+  ],
+  [
+   "cranberry extract",
+   1
+  ],
+  [
+   "pre",
+   1
+  ],
+  [
+   "pro-biotic",
+   1
+  ],
+  [
+   "bacillus mesentericus",
+   1
+  ],
+  [
+   "clostridium butyricum",
+   1
+  ],
+  [
+   "streptococcus faecalis",
+   1
+  ],
+  [
+   "di-hydralazine hydrochloride",
+   1
+  ],
+  [
+   "ibandronic acid",
+   1
+  ],
+  [
+   "paroxetin prolonged-release",
+   1
+  ],
+  [
+   "micronized purified flavanoid fraction",
+   1
+  ],
+  [
+   "alpha ketoanalouge",
+   1
+  ],
+  [
+   "essential amino acid",
+   1
+  ],
+  [
+   "amorphous hydrogel wound dressing",
+   1
+  ],
+  [
+   "protein",
+   1
+  ],
+  [
+   "whey protein",
+   1
+  ],
+  [
+   "lbs",
+   1
+  ],
+  [
+   "jar",
+   1
+  ],
+  [
+   "cereal based foods products",
+   1
+  ],
+  [
+   "baby above months",
+   1
+  ],
+  [
+   "diabetes care protein",
+   1
+  ],
+  [
+   "renal care protein",
+   1
+  ],
+  [
+   "low protein",
+   1
+  ],
+  [
+   "renal care protein dialysis patients",
+   1
+  ],
+  [
+   "high protein",
+   1
+  ],
+  [
+   "rehydration salt",
+   1
+  ],
+  [
+   "form",
+   1
+  ],
+  [
+   "pellets",
+   1
+  ],
+  [
+   "somatotropin",
+   1
+  ],
+  [
+   "recombinant human growth hormone",
+   1
+  ],
+  [
+   "painless",
+   1
+  ],
+  [
+   "multivitamin chocolate",
+   1
+  ],
+  [
+   "para aminobenzoic acid",
+   1
+  ],
+  [
+   "ferrous",
+   1
+  ],
+  [
+   "gastric retentive system",
+   1
+  ],
+  [
+   "l methylfolate",
+   1
+  ],
+  [
+   "flupentixole",
+   1
+  ],
+  [
+   "fluromethalone",
+   1
+  ],
+  [
+   "glycerine paint",
+   1
+  ],
+  [
+   "troxerutin",
+   1
+  ],
+  [
+   "vit k",
+   1
+  ],
+  [
+   "vit d",
+   1
+  ],
+  [
+   "bilberry extract",
+   1
+  ],
+  [
+   "polyethylene glycol",
+   1
+  ],
+  [
+   "s-adenosyl l-methionine",
+   1
+  ],
+  [
+   "vildaglipitin",
+   1
+  ],
+  [
+   "pouch",
+   1
+  ],
+  [
+   "shilajit",
+   1
+  ],
+  [
+   "triphala",
+   1
+  ],
+  [
+   "ashwagandha",
+   1
+  ],
+  [
+   "benedipine",
+   1
+  ],
+  [
+   "alpha-amylase",
+   1
+  ],
+  [
+   "chlorthalidon",
+   1
+  ],
+  [
+   "janaushadhi antiseptic bandage",
+   1
+  ],
+  [
+   "janaushadhi burn relief",
+   1
+  ],
+  [
+   "fluoride",
+   1
+  ],
+  [
+   "terpineol",
+   1
+  ],
+  [
+   "centbucridine",
+   1
+  ],
+  [
+   "janaushadhi footcare",
+   1
+  ],
+  [
+   "iguratimod",
+   1
+  ],
+  [
+   "proanthocyanidin",
+   1
+  ],
+  [
+   "molnupiravir",
+   1
+  ],
+  [
+   "janaushadhi ulcer",
+   1
+  ],
+  [
+   "janaushadhi pain relief",
+   1
+  ],
+  [
+   "wintergreen tel",
+   1
+  ],
+  [
+   "karpura",
+   1
+  ],
+  [
+   "nilgiri ka tel",
+   1
+  ],
+  [
+   "pudina ka phool",
+   1
+  ],
+  [
+   "lavang ka tel",
+   1
+  ],
+  [
+   "caraway oil",
+   1
+  ],
+  [
+   "anise oil",
+   1
+  ],
+  [
+   "dil oil",
+   1
+  ],
+  [
+   "monofluoro phosphate",
+   1
+  ],
+  [
+   "fresh-mint",
+   1
+  ],
+  [
+   "strontium hexahydrate",
+   1
+  ],
+  [
+   "surgical spirit",
+   1
+  ],
+  [
+   "diethyl pthalate",
+   1
+  ],
+  [
+   "throat",
+   1
+  ],
+  [
+   "sage oil",
+   1
+  ],
+  [
+   "pine needle oil",
+   1
+  ],
+  [
+   "bergamot oil",
+   1
+  ],
+  [
+   "cineole oil",
+   1
+  ],
+  [
+   "polysorbate",
+   1
+  ],
+  [
+   "fluoromethalone opthalmic",
+   1
+  ],
+  [
+   "ir",
+   1
+  ],
+  [
+   "triclofos",
+   1
+  ],
+  [
+   "tulobuterol",
+   1
+  ],
+  [
+   "bicarbonate buffer",
+   1
+  ],
+  [
+   "rebamipide",
+   1
+  ],
+  [
+   "janaushadhi onco-care protein",
+   1
+  ],
+  [
+   "janaushadhi ragi sticks",
+   1
+  ],
+  [
+   "janaushadhi energy drink",
+   1
+  ],
+  [
+   "carbetocin",
+   1
+  ],
+  [
+   "human papillomavirus quadrivalent",
+   1
+  ],
+  [
+   "types",
+   1
+  ],
+  [
+   "vaccine",
+   1
+  ],
+  [
+   "recombinant",
+   1
+  ],
+  [
+   "opipramol dihydrochloride",
+   1
+  ],
+  [
+   "opipramol",
+   1
+  ],
+  [
+   "polmacoxib",
+   1
+  ],
+  [
+   "tianeptine",
+   1
+  ],
+  [
+   "tofisopam",
+   1
+  ],
+  [
+   "crepe bandage b p cm x m",
+   1
+  ],
+  [
+   "cotton bandages",
+   1
+  ],
+  [
+   "non",
+   1
+  ],
+  [
+   "cm x m",
+   1
+  ],
+  [
+   "janaushadhi suraksha",
+   1
+  ],
+  [
+   "adhesive bandages washproof",
+   1
+  ],
+  [
+   "needle half inch",
+   1
+  ],
+  [
+   "urine collecting bag",
+   1
+  ],
+  [
+   "tracheostomy tube",
+   1
+  ],
+  [
+   "pvc",
+   1
+  ],
+  [
+   "corrugated drainage sheet",
+   1
+  ],
+  [
+   "sterilized umbilical cotton tape mm x cm",
+   1
+  ],
+  [
+   "bone wax",
+   1
+  ],
+  [
+   "rapid diagnostic malaria test",
+   1
+  ],
+  [
+   "dengue test",
+   1
+  ],
+  [
+   "janaushadhi ankur",
+   1
+  ],
+  [
+   "hcg pregnancy test",
+   1
+  ],
+  [
+   "spirit swab",
+   1
+  ],
+  [
+   "surgeons",
+   1
+  ],
+  [
+   "nurses",
+   1
+  ],
+  [
+   "disposable perfusion set",
+   1
+  ],
+  [
+   "airway",
+   1
+  ],
+  [
+   "needle cm long smooth kink resist",
+   1
+  ],
+  [
+   "twin bore",
+   1
+  ],
+  [
+   "absorbent gelatin sponge",
+   1
+  ],
+  [
+   "mm x mm x mm",
+   1
+  ],
+  [
+   "blood transfusion set",
+   1
+  ],
+  [
+   "filter micron",
+   1
+  ],
+  [
+   "tapercut niddle mm",
+   1
+  ],
+  [
+   "cutting niddle mm",
+   1
+  ],
+  [
+   "cir micropoint spatulated",
+   1
+  ],
+  [
+   "mm",
+   1
+  ],
+  [
+   "cir slim blade cutting needle mm",
+   1
+  ],
+  [
+   "r cutting needle mm",
+   1
+  ],
+  [
+   "cutting edge needle",
+   1
+  ],
+  [
+   "arms needle mm",
+   1
+  ],
+  [
+   "suture length",
+   1
+  ],
+  [
+   "cm size",
+   1
+  ],
+  [
+   "reverse cutting",
+   1
+  ],
+  [
+   "circle",
+   1
+  ],
+  [
+   "polybutylate polyster braided white",
+   1
+  ],
+  [
+   "skin grafting knife blade",
+   1
+  ],
+  [
+   "surgical mask",
+   1
+  ],
+  [
+   "umbilical catheter",
+   1
+  ],
+  [
+   "automatic snap-out folding walking cane stick",
+   1
+  ],
+  [
+   "adjustable length",
+   1
+  ],
+  [
+   "walking stick tripod",
+   1
+  ],
+  [
+   "hernia belt",
+   1
+  ],
+  [
+   "iv cannula fixator",
+   1
+  ],
+  [
+   "medium cm x cm",
+   1
+  ],
+  [
+   "cervical pillow",
+   1
+  ],
+  [
+   "polyester",
+   1
+  ]
+ ],
+ "unmapped_epc_top": [
+  [
+   "Radioactive Diagnostic Agent",
+   25
+  ],
+  [
+   "Azole Antifungal",
+   17
+  ],
+  [
+   "Anticholinergic",
+   13
+  ],
+  [
+   "Osmotic Laxative",
+   12
+  ],
+  [
+   "Histamine-1 Receptor Antagonist",
+   11
+  ],
+  [
+   "Radiographic Contrast Agent",
+   11
+  ],
+  [
+   "Retinoid",
+   9
+  ],
+  [
+   "Standardized Pollen Allergenic Extract",
+   9
+  ],
+  [
+   "Calculi Dissolution Agent",
+   8
+  ],
+  [
+   "Non-Standardized Food Allergenic Extract",
+   8
+  ],
+  [
+   "beta2-Adrenergic Agonist",
+   7
+  ],
+  [
+   "Prostaglandin Analog",
+   7
+  ],
+  [
+   "Opioid Antagonist",
+   7
+  ],
+  [
+   "Non-Standardized Plant Allergenic Extract",
+   7
+  ],
+  [
+   "Antisense Oligonucleotide",
+   7
+  ],
+  [
+   "Cholinergic Receptor Agonist",
+   6
+  ],
+  [
+   "Serotonin-1b and Serotonin-1d Receptor Agonist",
+   6
+  ],
+  [
+   "Central Nervous System Stimulant",
+   6
+  ],
+  [
+   "alpha-Adrenergic Agonist",
+   6
+  ],
+  [
+   "Antimalarial",
+   6
+  ],
+  [
+   "Cholinergic Muscarinic Antagonist",
+   6
+  ],
+  [
+   "Complement Inhibitor",
+   6
+  ],
+  [
+   "Phosphate Binder",
+   6
+  ],
+  [
+   "Muscle Relaxant",
+   6
+  ],
+  [
+   "Cholinesterase Inhibitor",
+   6
+  ],
+  [
+   "Bisphosphonate",
+   5
+  ],
+  [
+   "Phosphodiesterase 4 Inhibitor",
+   5
+  ],
+  [
+   "Amide Local Anesthetic",
+   5
+  ],
+  [
+   "Antiprotozoal",
+   5
+  ],
+  [
+   "Standardized Chemical Allergen",
+   5
+  ],
+  [
+   "Leukocyte Growth Factor",
+   5
+  ],
+  [
+   "Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme",
+   5
+  ],
+  [
+   "Small Interfering RNA",
+   5
+  ],
+  [
+   "Interleukin-23 Antagonist",
+   5
+  ],
+  [
+   "Human Immunoglobulin G",
+   5
+  ],
+  [
+   "Carbonic Anhydrase Inhibitor",
+   4
+  ],
+  [
+   "Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",
+   4
+  ],
+  [
+   "Anthelmintic",
+   4
+  ],
+  [
+   "Endothelin Receptor Antagonist",
+   4
+  ],
+  [
+   "Cytoprotective Agent",
+   4
+  ],
+  [
+   "Anti-coagulant",
+   4
+  ],
+  [
+   "Echinocandin Antifungal",
+   4
+  ],
+  [
+   "Calcitonin Gene-related Peptide Receptor Antagonist",
+   4
+  ],
+  [
+   "Aminosalicylate",
+   4
+  ],
+  [
+   "Sympathomimetic Amine Anorectic",
+   4
+  ],
+  [
+   "Plasma Kallikrein Inhibitor",
+   4
+  ],
+  [
+   "Blood Coagulation Factor",
+   4
+  ],
+  [
+   "Peroxisome Proliferator Receptor alpha Agonist",
+   4
+  ],
+  [
+   "Androgen",
+   4
+  ],
+  [
+   "beta-Adrenergic Agonist",
+   4
+  ],
+  [
+   "Diagnostic Dye",
+   4
+  ],
+  [
+   "Gadolinium-based Contrast Agent",
+   4
+  ],
+  [
+   "Gonadotropin Releasing Hormone Receptor Agonist",
+   4
+  ],
+  [
+   "CD20-directed Cytolytic Antibody",
+   4
+  ],
+  [
+   "Antidote",
+   3
+  ],
+  [
+   "Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor",
+   3
+  ],
+  [
+   "Hydrolytic Lysosomal Glycogen-specific Enzyme",
+   3
+  ],
+  [
+   "Asparagine-specific Enzyme",
+   3
+  ],
+  [
+   "Nitrogen Binding Agent",
+   3
+  ],
+  [
+   "Antihistamine",
+   3
+  ],
+  [
+   "Pediculicide",
+   3
+  ],
+  [
+   "Surfactant",
+   3
+  ],
+  [
+   "Endoglycosidase",
+   3
+  ],
+  [
+   "Bismuth",
+   3
+  ],
+  [
+   "Ergot Derivative",
+   3
+  ],
+  [
+   "Vitamin D3 Analog",
+   3
+  ],
+  [
+   "Bile Acid",
+   3
+  ],
+  [
+   "Bile Acid Sequestrant",
+   3
+  ],
+  [
+   "Antidiarrheal",
+   3
+  ],
+  [
+   "Erythropoiesis-stimulating Agent",
+   3
+  ],
+  [
+   "Catecholamine",
+   3
+  ],
+  [
+   "Lead Chelator",
+   3
+  ],
+  [
+   "Gonadotropin Releasing Hormone Receptor Antagonist",
+   3
+  ],
+  [
+   "Thrombopoietin Receptor Agonist",
+   3
+  ],
+  [
+   "Catechol-O-Methyltransferase Inhibitor",
+   3
+  ],
+  [
+   "Histamine-1 Receptor Inhibitor",
+   3
+  ],
+  [
+   "Transthyretin-directed RNA Interaction",
+   3
+  ],
+  [
+   "Substance P/Neurokinin-1 Receptor Antagonist",
+   3
+  ],
+  [
+   "Paramagnetic Contrast Agent",
+   3
+  ],
+  [
+   "Nucleoside Analog Antiviral",
+   3
+  ]
+ ]
+}

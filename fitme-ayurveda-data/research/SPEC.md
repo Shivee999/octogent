@@ -51,6 +51,10 @@ cyp2c9_substrate
 cyp2d6_substrate
 cyp1a2_substrate
 pgp_substrate              # digoxin, dabigatran, etc.
+antiparkinson_levodopa     # levodopa/carbidopa, other dopaminergic drugs
+photosensitizing           # drugs that cause sun sensitivity (tetracyclines, fluoroquinolones, thiazides, isotretinoin, amiodarone, methoxsalen)
+anticholinergic            # oxybutynin, benztropine, sedating antihistamines, TCAs (additive anticholinergic load)
+cyp2c19_substrate          # clopidogrel, omeprazole, citalopram, etc.
 any_medicine               # general rule (e.g. separate dosing from isabgol/fibre)
 
 ## Herb record schema (one JSON object per herb/product)

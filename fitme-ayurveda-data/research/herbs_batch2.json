@@ -1,0 +1,3603 @@
+[
+ {
+  "id": "haritaki",
+  "names": {
+   "common_en": "Chebulic myrobalan",
+   "hindi": "Harad / Haritaki",
+   "sanskrit": "Haritaki",
+   "latin": "Terminalia chebula Retz.",
+   "other": [
+    "Harada",
+    "Kadukkai (Tamil)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Haritaki churna",
+   "Triphala churna (with amla and bibhitaki)",
+   "Abhayarishta",
+   "Haritaki capsules"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the digestive system and as a rasayana (rejuvenative) herb.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Has a laxative action at normal doses and is described as purgative at high doses; may cause loose stools or cramping, which can matter for people prone to dehydration.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Therapeutic Uses of Triphala in Ayurvedic Medicine (J Altern Complement Med, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28696777/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "laxative_stimulant",
+    "severity": "minor",
+    "effect": "May add to the effect of other laxatives, causing loose stools or cramping.",
+    "mechanism": "Additive laxative effect (Triphala/haritaki described as laxative at normal doses, purgative at high doses).",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Therapeutic Uses of Triphala in Ayurvedic Medicine (J Altern Complement Med, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28696777/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "minor",
+    "effect": "Could in theory alter levels of CYP3A4-metabolised medicines.",
+    "mechanism": "Triphala (containing haritaki) weakly inhibited CYP3A4 in vitro; in contrast, chebulinic acid induced several CYP enzymes in rats. Direction and clinical relevance unknown.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Cytochrome P450 inhibitory potential of Triphala--a Rasayana from Ayurveda (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20883765/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Comprehensive Review on Fruit of Terminalia chebula: Traditional Uses, Phytochemistry, Pharmacology, Toxicity, and Pharmacokinetics (Molecules, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39683707/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2d6_substrate",
+    "severity": "minor",
+    "effect": "Could in theory alter levels of CYP2D6-metabolised medicines.",
+    "mechanism": "Triphala weakly inhibited CYP2D6 in vitro (high IC50 values); no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Cytochrome P450 inhibitory potential of Triphala--a Rasayana from Ayurveda (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20883765/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "ppi_antacid",
+    "severity": "minor",
+    "effect": "Could in theory raise levels of omeprazole-type medicines.",
+    "mechanism": "In rats, 15 days of T. chebula increased omeprazole (CYP2C19 probe) and chlorzoxazone (CYP2E1 probe) exposure; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effects of mongolian medicine Terminalia chebula Retz. on 6 CYP450 enzymes in rats (Int J Clin Exp Pathol, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33425113/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "bibhitaki",
+  "names": {
+   "common_en": "Belleric myrobalan",
+   "hindi": "Baheda",
+   "sanskrit": "Bibhitaki",
+   "latin": "Terminalia bellirica (Gaertn.) Roxb.",
+   "other": [
+    "Bahera",
+    "Vibhitaki"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Triphala churna",
+   "Bibhitaki churna",
+   "Triphala guggulu"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the respiratory and digestive systems, most often as one of the three fruits of Triphala.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Mainly consumed within Triphala, which is laxative at normal doses; may cause loose stools.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Therapeutic Uses of Triphala in Ayurvedic Medicine (J Altern Complement Med, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28696777/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "laxative_stimulant",
+    "severity": "minor",
+    "effect": "May add to the effect of other laxatives when taken as Triphala.",
+    "mechanism": "Additive laxative effect of Triphala.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Therapeutic Uses of Triphala in Ayurvedic Medicine (J Altern Complement Med, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28696777/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "minor",
+    "effect": "Could in theory alter levels of CYP3A4-metabolised medicines.",
+    "mechanism": "Individual Triphala components, including T. bellirica, inhibited rat liver CYP activity in vitro; Triphala inhibited CYP3A4 and CYP2D6 weakly. No human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Cytochrome P450 inhibitory potential of Triphala--a Rasayana from Ayurveda (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20883765/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Terminalia bellirica (Gaertn.) roxb. (Bahera) in health and disease: A systematic and comprehensive review (Phytomedicine, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32781393/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kutki",
+  "names": {
+   "common_en": "Kutki / Picrorhiza",
+   "hindi": "Kutki",
+   "sanskrit": "Katuka / Katurohini",
+   "latin": "Picrorhiza kurroa Royle ex Benth.",
+   "other": [
+    "Kadu"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Kutki churna",
+   "Kutki capsules",
+   "Arogyavardhini vati (contains kutki)",
+   "Picroliv (standardised fraction)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the liver and digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Very bitter herb with limited human safety data; standardised extracts (picroliv) are biologically active on the immune system in animal studies.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Immunostimulant activity of Picroliv, the iridoid glycoside fraction of Picrorhiza kurroa, and its protective action against Leishmania donovani infection in hamsters (Planta Med, 1992)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1484891/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacological and Clinical Efficacy of Picrorhiza kurroa and Its Secondary Metabolites: A Comprehensive Review (Molecules, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36500409/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "minor",
+    "effect": "Could in theory work against immune-suppressing medicines.",
+    "mechanism": "Picroliv (iridoid glycoside fraction) stimulated antibody and cell-mediated immune responses in mice; no human interaction data.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Especially relevant after an organ transplant.",
+    "sources": [
+     {
+      "title": "Immunostimulant activity of Picroliv, the iridoid glycoside fraction of Picrorhiza kurroa, and its protective action against Leishmania donovani infection in hamsters (Planta Med, 1992)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1484891/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c9_substrate",
+    "severity": "minor",
+    "effect": "Could in theory alter levels of CYP2C-metabolised medicines.",
+    "mechanism": "Picroside II (a kutki constituent) did not inhibit human liver microsomal CYPs in vitro, but repeated dosing inhibited CYP2C activity in rats.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Evaluation potential effects of Picroside II on cytochrome P450 enzymes in vitro and in vivo (J Ethnopharmacol, 2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192720/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "minor",
+    "effect": "Could in theory alter levels of CYP3A4-metabolised medicines.",
+    "mechanism": "Low-dose picroside II increased CYP3A activity in rats; human relevance unknown.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Evaluation potential effects of Picroside II on cytochrome P450 enzymes in vitro and in vivo (J Ethnopharmacol, 2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192720/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kalmegh",
+  "names": {
+   "common_en": "Andrographis / Green chiretta",
+   "hindi": "Kalmegh",
+   "sanskrit": "Kalamegha / Bhunimba",
+   "latin": "Andrographis paniculata (Burm.f.) Nees",
+   "other": [
+    "King of bitters",
+    "Chuan Xin Lian"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Kalmegh churna/capsules",
+   "Andrographis extract tablets",
+   "Kan Jang (with Eleutherococcus)",
+   "Liver and immunity blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the liver, digestion and seasonal immunity.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "allergy",
+    "note": "Australia's regulator (TGA) has received hundreds of reports of hypersensitivity and anaphylaxis with Andrographis products, including a fatal case, and reactions occurred in people who had used it before without problems. In 2026 the TGA removed it from ingredients permitted in new listed medicines.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "TGA (Australia) safety alert: Products containing Andrographis paniculata",
+      "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/products-containing-andrographis-paniculata",
+      "type": "gov"
+     },
+     {
+      "title": "TGA (Australia): Medicines containing Andrographis paniculata safety advisory",
+      "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/medicines-containing-andrographis-paniculata-safety-advisory",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Not recommended in pregnancy: animal studies report anti-fertility and pregnancy-terminating effects; EMA HMPC could not establish a monograph because of insufficient data.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC assessment report on Andrographis paniculata Nees, folium (EMA/HMPC/320433/2012, draft)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "EMA HMPC public statement on Andrographis paniculata Nees, folium (EMA/HMPC/709282/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/public-statement/final-public-statement-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "kidney",
+    "note": "Acute kidney injury has been reported in China with intravenous andrographolide preparations (not oral herb); relevance to oral use is uncertain.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Andrographolide induced acute kidney injury: analysis of 26 cases reported in Chinese Literature (Nephrology (Carlton), 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24148088/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Common non-serious side effects in trials are gastrointestinal and skin reactions.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Safety of Andrographis paniculata: A systematic review and meta-analysis (Pharmacoepidemiol Drug Saf, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33372366/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "moderate",
+    "effect": "May increase warfarin effect and bleeding risk.",
+    "mechanism": "Andrographolide increased warfarin exposure in rats and Andrographis constituents inhibit platelet aggregation in vitro; a rat study with the Kan Jang combination found no significant warfarin effect, so data conflict.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Check INR more often if you start or stop it.",
+    "sources": [
+     {
+      "title": "Influence of andrographolide on the pharmacokinetics of warfarin in rats (Pharm Biol, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29983086/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Inhibitory effect of Andrographis paniculata extract and its active diterpenoids on platelet aggregation (Eur J Pharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17081514/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC assessment report on Andrographis paniculata Nees, folium (EMA/HMPC/320433/2012, draft)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May add to the blood-thinning effect of antiplatelet medicines.",
+    "mechanism": "Andrographolide and 14-deoxy-11,12-didehydroandrographolide inhibit human platelet aggregation in vitro.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Inhibitory effect of Andrographis paniculata extract and its active diterpenoids on platelet aggregation (Eur J Pharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17081514/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Inhibitory effect of andrographolide from Andrographis paniculata on PAF-induced platelet aggregation (Phytomedicine, 1999)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10228608/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anaesthesia_surgery",
+    "severity": "minor",
+    "effect": "Possible added bleeding tendency around surgery.",
+    "mechanism": "Theoretical, based on in vitro antiplatelet activity.",
+    "evidence": "theoretical",
+    "advice": "Tell your surgeon and anaesthetist about this herb; ask your doctor whether to pause it before planned surgery.",
+    "sources": [
+     {
+      "title": "Inhibitory effect of Andrographis paniculata extract and its active diterpenoids on platelet aggregation (Eur J Pharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17081514/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May add to blood-pressure-lowering medicines.",
+    "mechanism": "Hypotensive effect of extracts and diterpenoids in rats; no human interaction data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Hypotensive activity of aqueous extract of Andrographis paniculata in rats (Clin Exp Pharmacol Physiol, 1996)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8886488/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Cardiovascular effects of 14-deoxy-11,12-didehydroandrographolide and Andrographis paniculata extracts (Planta Med, 2007)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17650544/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "moderate",
+    "effect": "May increase glibenclamide (glyburide) levels and the risk of low blood sugar.",
+    "mechanism": "Andrographolide increased glyburide bioavailability and hypoglycaemic effect in diabetic rats, attributed to CYP3A4 inhibition.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Pharmacokinetic and Pharmacodynamic Interaction of Boswellic Acids and Andrographolide with Glyburide in Diabetic Rats: Including Its PK/PD Modeling (Phytother Res, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26762235/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "moderate",
+    "effect": "May raise levels of CYP3A4-metabolised medicines.",
+    "mechanism": "Extracts inhibit CYP3A4 in human liver microsomes and reduce CYP3A expression in human hepatocytes (summarised by EMA HMPC).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC assessment report on Andrographis paniculata Nees, folium (EMA/HMPC/320433/2012, draft)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c9_substrate",
+    "severity": "moderate",
+    "effect": "May raise levels of CYP2C9-metabolised medicines (e.g. warfarin, some sulfonylureas).",
+    "mechanism": "Extracts inhibit CYP2C9 (tolbutamide hydroxylation) in human liver microsomes in vitro (summarised by EMA HMPC).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC assessment report on Andrographis paniculata Nees, folium (EMA/HMPC/320433/2012, draft)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "theophylline",
+    "severity": "minor",
+    "effect": "May change theophylline levels (direction unclear).",
+    "mechanism": "In rats, andrographolide increased theophylline clearance, while whole extract slowed elimination at higher theophylline doses; andrographolide induces CYP1A in mouse hepatocytes.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Herb-drug interaction of Andrographis paniculata extract and andrographolide on the pharmacokinetics of theophylline in rats (Chem Biol Interact, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20096675/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC assessment report on Andrographis paniculata Nees, folium (EMA/HMPC/320433/2012, draft)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "minor",
+    "effect": "Could in theory work against immune-suppressing medicines.",
+    "mechanism": "Immunostimulant activity of andrographolide and extracts in experimental studies; no human interaction data.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC assessment report on Andrographis paniculata Nees, folium (EMA/HMPC/320433/2012, draft)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-andrographis-paniculata-nees-folium-first-version_en.pdf",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "moringa",
+  "names": {
+   "common_en": "Moringa / Drumstick tree",
+   "hindi": "Sahjan / Sehjan",
+   "sanskrit": "Shigru",
+   "latin": "Moringa oleifera Lam.",
+   "other": [
+    "Murungai (Tamil)",
+    "Malunggay"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Moringa leaf powder",
+   "Moringa capsules",
+   "Moringa tea",
+   "Drumstick (food)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda and as a food for general nutritional wellbeing.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Generally well tolerated and not linked to liver enzyme rises, but implicated in one case of acute anicteric hepatitis.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "LiverTox: Moringa (NIDDK, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK605172/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Used as a galactagogue; no serious short-term effects seen in nursing mothers or infants, but long-term infant data are lacking.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "LactMed: Moringa (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501899/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "hypoglycaemia",
+    "note": "Leaf powder lowered blood glucose in small human studies.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Effects of Moringa oleifera on Glycaemia and Insulin Levels: A Review of Animal and Human Studies (Nutrients, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31810205/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Review of the Safety and Efficacy of Moringa oleifera (Phytother Res, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25808883/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to glucose-lowering medicines.",
+    "mechanism": "Glucose-lowering effects of leaf preparations in small human and animal studies.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Effects of Moringa oleifera on Glycaemia and Insulin Levels: A Review of Animal and Human Studies (Nutrients, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31810205/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Moringa oleifera Leaf Supplementation as a Glycemic Control Strategy in Subjects with Prediabetes (Nutrients, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35010932/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to glucose-lowering effect, with some risk of low blood sugar.",
+    "mechanism": "Additive pharmacodynamic effect inferred from human glucose-lowering data.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Effects of Moringa oleifera on Glycaemia and Insulin Levels: A Review of Animal and Human Studies (Nutrients, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31810205/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to insulin's glucose-lowering effect.",
+    "mechanism": "Additive pharmacodynamic effect inferred from human glucose-lowering data.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Effects of Moringa oleifera on Glycaemia and Insulin Levels: A Review of Animal and Human Studies (Nutrients, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31810205/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May add slightly to blood-pressure-lowering medicines.",
+    "mechanism": "Moringa leaves lowered postprandial blood pressure in a small human study.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Consumption of Moringa oleifera Lam Leaves Lowers Postprandial Blood Pressure (J Am Coll Nutr, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31063434/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "thyroid_hormone",
+    "severity": "minor",
+    "effect": "Could in theory alter thyroid hormone balance.",
+    "mechanism": "Leaf extract lowered T3 and raised T4 in rats, suggesting reduced T4-to-T3 conversion; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Role of Moringa oleifera leaf extract in the regulation of thyroid hormone status in adult male and female rats (Pharmacol Res, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10675284/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiretroviral",
+    "severity": "minor",
+    "effect": "Unlikely to change nevirapine levels at food-like doses.",
+    "mechanism": "Moringa inhibits CYP3A4/1A2/2D6 in vitro, but 1.85 g/day leaf powder for 14 days did not meaningfully change nevirapine pharmacokinetics in HIV patients.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effect of Moringa oleifera Lam. leaf powder on the pharmacokinetics of nevirapine in HIV-infected adults: a one sequence cross-over study (AIDS Res Ther, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28293270/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "minor",
+    "effect": "Could in theory raise levels of CYP3A4-metabolised medicines at high extract doses.",
+    "mechanism": "Leaf extracts and isolated constituents inhibit CYP3A4 and CYP2D6 in vitro; a human nevirapine study showed no meaningful effect.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Isolation, synthesis, and drug interaction potential of secondary metabolites derived from the leaves of miracle tree (Moringa oleifera) against CYP3A4 and CYP2D6 isozymes (Phytomedicine, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31301970/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of Moringa oleifera Lam. leaf powder on the pharmacokinetics of nevirapine in HIV-infected adults: a one sequence cross-over study (AIDS Res Ther, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28293270/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2d6_substrate",
+    "severity": "minor",
+    "effect": "Could in theory raise levels of CYP2D6-metabolised medicines at high extract doses.",
+    "mechanism": "Leaf extracts inhibit CYP2D6 in vitro; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Isolation, synthesis, and drug interaction potential of secondary metabolites derived from the leaves of miracle tree (Moringa oleifera) against CYP3A4 and CYP2D6 isozymes (Phytomedicine, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31301970/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "Could in theory reduce the effect of anticoagulants.",
+    "mechanism": "LactMed notes that moringa may stimulate blood clotting and advises caution in people at high risk of clots; mechanism not established.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "LactMed: Moringa (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501899/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "ajwain",
+  "names": {
+   "common_en": "Ajwain / Carom seed",
+   "hindi": "Ajwain",
+   "sanskrit": "Yavani",
+   "latin": "Trachyspermum ammi (L.) Sprague",
+   "other": [
+    "Carum copticum",
+    "Omum"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Ajwain seeds (spice)",
+   "Ajwain arka / omum water",
+   "Digestive churnas containing yavani"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda and Indian cooking for general wellbeing of the digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "Seeds have been reported as used to induce abortion in a 1987 Indian survey; avoid medicinal (non-culinary) doses in pregnancy.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Trachyspermum ammi (Pharmacogn Rev, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22654405/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "Concentrated extracts may add to the effect of antiplatelet medicines.",
+    "mechanism": "Ethereal extract inhibited human platelet aggregation in vitro via reduced thromboxane formation; culinary amounts unlikely to matter.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Extract of a spice--omum (Trachyspermum ammi)-shows antiaggregatory effects and alters arachidonic acid metabolism in human platelets (Prostaglandins Leukot Essent Fatty Acids, 1988)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3141935/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "Concentrated extracts could in theory add to bleeding risk with warfarin.",
+    "mechanism": "Theoretical, based on in vitro antiplatelet activity.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Extract of a spice--omum (Trachyspermum ammi)-shows antiaggregatory effects and alters arachidonic acid metabolism in human platelets (Prostaglandins Leukot Essent Fatty Acids, 1988)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3141935/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "Concentrated extracts may add to blood-pressure-lowering medicines.",
+    "mechanism": "Seed extract lowered blood pressure in rats with calcium-channel-blocking activity in isolated tissues.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Studies on the antihypertensive, antispasmodic, bronchodilator and hepatoprotective activities of the Carum copticum seed extract (J Ethnopharmacol, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15763373/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "black_pepper",
+  "names": {
+   "common_en": "Black pepper (piperine)",
+   "hindi": "Kali mirch",
+   "sanskrit": "Maricha",
+   "latin": "Piper nigrum L.",
+   "other": [
+    "Piperine",
+    "BioPerine (piperine extract)"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Black pepper (spice)",
+   "Piperine / BioPerine capsules",
+   "Curcumin + piperine supplements",
+   "Trikatu churna (with pippali and ginger)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda and cooking for general wellbeing of digestion, and as an ingredient that enhances the uptake of other herbs.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Piperine is a 'bioavailability enhancer': it can raise blood levels of many medicines and of other supplements (for example, curcumin levels rose about 20-fold with 20 mg piperine).",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers (Planta Med, 1998)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9619120/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Piperine-mediated drug interactions and formulation strategy for piperine: recent advances and future perspectives (Expert Opin Drug Metab Toxicol, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29250980/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Dietary pepper is compatible with breastfeeding; no studies of piperine supplements in nursing mothers.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LactMed: Black Pepper (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579035/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antiepileptic",
+    "severity": "moderate",
+    "effect": "May raise blood levels of phenytoin and carbamazepine, increasing the risk of side effects such as dizziness or unsteadiness.",
+    "mechanism": "Piperine increased phenytoin and carbamazepine exposure (AUC) in human studies, including patients with epilepsy; thought to reflect reduced metabolism and increased absorption.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Normal culinary use is unlikely to matter; concentrated extracts and 'bioavailability-enhancer' capsules are the concern.",
+    "sources": [
+     {
+      "title": "The effect of piperine on pharmacokinetics of phenytoin in healthy volunteers (Planta Med, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3444866/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of piperine on the steady-state pharmacokinetics of phenytoin in patients with epilepsy (Phytother Res, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16767797/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacokinetic interaction of single dose of piperine with steady-state carbamazepine in epilepsy patients (Phytother Res, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19283724/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of Piperine on the Metabolism and Pharmacokinetics of Carbamazepine in Healthy Volunteers (Drug Res (Stuttg), 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27776366/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "theophylline",
+    "severity": "moderate",
+    "effect": "May increase theophylline levels and prolong its half-life.",
+    "mechanism": "Piperine 20 mg/day for 7 days raised theophylline Cmax, AUC and half-life in healthy volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Normal culinary use is unlikely to matter; concentrated extracts and 'bioavailability-enhancer' capsules are the concern.",
+    "sources": [
+     {
+      "title": "Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers (Eur J Clin Pharmacol, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815977/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp1a2_substrate",
+    "severity": "minor",
+    "effect": "May slow clearance of some CYP1A2-metabolised medicines (theophylline is the best-studied example).",
+    "mechanism": "Inferred from the human theophylline study (theophylline is mainly cleared by CYP1A2); direct CYP1A2 data are limited.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers (Eur J Clin Pharmacol, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815977/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May increase blood levels of propranolol.",
+    "mechanism": "Piperine gave an earlier and higher propranolol peak and higher AUC in healthy volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor pulse and blood pressure if starting a piperine supplement.",
+    "sources": [
+     {
+      "title": "Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers (Eur J Clin Pharmacol, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815977/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "moderate",
+    "effect": "May raise blood levels of medicines cleared by CYP3A4 (e.g. cyclosporine, tacrolimus, some antiepileptics).",
+    "mechanism": "Piperine inhibits human CYP3A4 in vitro; however it also activates PXR and can induce CYP3A4/MDR1 expression in human cells, so the net clinical effect may vary with dose and duration.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4 (J Pharmacol Exp Ther, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12130727/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Piperine activates human pregnane X receptor to induce the expression of cytochrome P450 3A4 and multidrug resistance protein 1 (Toxicol Appl Pharmacol, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23707768/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Piperine-mediated drug interactions and formulation strategy for piperine: recent advances and future perspectives (Expert Opin Drug Metab Toxicol, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29250980/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "pgp_substrate",
+    "severity": "moderate",
+    "effect": "May increase absorption of P-glycoprotein substrate drugs such as digoxin or dabigatran.",
+    "mechanism": "Piperine inhibits human P-gp in vitro and 20 mg/day for 10 days increased fexofenadine (a P-gp probe) Cmax and AUC in healthy volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Extra caution with narrow-margin P-gp substrates such as digoxin.",
+    "sources": [
+     {
+      "title": "Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4 (J Pharmacol Exp Ther, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12130727/",
+      "type": "peer_review"
+     },
+     {
+      "title": "The influence of piperine on the pharmacokinetics of fexofenadine, a P-glycoprotein substrate, in healthy volunteers (Eur J Clin Pharmacol, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27981349/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "May raise digoxin levels.",
+    "mechanism": "Theoretical extrapolation: digoxin is a P-gp substrate and piperine inhibits P-gp in vitro and in a human fexofenadine study; no direct digoxin study found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4 (J Pharmacol Exp Ther, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12130727/",
+      "type": "peer_review"
+     },
+     {
+      "title": "The influence of piperine on the pharmacokinetics of fexofenadine, a P-glycoprotein substrate, in healthy volunteers (Eur J Clin Pharmacol, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27981349/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiretroviral",
+    "severity": "moderate",
+    "effect": "May increase blood levels of nevirapine.",
+    "mechanism": "Piperine 20 mg/day raised nevirapine Cmax and AUC substantially in a small crossover study in healthy men.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Do not change HIV medicine routines without your HIV clinician.",
+    "sources": [
+     {
+      "title": "Influence of piperine on the pharmacokinetics of nevirapine under fasting conditions: a randomised, crossover, placebo-controlled study (Drugs R D, 2007)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17963429/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antitubercular",
+    "severity": "moderate",
+    "effect": "May raise rifampicin blood levels.",
+    "mechanism": "Piperine increased rifampicin blood levels in patients with tuberculosis; piperine is combined with rifampicin in at least one Indian product (Risorine).",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Influence of piperine on rifampicin blood levels in patients of pulmonary tuberculosis (J Assoc Physicians India, 1985)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4044481/",
+      "type": "peer_review"
+     },
+     {
+      "title": "A Randomized, Controlled, Phase III Clinical Trial to Evaluate the Efficacy and Tolerability of Risorine with Conventional Rifampicin in the Treatment of Newly Diagnosed Pulmonary Tuberculosis Patients (J Assoc Physicians India, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29313577/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "pippali",
+  "names": {
+   "common_en": "Long pepper",
+   "hindi": "Pipli / Pipal",
+   "sanskrit": "Pippali",
+   "latin": "Piper longum L.",
+   "other": [
+    "Pippalimool (root)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Pippali churna",
+   "Trikatu churna",
+   "Pippalyasava",
+   "Chyawanprash (contains pippali)",
+   "Sitopaladi churna"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the respiratory and digestive systems and as a rasayana.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Contains piperine, a bioavailability enhancer that can raise blood levels of medicines and other herbs; Trikatu was used historically for this purpose.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Effect of piperine on the steady-state pharmacokinetics of phenytoin in patients with epilepsy (Phytother Res, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16767797/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacokinetic and pharmacodynamic studies on interaction of \"Trikatu\" with diclofenac sodium (J Ethnopharmacol, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15120451/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Long pepper is reportedly used in India to increase milk supply, but no valid trials support this and safety data are lacking.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LactMed: Black Pepper (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579035/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antiepileptic",
+    "severity": "moderate",
+    "effect": "May raise blood levels of phenytoin and carbamazepine, increasing the risk of side effects such as dizziness or unsteadiness.",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) increased phenytoin and carbamazepine exposure (AUC) in human studies, including patients with epilepsy; thought to reflect reduced metabolism and increased absorption. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Normal culinary use is unlikely to matter; concentrated extracts and 'bioavailability-enhancer' capsules are the concern.",
+    "sources": [
+     {
+      "title": "The effect of piperine on pharmacokinetics of phenytoin in healthy volunteers (Planta Med, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3444866/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of piperine on the steady-state pharmacokinetics of phenytoin in patients with epilepsy (Phytother Res, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16767797/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacokinetic interaction of single dose of piperine with steady-state carbamazepine in epilepsy patients (Phytother Res, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19283724/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of Piperine on the Metabolism and Pharmacokinetics of Carbamazepine in Healthy Volunteers (Drug Res (Stuttg), 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27776366/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "theophylline",
+    "severity": "moderate",
+    "effect": "May increase theophylline levels and prolong its half-life.",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) 20 mg/day for 7 days raised theophylline Cmax, AUC and half-life in healthy volunteers. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Normal culinary use is unlikely to matter; concentrated extracts and 'bioavailability-enhancer' capsules are the concern.",
+    "sources": [
+     {
+      "title": "Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers (Eur J Clin Pharmacol, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815977/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp1a2_substrate",
+    "severity": "minor",
+    "effect": "May slow clearance of some CYP1A2-metabolised medicines (theophylline is the best-studied example).",
+    "mechanism": "Inferred from the human theophylline study (theophylline is mainly cleared by CYP1A2); direct CYP1A2 data are limited. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers (Eur J Clin Pharmacol, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815977/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May increase blood levels of propranolol.",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) gave an earlier and higher propranolol peak and higher AUC in healthy volunteers. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor pulse and blood pressure if starting a piperine supplement.",
+    "sources": [
+     {
+      "title": "Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers (Eur J Clin Pharmacol, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815977/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "moderate",
+    "effect": "May raise blood levels of medicines cleared by CYP3A4 (e.g. cyclosporine, tacrolimus, some antiepileptics).",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) inhibits human CYP3A4 in vitro; however it also activates PXR and can induce CYP3A4/MDR1 expression in human cells, so the net clinical effect may vary with dose and duration. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4 (J Pharmacol Exp Ther, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12130727/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Piperine activates human pregnane X receptor to induce the expression of cytochrome P450 3A4 and multidrug resistance protein 1 (Toxicol Appl Pharmacol, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23707768/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Piperine-mediated drug interactions and formulation strategy for piperine: recent advances and future perspectives (Expert Opin Drug Metab Toxicol, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29250980/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "pgp_substrate",
+    "severity": "moderate",
+    "effect": "May increase absorption of P-glycoprotein substrate drugs such as digoxin or dabigatran.",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) inhibits human P-gp in vitro and 20 mg/day for 10 days increased fexofenadine (a P-gp probe) Cmax and AUC in healthy volunteers. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Extra caution with narrow-margin P-gp substrates such as digoxin.",
+    "sources": [
+     {
+      "title": "Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4 (J Pharmacol Exp Ther, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12130727/",
+      "type": "peer_review"
+     },
+     {
+      "title": "The influence of piperine on the pharmacokinetics of fexofenadine, a P-glycoprotein substrate, in healthy volunteers (Eur J Clin Pharmacol, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27981349/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "May raise digoxin levels.",
+    "mechanism": "Theoretical extrapolation: digoxin is a P-gp substrate and piperine inhibits P-gp in vitro and in a human fexofenadine study; no direct digoxin study found. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4 (J Pharmacol Exp Ther, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12130727/",
+      "type": "peer_review"
+     },
+     {
+      "title": "The influence of piperine on the pharmacokinetics of fexofenadine, a P-glycoprotein substrate, in healthy volunteers (Eur J Clin Pharmacol, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27981349/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiretroviral",
+    "severity": "moderate",
+    "effect": "May increase blood levels of nevirapine.",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) 20 mg/day raised nevirapine Cmax and AUC substantially in a small crossover study in healthy men. Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Do not change HIV medicine routines without your HIV clinician.",
+    "sources": [
+     {
+      "title": "Influence of piperine on the pharmacokinetics of nevirapine under fasting conditions: a randomised, crossover, placebo-controlled study (Drugs R D, 2007)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17963429/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antitubercular",
+    "severity": "moderate",
+    "effect": "May raise rifampicin blood levels.",
+    "mechanism": "Piperine (main alkaloid of black and long pepper) increased rifampicin blood levels in patients with tuberculosis; piperine is combined with rifampicin in at least one Indian product (Risorine). Evidence comes from isolated piperine (about 20 mg/day), not from whole long pepper.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Influence of piperine on rifampicin blood levels in patients of pulmonary tuberculosis (J Assoc Physicians India, 1985)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4044481/",
+      "type": "peer_review"
+     },
+     {
+      "title": "A Randomized, Controlled, Phase III Clinical Trial to Evaluate the Efficacy and Tolerability of Risorine with Conventional Rifampicin in the Treatment of Newly Diagnosed Pulmonary Tuberculosis Patients (J Assoc Physicians India, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29313577/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "nsaid",
+    "severity": "minor",
+    "effect": "Trikatu (pippali + black pepper + ginger) may reduce diclofenac levels.",
+    "mechanism": "In rabbits, Trikatu pretreatment lowered serum diclofenac and reduced its anti-inflammatory effect, the opposite direction to most piperine data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Pharmacokinetic and pharmacodynamic studies on interaction of \"Trikatu\" with diclofenac sodium (J Ethnopharmacol, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15120451/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "saffron",
+  "names": {
+   "common_en": "Saffron",
+   "hindi": "Kesar",
+   "sanskrit": "Kumkuma / Kunkuma",
+   "latin": "Crocus sativus L.",
+   "other": [
+    "Zafran"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Kesar strands (spice)",
+   "Saffron extract capsules (e.g. affron, Satiereal)",
+   "Kumkumadi tailam (topical)",
+   "Chyawanprash (some brands)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda and cooking for general wellbeing of mood, skin and complexion.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "Low culinary doses appear tolerated, but higher doses are linked to uterine stimulation and miscarriage risk; avoid supplement doses in pregnancy.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Saffron and Pregnancy: Cultural Practices, Beliefs, and Safety Evidence: An Integrative Review (J Evid Based Integr Med, 2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42186868/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Therapeutic doses (about 30 mg/day of extract) show little toxicity, but high doses (several grams) are toxic.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Toxicology effects of saffron and its constituents: a review (Iran J Basic Med Sci, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28293386/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "hypotension",
+    "note": "400 mg/day for a week lowered standing systolic and mean arterial pressure in healthy volunteers.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Safety evaluation of saffron (Crocus sativus) tablets in healthy volunteers (Phytomedicine, 2008)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18693099/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May add slightly to antiplatelet medicines at supplement doses.",
+    "mechanism": "Saffron extract inhibits human platelet aggregation in vitro; a human trial found no change in clotting tests at 200-400 mg/day, so clinical relevance is uncertain.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Inhibition of human platelet aggregation and membrane lipid peroxidation by food spice, saffron (Mol Cell Biochem, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16180089/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of Crocus sativus L. (saffron) on coagulation and anticoagulation systems in healthy volunteers (Phytother Res, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23733488/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "Could in theory add to bleeding risk with warfarin at high doses.",
+    "mechanism": "Theoretical (in vitro antiplatelet activity); 200-400 mg/day did not change PT, PTT or coagulation factors in healthy volunteers.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Inhibition of human platelet aggregation and membrane lipid peroxidation by food spice, saffron (Mol Cell Biochem, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16180089/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of Crocus sativus L. (saffron) on coagulation and anticoagulation systems in healthy volunteers (Phytother Res, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23733488/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May add to blood-pressure-lowering medicines at higher doses.",
+    "mechanism": "400 mg/day lowered standing systolic and mean arterial pressure in healthy volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Safety evaluation of saffron (Crocus sativus) tablets in healthy volunteers (Phytomedicine, 2008)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18693099/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_ssri_snri",
+    "severity": "minor",
+    "effect": "Possible additive effects on mood-related brain chemistry.",
+    "mechanism": "Proposed serotonergic mechanism of saffron's antidepressant effect; no interaction studies with SSRIs/SNRIs found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Do not use saffron supplements in place of prescribed treatment.",
+    "sources": [
+     {
+      "title": "Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action (Hum Psychopharmacol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25384672/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "vacha",
+  "names": {
+   "common_en": "Sweet flag / Calamus",
+   "hindi": "Bach / Vach",
+   "sanskrit": "Vacha",
+   "latin": "Acorus calamus L.",
+   "other": [
+    "Calamus root"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Vacha churna",
+   "Saraswatarishta (contains vacha)",
+   "Brahmi/medhya blends with vacha",
+   "Calamus oil"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the nervous system, speech and memory.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Contains beta-asarone, which is genotoxic and a liver carcinogen in rodents. EMA HMPC recommends limiting beta-asarone exposure from herbal medicines (about 115 micrograms/day) and favouring low-asarone (diploid) varieties; the US FDA prohibits calamus and its oil/extract in food.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC public statement on the use of herbal medicinal products containing asarone (EMEA/HMPC/139215/2005)",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-asarone_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "US FDA, 21 CFR 189.110: Calamus and its derivatives (prohibited from use in human food)",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-189/subpart-C/section-189.110",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Because of the genotoxicity concerns above and lack of safety data, avoid in pregnancy and breastfeeding.",
+    "evidence": "theoretical",
+    "sources": [
+     {
+      "title": "EMA HMPC public statement on the use of herbal medicinal products containing asarone (EMEA/HMPC/139215/2005)",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-asarone_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Traditionally given to children in some regions; asarone exposure limits are body-weight based, so children are relatively more exposed.",
+    "evidence": "theoretical",
+    "sources": [
+     {
+      "title": "EMA HMPC public statement on the use of herbal medicinal products containing asarone (EMEA/HMPC/139215/2005)",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-asarone_en.pdf",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "moderate",
+    "effect": "May increase drowsiness with sleeping pills, benzodiazepines or barbiturates.",
+    "mechanism": "Calamus oil and asarone potentiated barbiturate sleep in animals; ethanol extract shows CNS-depressant actions in rodents.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid driving if drowsy.",
+    "sources": [
+     {
+      "title": "Investigations on the mechanism of potentiation of barbiturate hypnosis by hersaponin, acorus oil, reserpine and chlorpromazine (Arch Int Pharmacodyn Ther, 1962)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13932508/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Central nervous system studies on an ethanol extract of Acorus calamus rhizomes (J Ethnopharmacol, 1990)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2314110/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "jatamansi",
+  "names": {
+   "common_en": "Spikenard / Indian nard",
+   "hindi": "Jatamansi / Balchhar",
+   "sanskrit": "Jatamamsi",
+   "latin": "Nardostachys jatamansi (D.Don) DC.",
+   "other": [
+    "Muskroot",
+    "Sumbul-ut-teeb (Unani)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Jatamansi churna",
+   "Jatamansi capsules",
+   "Sleep and relaxation blends",
+   "Jatamansi oil"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of sleep and the nervous system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Classified as hypno-sedative in Ayurveda; may cause drowsiness.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Anxiolytic actions of Nardostachys jatamansi via GABA benzodiazepine channel complex mechanism and its biodistribution studies (Metab Brain Dis, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29934858/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "moderate",
+    "effect": "May add to drowsiness from sleeping pills, benzodiazepines or other sedatives.",
+    "mechanism": "Anxiolytic action in mice was blocked by flumazenil, indicating a GABA-benzodiazepine receptor mechanism; additive sedation is plausible.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid driving if drowsy.",
+    "sources": [
+     {
+      "title": "Anxiolytic actions of Nardostachys jatamansi via GABA benzodiazepine channel complex mechanism and its biodistribution studies (Metab Brain Dis, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29934858/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May add to blood-pressure-lowering medicines.",
+    "mechanism": "Lowered blood pressure in a small randomised study in people with high blood pressure.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Efficacy of Nardostachys jatamansi (D.Don) DC in essential hypertension: A randomized controlled study (Complement Ther Med, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33066862/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "sarpagandha",
+  "names": {
+   "common_en": "Indian snakeroot",
+   "hindi": "Sarpagandha / Chandrabhaga",
+   "sanskrit": "Sarpagandha",
+   "latin": "Rauvolfia serpentina (L.) Benth. ex Kurz",
+   "other": [
+    "Rauwolfia",
+    "Reserpine (main alkaloid)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Sarpagandha churna",
+   "Sarpagandha vati / ghan vati",
+   "Sarpagandhadi churna",
+   "BP and sleep blends containing sarpagandha"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the heart, circulation and calm sleep.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Contains reserpine, a prescription-strength drug that depletes noradrenaline, dopamine and serotonin. Reserpine is contraindicated in people with a history of depression and in peptic ulcer or ulcerative colitis; it has long been linked to low mood (a 2023 systematic review found the evidence inconsistent), and can cause nasal congestion and slow heart rate. Use only under medical supervision.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     },
+     {
+      "title": "StatPearls: Reserpine (Archived)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557767/",
+      "type": "peer_review"
+     },
+     {
+      "title": "The effects of reserpine on depression: A systematic review (J Psychopharmacol, 2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36000248/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "hypotension",
+    "note": "Lowers blood pressure (reserpine is an established antihypertensive); can cause excessive drops when combined with other BP-lowering medicines.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Blood pressure-lowering efficacy of reserpine for primary hypertension (Cochrane Database Syst Rev, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27997978/",
+      "type": "peer_review"
+     },
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "surgery",
+    "note": "Unexpected hypotension and bradycardia have occurred under anaesthesia in patients taking reserpine; the label advised stopping 1-2 weeks before elective surgery.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Reserpine passes into breast milk; LactMed prefers an alternative, especially with newborn or preterm infants.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LactMed: Reserpine (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501093/",
+      "type": "gov"
+     },
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "People taking levodopa should avoid reserpine-containing products: reserpine reduces the response to levodopa (no dedicated drug_class key exists for antiparkinson medicines).",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     },
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "major",
+    "effect": "Excitation and high blood pressure.",
+    "mechanism": "Reserpine releases/depletes monoamines; the reserpine label states that adding reserpine in patients on MAO inhibitors can cause excitation and hypertension and the combination should be avoided.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination unless your doctor specifically approves it. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "anaesthesia_surgery",
+    "severity": "major",
+    "effect": "Severe drop in blood pressure and slow heart rate during anaesthesia.",
+    "mechanism": "Reduced responsiveness to noradrenaline after catecholamine depletion by reserpine.",
+    "evidence": "clinical",
+    "advice": "Tell your surgeon and anaesthetist about this herb; ask your doctor whether to pause it before planned surgery. The reserpine label advised stopping 1-2 weeks before elective surgery.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "Higher risk of irregular heart rhythm with digoxin.",
+    "mechanism": "Reserpine label: concurrent use with digitalis may enhance arrhythmias.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiarrhythmic",
+    "severity": "moderate",
+    "effect": "Higher risk of irregular heart rhythm (quinidine named on label).",
+    "mechanism": "Reserpine label: use cautiously with quinidine because arrhythmias may be enhanced.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "moderate",
+    "effect": "Blood pressure may fall too low; beta-blocker effects (slow pulse, tiredness) may be increased.",
+    "mechanism": "Additive blood-pressure lowering; reserpine label notes additive CNS-depressant and cardiovascular effects with beta-blockers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood pressure and pulse.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     },
+     {
+      "title": "Blood pressure-lowering efficacy of reserpine for primary hypertension (Cochrane Database Syst Rev, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27997978/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "diuretic_loop_thiazide",
+    "severity": "moderate",
+    "effect": "Blood pressure may fall too low.",
+    "mechanism": "Additive antihypertensive effect (reserpine was marketed in fixed combination with thiazides).",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "moderate",
+    "effect": "Increased drowsiness and slowed reactions.",
+    "mechanism": "Reserpine label: additive CNS-depressant effects with barbiturates and alcohol.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid alcohol and driving if drowsy.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_tca",
+    "severity": "minor",
+    "effect": "May worsen low mood or reduce the benefit of antidepressants.",
+    "mechanism": "Reserpine depletes brain monoamines and its label contraindicates use with a history of depression; however, a 2023 systematic review found its association with depression inconsistent. No specific interaction studies found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     },
+     {
+      "title": "The effects of reserpine on depression: A systematic review (J Psychopharmacol, 2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36000248/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_ssri_snri",
+    "severity": "minor",
+    "effect": "May worsen low mood or reduce the benefit of antidepressants.",
+    "mechanism": "Monoamine depletion by reserpine; label contraindication in depression; evidence on depression is inconsistent. No specific SSRI/SNRI interaction studies found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Renese-R (polythiazide and reserpine), reserpine contraindications/interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b503fa5e-5726-426d-867c-e8fe59ed3ead",
+      "type": "gov"
+     },
+     {
+      "title": "The effects of reserpine on depression: A systematic review (J Psychopharmacol, 2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36000248/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kapikacchu",
+  "names": {
+   "common_en": "Velvet bean",
+   "hindi": "Kaunch / Kevanch",
+   "sanskrit": "Kapikacchu / Atmagupta",
+   "latin": "Mucuna pruriens (L.) DC.",
+   "other": [
+    "Cowhage",
+    "Mucuna"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Kapikacchu churna",
+   "Kaunch beej powder",
+   "Mucuna extract capsules (often labelled with L-dopa %)",
+   "Vajikarana / men's vitality blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the nervous and reproductive systems and vitality.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Seeds naturally contain levodopa (L-dopa), the same active drug used in Parkinson's medicines; supplement levodopa content varies widely and is often not stated accurately. People taking levodopa/carbidopa, other dopaminergic medicines or dopamine-blocking medicines should not use it without their prescriber (no dedicated drug_class key exists for antiparkinson medicines).",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Levodopa Content of Mucuna pruriens Supplements in the NIH Dietary Supplement Label Database (JAMA Neurol, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35939305/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Mucuna pruriens in Parkinson's disease: a double blind clinical and pharmacological study (J Neurol Neurosurg Psychiatry, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15548480/",
+      "type": "peer_review"
+     },
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "An outbreak of acute toxic psychosis was attributed to eating Mucuna beans in Mozambique; levodopa can cause hallucinations and psychotic-like behaviour.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Outbreak of acute toxic psychosis attributed to Mucuna pruriens (Lancet, 1990)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1978001/",
+      "type": "peer_review"
+     },
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Contains levodopa; levodopa/carbidopa caused malformations in rabbits and there are no adequate human pregnancy data.",
+    "evidence": "theoretical",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Levodopa can lower prolactin and may reduce milk supply.",
+    "evidence": "theoretical",
+    "sources": [
+     {
+      "title": "LactMed: Levodopa (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501337/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "major",
+    "effect": "Dangerous rise in blood pressure (hypertensive reaction).",
+    "mechanism": "Mucuna seed preparations deliver clinically active levodopa in humans; the FDA-approved levodopa label contraindicates non-selective MAO inhibitors. No study of Mucuna plus MAOIs exists, so severity rests on the regulatory contraindication for levodopa.",
+    "evidence": "theoretical",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     },
+     {
+      "title": "Mucuna pruriens in Parkinson's disease: a double blind clinical and pharmacological study (J Neurol Neurosurg Psychiatry, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15548480/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Levodopa Content of Mucuna pruriens Supplements in the NIH Dietary Supplement Label Database (JAMA Neurol, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35939305/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antipsychotic",
+    "severity": "moderate",
+    "effect": "May reduce the effect of antipsychotics, and antipsychotics may block mucuna's dopamine effect; risk of worsening psychotic symptoms.",
+    "mechanism": "Dopamine D2 antagonists reduce levodopa effect; levodopa can cause hallucinations/psychosis.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     },
+     {
+      "title": "Outbreak of acute toxic psychosis attributed to Mucuna pruriens (Lancet, 1990)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1978001/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "moderate",
+    "effect": "Dizziness or fainting from low blood pressure on standing.",
+    "mechanism": "Symptomatic postural hypotension reported when levodopa was added to antihypertensive treatment (levodopa content of Mucuna).",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Rise slowly from sitting or lying.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_tca",
+    "severity": "minor",
+    "effect": "Rare high blood pressure or abnormal movements.",
+    "mechanism": "Rare reports of hypertension and dyskinesia with tricyclics plus levodopa.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "iron_mineral_supplement",
+    "severity": "minor",
+    "effect": "Iron may reduce absorption of mucuna's levodopa.",
+    "mechanism": "Iron salts reduce levodopa availability (levodopa label).",
+    "evidence": "theoretical",
+    "advice": "Separate doses by at least 2 hours and talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antitubercular",
+    "severity": "minor",
+    "effect": "Isoniazid may reduce the effect of mucuna's levodopa.",
+    "mechanism": "Isoniazid can reduce the therapeutic effect of levodopa (levodopa label).",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiepileptic",
+    "severity": "minor",
+    "effect": "Phenytoin may reduce the effect of mucuna's levodopa.",
+    "mechanism": "Phenytoin has been reported to reverse levodopa's effect (levodopa label).",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed (NLM) label: Sinemet (carbidopa and levodopa), contraindications and drug interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b17b028-964a-473c-823d-81423535bd66",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "bhringraj",
+  "names": {
+   "common_en": "False daisy",
+   "hindi": "Bhangra / Bhringraj",
+   "sanskrit": "Bhringaraja",
+   "latin": "Eclipta prostrata (L.) L.",
+   "other": [
+    "Eclipta alba"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Bhringraj oil (hair)",
+   "Bhringraj churna",
+   "Bhringrajasava",
+   "Liver blends containing bhringraj"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the liver, hair and skin.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "manjistha",
+  "names": {
+   "common_en": "Indian madder",
+   "hindi": "Manjith",
+   "sanskrit": "Manjishtha",
+   "latin": "Rubia cordifolia L.",
+   "other": []
+  },
+  "kind": "herb",
+  "common_products": [
+   "Manjistha churna",
+   "Manjishthadi kwath",
+   "Skin/blood-purifier blends",
+   "Manjistha capsules"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the skin and blood.",
+  "traditional_source_type": "classical text",
+  "general_safety": [],
+  "interactions": [],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "ashoka",
+  "names": {
+   "common_en": "Ashoka tree",
+   "hindi": "Ashok",
+   "sanskrit": "Ashoka",
+   "latin": "Saraca asoca (Roxb.) W.J.de Wilde",
+   "other": [
+    "Saraca indica"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Ashokarishta",
+   "Ashoka churna",
+   "Women's wellness blends (e.g. with lodhra, shatavari)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the female reproductive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Commercial ashoka bark is frequently adulterated or substituted with other species (e.g. Polyalthia longifolia), so product content may not match the label.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Resolving Identification Issues of Saraca asoca from Its Adulterant and Commercial Samples Using Phytochemical Markers (Pharmacogn Mag, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28808391/",
+      "type": "peer_review"
+     },
+     {
+      "title": "DNA barcoding and NMR spectroscopy-based assessment of species adulteration in the raw herbal trade of Saraca asoca (Roxb.) Willd, an important medicinal plant (Int J Legal Med, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27627901/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Flower extract showed oestrogen-like activity in ovariectomised rats; no human pregnancy safety data.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Activity based evaluation of a traditional Ayurvedic medicinal plant: Saraca asoca (Roxb.) de Wilde flowers as estrogenic agents using ovariectomized rat model (J Ethnopharmacol, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27884717/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "minor",
+    "effect": "Could in theory add to or interfere with oestrogen-containing medicines.",
+    "mechanism": "Oestrogenic activity of flower extract in ovariectomised rats; bark (the usual product) not tested in this way; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Activity based evaluation of a traditional Ayurvedic medicinal plant: Saraca asoca (Roxb.) de Wilde flowers as estrogenic agents using ovariectomized rat model (J Ethnopharmacol, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27884717/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "lodhra",
+  "names": {
+   "common_en": "Lodh tree",
+   "hindi": "Lodh",
+   "sanskrit": "Lodhra",
+   "latin": "Symplocos racemosa Roxb.",
+   "other": []
+  },
+  "kind": "herb",
+  "common_products": [
+   "Lodhra churna",
+   "Lodhrasava",
+   "Women's wellness blends",
+   "Pushyanug churna (contains lodhra)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the female reproductive system and skin.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "Could in theory add to glucose-lowering medicines.",
+    "mechanism": "Anti-diabetic activity reported in experimental studies of the stem bark (review); no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "A comprehensive analysis on Symplocos racemosa Roxb.: Traditional uses, botany, phytochemistry and pharmacological activities (J Ethnopharmacol, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26851499/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "minor",
+    "effect": "Could in theory interfere with hormonal medicines.",
+    "mechanism": "Anti-androgenic activity reported in experimental studies (review); clinical relevance unknown.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "A comprehensive analysis on Symplocos racemosa Roxb.: Traditional uses, botany, phytochemistry and pharmacological activities (J Ethnopharmacol, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26851499/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "daruharidra",
+  "names": {
+   "common_en": "Indian barberry (berberine)",
+   "hindi": "Daruhaldi / Daruharidra",
+   "sanskrit": "Daruharidra",
+   "latin": "Berberis aristata DC.",
+   "other": [
+    "Berberine",
+    "Rasanjana / Rasaut (extract)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Daruharidra churna",
+   "Rasaut / rasanjana",
+   "Berberine HCl capsules (often 500 mg)",
+   "Blood-sugar and weight blends with berberine"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the skin, eyes, liver and metabolism.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "Berberine can displace bilirubin from albumin; authorities advise against use in pregnancy, breastfeeding and in infants because of the risk to newborns.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH (NIH): Goldenseal",
+      "url": "https://www.nccih.nih.gov/health/goldenseal",
+      "type": "gov"
+     },
+     {
+      "title": "LactMed: Goldenseal (berberine) (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501866/",
+      "type": "gov"
+     },
+     {
+      "title": "Displacement of bilirubin from albumin by berberine (Biol Neonate, 1993)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8513024/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Avoid exposing newborns to berberine via breast milk (bilirubin displacement concern).",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LactMed: Goldenseal (berberine) (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501866/",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH (NIH): Goldenseal",
+      "url": "https://www.nccih.nih.gov/health/goldenseal",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Should not be given to infants/newborns, especially if jaundiced.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH (NIH): Goldenseal",
+      "url": "https://www.nccih.nih.gov/health/goldenseal",
+      "type": "gov"
+     },
+     {
+      "title": "Displacement of bilirubin from albumin by berberine (Biol Neonate, 1993)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8513024/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "hypoglycaemia",
+    "note": "Lowers blood glucose; a case of severe hypoglycaemia with syncope was reported in a non-diabetic athlete using berberine supplements.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Berberine-induced hypoglycaemia and electrocardiogram interpretation in athletes (BMJ Case Rep, 2025)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40903097/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Glucose-lowering effect of berberine on type 2 diabetes: A systematic review and meta-analysis (Front Pharmacol, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36467075/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "major",
+    "effect": "Raises cyclosporine blood levels, risking toxicity.",
+    "mechanism": "In kidney-transplant recipients, berberine 0.2 g three times daily raised cyclosporine trough levels and AUC (about 35% higher AUC); attributed to CYP3A4 and intestinal P-gp inhibition.",
+    "evidence": "clinical",
+    "advice": "Avoid unless your transplant team approves and monitors levels. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effects of berberine on the blood concentration of cyclosporin A in renal transplanted recipients: clinical and pharmacokinetic study (Eur J Clin Pharmacol, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16133554/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of berberine on the pharmacokinetics of substrates of CYP3A and P-gp (Phytother Res, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19370549/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "moderate",
+    "effect": "May raise levels of CYP3A4-metabolised medicines (e.g. midazolam, tacrolimus, some statins).",
+    "mechanism": "Berberine 300 mg three times daily for 2 weeks increased midazolam AUC about 40% in healthy men.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Repeated administration of berberine inhibits cytochromes P450 in humans (Eur J Clin Pharmacol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21870106/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2d6_substrate",
+    "severity": "moderate",
+    "effect": "May raise levels of CYP2D6-metabolised medicines (e.g. some antidepressants, beta-blockers, dextromethorphan).",
+    "mechanism": "Same human study: dextromethorphan/dextrorphan ratio rose about ninefold, indicating strong CYP2D6 inhibition.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Repeated administration of berberine inhibits cytochromes P450 in humans (Eur J Clin Pharmacol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21870106/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c9_substrate",
+    "severity": "moderate",
+    "effect": "May raise levels of CYP2C9-metabolised medicines (e.g. losartan, warfarin, some sulfonylureas).",
+    "mechanism": "Same human study: losartan/E-3174 ratio doubled, indicating reduced CYP2C9 activity.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Repeated administration of berberine inhibits cytochromes P450 in humans (Eur J Clin Pharmacol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21870106/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "moderate",
+    "effect": "May change warfarin levels and bleeding risk.",
+    "mechanism": "Extrapolated from CYP2C9 inhibition in humans; no direct warfarin study found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Check INR more often if you start or stop berberine.",
+    "sources": [
+     {
+      "title": "Repeated administration of berberine inhibits cytochromes P450 in humans (Eur J Clin Pharmacol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21870106/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "pgp_substrate",
+    "severity": "moderate",
+    "effect": "May increase absorption of P-gp substrate drugs.",
+    "mechanism": "Berberine increased oral digoxin and cyclosporine bioavailability in rats via intestinal P-gp inhibition.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effect of berberine on the pharmacokinetics of substrates of CYP3A and P-gp (Phytother Res, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19370549/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "May raise digoxin levels.",
+    "mechanism": "Dose-dependent increase in oral digoxin AUC/Cmax in rats (P-gp inhibition); no human study found.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Digoxin levels may need checking.",
+    "sources": [
+     {
+      "title": "Effect of berberine on the pharmacokinetics of substrates of CYP3A and P-gp (Phytother Res, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19370549/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "moderate",
+    "effect": "Higher risk of low blood sugar.",
+    "mechanism": "Additive glucose lowering (meta-analysis of trials); berberine also reported to act as an insulin secretagogue.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Glucose-lowering effect of berberine on type 2 diabetes: A systematic review and meta-analysis (Front Pharmacol, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36467075/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Berberine is an insulin secretagogue targeting the KCNH6 potassium channel (Nat Commun, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34556670/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "moderate",
+    "effect": "Higher risk of low blood sugar.",
+    "mechanism": "Additive glucose lowering.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Glucose-lowering effect of berberine on type 2 diabetes: A systematic review and meta-analysis (Front Pharmacol, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36467075/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "moderate",
+    "effect": "Additive glucose lowering; may slightly reduce metformin absorption at lower metformin doses.",
+    "mechanism": "Goldenseal (berberine-containing) reduced metformin AUC by about 20% at low metformin doses but not overall in adults with type 2 diabetes; transporter (OCT/MATE) interactions shown in vitro.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "The Pharmacokinetic Interaction Between Metformin and the Natural Product Goldenseal Is Metformin Dose-Dependent: A Three-Arm Crossover Study in Adults With Type 2 Diabetes (Clin Transl Sci, 2025)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39943692/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Organic cation transporter and multidrug and toxin extrusion 1 co-mediated interaction between metformin and berberine (Eur J Pharm Sci, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30428337/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "vijaysar",
+  "names": {
+   "common_en": "Indian kino tree",
+   "hindi": "Vijaysar / Bijasal",
+   "sanskrit": "Asana / Bijaka",
+   "latin": "Pterocarpus marsupium Roxb.",
+   "other": [
+    "Vijayasar"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Vijaysar wooden tumbler (water stored overnight)",
+   "Vijaysar churna/extract",
+   "Blood-sugar blends (e.g. with gurmar, jamun)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of metabolism.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "hypoglycaemia",
+    "note": "Lowered fasting and post-meal glucose in an ICMR multicentre open trial; may cause low blood sugar with glucose-lowering medicines.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Flexible dose open trial of Vijayasar in cases of newly-diagnosed non-insulin-dependent diabetes mellitus. Indian Council of Medical Research (ICMR), Collaborating Centres, New Delhi (Indian J Med Res, 1998)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9745215/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "moderate",
+    "effect": "Higher risk of low blood sugar.",
+    "mechanism": "Additive glucose lowering: clinical glucose reduction (ICMR trial) and combined effect with glibenclamide in diabetic mice.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Flexible dose open trial of Vijayasar in cases of newly-diagnosed non-insulin-dependent diabetes mellitus. Indian Council of Medical Research (ICMR), Collaborating Centres, New Delhi (Indian J Med Res, 1998)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9745215/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Co-administration of Pterocarpus marsupium Extract and Glibenclamide Exhibits Better Effects in Regulating Hyperglycemia and Associated Changes in Alloxan-induced Diabetic Mice (Curr Top Med Chem, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36366849/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "moderate",
+    "effect": "Higher risk of low blood sugar.",
+    "mechanism": "Additive glucose lowering.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Flexible dose open trial of Vijayasar in cases of newly-diagnosed non-insulin-dependent diabetes mellitus. Indian Council of Medical Research (ICMR), Collaborating Centres, New Delhi (Indian J Med Res, 1998)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9745215/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "moderate",
+    "effect": "Additive glucose lowering.",
+    "mechanism": "Additive glucose lowering.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Flexible dose open trial of Vijayasar in cases of newly-diagnosed non-insulin-dependent diabetes mellitus. Indian Council of Medical Research (ICMR), Collaborating Centres, New Delhi (Indian J Med Res, 1998)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9745215/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "chirata",
+  "names": {
+   "common_en": "Chirata",
+   "hindi": "Chirayata",
+   "sanskrit": "Kiratatikta",
+   "latin": "Swertia chirata Buch.-Ham. ex Wall. (syn. S. chirayita)",
+   "other": [
+    "Chiretta"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Chirata churna / kwath",
+   "Mahasudarshan churna (contains chirata)",
+   "Bitter tonic blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda as a bitter for general wellbeing of digestion and the liver.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "hypoglycaemia",
+    "note": "Swerchirin, a chirata xanthone, strongly lowered blood glucose in rats, including tolbutamide-pretreated rats.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita (Planta Med, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1891489/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Widespread adulteration/substitution of commercial chirata has been reported.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "A Review of Swertia chirayita (Gentianaceae) as a Traditional Medicinal Plant (Front Pharmacol, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26793105/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "moderate",
+    "effect": "Could add to glucose lowering and cause low blood sugar.",
+    "mechanism": "Swerchirin lowered blood glucose in rats including those pretreated with tolbutamide; no human interaction data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita (Planta Med, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1891489/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "Could add to glucose lowering.",
+    "mechanism": "Additive glucose lowering (animal data).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita (Planta Med, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1891489/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "Could add to glucose lowering.",
+    "mechanism": "Additive glucose lowering (animal data).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita (Planta Med, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1891489/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Utilization of Swertia chirayita Plant Extracts for Management of Diabetes and Associated Disorders: Present Status, Future Prospects and Limitations (Nat Prod Bioprospect, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33118125/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "shallaki",
+  "names": {
+   "common_en": "Indian frankincense / Boswellia",
+   "hindi": "Salai guggul",
+   "sanskrit": "Shallaki / Kunduru",
+   "latin": "Boswellia serrata Roxb.",
+   "other": [
+    "Boswellic acids",
+    "AKBA"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Shallaki tablets",
+   "Boswellia extract capsules (e.g. 5-Loxin, Aflapin)",
+   "Joint blends with turmeric"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of joints and mobility.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "Little is known about safety of medicinal oral doses in pregnancy or breastfeeding; food amounts are likely safe.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH (NIH): Boswellia",
+      "url": "https://www.nccih.nih.gov/health/boswellia",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "liver",
+    "note": "Not linked to liver enzyme elevations or clinically apparent liver injury in LiverTox.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LiverTox: Boswellia Serrata (NIDDK, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK563692/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "moderate",
+    "effect": "May increase warfarin effect and bleeding risk.",
+    "mechanism": "Boswellia serrata is listed among herbs with published warfarin interaction case reports in a review; mechanism unclear (possibly CYP inhibition).",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Check INR more often if you start or stop it.",
+    "sources": [
+     {
+      "title": "Warfarin interactions with medicinal herbs (Nat Prod Commun, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25233607/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "minor",
+    "effect": "Could raise levels of CYP3A4-metabolised medicines.",
+    "mechanism": "Frankincense extracts were potent, non-selective inhibitors of CYP1A2, 2C8, 2C9, 2C19, 2D6 and 3A4 in vitro; boswellic acids inhibited CYP3A4 in rat microsomes.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction (J Chromatogr A, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16364338/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacokinetic and Pharmacodynamic Interaction of Boswellic Acids and Andrographolide with Glyburide in Diabetic Rats: Including Its PK/PD Modeling (Phytother Res, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26762235/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c9_substrate",
+    "severity": "minor",
+    "effect": "Could raise levels of CYP2C9-metabolised medicines.",
+    "mechanism": "In vitro CYP2C9 inhibition by frankincense extracts.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction (J Chromatogr A, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16364338/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2d6_substrate",
+    "severity": "minor",
+    "effect": "Could raise levels of CYP2D6-metabolised medicines.",
+    "mechanism": "In vitro CYP2D6 inhibition by frankincense extracts.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction (J Chromatogr A, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16364338/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp1a2_substrate",
+    "severity": "minor",
+    "effect": "Could raise levels of CYP1A2-metabolised medicines.",
+    "mechanism": "In vitro CYP1A2 inhibition by frankincense extracts.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction (J Chromatogr A, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16364338/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "pgp_substrate",
+    "severity": "minor",
+    "effect": "Could alter levels of P-gp substrate drugs.",
+    "mechanism": "Boswellia extract and boswellic acids modulated P-gp transport in vitro; possible OATP1B3/MRP2 interactions.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Modulation of Pgp function by boswellic acids (Planta Med, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16773534/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Permeation of Boswellia extract in the Caco-2 model and possible interactions of its constituents KBA and AKBA with OATP1B3 and MRP2 (Eur J Pharm Sci, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19010411/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May increase glibenclamide (glyburide) levels and glucose lowering.",
+    "mechanism": "Boswellic acids increased glyburide bioavailability and hypoglycaemic effect in diabetic rats.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor blood glucose.",
+    "sources": [
+     {
+      "title": "Pharmacokinetic and Pharmacodynamic Interaction of Boswellic Acids and Andrographolide with Glyburide in Diabetic Rats: Including Its PK/PD Modeling (Phytother Res, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26762235/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "vasaka",
+  "names": {
+   "common_en": "Malabar nut",
+   "hindi": "Adusa / Arusa",
+   "sanskrit": "Vasa / Vasaka",
+   "latin": "Justicia adhatoda L. (syn. Adhatoda vasica Nees)",
+   "other": [
+    "Vasicine (alkaloid)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Vasavaleha",
+   "Vasarishta",
+   "Vasaka syrup / cough syrups"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the respiratory system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "The alkaloid vasicine has oxytocic (uterine-stimulating) and abortifacient effects in animal studies; avoid in pregnancy.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Vasicine, alkaloid of Adhatoda vasica, a promising uterotonic abortifacient (Indian J Exp Biol, 1978)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/750386/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Adhatoda vasica: a critical review of ethnopharmacological and toxicological data (J Ethnopharmacol, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10967448/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "bakuchi",
+  "names": {
+   "common_en": "Babchi",
+   "hindi": "Bakuchi / Babchi",
+   "sanskrit": "Bakuchi / Somaraji",
+   "latin": "Psoralea corylifolia L. (syn. Cullen corylifolium)",
+   "other": [
+    "Bu Gu Zhi",
+    "Psoraleae Fructus"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Bakuchi churna / seeds",
+   "Bakuchi oil (topical)",
+   "Somraji tailam",
+   "Skin-pigmentation blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the skin.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Phototoxic: seeds contain psoralens; severe phototoxic burns have been reported (including in a child) when used with sun exposure. Avoid sun/UV exposure and do not combine with other photosensitising products without advice.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Severe phototoxic reaction to Psoralea corylifolia seeds in a child with vitiligo (Contact Dermatitis, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38387032/",
+      "type": "peer_review"
+     },
+     {
+      "title": "The Safety of Medicinal Plants Used in the Treatment of Vitiligo and Hypermelanosis: A Systematic Review of Use and Reports of Harm (Clin Cosmet Investig Dermatol, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33790609/",
+      "type": "peer_review"
+     },
+     {
+      "title": "LiverTox: Psoralen (NIDDK, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547880/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "liver",
+    "note": "Acute hepatitis has been reported after oral babchi seeds; constituents such as bakuchiol and psoralen are hepatotoxic in animals.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "A rare case of acute hepatitis induced by use of Babchi seeds as an Ayurvedic remedy for vitiligo (BMJ Case Rep, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25103314/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Bakuchiol Contributes to the Hepatotoxicity of Psoralea corylifolia in Rats (Phytother Res, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28639266/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Seed extracts and constituents show oestrogenic activity; no human pregnancy safety data.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Estrogenic activities of Psoralea corylifolia L. seed extracts and main constituents (Phytomedicine, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21382704/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "moderate",
+    "effect": "May add to liver strain from other liver-affecting medicines.",
+    "mechanism": "Additive risk inferred from case reports of babchi hepatitis and hepatotoxic constituents in animals.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report yellow eyes/skin, dark urine or abdominal pain promptly.",
+    "sources": [
+     {
+      "title": "A rare case of acute hepatitis induced by use of Babchi seeds as an Ayurvedic remedy for vitiligo (BMJ Case Rep, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25103314/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Bakuchiol Contributes to the Hepatotoxicity of Psoralea corylifolia in Rats (Phytother Res, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28639266/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antitubercular",
+    "severity": "moderate",
+    "effect": "May add to liver strain from isoniazid/rifampicin.",
+    "mechanism": "Additive hepatotoxicity risk (theoretical), based on babchi hepatitis reports.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "A rare case of acute hepatitis induced by use of Babchi seeds as an Ayurvedic remedy for vitiligo (BMJ Case Rep, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25103314/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antibiotic_chelating",
+    "severity": "moderate",
+    "effect": "Higher risk of sunburn-like skin reactions with photosensitising antibiotics (tetracyclines, fluoroquinolones).",
+    "mechanism": "Additive photosensitivity: psoralens are phototoxic, and these antibiotics are common photosensitisers.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid sun exposure.",
+    "sources": [
+     {
+      "title": "Severe phototoxic reaction to Psoralea corylifolia seeds in a child with vitiligo (Contact Dermatitis, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38387032/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Drug-induced photosensitivity (Prescrire Int, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19882789/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "minor",
+    "effect": "Could raise levels of CYP3A4-metabolised medicines.",
+    "mechanism": "P. corylifolia extract and major components inhibited CYP3A4 in recombinant enzyme and human hepatoma cell models; constituents also inhibit UGT enzymes in vitro.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "CYP3A4 inhibition by Psoralea corylifolia and its major components in human recombinant enzyme, differentiated human hepatoma HuH-7 and HepaRG cells (Toxicol Rep, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28962388/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Interactions of drug-metabolizing enzymes with the Chinese herb Psoraleae Fructus (Chin J Nat Med, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31831132/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "minor",
+    "effect": "Could in theory interfere with oestrogen-containing medicines.",
+    "mechanism": "Oestrogenic activity of seed extracts and constituents in vitro.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Estrogenic activities of Psoralea corylifolia L. seed extracts and main constituents (Phytomedicine, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21382704/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "bhallataka",
+  "names": {
+   "common_en": "Marking nut",
+   "hindi": "Bhilawa",
+   "sanskrit": "Bhallataka",
+   "latin": "Semecarpus anacardium L.f.",
+   "other": [
+    "Bhilawan",
+    "Dhobi nut"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Bhallatakasava",
+   "Bhallataka avaleha",
+   "Amritabhallataka",
+   "Sanjivani vati (contains bhallataka)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda, only after purification (shodhana), for general wellbeing of joints and digestion.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "allergy",
+    "note": "The fruit's tarry oil (urushiol-like bhilawanols, anacardic acid) causes blistering contact dermatitis; it is listed as a poisonous plant under India's Drugs and Cosmetics Act and must be purified before use.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Urushiol-induced contact dermatitis caused during Shodhana (purificatory measures) of Bhallataka (Semecarpus anacardium Linn.) fruit (Ayu, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23559802/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "kidney",
+    "note": "Renal cortical necrosis with anuria was reported after exposure to marking-nut sap.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Renal cortical necrosis following exposure to sap of the marking-nut tree (Semecarpus anacardium) (Am J Trop Med Hyg, 1979)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/464199/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "A probable DRESS-like severe drug reaction was reported after an oral formulation containing bhallataka.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Idiosyncratic adversity reported after oral consumption of an ayurvedic formulation containing bhallataka (Semecarpus anacardium): A case report (J Ayurveda Integr Med, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36462347/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "nephrotoxic",
+    "severity": "moderate",
+    "effect": "May add to kidney strain from other kidney-affecting medicines.",
+    "mechanism": "Additive risk inferred from a case of renal cortical necrosis after sap exposure; no interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Renal cortical necrosis following exposure to sap of the marking-nut tree (Semecarpus anacardium) (Am J Trop Med Hyg, 1979)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/464199/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "nsaid",
+    "severity": "minor",
+    "effect": "Possible added kidney strain with regular NSAID use.",
+    "mechanism": "Theoretical additive nephrotoxicity.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Renal cortical necrosis following exposure to sap of the marking-nut tree (Semecarpus anacardium) (Am J Trop Med Hyg, 1979)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/464199/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kuchla",
+  "names": {
+   "common_en": "Nux vomica / Strychnine tree",
+   "hindi": "Kuchla",
+   "sanskrit": "Vishamushti / Kupilu",
+   "latin": "Strychnos nux-vomica L.",
+   "other": [
+    "Strychnine",
+    "Brucine"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Kupilu/kuchla (shodhit) seed preparations",
+   "Agnitundi vati",
+   "Vishatinduk vati"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda, only after purification and in very small doses, for general wellbeing of digestion and nerves.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Contains strychnine and brucine, highly toxic alkaloids banned or severely restricted in most countries. Poisoning causes painful muscle spasms, seizure-like episodes, rhabdomyolysis and can be fatal; strychnine poisoning has been reported from traditional/therapeutic medicines.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "LiverTox: Nux Vomica (NIDDK, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK589896/",
+      "type": "gov"
+     },
+     {
+      "title": "StatPearls: Strychnine Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459306/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Strychnine poisoning due to therapeutic medicine (Indian Pediatr, 1989)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2634019/",
+      "type": "peer_review"
+     },
+     {
+      "title": "A Case of Strychnine Poisoning from a Southeast Asian Herbal Remedy (J Emerg Med, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27856027/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Strychnine poisoning in a child from a therapeutic (traditional) medicine has been reported in India.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Strychnine poisoning due to therapeutic medicine (Indian Pediatr, 1989)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2634019/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "liver",
+    "note": "LiverTox notes nux vomica has not been shown to cause liver injury; the main danger is neuromuscular toxicity.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LiverTox: Nux Vomica (NIDDK, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK589896/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "any_medicine",
+    "severity": "major",
+    "effect": "The herb itself has a very narrow safety margin; combining with any medicine makes problems harder to recognise.",
+    "mechanism": "Intrinsic strychnine/brucine toxicity (glycine-receptor antagonism) rather than a specific pharmacological interaction.",
+    "evidence": "case_reports",
+    "advice": "Use only under a qualified practitioner with a purified, labelled product; talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "StatPearls: Strychnine Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459306/",
+      "type": "peer_review"
+     },
+     {
+      "title": "LiverTox: Nux Vomica (NIDDK, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK589896/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiepileptic",
+    "severity": "moderate",
+    "effect": "May work against seizure control.",
+    "mechanism": "Strychnine is a convulsant (glycine-receptor antagonist) that produces seizure-like muscle spasms; theoretical opposition to antiepileptic therapy.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "StatPearls: Strychnine Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK459306/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "vatsanabh",
+  "names": {
+   "common_en": "Indian aconite",
+   "hindi": "Bachhnag / Meetha vish",
+   "sanskrit": "Vatsanabha",
+   "latin": "Aconitum ferox Wall. ex Ser.",
+   "other": [
+    "Aconite",
+    "Aconitum chasmanthum (species named in the API Vatsanabha monograph)",
+    "Monkshood (related species)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Shodhit vatsanabha preparations",
+   "Mahashankha vati",
+   "Sanjivani vati",
+   "Tribhuvan kirti ras",
+   "Mrityunjaya ras",
+   "Hinguleshwar ras"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda, only after purification and in minute doses, within classical compound formulations.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Aconite alkaloids (aconitine and related) are potent heart and nerve toxins. Poisoning causes numbness, vomiting, low blood pressure, slow or chaotic heart rhythm and can be fatal; cases have followed Ayurvedic aconite preparations, especially overdose or inadequate processing.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Aconite poisoning (Clin Toxicol (Phila), 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19514874/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Overdose effect of aconite containing Ayurvedic Medicine ('Mahashankha Vati') (Int J Ayurveda Res, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21170213/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Transient A-V dissociation and severe hypotension due to consumption of Ayurvedic medicine--Vatsanabha (aconitum ferox) (J Assoc Physicians India, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25438496/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Cardiotoxicity from 'safe' herbomineral formulations (Trop Doct, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21262956/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "hypotension",
+    "note": "Severe hypotension, bradycardia and AV dissociation reported after Ayurvedic vatsanabha use.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Transient A-V dissociation and severe hypotension due to consumption of Ayurvedic medicine--Vatsanabha (aconitum ferox) (J Assoc Physicians India, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25438496/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Overdose effect of aconite containing Ayurvedic Medicine ('Mahashankha Vati') (Int J Ayurveda Res, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21170213/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "any_medicine",
+    "severity": "major",
+    "effect": "The herb itself has a very narrow safety margin; combining with any medicine makes toxicity harder to recognise.",
+    "mechanism": "Intrinsic cardiotoxicity/neurotoxicity of aconite alkaloids (sodium-channel activation).",
+    "evidence": "case_reports",
+    "advice": "Use only under a qualified practitioner with a properly processed, labelled product; talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Aconite poisoning (Clin Toxicol (Phila), 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19514874/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Cardiotoxicity from 'safe' herbomineral formulations (Trop Doct, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21262956/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiarrhythmic",
+    "severity": "moderate",
+    "effect": "Higher risk of dangerous heart rhythm problems.",
+    "mechanism": "Aconite causes ventricular arrhythmias; additive pro-arrhythmic risk with drugs that affect cardiac conduction is theoretical.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Aconite poisoning (Clin Toxicol (Phila), 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19514874/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Aconite Poisoning-Induced Ventricular Arrhythmia (Am J Ther, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33021540/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "Higher risk of dangerous heart rhythm problems with digoxin.",
+    "mechanism": "Both can cause arrhythmias and AV block; additive effect is theoretical.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Aconite poisoning (Clin Toxicol (Phila), 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19514874/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Transient A-V dissociation and severe hypotension due to consumption of Ayurvedic medicine--Vatsanabha (aconitum ferox) (J Assoc Physicians India, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25438496/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "moderate",
+    "effect": "Blood pressure and pulse may fall too low (especially with beta-blockers or calcium-channel blockers).",
+    "mechanism": "Aconite toxicity causes hypotension and bradycardia; additive effect is theoretical.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Transient A-V dissociation and severe hypotension due to consumption of Ayurvedic medicine--Vatsanabha (aconitum ferox) (J Assoc Physicians India, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25438496/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Overdose effect of aconite containing Ayurvedic Medicine ('Mahashankha Vati') (Int J Ayurveda Res, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21170213/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "dhatura",
+  "names": {
+   "common_en": "Thorn apple / Datura",
+   "hindi": "Dhatura",
+   "sanskrit": "Dhattura / Kanaka",
+   "latin": "Datura metel L.",
+   "other": [
+    "Datura",
+    "Devil's trumpet",
+    "Datura stramonium (jimsonweed, related)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Shodhit dhatura seed preparations",
+   "Kanakasava",
+   "Dhatura taila (topical)",
+   "Some classical rasa formulations"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda, only after purification and in minute doses, mainly within classical formulations.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Contains tropane alkaloids (scopolamine/hyoscine, hyoscyamine) causing anticholinergic poisoning: dilated pupils, confusion, hallucinations, fast heart rate, high temperature and urinary retention. Poisonings occur from herbal teas and from Datura substituted into herbal medicines.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Datura poisoning in a family: Case series and literature review (Clin Case Rep, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35903511/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Chinese herbal medicine-induced anticholinergic poisoning in Hong Kong (Hong Kong Med J, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23378353/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Datura and Brugmansia plants related antimuscarinic toxicity: an analysis of poisoning cases reported to the Taiwan poison control center (Clin Toxicol (Phila), 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30522351/",
+      "type": "peer_review"
+     },
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Children are at particular risk of anticholinergic poisoning from small amounts.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Datura and Brugmansia plants related antimuscarinic toxicity: an analysis of poisoning cases reported to the Taiwan poison control center (Clin Toxicol (Phila), 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30522351/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Scopolamine (a Datura alkaloid) may reduce milk production with long-term use.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LactMed: Scopolamine (NICHD, NIH)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501482/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "any_medicine",
+    "severity": "major",
+    "effect": "The herb itself has a narrow safety margin and can cause delirium; combining with any medicine makes toxicity harder to recognise.",
+    "mechanism": "Intrinsic antimuscarinic toxicity of tropane alkaloids.",
+    "evidence": "case_reports",
+    "advice": "Use only under a qualified practitioner with a purified, labelled product; talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Chinese herbal medicine-induced anticholinergic poisoning in Hong Kong (Hong Kong Med J, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23378353/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_tca",
+    "severity": "moderate",
+    "effect": "Stronger anticholinergic side effects: confusion, dry mouth, constipation, urinary retention, fast heart rate.",
+    "mechanism": "Additive anticholinergic burden; tricyclics are strongly anticholinergic.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antipsychotic",
+    "severity": "moderate",
+    "effect": "Stronger anticholinergic side effects and risk of confusion or overheating.",
+    "mechanism": "Additive anticholinergic burden with anticholinergic antipsychotics.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "opioid",
+    "severity": "minor",
+    "effect": "More constipation, urinary retention and drowsiness/confusion.",
+    "mechanism": "Additive effects on gut motility, bladder and CNS (theoretical).",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "minor",
+    "effect": "More confusion or drowsiness.",
+    "mechanism": "Additive CNS effects (theoretical); benzodiazepines may be ineffective alone for Datura-induced delirium.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Chinese herbal medicine-induced anticholinergic poisoning in Hong Kong (Hong Kong Med J, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23378353/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anaesthesia_surgery",
+    "severity": "moderate",
+    "effect": "Unpredictable heart rate and confusion around anaesthesia.",
+    "mechanism": "Antimuscarinic alkaloids (hyoscine/atropine-like) add to anticholinergic drugs used in anaesthesia (theoretical).",
+    "evidence": "theoretical",
+    "advice": "Tell your surgeon and anaesthetist about this herb; ask your doctor whether to pause it before planned surgery.",
+    "sources": [
+     {
+      "title": "StatPearls: Anticholinergic Toxicity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534798/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ }
+]
