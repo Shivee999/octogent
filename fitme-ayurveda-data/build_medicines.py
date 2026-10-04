@@ -56,7 +56,8 @@ SPEC_KEYS = [
     "antibiotic_chelating", "antibiotic_other", "antitubercular", "hepatotoxic", "nephrotoxic",
     "hormonal_contraceptive_estrogen", "ppi_antacid", "iron_mineral_supplement", "laxative_stimulant",
     "theophylline", "anaesthesia_surgery", "cyp3a4_substrate_narrow", "cyp2c9_substrate",
-    "cyp2d6_substrate", "cyp1a2_substrate", "pgp_substrate", "any_medicine",
+    "cyp2d6_substrate", "cyp1a2_substrate", "pgp_substrate", "antiparkinson_levodopa",
+    "photosensitizing", "anticholinergic", "cyp2c19_substrate", "any_medicine",
 ]
 
 # NDC marketing categories that are not finished medicines a person takes.
@@ -122,7 +123,11 @@ def _clean(name):
 
 def _strip_salts(s):
     toks = s.split()
-    while len(toks) > 1 and toks[-1] in R.SALT_TOKENS:
+    while len(toks) > 1:
+        last = toks[-1]
+        # salt/ester/hydrate words, and grade numbers ("dimethicone 350", "dapagliflozin 2,3-...")
+        if not (last in R.SALT_TOKENS or last.isdigit()):
+            break
         cand = toks[:-1]
         if all(t in R.ION_BASES or t in R.SALT_TOKENS for t in cand):
             break
@@ -157,8 +162,24 @@ harris teeter members mark premier value smart sense pharmacy chewable chewables
 """.split())
 
 
+STORE_BRANDS = set("""
+dg equate up cvs walgreens kirkland rite good leader careone topcare sunmark members harris meijer
+kroger publix hy-vee amazon basic quality smart walmart wal-mart target assured heb h-e-b foodlion
+food signature wellness premier healthy simply select major rugby geri-care strategic family
+""".split())
+
+
+# Rows with no drug_class that are not medicines a person would scan for herb interactions.
+NON_MEDICINE = re.compile(
+    r"antigen|vaccine|toxoid|allergen|pollen|immune fab|antivenin|antitoxin|\bmrna\b|"
+    r"\b(?:f-18|ga-6[78]|tc-99m|tc 99m|i-12[35]|i-131|in-111|n-13|c-11|rb-82|cu-64|tl-201|xe-133|o-15)\b|"
+    r"peptide-\d|hexapeptide|tetrapeptide|tripeptide|copolymer|crosspolymer|\bpeg-\d|mpa\.s|\bmw\)")
+
+
 def brand_ok(brand, molecules, raw_names, generic):
     b = brand.lower().strip()
+    if b.split()[0] in STORE_BRANDS if b.split() else True:
+        return False
     if not b or len(b) < 3 or b == (generic or "").lower().strip():
         return False
     for m in list(molecules) + list(raw_names):
@@ -176,10 +197,11 @@ class Agg:
         self.brands = defaultdict(Counter)       # molecule -> (brand, approved_flag) counts
         self.raw = defaultdict(set)              # molecule -> raw salt/ester names seen
         self.products = Counter()
+        self.kind = defaultdict(Counter)         # molecule -> rx / otc / unapproved product counts
         self.combo_epcs = []                     # (ingredients tuple, epc set) for inference
         self.brand_index = defaultdict(lambda: {"sets": set(), "n": 0})
 
-    def add(self, ingredients_raw, epcs, moas, brand, generic, approved, source):
+    def add(self, ingredients_raw, epcs, moas, brand, generic, approved, kind):
         mols = []
         for raw in ingredients_raw:
             for m in normalize(raw):
@@ -190,6 +212,7 @@ class Agg:
             return
         for m in mols:
             self.products[m] += 1
+            self.kind[m][kind] += 1
         if len(mols) == 1:
             m = mols[0]
             for e in epcs:
@@ -206,6 +229,7 @@ class Agg:
             bi = self.brand_index[disp.lower()]
             bi["sets"].add(tuple(sorted(mols)))
             bi["n"] += 1
+            bi["approved"] = bi.get("approved", False) or approved
             bi.setdefault("display", Counter())[disp] += 1
 
 
@@ -226,8 +250,11 @@ def load_ndc(agg, cache):
             if not ings:
                 continue
             epc, moa = _split_classes(x.get("pharm_class") or [])
-            approved = (x.get("marketing_category") or "").startswith(("NDA", "BLA"))
-            agg.add(ings, epc, moa, x.get("brand_name"), x.get("generic_name"), approved, "ndc")
+            cat = x.get("marketing_category") or ""
+            approved = cat.startswith(("NDA", "BLA"))
+            kind = ("unapproved" if cat.startswith(("UNAPPROVED", "EMERGENCY")) else
+                    "otc" if x.get("product_type") == "HUMAN OTC DRUG" else "rx")
+            agg.add(ings, epc, moa, x.get("brand_name"), x.get("generic_name"), approved, kind)
             n += 1
     return n, date
 
@@ -261,8 +288,9 @@ def load_labels(agg, cache, known):
             continue
         epc = [e[:-6] for e in r.get("pharm_class_epc") or []]
         moa = [e[:-6] for e in r.get("pharm_class_moa") or []]
+        kind = "otc" if (r.get("product_type") or [""])[0] == "HUMAN OTC DRUG" else "rx"
         agg.add(subs, epc, moa, (r.get("brand_name") or [None])[0], (r.get("generic_name") or [None])[0],
-                app.startswith(("NDA", "BLA")), "label")
+                app.startswith(("NDA", "BLA")), kind)
         n += 1
     return n, date
 
@@ -289,7 +317,8 @@ def infer_combo_epcs(agg):
 # FDA DDI substrate table
 # ---------------------------------------------------------------------------------------------
 CYP_KEYS = {"3A": "cyp3a4_substrate_narrow", "2C9": "cyp2c9_substrate", "2D6": "cyp2d6_substrate",
-            "1A2": "cyp1a2_substrate"}
+            "1A2": "cyp1a2_substrate", "2C19": "cyp2c19_substrate"}
+PGX_GENES = {"CYP2C9": "cyp2c9_substrate", "CYP2D6": "cyp2d6_substrate", "CYP2C19": "cyp2c19_substrate"}
 
 
 def _fda_name(cell):
@@ -324,6 +353,26 @@ def load_fda_ddi(cache):
             out.append((name, "pgp_substrate", "P-gp substrate (FDA HCP table)", R.FDA_HCP_URL))
     as_of = re.search(r"current as of:.*?(\d\d/\d\d/\d{4})", t, re.S)
     return out + list(R.FDA_LEGACY_SUBSTRATES), as_of.group(1) if as_of else None
+
+
+def load_fda_pgx(cache):
+    """FDA Table of Pharmacogenetic Associations: drugs whose exposure/response FDA ties to
+    CYP2C9/2C19/2D6 metabolizer status (e.g. clopidogrel, citalopram for CYP2C19)."""
+    path = fetch(R.FDA_PGX_URL, os.path.join(cache, "fda", "pgx_table.html"))
+    t = open(path, encoding="utf-8", errors="replace").read()
+    out = []
+    for i, table in enumerate(re.findall(r"(?s)<table.*?</table>", t)):
+        if i not in R.FDA_PGX_SECTIONS:
+            continue
+        for r in re.findall(r"(?s)<tr.*?</tr>", table)[1:]:
+            cells = [re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", c))).strip()
+                     for c in re.findall(r"(?s)<t[hd][^>]*>(.*?)</t[hd]>", r)]
+            if len(cells) < 2 or cells[1] not in PGX_GENES or " and " in cells[0].lower():
+                continue  # combination products (e.g. bupropion and dextromethorphan) skipped
+            out.append((cells[0].lower(), PGX_GENES[cells[1]],
+                        f"{cells[1]} {R.FDA_PGX_SECTIONS[i]}", R.FDA_PGX_URL))
+    as_of = re.search(r"current as of:.*?(\d\d/\d\d/\d{4})", t, re.S)
+    return out, as_of.group(1) if as_of else None
 
 
 # ---------------------------------------------------------------------------------------------
@@ -474,6 +523,9 @@ def classify(mol, epcs, moas, ddi, evidence):
     ov = R.OVERRIDES.get(mol, {})
     for k in ov.get("add", []):
         add(k, "manual" + (": " + ov["note"] if ov.get("note") else ""), "medicine_rules.OVERRIDES")
+    for if_key, then_key, reason in R.DERIVED_KEYS:
+        if if_key in keys:
+            add(then_key, "derived: " + reason, "medicine_rules.DERIVED_KEYS")
     for k in ov.get("remove", []):
         if k in keys:
             keys.remove(k)
@@ -481,7 +533,27 @@ def classify(mol, epcs, moas, ddi, evidence):
     return [k for k in SPEC_KEYS if k in keys]
 
 
+def check_rules():
+    """Duplicate keys in a dict literal silently overwrite each other; fail loudly instead."""
+    import ast
+    tree = ast.parse(open(R.__file__).read())
+    for node in ast.walk(tree):
+        if isinstance(node, ast.Assign) and isinstance(node.value, ast.Dict):
+            keys = [k.value for k in node.value.keys if isinstance(k, ast.Constant)]
+            dups = {k for k in keys if keys.count(k) > 1}
+            if dups:
+                sys.exit(f"duplicate keys in medicine_rules.{node.targets[0].id}: {sorted(dups)}")
+    for m, ov in R.OVERRIDES.items():
+        bad = [k for k in ov.get("add", []) + ov.get("remove", []) if k not in SPEC_KEYS]
+        if bad:
+            sys.exit(f"OVERRIDES[{m!r}] uses unknown keys {bad}")
+    bad = {k for v in list(R.EPC_MAP.values()) + list(R.MOA_MAP.values()) for k in v if k not in SPEC_KEYS}
+    if bad:
+        sys.exit(f"EPC/MoA map uses unknown keys {sorted(bad)}")
+
+
 def main():
+    check_rules()
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--cache", default=os.path.join(HERE, ".cache"))
     ap.add_argument("--no-labels", action="store_true", help="skip the 1.8 GB openFDA label dataset")
@@ -496,6 +568,8 @@ def main():
     stats["combo_inferred_epc"] = infer_combo_epcs(agg)
 
     ddi_rows, stats["fda_hcp_table_as_of"] = load_fda_ddi(cache)
+    pgx_rows, stats["fda_pgx_table_as_of"] = load_fda_pgx(cache)
+    ddi_rows += pgx_rows
     ddi = defaultdict(list)
     for name, key, basis, src in ddi_rows:
         for m in normalize(name):
@@ -534,17 +608,33 @@ def main():
     for alias, target in R.SYNONYMS.items():
         for t in target.split("|"):
             # display only true alternate names (paracetamol), not salt forms or descriptions
-            if alias != t and t not in alias and alias not in t and re.fullmatch(r"[a-z][a-z -]+", alias):
+            if ("|" not in target and alias != t and not set(alias.split()) & set(t.split())
+                    and re.fullmatch(r"[a-z][a-z -]+", alias)):
                 reverse_syn[t].append(alias)
     india_text = " ".join(nlem_entries).lower() + " " + " ".join(p["name"] for p in ja_products).lower()
 
     molecules = sorted(set(agg.products) | set(nlem) | set(ja) | {m for m, o in R.OVERRIDES.items() if o.get("add") and (m in nlem or m in ja)})
     evidence = []
     rows = []
+    dropped = defaultdict(list)
     for m in molecules:
         epcs = [e for e, _ in agg.epc.get(m, Counter()).most_common()]
         moas = [e for e, _ in agg.moa.get(m, Counter()).most_common()]
         keys = classify(m, epcs, moas, ddi, evidence)
+        india = m in nlem or m in ja
+        if not india and not keys:
+            k = agg.kind.get(m, Counter())
+            reason = None
+            if m.count("(") != m.count(")") or re.match(r"^[\d.]+ ", m):
+                reason = "source name fragment"
+            elif NON_MEDICINE.search(m):
+                reason = "vaccine/antigen/allergen/radiodiagnostic/cosmetic"
+            elif not (k["rx"] or k["otc"] or epcs):
+                reason = "only in unapproved (non-monograph) listings"
+            if reason:
+                dropped[reason].append(m)
+                evidence[:] = [e for e in evidence if e[0] != m]
+                continue
         srcs = []
         if m in agg.products:
             srcs.append("openfda")
@@ -604,7 +694,9 @@ def main():
                 alias_rows.append([r, "salt_or_ester_form", m, "openfda", ""])
     for b, info in sorted(agg.brand_index.items()):
         mols = sorted({x for s in info["sets"] for x in s})
-        note = "brand covers several formulations" if len(info["sets"]) > 1 else ""
+        note = "; ".join(filter(None, [
+            "NDA/BLA product" if info.get("approved") else "ANDA/OTC listing",
+            "brand covers several formulations" if len(info["sets"]) > 1 else ""]))
         alias_rows.append([info["display"].most_common(1)[0][0], "us_brand", "|".join(mols), "openfda", note])
     with open(os.path.join(OUT, "medicine_aliases.csv"), "w", newline="") as f:
         w = csv.writer(f)
@@ -623,6 +715,8 @@ def main():
         "class_counts": dict(cls_counter.most_common()),
         "unused_spec_keys": [k for k in SPEC_KEYS if k not in cls_counter],
         "aliases": Counter(a[1] for a in alias_rows),
+        "dropped": {k: len(v) for k, v in dropped.items()},
+        "dropped_examples": {k: v[:40] for k, v in dropped.items()},
         "nlem_unclassified": [m for m in nlem if not next(r for r in rows if r["molecule"] == m)["drug_classes"]],
         "ja_unmatched_top": ja_unmatched.most_common(400),
         "unmapped_epc_top": Counter(e for r in rows if not r["drug_classes"] for e in r["fda_epc"].split("|") if e).most_common(80),

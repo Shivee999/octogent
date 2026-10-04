@@ -1,0 +1,22 @@
+{
+ "herbs": 113,
+ "herb_kinds": {
+  "herb": 60,
+  "food_spice": 18,
+  "mineral_preparation": 13,
+  "formulation": 22
+ },
+ "interaction_rules": 571,
+ "herb_level_warnings": 4,
+ "medicines_total": 2626,
+ "medicines_classified": 962,
+ "medicines_with_any_warning": 898,
+ "aliases": 24491,
+ "expanded_warning_rows": 13180,
+ "expanded_by_severity": {
+  "major": 443,
+  "moderate": 5879,
+  "minor": 6858
+ },
+ "lint_issues": []
+}

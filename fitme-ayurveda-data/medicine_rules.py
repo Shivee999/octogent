@@ -176,7 +176,6 @@ SYNONYMS = {
     "insulin premix injection 30:70": "insulin human",
     "insulin": "insulin human",
     "soluble insulin": "insulin human",
-    "isophane": "insulin human",
     "paraffin": "mineral oil",
     "light paraffin": "mineral oil",
     "milk magnesia": "magnesium hydroxide",
@@ -307,6 +306,9 @@ SPELLING_VARIANTS = {
     "s-metoprolol": "s-metoprolol",
     "gama benzene hexachloride": "lindane",
     "gamma benzene hexachloride": "lindane",
+    "methylsalicylate": "methyl salicylate",
+    "ethanol": "alcohol",
+    "isosorbide-mononitrate": "isosorbide mononitrate",
 }
 
 # Molecules found on the NLEM / Jan Aushadhi lists that openFDA does not cover (mostly not
@@ -340,6 +342,7 @@ INDIA_MOLECULES = {
     "calcipotriol", "dexketoprofen", "aceclofenac", "zaltoprofen", "flupirtine", "lobeglitazone",
     "iron polymaltose", "ferric hydroxide polymaltose", "sodium feredetate", "ferrous bisglycinate",
     "magaldrate", "magnesium trisilicate", "dicyclomine", "ivabradine", "ranolazine", "linagliptin",
+    "simethicone", "indacaterol", "ozenoxacin", "benserazide", "piribedil", "propiverine",
 }
 
 # --------------------------------------------------------------------------------------------
@@ -382,8 +385,8 @@ EPC_MAP = {
     "Central alpha-2 Adrenergic Agonist": ["antihypertensive"],
     "Arteriolar Vasodilator": ["antihypertensive"],
     "Loop Diuretic": ["diuretic_loop_thiazide"],
-    "Thiazide Diuretic": ["diuretic_loop_thiazide", "antihypertensive"],
-    "Thiazide-like Diuretic": ["diuretic_loop_thiazide", "antihypertensive"],
+    "Thiazide Diuretic": ["diuretic_loop_thiazide", "antihypertensive", "photosensitizing"],
+    "Thiazide-like Diuretic": ["diuretic_loop_thiazide", "antihypertensive", "photosensitizing"],
     "Potassium-sparing Diuretic": ["potassium_sparing"],
     "Aldosterone Antagonist": ["potassium_sparing"],
     "Nonsteroidal Mineralocorticoid-Receptor Antagonist": ["potassium_sparing"],
@@ -410,9 +413,23 @@ EPC_MAP = {
     "Serotonin Reuptake Inhibitor": ["antidepressant_ssri_snri"],
     "Serotonin and Norepinephrine Reuptake Inhibitor": ["antidepressant_ssri_snri"],
     "Monoamine Oxidase Inhibitor": ["antidepressant_maoi"],
-    # Judgement call: MAO-B inhibitors share the MAOI serotonergic/tyramine warnings.
-    "Monoamine Oxidase Type B Inhibitor": ["antidepressant_maoi"],
-    "Tricyclic Antidepressant": ["antidepressant_tca"],
+    # MAO-B inhibitors are dopaminergic antiparkinson drugs (selegiline patch is also an MAOI
+    # antidepressant; see OVERRIDES).
+    "Monoamine Oxidase Type B Inhibitor": ["antiparkinson_levodopa"],
+    "Aromatic Amino Acid": ["antiparkinson_levodopa"],
+    "Nonergot Dopamine Agonist": ["antiparkinson_levodopa"],
+    "Dopaminergic Agonist": ["antiparkinson_levodopa"],
+    "Catechol-O-Methyltransferase Inhibitor": ["antiparkinson_levodopa"],
+    "Anticholinergic": ["anticholinergic"],
+    "Cholinergic Muscarinic Antagonist": ["anticholinergic"],
+    # FDA "Antihistamine" EPC holds only first-generation, sedating agents (doxylamine, hydroxyzine,
+    # benztropine); the H1 antagonist EPC mixes sedating and non-sedating, so those are in OVERRIDES.
+    "Antihistamine": ["anticholinergic"],
+    "Retinoid": ["photosensitizing"],
+    "Psoralen": ["photosensitizing"],
+    "Photoenhancer": ["photosensitizing"],
+    "Photoactivated Radical Generator": ["photosensitizing"],
+    "Tricyclic Antidepressant": ["antidepressant_tca", "anticholinergic"],
     "Benzodiazepine": ["sedative_hypnotic"],
     "Barbiturate": ["sedative_hypnotic"],
     "Orexin Receptor Antagonist": ["sedative_hypnotic"],
@@ -540,6 +557,13 @@ MOA_MAP = {
     "Vitamin K Antagonists": ["anticoagulant_vka"],
 }
 
+# Keys implied by other keys: (if_key, then_key, reason).
+DERIVED_KEYS = [
+    ("antibiotic_chelating", "photosensitizing",
+     "tetracyclines and (fluoro)quinolones are phototoxic (spec example; class labelling)"),
+    ("antidepressant_tca", "anticholinergic", "TCAs carry anticholinergic load (spec example)"),
+]
+
 # --------------------------------------------------------------------------------------------
 # Manual overrides: molecule -> {"add": [...], "remove": [...], "note": "..."}
 # Applied after EPC mapping. Every "add" is standard pharmacology (drug label class) or a
@@ -639,7 +663,6 @@ OVERRIDES = {
     "saroglitazar": {"add": ["antidiabetic_other"],
                      "note": "PPAR-alpha/gamma agonist approved in India for diabetic dyslipidaemia; glucose-lowering (judgement call)"},
     "lobeglitazone": {"add": ["antidiabetic_other"]},
-    "bromocriptine": {"note": "Cycloset is an antidiabetic but the molecule is mainly dopaminergic; left unmapped"},
     "semaglutide": {"add": ["antidiabetic_other"]},
     "liraglutide": {"add": ["antidiabetic_other"]},
     "dulaglutide": {"add": ["antidiabetic_other"]},
@@ -679,7 +702,8 @@ OVERRIDES = {
     "finerenone": {"add": ["potassium_sparing"]},
     "digoxin": {"add": ["cardiac_glycoside"]},
     "digitoxin": {"add": ["cardiac_glycoside"]},
-    "amiodarone": {"add": ["antiarrhythmic", "hepatotoxic"], "note": "hepatotoxic: " + LABEL_HEPATOTOXIC},
+    "amiodarone": {"add": ["antiarrhythmic", "hepatotoxic", "photosensitizing"],
+                   "note": "hepatotoxic: " + LABEL_HEPATOTOXIC + "; photosensitivity (spec example)"},
     "dronedarone": {"add": ["antiarrhythmic"]},
     "flecainide": {"add": ["antiarrhythmic"]},
     "propafenone": {"add": ["antiarrhythmic"]},
@@ -725,7 +749,6 @@ OVERRIDES = {
     "everolimus": {"add": ["immunosuppressant", "anticancer"]},
     "mycophenolic acid": {"add": ["immunosuppressant"]},
     "mycophenolate mofetil": {"add": ["immunosuppressant"]},
-    "azathioprine": {"add": ["immunosuppressant"]},
     "methotrexate": {"add": ["immunosuppressant", "anticancer", "hepatotoxic", "nephrotoxic"],
                      "note": "hepatotoxic/nephrotoxic: " + LABEL_HEPATOTOXIC},
     "leflunomide": {"add": ["immunosuppressant", "hepatotoxic"], "note": "hepatotoxic: " + LABEL_HEPATOTOXIC},
@@ -802,7 +825,8 @@ OVERRIDES = {
     "phenelzine": {"add": ["antidepressant_maoi"]},
     "tranylcypromine": {"add": ["antidepressant_maoi"]},
     "isocarboxazid": {"add": ["antidepressant_maoi"]},
-    "selegiline": {"add": ["antidepressant_maoi"]},
+    "selegiline": {"add": ["antidepressant_maoi", "antiparkinson_levodopa"],
+                   "note": "MAO-B inhibitor for Parkinson's; transdermal form is an MAOI antidepressant"},
     "moclobemide": {"add": ["antidepressant_maoi"], "note": "reversible MAO-A inhibitor (not US-marketed)"},
     "amitriptyline": {"add": ["antidepressant_tca"]},
     "nortriptyline": {"add": ["antidepressant_tca"]},
@@ -813,7 +837,7 @@ OVERRIDES = {
     "trimipramine": {"add": ["antidepressant_tca"]},
     "protriptyline": {"add": ["antidepressant_tca"]},
     "amoxapine": {"add": ["antidepressant_tca"]},
-    "dosulepin": {"add": ["antidepressant_tca"], "note": "dothiepin (India/UK)"},
+    "dosulepin": {"add": ["antidepressant_tca", "anticholinergic"], "note": "dothiepin (India/UK)"},
     "agomelatine": {"add": ["hepatotoxic"], "note": "EU SmPC requires liver-function monitoring; antidepressant with no matching spec key"},
     "olanzapine": {"add": ["antipsychotic"]},
     "risperidone": {"add": ["antipsychotic"]},
@@ -837,7 +861,7 @@ OVERRIDES = {
     "cariprazine": {"add": ["antipsychotic"]},
     "levosulpiride": {"add": ["antipsychotic"],
                       "note": "D2-antagonist benzamide (S-sulpiride); in India mostly used as a prokinetic (judgement call)"},
-    "melitracen": {"add": ["antidepressant_tca"], "note": "tricyclic antidepressant sold with flupentixol (India)"},
+    "melitracen": {"add": ["antidepressant_tca", "anticholinergic"], "note": "tricyclic antidepressant sold with flupentixol (India)"},
     "diacerein": {"add": ["hepatotoxic"], "note": "EMA 2014 restriction for severe diarrhoea and liver effects"},
     "cyproterone": {"add": ["hormonal_contraceptive_estrogen", "hepatotoxic"],
                     "note": "progestogenic antiandrogen used with ethinylestradiol; SmPC hepatotoxicity warning (high dose)"},
@@ -855,6 +879,52 @@ OVERRIDES = {
     "zuclopenthixol": {"add": ["antipsychotic"]},
     "blonanserin": {"add": ["antipsychotic"]},
     "prochlorperazine": {"add": ["antipsychotic"], "note": "phenothiazine mainly used as antiemetic"},
+    # Antiparkinson / dopaminergic (spec: "levodopa/carbidopa, other dopaminergic drugs")
+    "levodopa": {"add": ["antiparkinson_levodopa"]},
+    "carbidopa": {"add": ["antiparkinson_levodopa"], "note": "decarboxylase inhibitor only sold with levodopa"},
+    "benserazide": {"add": ["antiparkinson_levodopa"], "note": "decarboxylase inhibitor sold with levodopa (India/EU)"},
+    "pramipexole": {"add": ["antiparkinson_levodopa"]},
+    "ropinirole": {"add": ["antiparkinson_levodopa"]},
+    "rotigotine": {"add": ["antiparkinson_levodopa"]},
+    "piribedil": {"add": ["antiparkinson_levodopa"]},
+    "apomorphine": {"add": ["antiparkinson_levodopa"]},
+    "bromocriptine": {"add": ["antiparkinson_levodopa"], "note": "ergot dopamine agonist"},
+    "cabergoline": {"add": ["antiparkinson_levodopa"], "note": "ergot dopamine agonist (mostly used for hyperprolactinaemia)"},
+    "amantadine": {"add": ["antiparkinson_levodopa"], "note": "antiparkinson; also an influenza M2 inhibitor"},
+    "rasagiline": {"add": ["antiparkinson_levodopa"]},
+    "safinamide": {"add": ["antiparkinson_levodopa"]},
+    "entacapone": {"add": ["antiparkinson_levodopa"]},
+    "opicapone": {"add": ["antiparkinson_levodopa"]},
+    "tolcapone": {"add": ["antiparkinson_levodopa", "hepatotoxic"], "note": "hepatotoxic: " + LABEL_HEPATOTOXIC},
+    # Anticholinergic (spec: oxybutynin, benztropine, sedating antihistamines, TCAs)
+    **{m: {"add": ["anticholinergic"], "note": "first-generation (sedating) antihistamine"} for m in [
+        "diphenhydramine", "chlorpheniramine", "dexchlorpheniramine", "brompheniramine",
+        "dexbrompheniramine", "carbinoxamine", "clemastine", "cyproheptadine", "promethazine",
+        "meclizine", "cyclizine", "dimenhydrinate", "doxylamine", "hydroxyzine", "pheniramine",
+        "triprolidine", "chlorcyclizine", "pyrilamine", "phenyltoloxamine", "trimeprazine",
+        "diphenylpyraline"]},
+    **{m: {"add": ["anticholinergic"]} for m in [
+        "oxybutynin", "benztropine", "trihexyphenidyl", "biperiden", "procyclidine", "tolterodine",
+        "fesoterodine", "solifenacin", "darifenacin", "trospium", "flavoxate", "dicyclomine",
+        "hyoscyamine", "scopolamine", "hyoscine butylbromide", "propantheline", "methscopolamine",
+        "glycopyrrolate", "atropine", "clidinium", "orphenadrine", "propiverine", "oxyphenonium"]},
+    "cyclobenzaprine": {"add": ["anticholinergic"],
+                        "note": "TCA-related muscle relaxant; label cautions on anticholinergic effects"},
+    "valethamate": {"add": ["anticholinergic"], "note": "antimuscarinic antispasmodic (India)"},
+    # Photosensitizing (spec: tetracyclines, fluoroquinolones, thiazides, isotretinoin, amiodarone,
+    # methoxsalen); others only where the US label has a photosensitivity warning.
+    "isotretinoin": {"add": ["photosensitizing"]},
+    "methoxsalen": {"add": ["photosensitizing"]},
+    "trioxsalen": {"add": ["photosensitizing"]},
+    "voriconazole": {"add": ["photosensitizing"], "note": "labelled phototoxicity warning"},
+    "vemurafenib": {"add": ["photosensitizing"], "note": "labelled photosensitivity warning"},
+    "pirfenidone": {"add": ["photosensitizing"], "note": "labelled photosensitivity/rash warning"},
+    "griseofulvin": {"add": ["photosensitizing"], "remove": ["anticancer"],
+                     "note": "antifungal (EPC lists microtubule inhibition); labelled photosensitivity"},
+    "aminolevulinic acid": {"add": ["photosensitizing"], "note": "photosensitiser prodrug (photodynamic therapy)"},
+    "methyl aminolevulinate": {"add": ["photosensitizing"]},
+    "porfimer": {"add": ["photosensitizing"]},
+    "verteporfin": {"add": ["photosensitizing"]},
     # EPC-derived keys that do not fit the molecule's real use
     "botulinum toxin type a": {"remove": ["anaesthesia_surgery"]},
     "letibotulinumtoxina": {"remove": ["anaesthesia_surgery"]},
@@ -867,7 +937,6 @@ OVERRIDES = {
     "ovine digoxin immune fab": {"remove": ["cardiac_glycoside"], "note": "digoxin antidote, not a glycoside"},
     "azathioprine": {"add": ["immunosuppressant"], "remove": ["anticancer"]},
     "betaine": {"remove": ["anticancer"]},
-    "griseofulvin": {"remove": ["anticancer"], "note": "antifungal (EPC lists microtubule inhibition)"},
     "inebilizumab": {"add": ["immunosuppressant"], "remove": ["anticancer"], "note": "B-cell depleting antibody for NMOSD"},
     "leniolisib": {"remove": ["anticancer"], "note": "PI3K-delta inhibitor for APDS (immunodeficiency)"},
     "ritlecitinib": {"add": ["immunosuppressant"], "remove": ["anticancer"], "note": "JAK3/TEC inhibitor for alopecia areata"},
@@ -876,7 +945,6 @@ OVERRIDES = {
     "tirbanibulin": {"remove": ["anticancer"], "note": "topical for actinic keratosis"},
     "givinostat": {"remove": ["anticancer"], "note": "HDAC inhibitor for Duchenne muscular dystrophy"},
     "tizanidine": {"remove": ["antihypertensive"], "note": "alpha-2 agonist muscle relaxant; hypotension is a side effect, not its use"},
-    "dexmedetomidine": {"remove": ["antihypertensive"]},
     "ferric subsulfate": {"remove": ["iron_mineral_supplement"], "note": "topical haemostatic (Monsel's solution)"},
     "bromfenac": {"remove": ["nephrotoxic"], "note": "ophthalmic-only NSAID"},
     "nepafenac": {"remove": ["nephrotoxic"], "note": "ophthalmic-only NSAID"},
@@ -1127,7 +1195,8 @@ OVERRIDES = {
     "desflurane": {"add": ["anaesthesia_surgery"]},
     "halothane": {"add": ["anaesthesia_surgery"]},
     "nitrous oxide": {"add": ["anaesthesia_surgery"]},
-    "dexmedetomidine": {"add": ["anaesthesia_surgery", "sedative_hypnotic"]},
+    "dexmedetomidine": {"add": ["anaesthesia_surgery", "sedative_hypnotic"], "remove": ["antihypertensive"],
+                        "note": "ICU/procedural sedative (alpha-2 agonist EPC)"},
     "remimazolam": {"add": ["anaesthesia_surgery", "sedative_hypnotic"]},
     "succinylcholine": {"add": ["anaesthesia_surgery"]},
     "vecuronium": {"add": ["anaesthesia_surgery"]},
@@ -1166,6 +1235,13 @@ FDA_INDEX_URL = ("https://www.fda.gov/drugs/drug-interactions-labeling/"
 FDA_HCP_URL = ("https://www.fda.gov/drugs/drug-interactions-labeling/"
                "healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems")
 
+FDA_PGX_URL = "https://www.fda.gov/medical-devices/precision-medicine/table-pharmacogenetic-associations"
+FDA_PGX_SECTIONS = {
+    0: "FDA PGx table s.1 (data support dosing recommendations)",
+    1: "FDA PGx table s.2 (potential impact on safety/response)",
+    2: "FDA PGx table s.3 (pharmacokinetic impact only)",
+}
+
 FDA_LEGACY_SUBSTRATES = [
     # (molecule, key, category, source)
     # Table 7 (2006): CYP3A substrates with narrow therapeutic range (US-available ones)
@@ -1195,6 +1271,8 @@ FDA_LEGACY_SUBSTRATES = [
       ["desipramine", "dextromethorphan", "nebivolol"]],
     *[(m, "cyp3a4_substrate_narrow", "sensitive index substrate (FDA index table)", FDA_INDEX_URL) for m in
       ["midazolam", "triazolam"]],
+    *[(m, "cyp2c19_substrate", "index substrate (FDA index table)", FDA_INDEX_URL) for m in
+      ["lansoprazole", "omeprazole"]],
     # HCP table footnote 1: prodrugs that are P-gp substrates
     *[(m, "pgp_substrate", "P-gp substrate prodrug (FDA HCP table footnote 1)", FDA_HCP_URL) for m in
       ["adefovir", "oseltamivir", "tenofovir"]],

@@ -102,34 +102,38 @@
   ]
  },
  "fda_hcp_table_as_of": "05/29/2026",
+ "fda_pgx_table_as_of": "09/10/2026",
  "nlem_entries": 384,
  "nlem_molecules": 362,
  "janaushadhi_products": 2439,
- "janaushadhi_products_with_molecule": 2041,
- "janaushadhi_molecules": 775,
- "molecules": 3173,
- "classified": 873,
- "with_fda_epc": 1492,
+ "janaushadhi_products_with_molecule": 2044,
+ "janaushadhi_molecules": 780,
+ "molecules": 2626,
+ "classified": 962,
+ "with_fda_epc": 1440,
  "by_source": {
-  "openfda": 2987,
+  "openfda": 2437,
   "nlem": 362,
-  "janaushadhi": 775,
-  "manual": 478
+  "janaushadhi": 780,
+  "manual": 539
  },
  "in_nlem": 362,
- "india_only": 186,
- "india_only_classified": 63,
+ "india_only": 189,
+ "india_only_classified": 66,
  "class_counts": {
   "anticancer": 194,
   "antibiotic_other": 78,
-  "antihypertensive": 74,
+  "antihypertensive": 73,
   "cyp3a4_substrate_narrow": 59,
+  "anticholinergic": 55,
+  "cyp2d6_substrate": 53,
   "nephrotoxic": 44,
+  "photosensitizing": 42,
   "immunosuppressant": 38,
   "iron_mineral_supplement": 35,
-  "hepatotoxic": 33,
-  "antidiabetic_other": 32,
+  "hepatotoxic": 34,
   "sedative_hypnotic": 32,
+  "antidiabetic_other": 31,
   "corticosteroid": 30,
   "antipsychotic": 28,
   "antiepileptic": 28,
@@ -140,9 +144,11 @@
   "anaesthesia_surgery": 22,
   "ppi_antacid": 19,
   "antibiotic_chelating": 19,
+  "cyp2c19_substrate": 18,
+  "cyp2c9_substrate": 18,
   "opioid": 18,
-  "cyp2d6_substrate": 17,
   "antidepressant_ssri_snri": 16,
+  "antiparkinson_levodopa": 15,
   "antitubercular": 14,
   "pgp_substrate": 13,
   "antiarrhythmic": 12,
@@ -154,11 +160,10 @@
   "statin": 7,
   "antidiabetic_insulin": 7,
   "anticoagulant_heparin": 6,
-  "antidepressant_maoi": 6,
   "theophylline": 5,
   "laxative_stimulant": 5,
+  "antidepressant_maoi": 5,
   "anticoagulant_doac": 4,
-  "cyp2c9_substrate": 4,
   "antidiabetic_sulfonylurea": 4,
   "antithyroid": 3,
   "thyroid_hormone": 3,
@@ -170,10 +175,120 @@
   "any_medicine"
  ],
  "aliases": {
-  "inn_ip_or_alternate_name": 202,
-  "spelling_variant": 35,
-  "salt_or_ester_form": 920,
-  "us_brand": 25892
+  "inn_ip_or_alternate_name": 201,
+  "spelling_variant": 38,
+  "salt_or_ester_form": 941,
+  "us_brand": 23553
+ },
+ "dropped": {
+  "only in unapproved (non-monograph) listings": 291,
+  "source name fragment": 17,
+  "vaccine/antigen/allergen/radiodiagnostic/cosmetic": 231
+ },
+ "dropped_examples": {
+  "only in unapproved (non-monograph) listings": [
+   ".alpha.-tocopherol acetate d-",
+   ".alpha.-tocopherol acetate dl-",
+   ".alpha.-tocopherol dl-",
+   ".alpha.-tocopherol succinate d-",
+   ".beta.-carotene",
+   ".mu.-conotoxin g iiic",
+   "5'-nucleotidase",
+   "aconitum napellus",
+   "agrimonia eupatoria",
+   "akebia stem",
+   "alcloxa",
+   "alisma plantago-aquatica root",
+   "allicin",
+   "allium sativum whole",
+   "aloe ferox leaf",
+   "amino acids",
+   "ammonium carbonate",
+   "ammonium chloride",
+   "amyl",
+   "angelica gigas root",
+   "anoectochilus roxburghii whole",
+   "antazoline",
+   "apple cider vinegar",
+   "arabica coffee bean",
+   "arbutin",
+   "arnica montana root",
+   "astragalus gummifer root",
+   "atractylodes macrocephala root",
+   "atropa belladonna",
+   "avena sativa flowering top",
+   "avocado oil",
+   "azadirachta indica seed oil",
+   "babesia microti",
+   "banana",
+   "baptisia tinctoria root",
+   "barley malt",
+   "beta vulgaris root fructooligosaccharides",
+   "bifidobacterium animalis lactis bl04",
+   "black pepper",
+   "blue agave inulin (agave tequilana)"
+  ],
+  "source name fragment": [
+   "0.01-0.2 mole percent bisacrylamide)",
+   "1 2-docosahexanoyl-sn-glycero-3-phosphoserine",
+   "1 2-hexanediol",
+   "1 2-icosapentoyl-sn-glycero-3-phosphoserine",
+   "1000 mw)",
+   "2000 mw)",
+   "2000-5000 mw)",
+   "3000 mw)",
+   "3500 mw)",
+   "450000 mw)",
+   "hydrolysed bovine collagen (enzymatic",
+   "hydrolysed marine collagen (enzymatic",
+   "hydrolyzed bovine elastin (base",
+   "hydrolyzed porcine collagen (enzymatic",
+   "hydrolyzed rice protein (enzymatic",
+   "poly(methyl methacrylate",
+   "polyacrylamide (crosslinked"
+  ],
+  "vaccine/antigen/allergen/radiodiagnostic/cosmetic": [
+   "acetyl hexapeptide-8",
+   "acetyl hexapeptide-8 amide",
+   "acetyl tetrapeptide-5",
+   "acetyl tetrapeptide-9",
+   "agkistrodon piscivorus immune fab antivenin (ovine)",
+   "agrostis gigantea pollen",
+   "ambrosia artemisiifolia pollen",
+   "ammonia n-13",
+   "anthoxanthum odoratum pollen",
+   "bacillus anthracis strain v770-np1-r antigens",
+   "bacillus calmette-guerin substrain tice live antigen",
+   "biotinoyl tripeptide-1",
+   "bnt-162b2 omicron (xfg) mrna",
+   "bordetella pertussis filamentous hemagglutinin antigen (formaldehyde inactivated)",
+   "bordetella pertussis fimbriae 2/3 antigen",
+   "bordetella pertussis pertactin antigen",
+   "bordetella pertussis pertactin antigen (formaldehyde inactivated)",
+   "bordetella pertussis toxoid antigen (formaldehyde glutaraldehyde inactivated)",
+   "bordetella pertussis toxoid antigen (glutaraldehyde inactivated)",
+   "c12-20 acid peg-8 ester",
+   "carbomer copolymer type a (allyl pentaerythritol crosslinked)",
+   "centruroides fab2 antivenin (equine)",
+   "choline c-11",
+   "clostridium tetani toxoid antigen (formaldehyde inactivated)",
+   "copper oxodotreotide cu-64",
+   "copper tripeptide-1",
+   "coral snake (micrurus fulvius) immune globulin antivenin (equine)",
+   "corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)",
+   "crotalus adamanteus immune fab antivenin (ovine)",
+   "crotalus atrox immune fab antivenin (ovine)",
+   "crotalus scutulatus immune fab antivenin (ovine)",
+   "cynodon dactylon pollen",
+   "dactylis glomerata pollen",
+   "dipeptide-2",
+   "edotreotide gallium ga-68",
+   "equine botulinum neurotoxin a immune fab2",
+   "equine botulinum neurotoxin b immune fab2",
+   "equine botulinum neurotoxin c immune fab2",
+   "equine botulinum neurotoxin d immune fab2",
+   "equine botulinum neurotoxin e immune fab2"
+  ]
  },
  "nlem_unclassified": [
   "mesalamine",
@@ -184,7 +299,6 @@
   "epinephrine",
   "albendazole",
   "allopurinol",
-  "tretinoin",
   "alprostadil",
   "anti-d immunoglobulin",
   "anti-rabies immunoglobulin",
@@ -195,7 +309,6 @@
   "sulfadoxine",
   "pyrimethamine",
   "ascorbic acid",
-  "atropine",
   "baclofen",
   "barium sulfate",
   "bcg vaccine",
@@ -221,13 +334,11 @@
   "dapsone",
   "deferoxamine",
   "dextran-40",
-  "dicyclomine",
   "diethylcarbamazine",
   "dinoprostone",
   "diphtheria antitoxin",
   "dobutamine",
   "domperidone",
-  "donepezil",
   "dopamine",
   "dpt vaccine",
   "dpt+hib+hep b vaccine",
@@ -246,8 +357,6 @@
   "sodium chloride",
   "glutaraldehyde",
   "glycerin",
-  "glycopyrrolate",
-  "griseofulvin",
   "hepatitis b immunoglobulin",
   "hepatitis b vaccine",
   "homatropine",
@@ -257,9 +366,7 @@
   "hydroxocobalamin",
   "hydroxychloroquine",
   "hypromellose",
-  "hyoscine butylbromide",
   "iohexol",
-  "ipratropium",
   "psyllium",
   "itraconazole",
   "ivermectin",
@@ -268,8 +375,6 @@
   "asparaginase",
   "latanoprost",
   "leuprolide",
-  "levodopa",
-  "carbidopa",
   "mannitol",
   "measles vaccine",
   "mebendazole",
@@ -279,7 +384,6 @@
   "methylergonovine",
   "gentian violet",
   "methylene blue",
-  "metoclopramide",
   "mifepristone",
   "miltefosine",
   "misoprostol",
@@ -297,7 +401,6 @@
   "oxytocin",
   "paromomycin",
   "permethrin",
-  "pheniramine",
   "phenylephrine",
   "phytonadione",
   "pilocarpine",
@@ -331,10 +434,7 @@
   "tenecteplase",
   "tetanus toxoid",
   "thiamine",
-  "tiotropium",
   "tranexamic acid",
-  "trihexyphenidyl",
-  "tropicamide",
   "tuberculin purified protein derivative",
   "valganciclovir",
   "vitamin a",
@@ -574,14 +674,6 @@
    4
   ],
   [
-   "simethicone",
-   4
-  ],
-  [
-   "indacaterol",
-   4
-  ],
-  [
    "m",
    4
   ],
@@ -691,10 +783,6 @@
   ],
   [
    "hand sanitizer",
-   3
-  ],
-  [
-   "ethanol",
    3
   ],
   [
@@ -830,10 +918,6 @@
    2
   ],
   [
-   "methylsalicylate",
-   2
-  ],
-  [
    "bicarbonate",
    2
   ],
@@ -851,10 +935,6 @@
   ],
   [
    "chyawanprash special jar",
-   2
-  ],
-  [
-   "ozenoxacin",
    2
   ],
   [
@@ -1034,6 +1114,10 @@
    2
   ],
   [
+   "isophane",
+   1
+  ],
+  [
    "polyvitamin nfi",
    1
   ],
@@ -1139,6 +1223,10 @@
   ],
   [
    "micronized",
+   1
+  ],
+  [
+   "isophane insu",
    1
   ],
   [
@@ -1498,10 +1586,6 @@
    1
   ],
   [
-   "polyethylene glycol",
-   1
-  ],
-  [
    "s-adenosyl l-methionine",
    1
   ],
@@ -1651,10 +1735,6 @@
   ],
   [
    "cineole oil",
-   1
-  ],
-  [
-   "polysorbate",
    1
   ],
   [
@@ -1940,24 +2020,32 @@
   [
    "polyester",
    1
+  ],
+  [
+   "pu foam",
+   1
+  ],
+  [
+   "glucometer test",
+   1
+  ],
+  [
+   "glucometer digital",
+   1
+  ],
+  [
+   "glucometer",
+   1
+  ],
+  [
+   "lancing",
+   1
   ]
  ],
  "unmapped_epc_top": [
   [
-   "Radioactive Diagnostic Agent",
-   25
-  ],
-  [
    "Azole Antifungal",
-   17
-  ],
-  [
-   "Anticholinergic",
-   13
-  ],
-  [
-   "Histamine-1 Receptor Antagonist",
-   11
+   16
   ],
   [
    "Radiographic Contrast Agent",
@@ -1968,19 +2056,15 @@
    11
   ],
   [
-   "Retinoid",
-   9
-  ],
-  [
-   "Standardized Pollen Allergenic Extract",
-   9
-  ],
-  [
    "Calculi Dissolution Agent",
    8
   ],
   [
    "beta2-Adrenergic Agonist",
+   7
+  ],
+  [
+   "Histamine-1 Receptor Antagonist",
    7
   ],
   [
@@ -2000,15 +2084,7 @@
    7
   ],
   [
-   "Cholinergic Receptor Agonist",
-   6
-  ],
-  [
    "Serotonin-1b and Serotonin-1d Receptor Agonist",
-   6
-  ],
-  [
-   "Central Nervous System Stimulant",
    6
   ],
   [
@@ -2020,20 +2096,12 @@
    6
   ],
   [
-   "Cholinergic Muscarinic Antagonist",
-   6
-  ],
-  [
    "Complement Inhibitor",
    6
   ],
   [
-   "Muscle Relaxant",
-   6
-  ],
-  [
-   "Cholinesterase Inhibitor",
-   6
+   "Cholinergic Receptor Agonist",
+   5
   ],
   [
    "Bisphosphonate",
@@ -2057,6 +2125,10 @@
   ],
   [
    "Non-Standardized Plant Allergenic Extract",
+   5
+  ],
+  [
+   "Central Nervous System Stimulant",
    5
   ],
   [
@@ -2156,6 +2228,10 @@
    4
   ],
   [
+   "Cholinesterase Inhibitor",
+   4
+  ],
+  [
    "CD20-directed Cytolytic Antibody",
    4
   ],
@@ -2173,10 +2249,6 @@
   ],
   [
    "Asparagine-specific Enzyme",
-   3
-  ],
-  [
-   "Antihistamine",
    3
   ],
   [
@@ -2200,15 +2272,15 @@
    3
   ],
   [
-   "Ergot Derivative",
-   3
-  ],
-  [
    "Vitamin D3 Analog",
    3
   ],
   [
    "Bile Acid",
+   3
+  ],
+  [
+   "Muscle Relaxant",
    3
   ],
   [
@@ -2240,10 +2312,6 @@
    3
   ],
   [
-   "Catechol-O-Methyltransferase Inhibitor",
-   3
-  ],
-  [
    "Histamine-1 Receptor Inhibitor",
    3
   ],
@@ -2262,6 +2330,38 @@
   [
    "Nucleoside Analog Antiviral",
    3
+  ],
+  [
+   "Serotonin-3 Receptor Antagonist",
+   3
+  ],
+  [
+   "Hydrolytic Lysosomal Glucocerebroside-specific Enzyme",
+   3
+  ],
+  [
+   "Somatostatin Analog",
+   3
+  ],
+  [
+   "Ileal Bile Acid Transporter Inhibitor",
+   3
+  ],
+  [
+   "Recombinant Human Growth Hormone",
+   3
+  ],
+  [
+   "Kinase Inhibitor",
+   3
+  ],
+  [
+   "Copper Absorption Inhibitor",
+   3
+  ],
+  [
+   "Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor",
+   2
   ]
  ]
 }
