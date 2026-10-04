@@ -1,7 +1,7 @@
 {
  "ndc_products_used": 97984,
  "ndc_export_date": "2026-10-02",
- "label_records_used": 76412,
+ "label_records_used": 72388,
  "label_export_date": "2026-10-02",
  "combo_inferred_epc": {
   "clavulanate": [
@@ -103,42 +103,42 @@
  },
  "fda_hcp_table_as_of": "05/29/2026",
  "nlem_entries": 384,
- "nlem_molecules": 363,
+ "nlem_molecules": 362,
  "janaushadhi_products": 2439,
  "janaushadhi_products_with_molecule": 2041,
- "janaushadhi_molecules": 777,
- "molecules": 3187,
- "classified": 895,
- "with_fda_epc": 1507,
+ "janaushadhi_molecules": 775,
+ "molecules": 3173,
+ "classified": 873,
+ "with_fda_epc": 1492,
  "by_source": {
-  "openfda": 2996,
-  "nlem": 363,
-  "janaushadhi": 777,
-  "manual": 476
+  "openfda": 2987,
+  "nlem": 362,
+  "janaushadhi": 775,
+  "manual": 478
  },
- "in_nlem": 363,
- "india_only": 191,
- "india_only_classified": 67,
+ "in_nlem": 362,
+ "india_only": 186,
+ "india_only_classified": 63,
  "class_counts": {
-  "anticancer": 207,
-  "antibiotic_other": 79,
-  "antihypertensive": 76,
-  "cyp3a4_substrate_narrow": 58,
-  "nephrotoxic": 46,
-  "immunosuppressant": 37,
-  "iron_mineral_supplement": 36,
-  "antidiabetic_other": 34,
+  "anticancer": 194,
+  "antibiotic_other": 78,
+  "antihypertensive": 74,
+  "cyp3a4_substrate_narrow": 59,
+  "nephrotoxic": 44,
+  "immunosuppressant": 38,
+  "iron_mineral_supplement": 35,
   "hepatotoxic": 33,
+  "antidiabetic_other": 32,
   "sedative_hypnotic": 32,
   "corticosteroid": 30,
   "antipsychotic": 28,
   "antiepileptic": 28,
-  "antiretroviral": 25,
   "nsaid": 25,
   "potassium_sparing": 25,
-  "hormonal_contraceptive_estrogen": 24,
-  "anaesthesia_surgery": 24,
-  "ppi_antacid": 20,
+  "antiretroviral": 24,
+  "hormonal_contraceptive_estrogen": 23,
+  "anaesthesia_surgery": 22,
+  "ppi_antacid": 19,
   "antibiotic_chelating": 19,
   "opioid": 18,
   "cyp2d6_substrate": 17,
@@ -148,10 +148,10 @@
   "antiarrhythmic": 12,
   "cyp1a2_substrate": 11,
   "antidepressant_tca": 11,
-  "diuretic_loop_thiazide": 10,
   "antiplatelet": 9,
   "nitrate_pde5": 9,
-  "statin": 8,
+  "diuretic_loop_thiazide": 9,
+  "statin": 7,
   "antidiabetic_insulin": 7,
   "anticoagulant_heparin": 6,
   "antidepressant_maoi": 6,
@@ -163,17 +163,17 @@
   "antithyroid": 3,
   "thyroid_hormone": 3,
   "anticoagulant_vka": 2,
-  "cardiac_glycoside": 2,
-  "lithium": 2
+  "lithium": 2,
+  "cardiac_glycoside": 1
  },
  "unused_spec_keys": [
   "any_medicine"
  ],
  "aliases": {
-  "inn_ip_or_alternate_name": 199,
+  "inn_ip_or_alternate_name": 202,
   "spelling_variant": 35,
-  "salt_or_ester_form": 904,
-  "us_brand": 26377
+  "salt_or_ester_form": 920,
+  "us_brand": 25892
  },
  "nlem_unclassified": [
   "mesalamine",
@@ -247,6 +247,7 @@
   "glutaraldehyde",
   "glycerin",
   "glycopyrrolate",
+  "griseofulvin",
   "hepatitis b immunoglobulin",
   "hepatitis b vaccine",
   "homatropine",
@@ -257,7 +258,6 @@
   "hydroxychloroquine",
   "hypromellose",
   "hyoscine butylbromide",
-  "insulin isophane human",
   "iohexol",
   "ipratropium",
   "psyllium",
@@ -1956,15 +1956,15 @@
    13
   ],
   [
-   "Osmotic Laxative",
-   12
-  ],
-  [
    "Histamine-1 Receptor Antagonist",
    11
   ],
   [
    "Radiographic Contrast Agent",
+   11
+  ],
+  [
+   "Osmotic Laxative",
    11
   ],
   [
@@ -1980,10 +1980,6 @@
    8
   ],
   [
-   "Non-Standardized Food Allergenic Extract",
-   8
-  ],
-  [
    "beta2-Adrenergic Agonist",
    7
   ],
@@ -1996,7 +1992,7 @@
    7
   ],
   [
-   "Non-Standardized Plant Allergenic Extract",
+   "Phosphate Binder",
    7
   ],
   [
@@ -2032,10 +2028,6 @@
    6
   ],
   [
-   "Phosphate Binder",
-   6
-  ],
-  [
    "Muscle Relaxant",
    6
   ],
@@ -2060,7 +2052,11 @@
    5
   ],
   [
-   "Standardized Chemical Allergen",
+   "Non-Standardized Food Allergenic Extract",
+   5
+  ],
+  [
+   "Non-Standardized Plant Allergenic Extract",
    5
   ],
   [
@@ -2120,6 +2116,10 @@
    4
   ],
   [
+   "Standardized Chemical Allergen",
+   4
+  ],
+  [
    "Sympathomimetic Amine Anorectic",
    4
   ],
@@ -2176,10 +2176,6 @@
    3
   ],
   [
-   "Nitrogen Binding Agent",
-   3
-  ],
-  [
    "Antihistamine",
    3
   ],
@@ -2197,6 +2193,10 @@
   ],
   [
    "Bismuth",
+   3
+  ],
+  [
+   "Acetylcholine Release Inhibitor",
    3
   ],
   [

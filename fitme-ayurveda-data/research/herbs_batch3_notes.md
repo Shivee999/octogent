@@ -1,6 +1,10 @@
 # Batch 3 notes: gaps, conflicts and judgement calls
 
-Output: `herbs_batch3.json`. It has 25 records and 121 interactions: 9 major, 33 moderate and 79 minor. It loads with `json.load`, and every `drug_class` is a key from SPEC.md. Last checked 2026-10.
+Output: `herbs_batch3.json`. It has 25 records and 125 interactions: 9 major, 35 moderate and 81 minor. It loads with `json.load`, and every `drug_class` is a key from SPEC.md, including the 4 keys added mid-task:
+  - `photosensitizing`: St John's wort
+  - `cyp2c19_substrate`: St John's wort (induction) and chitrak (in vitro inhibition)
+  - `anticholinergic`: nutmeg at toxic doses
+  - `antiparkinson_levodopa`: not used, because no batch-3 herb had a sourced levodopa interaction. Last checked 2026-10.
 
 ## How sources were checked
 - I pulled every PubMed citation (100 PMIDs) live from NCBI E-utilities. The titles in the JSON come from NCBI esummary, not from memory. I read the abstracts of the studies that each claim relies on.

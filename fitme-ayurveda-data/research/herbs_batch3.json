@@ -607,6 +607,26 @@
     ]
    },
    {
+    "drug_class": "anticholinergic",
+    "severity": "minor",
+    "effect": "Large amounts of nutmeg may add to anticholinergic side effects (dry mouth, fast heart rate, confusion, urinary retention) of medicines such as oxybutynin, sedating antihistamines or TCAs.",
+    "mechanism": "Nutmeg poisoning produces anticholinergic-type symptoms, attributed mainly to myristicin; additive effect with anticholinergic drugs is inferred, not studied.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid more than culinary amounts.",
+    "sources": [
+     {
+      "title": "Acute nutmeg poisoning (Eur J Emerg Med, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15249817/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Nutmeg Poisoning With Electrolyte Abnormalities: A Case Report (Cureus, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39559662/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
     "drug_class": "antidepressant_maoi",
     "severity": "minor",
     "effect": "In theory, high-dose nutmeg could add to the effects of MAO-inhibitor medicines.",
@@ -1023,6 +1043,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/27329697/",
       "type": "peer_review"
      },
+     {
+      "title": "In vitro inhibitory effects of plumbagin, the promising antimalarial candidate, on human cytochrome P450 enzymes (Asian Pac J Trop Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26614990/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "minor",
+    "effect": "Could raise blood levels of medicines cleared by CYP2C19 (e.g. omeprazole, citalopram) or reduce activation of clopidogrel.",
+    "mechanism": "Plumbagin inhibited CYP2C19-mediated omeprazole hydroxylation most potently of the CYPs tested (IC50 about 0.8 micromolar) in human liver microsomes; in vitro only.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
      {
       "title": "In vitro inhibitory effects of plumbagin, the promising antimalarial candidate, on human cytochrome P450 enzymes (Asian Pac J Trop Med, 2015)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/26614990/",
@@ -3345,6 +3380,46 @@
       "title": "St John's wort (Hypericum perforatum): drug interactions and clinical outcomes (Br J Clin Pharmacol, 2002)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/12392581/",
       "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "moderate",
+    "effect": "Can lower levels of medicines cleared by CYP2C19 (e.g. omeprazole, some antidepressants) and may increase activation of clopidogrel.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. The EU monograph lists CYP2C19 among the induced enzymes.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Clinical relevance of St. John's wort drug interactions revisited (Br J Pharmacol, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31742659/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "photosensitizing",
+    "severity": "moderate",
+    "effect": "May add to sun sensitivity (burning, rash) caused by photosensitising medicines such as tetracyclines, fluoroquinolones, thiazides, isotretinoin or amiodarone.",
+    "mechanism": "Hypericin in St John's wort causes photosensitivity; the EU monograph advises avoiding intense UV exposure and NCCIH notes severe skin reactions after sun exposure. Additive effect with photosensitising drugs is inferred.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Use sun protection and avoid intense UV exposure.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
      }
     ]
    },

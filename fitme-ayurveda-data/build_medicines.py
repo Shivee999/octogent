@@ -255,8 +255,9 @@ def load_labels(agg, cache, known):
             continue
         app = (r.get("application_number") or [""])[0]
         mols = {m for s in subs for m in normalize(s)}
-        # New molecules only from approved applications (keeps homeopathic labels out).
-        if not app.startswith(("NDA", "ANDA", "BLA")) and not mols <= known:
+        # Homeopathic labels carry no application number; new molecules only from approved
+        # applications (NDA/ANDA/BLA), known ones also from OTC monograph labels.
+        if not app or (not app.startswith(("NDA", "ANDA", "BLA")) and not mols <= known):
             continue
         epc = [e[:-6] for e in r.get("pharm_class_epc") or []]
         moa = [e[:-6] for e in r.get("pharm_class_moa") or []]
@@ -530,9 +531,10 @@ def main():
 
     # Indian names seen in source text, for display names / aliases
     reverse_syn = defaultdict(list)
-    for alias, target in NAME_MAP.items():
+    for alias, target in R.SYNONYMS.items():
         for t in target.split("|"):
-            if alias != t:
+            # display only true alternate names (paracetamol), not salt forms or descriptions
+            if alias != t and t not in alias and alias not in t and re.fullmatch(r"[a-z][a-z -]+", alias):
                 reverse_syn[t].append(alias)
     india_text = " ".join(nlem_entries).lower() + " " + " ".join(p["name"] for p in ja_products).lower()
 
@@ -552,11 +554,14 @@ def main():
             srcs.append("janaushadhi")
         if any(e[0] == m and e[3] == "medicine_rules.OVERRIDES" for e in evidence) and keys:
             srcs.append("manual")
-        brands = sorted(agg.brands.get(m, Counter()).items(), key=lambda kv: (-kv[0][1], -kv[1], kv[0][0]))
+        # Only brands from NDA/BLA products: OTC store brands ("Gentle Laxative") are not names.
+        brands = sorted(((b, n) for (b, approved), n in agg.brands.get(m, Counter()).items() if approved),
+                        key=lambda kv: (-kv[1], kv[0]))
         seen, us_brands = set(), []
-        for (b, _approved), _n in brands:
-            if b.lower() not in seen:
-                seen.add(b.lower())
+        for b, _n in brands:
+            stem = next((w for w in re.findall(r"[a-z0-9'-]+", b.lower()) if w not in GENERIC_BRAND_WORDS), b.lower())
+            if stem not in seen and stem not in ("n/a", "na"):
+                seen.add(stem)
                 us_brands.append(b)
             if len(us_brands) == 3:
                 break

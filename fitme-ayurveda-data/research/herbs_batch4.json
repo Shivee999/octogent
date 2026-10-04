@@ -1276,6 +1276,21 @@
       "type": "peer_review"
      }
     ]
+   },
+   {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "minor",
+    "effect": "may raise levels of CYP2C19 substrates (e.g. citalopram, omeprazole) or reduce activation of clopidogrel",
+    "mechanism": "related formulation (Ridayarishta) inhibited CYP2C19 in vitro; this product itself unstudied",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Pandit S et al. Evaluation of herb-drug interaction of a polyherbal Ayurvedic formulation (Ridayarishta, made from Arjunarishta and Ashwagandharishta ingredients) through CYP450 inhibition assay. J Ethnopharmacol 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27457692/",
+      "type": "peer_review"
+     }
+    ]
    }
   ],
   "data_quality": "limited",
@@ -1676,6 +1691,21 @@
      {
       "title": "Varghese A et al. In vitro modulatory effects of Terminalia arjuna and its constituents on CYP3A4, CYP2D6 and CYP2C9 in human liver microsomes. Toxicol Rep 2015",
       "url": "https://pubmed.ncbi.nlm.nih.gov/28962416/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "minor",
+    "effect": "may raise levels of CYP2C19 substrates (e.g. citalopram, omeprazole) or reduce activation of clopidogrel",
+    "mechanism": "related formulation (Ridayarishta, made from Arjunarishta/Ashwagandharishta ingredients) inhibited CYP2C19 in vitro",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Pandit S et al. Evaluation of herb-drug interaction of a polyherbal Ayurvedic formulation (Ridayarishta, made from Arjunarishta and Ashwagandharishta ingredients) through CYP450 inhibition assay. J Ethnopharmacol 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27457692/",
       "type": "peer_review"
      }
     ]
@@ -2517,6 +2547,21 @@
     ]
    },
    {
+    "drug_class": "antiparkinson_levodopa",
+    "severity": "minor",
+    "effect": "may reduce absorption and effect of levodopa",
+    "mechanism": "via ingredient lauha bhasma (iron oxide): iron may chelate levodopa in the gut; levodopa labels warn about iron-containing supplements",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining; doses may need to be spaced apart.",
+    "sources": [
+     {
+      "title": "NIH Office of Dietary Supplements. Iron - Health Professional Fact Sheet (interactions with levothyroxine, levodopa, PPIs)",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
     "drug_class": "antidiabetic_insulin",
     "severity": "minor",
     "effect": "may add to the blood-sugar-lowering effect of diabetes medicines and raise the risk of low blood sugar",
@@ -2753,6 +2798,21 @@
       "type": "peer_review"
      }
     ]
+   },
+   {
+    "drug_class": "antiparkinson_levodopa",
+    "severity": "minor",
+    "effect": "may reduce absorption and effect of levodopa",
+    "mechanism": "via ingredient lauha bhasma (iron oxide): iron may chelate levodopa in the gut; levodopa labels warn about iron-containing supplements",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining; doses may need to be spaced apart.",
+    "sources": [
+     {
+      "title": "NIH Office of Dietary Supplements. Iron - Health Professional Fact Sheet (interactions with levothyroxine, levodopa, PPIs)",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "type": "gov"
+     }
+    ]
    }
   ],
   "data_quality": "limited",
@@ -2865,6 +2925,21 @@
       "title": "Eljaaly K et al. Multivalent cations interactions with fluoroquinolones or tetracyclines: a cross-sectional study. Saudi J Biol Sci 2021",
       "url": "https://pubmed.ncbi.nlm.nih.gov/34866992/",
       "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiparkinson_levodopa",
+    "severity": "moderate",
+    "effect": "may reduce absorption and effect of levodopa",
+    "mechanism": "via ingredient mandura bhasma (iron oxide): iron may chelate levodopa in the gut; levodopa labels warn about iron-containing supplements",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining; doses may need to be spaced apart.",
+    "sources": [
+     {
+      "title": "NIH Office of Dietary Supplements. Iron - Health Professional Fact Sheet (interactions with levothyroxine, levodopa, PPIs)",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "type": "gov"
      }
     ]
    },
@@ -3074,6 +3149,21 @@
       "title": "Eljaaly K et al. Multivalent cations interactions with fluoroquinolones or tetracyclines: a cross-sectional study. Saudi J Biol Sci 2021",
       "url": "https://pubmed.ncbi.nlm.nih.gov/34866992/",
       "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiparkinson_levodopa",
+    "severity": "moderate",
+    "effect": "may reduce absorption and effect of levodopa",
+    "mechanism": "via ingredient lauha bhasma (iron oxide): iron may chelate levodopa in the gut; levodopa labels warn about iron-containing supplements",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining; doses may need to be spaced apart.",
+    "sources": [
+     {
+      "title": "NIH Office of Dietary Supplements. Iron - Health Professional Fact Sheet (interactions with levothyroxine, levodopa, PPIs)",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "type": "gov"
      }
     ]
    },
@@ -3595,6 +3685,21 @@
     ]
    },
    {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "moderate",
+    "effect": "may raise levels of CYP2C19 substrates (e.g. citalopram, omeprazole) or reduce activation of clopidogrel",
+    "mechanism": "via ingredient brahmi: Bacopa extract inhibited CYP2C19 (non-competitive) in vitro, to under 10% activity at estimated gut concentrations",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Ramasamy S et al. Inhibition of human cytochrome P450 enzymes by Bacopa monnieri standardized extract and constituents. Molecules 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24566323/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
     "drug_class": "thyroid_hormone",
     "severity": "minor",
     "effect": "may add to thyroid hormone levels",
@@ -3702,6 +3807,21 @@
       "title": "Eljaaly K et al. Multivalent cations interactions with fluoroquinolones or tetracyclines: a cross-sectional study. Saudi J Biol Sci 2021",
       "url": "https://pubmed.ncbi.nlm.nih.gov/34866992/",
       "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiparkinson_levodopa",
+    "severity": "minor",
+    "effect": "may reduce absorption and effect of levodopa",
+    "mechanism": "via ingredient mandur bhasma (iron oxide): iron may chelate levodopa in the gut; levodopa labels warn about iron-containing supplements",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining; doses may need to be spaced apart.",
+    "sources": [
+     {
+      "title": "NIH Office of Dietary Supplements. Iron - Health Professional Fact Sheet (interactions with levothyroxine, levodopa, PPIs)",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "type": "gov"
      }
     ]
    },
