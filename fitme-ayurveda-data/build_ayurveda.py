@@ -73,7 +73,7 @@ FORBIDDEN = re.compile(r"\b(cures?|curing|heals?|healing|remed(y|ies)|alternativ
 DISEASE = re.compile(r"\b(diabet\w*|cancer|tumou?r|hypertension|arthritis|asthma|covid|corona\w*|obesity|infertility|"
                      r"impotence|tuberculosis|hepatitis|jaundice|epilep\w*|depression|anxiety disorder|insomnia|piles|"
                      r"ha?emorrhoids|kidney stones?|psoriasis|vitiligo|leucoderma|thyroid disease|parkinson\w*|dementia|alzheimer\w*)\b", re.I)
-STOP_MED = re.compile(r"\bstop(ping)? (taking )?(your |any )?(prescribed )?(medicine|medication|drug)s?\b", re.I)
+STOP_MED = re.compile(r"\bstop(ping)? (taking )?(your |any )?(prescribed )?(medicine|medication|drug)s?\b|\b(stop|pause) (it|them)\b", re.I)
 
 
 def load_herbs():
@@ -102,6 +102,24 @@ def load_herbs():
         r["interactions"] = [it for it in r["interactions"] if it["drug_class"] != "any_medicine"]
         r["max_severity"] = max([SEV_RANK[i["severity"]] for i in r["interactions"] + r["herb_level_warnings"]] or [0])
     return recs
+
+
+# "it" in advice must never be readable as the user's medicine.
+AMBIGUOUS = [
+    (re.compile(r"\bstop it\b", re.I), "stop the herbal product"),
+    (re.compile(r"\bstart or stop it\b", re.I), "start or stop the herbal product"),
+    (re.compile(r"\bpause it\b", re.I), "pause the herbal product"),
+]
+
+
+def clarify(recs):
+    for r in recs:
+        for it in r["interactions"] + r["herb_level_warnings"]:
+            for fld in ("advice", "effect"):
+                t = it.get(fld, "")
+                for rx, rep in AMBIGUOUS:
+                    t = rx.sub(rep, t)
+                it[fld] = t
 
 
 def lint(recs):
@@ -176,6 +194,7 @@ def warnings_for(med, herbs):
 
 def main():
     herbs = load_herbs()
+    clarify(herbs)
     issues = lint(herbs)
     meds, aliases = load_medicines()
 
