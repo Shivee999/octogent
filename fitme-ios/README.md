@@ -7,7 +7,13 @@ Three data files and three Swift files. You get a "Ayurveda" screen with:
 
 All of it works offline and on-device, with no network calls, so your "100% private" promise holds.
 
-## Steps (about 10 minutes)
+## Easiest: one file
+
+`FITmeAyurveda.swift` (about 1 MB) contains everything: the models, the data layer, the SwiftUI screens and all the data embedded as JSON. Drag that one file into Xcode, tick your app target, and show `AyurvedaHomeView().environmentObject(AyurvedaStore())`. You don't need the separate files below. Don't add both, or Xcode will report duplicate types.
+
+It was compiled with Swift 6.1 in Swift 6 language mode (about 8 s to build) and tested: everything loads in about 0.2 s and all checks pass. Xcode may be slow to open this file because of the embedded data; you don't need to open it.
+
+## Alternative: separate files (about 10 minutes)
 
 1. **Add the data files.** In Xcode, drag `Resources/AyurvedaOTC.json`, `Resources/HerbSafety.json` and `Resources/Medicines.json` into your project navigator. In the dialog, tick **Copy items if needed** and tick your **app target**. Together they add about 1 MB to the app.
 2. **Add the code.** Drag `Sources/AyurvedaModels.swift`, `Sources/AyurvedaData.swift` and `Sources/AyurvedaViews.swift` in the same way, ticking the app target.
@@ -52,7 +58,7 @@ The SwiftUI screens (`AyurvedaViews.swift`) couldn't be compiled here because Sw
 
 ## Updating the data later
 
-From the repo: `python3 fitme-ayurveda-data/build_ayurveda.py`, then `build_otc_alternatives.py`, then `build_ios_data.py`. Drag the new JSON files in, replacing the old ones.
+From the repo: `python3 fitme-ayurveda-data/build_ayurveda.py`, then `build_otc_alternatives.py`, then `build_ios_data.py`, then `build_ios_single_file.py`. Drag the new JSON files in, replacing the old ones.
 
 ## Before release
 
