@@ -16,6 +16,13 @@
     "enabled": true
   },
   "files": {
-    "ignore": ["node_modules", "dist", "coverage", "fitme-food-data", "fitme-ayurveda-data", "fitme-ios"]
+    "ignore": [
+      "node_modules",
+      "dist",
+      "coverage",
+      "fitme-food-data",
+      "fitme-ayurveda-data",
+      "fitme-ios"
+    ]
   }
 }
