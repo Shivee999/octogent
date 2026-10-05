@@ -1,0 +1,1134 @@
+{
+  "version": "1.0.0",
+  "disclaimer": "Traditional Ayurvedic options listed in the Ministry of AYUSH Ayurvedic Standard Treatment Guidelines (2017). General information only, not medical advice. Do not start, stop or change any medicine without talking to your doctor or pharmacist.",
+  "complaints": [
+    {
+      "complaint": "Acidity / heartburn after meals",
+      "otcMedicinesUsuallyUsed": "Antacids (aluminium hydroxide, magnesium hydroxide, calcium carbonate, sodium bicarbonate); OTC acid reducers (famotidine, omeprazole 20 mg)",
+      "seeADoctorIf": "chest pain, vomiting blood, black stools, trouble swallowing, weight loss, or symptoms beyond 2 weeks",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Amlapitta, Table 3.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Avipattikara churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Yashtimadhu churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains licorice (mulethi): can raise blood pressure and lower potassium. Avoid with BP or heart medicines, water tablets, steroids, and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Amalaki churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Amla may add to the effect of blood thinners and diabetes medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shunthi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Ginger may add to the effect of blood thinners. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Hingwashtaka churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains asafoetida: not for infants or in pregnancy. Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shivakshara pachana churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Patoladi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Narikela lavana",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Occasional constipation",
+      "otcMedicinesUsuallyUsed": "Bisacodyl, senna (sennosides), lactulose, polyethylene glycol 3350, docusate, psyllium",
+      "seeADoctorIf": "blood in stool, severe belly pain, weight loss, or no improvement in 2 weeks",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Arsha Table 13.2; Parikartika Table 17.1; Mukhapaka Table 36.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Triphala churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Haritaki churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Draksha (dried black raisins)",
+          "form": "Dried fruit",
+          "howUsed": "internal",
+          "caution": "No specific caution found; avoid in pregnancy unless a doctor advises. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Aragvadha churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Avipattikara churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Swadishta virechana churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Senna-based laxative. Not in pregnancy, breastfeeding or under 12; not for long-term use. Contains licorice (mulethi): can raise blood pressure and lower potassium. Avoid with BP or heart medicines, water tablets, steroids, and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Abhayarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Castor oil (eranda taila)",
+          "form": "Oil",
+          "howUsed": "internal",
+          "caution": "Strong laxative. Not in pregnancy (can trigger labour) or for children. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Phalatrikadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Erandamoola kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Loose motions (mild, adults)",
+      "otcMedicinesUsuallyUsed": "Loperamide, bismuth subsalicylate, racecadotril; oral rehydration salts (ORS)",
+      "seeADoctorIf": "blood in stool, high fever, signs of dehydration, a child or older adult, or lasting more than 2 days (use ORS meanwhile)",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Atisara, Table 14.2. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Kutaja ghana vati",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kutaja churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kutajarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bilwadi gutika",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bilwamoola churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dadimashtaka churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dadima phala twak churna (pomegranate rind)",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Musta churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shunthi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Ginger may add to the effect of blood thinners. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bruhat Gangadhara churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Hingvashtaka churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains asafoetida: not for infants or in pregnancy. Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Mustakaranjadi kashaya",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kutaja avaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Cough (short-term)",
+      "otcMedicinesUsuallyUsed": "Dextromethorphan, guaifenesin, ambroxol, bromhexine, cough lozenges",
+      "seeADoctorIf": "cough beyond 3 weeks, blood in phlegm, breathlessness, chest pain, or high fever",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Kasa, Tables 1.2–1.5. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Sitopaladi churna",
+          "form": "Powder",
+          "howUsed": "internal (with honey)",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Yashtimadhu churna",
+          "form": "Powder",
+          "howUsed": "internal (with honey)",
+          "caution": "Contains licorice (mulethi): can raise blood pressure and lower potassium. Avoid with BP or heart medicines, water tablets, steroids, and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Talishadi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vasa swarasa / Vasa churna",
+          "form": "Juice / powder",
+          "howUsed": "internal",
+          "caution": "Vasa (adhatoda) is not for use in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bibhitaki churna with Pippali churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bibhitaki kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kantakaryadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Drakshadi leha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Agastya haritaki",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Trikatu with Vasa (with honey)",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Vasa (adhatoda) is not for use in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kantakari avaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vasavaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "Vasa (adhatoda) is not for use in pregnancy. About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bharangyadi avaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vyaghri haritaki avaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shrungyadi churna",
+          "form": "Powder",
+          "howUsed": "internal (with honey)",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shati churna",
+          "form": "Powder",
+          "howUsed": "internal (with honey)",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Samasharkara churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Khadiradi vati",
+          "form": "Lozenge tablet",
+          "howUsed": "internal (suck)",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Lavangadi vati",
+          "form": "Lozenge tablet",
+          "howUsed": "internal (suck)",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Draksharishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kantakari ghrita",
+          "form": "Medicated ghee",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Pippalyadi ghrita",
+          "form": "Medicated ghee",
+          "howUsed": "internal",
+          "caution": "Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashamoola kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Gojihvadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Common cold: runny or blocked nose, sneezing",
+      "otcMedicinesUsuallyUsed": "Cetirizine, levocetirizine, chlorphenamine, phenylephrine, pseudoephedrine, xylometazoline nasal spray, cold & flu combinations",
+      "seeADoctorIf": "high fever, breathlessness, ear or face pain, or symptoms beyond 10 days",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Pratishyaya, Table 37.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Sitopaladi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Talishadi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Trikatu churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vyoshadi vati",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Lavangadi vati",
+          "form": "Lozenge tablet",
+          "howUsed": "internal (suck)",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Gojihvadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashamoola kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Haridra khanda",
+          "form": "Granules",
+          "howUsed": "internal",
+          "caution": "Turmeric may add to the effect of blood thinners; not in pregnancy at medicinal doses. About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vasavaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "Vasa (adhatoda) is not for use in pregnancy. About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Drakshavaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Chitraka haritaki avaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "About half sugar by weight; count it if you watch blood sugar. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Anu taila",
+          "form": "Oil",
+          "howUsed": "nasal drops",
+          "caution": "Nasal drops: use only as advised, not for young children, and not during a nosebleed or sinus infection with fever. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Occasional tension-type headache",
+      "otcMedicinesUsuallyUsed": "Paracetamol, ibuprofen, aspirin",
+      "seeADoctorIf": "sudden severe headache, headache with fever and stiff neck, weakness, vision change, or after a head injury",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Shiroroga, Table 38.2. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Pathyadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Cow's ghee nasal drops (Gau ghrita nasya)",
+          "form": "Ghee",
+          "howUsed": "nasal drops",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shadbindu taila",
+          "form": "Oil",
+          "howUsed": "nasal drops",
+          "caution": "Nasal drops: use only as advised, not for young children, and not during a nosebleed or sinus infection with fever. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashamoola taila (scalp massage)",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Occasional lower-back stiffness or ache",
+      "otcMedicinesUsuallyUsed": "Ibuprofen, naproxen, diclofenac gel, methyl salicylate rubs",
+      "seeADoctorIf": "numbness, leg weakness, loss of bladder or bowel control, fever, or pain after a fall",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Katigraha, Table 28.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Yogaraja guggulu",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Simhanada guggulu",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Rasnasaptakam kashaya",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashamoola kashaya",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Rasna churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Ashwagandha churna with Pippalimoola churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Ashwagandha: avoid in pregnancy, thyroid or autoimmune conditions, and before surgery; rare liver injury reported. Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Shunthi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Ginger may add to the effect of blood thinners. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Murivenna / Dhanwantharam taila / Nirgundyadi taila / Bala taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Saptasaram kashaya",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Soubhagya shunthi paka",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "Ginger may add to the effect of blood thinners. About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Guggulu tiktaka ghrita",
+          "form": "Medicated ghee",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Abhayarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Balarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dhanwantaram taila (101 avarti, oral drops)",
+          "form": "Oil",
+          "howUsed": "internal (drops)",
+          "caution": "Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Karpasasthyadi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Prasarini taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Ksheerabala taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Occasional joint stiffness (massage oils)",
+      "otcMedicinesUsuallyUsed": "Diclofenac gel, methyl salicylate / menthol rubs",
+      "seeADoctorIf": "a hot, red or swollen joint, fever, or stiffness lasting all morning",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Sandhigata vata, Table 31.1 (local application). https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Mahanarayana taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bala taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Sahachara taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Nirgundi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dhanvantara taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kottamchukkadi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Masha taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Ksheerabala taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Ashwagandha balalakshadi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Prabhanjana vimardana taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashanga lepa",
+          "form": "Paste",
+          "howUsed": "external paste",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kaishora guggulu",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Giloy (guduchi): liver injury has been reported; avoid with liver or autoimmune conditions. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashamoolarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Ashwagandharishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Ashwagandha: avoid in pregnancy, thyroid or autoimmune conditions, and before surgery; rare liver injury reported. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Occasional trouble sleeping",
+      "otcMedicinesUsuallyUsed": "Diphenhydramine, doxylamine, melatonin",
+      "seeADoctorIf": "trouble sleeping most nights for more than 4 weeks, loud snoring with pauses, or low mood",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Anidra, Table 18.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Ashwagandhadi churna (with milk at bedtime)",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Ashwagandha: avoid in pregnancy, thyroid or autoimmune conditions, and before surgery; rare liver injury reported. May add to drowsiness from sleeping pills, alcohol or antihistamines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Tagara churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "May add to drowsiness from sleeping pills, alcohol or antihistamines. Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Jatiphala churna (nutmeg)",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Nutmeg is toxic in large amounts; keep strictly to the advised dose and away from children. May add to drowsiness from sleeping pills, alcohol or antihistamines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Pippalimula churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains pepper/long pepper (piperine), which can change blood levels of many prescription medicines. Ask a pharmacist if you take any. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Saraswata churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "May add to drowsiness from sleeping pills, alcohol or antihistamines. Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Mamsyadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Jatamansi is calming; may add to drowsiness from sleeping pills or alcohol. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Drakshadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Brahmi ghrita (nasal drops)",
+          "form": "Medicated ghee",
+          "howUsed": "nasal drops",
+          "caution": "Nasal drops: use only as advised, not for young children, and not during a nosebleed or sinus infection with fever. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Ksheerabala taila (head application)",
+          "form": "Oil",
+          "howUsed": "external (scalp)",
+          "caution": "For external use only; stop if the skin becomes irritated. Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Chandanadi taila (head application)",
+          "form": "Oil",
+          "howUsed": "external (scalp)",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Mouth ulcers (minor)",
+      "otcMedicinesUsuallyUsed": "Choline salicylate gel, benzocaine gel, antiseptic mouthwash",
+      "seeADoctorIf": "an ulcer lasting more than 3 weeks, a painless white or red patch, or ulcers with fever",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Mukhapaka, Table 36.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Honey gargle (kshaudra)",
+          "form": "Liquid",
+          "howUsed": "gargle",
+          "caution": "No specific caution found; avoid in pregnancy unless a doctor advises. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Jatipatra (jasmine leaf) paste",
+          "form": "Paste",
+          "howUsed": "apply in mouth",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Yashtimadhu churna with Gairika, in honey and ghee",
+          "form": "Powder",
+          "howUsed": "apply in mouth",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Darvighana with Gairika",
+          "form": "Powder",
+          "howUsed": "apply in mouth",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Samshamani vati (guduchi)",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Giloy (guduchi): liver injury has been reported; avoid with liver or autoimmune conditions. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Swadishta virechana churna",
+          "form": "Powder",
+          "howUsed": "internal (at night)",
+          "caution": "Senna-based laxative. Not in pregnancy, breastfeeding or under 12; not for long-term use. Contains licorice (mulethi): can raise blood pressure and lower potassium. Avoid with BP or heart medicines, water tablets, steroids, and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Triphala kwatha gargle",
+          "form": "Decoction",
+          "howUsed": "gargle",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Panchavalkala kwatha gargle",
+          "form": "Decoction",
+          "howUsed": "gargle",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Panchapallava kwatha gargle",
+          "form": "Decoction",
+          "howUsed": "gargle",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Panchatikta kwatha gargle",
+          "form": "Decoction",
+          "howUsed": "gargle",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Khadiradi gutika",
+          "form": "Tablet",
+          "howUsed": "rub on gums / suck",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Intestinal worms (adults)",
+      "otcMedicinesUsuallyUsed": "Albendazole, mebendazole",
+      "seeADoctorIf": "worms seen in stool with weight loss, a child under 2, pregnancy, or symptoms after treatment",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Krimi, Tables 16.1–16.2. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Vidangadi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "For children, ask a doctor first; India's national deworming programme uses albendazole. Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Nimbadi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "For children, ask a doctor first; India's national deworming programme uses albendazole. Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vidanga avaleha",
+          "form": "Herbal jam (avaleha)",
+          "howUsed": "internal",
+          "caution": "For children, ask a doctor first; India's national deworming programme uses albendazole. About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vidangarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "For children, ask a doctor first; India's national deworming programme uses albendazole. Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Haridra khanda",
+          "form": "Granules",
+          "howUsed": "internal",
+          "caution": "For children, ask a doctor first; India's national deworming programme uses albendazole. Turmeric may add to the effect of blood thinners; not in pregnancy at medicinal doses. About half sugar by weight; count it if you watch blood sugar. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Piles discomfort",
+      "otcMedicinesUsuallyUsed": "Hydrocortisone/lidocaine piles creams, stool softeners",
+      "seeADoctorIf": "any rectal bleeding (always get checked once), black stools, change in bowel habit over 40, or severe pain",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Arsha, Tables 13.2–13.3 and local application. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Triphala churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Haritaki churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Draksha (dried black raisins)",
+          "form": "Dried fruit",
+          "howUsed": "internal",
+          "caution": "No specific caution found; avoid in pregnancy unless a doctor advises. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Phalatrikadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Erandamula kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Jatyadi taila",
+          "form": "Oil",
+          "howUsed": "external (local application)",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Murivenna",
+          "form": "Oil",
+          "howUsed": "external (local application)",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Triphala kwatha sitz bath (avagaha)",
+          "form": "Decoction",
+          "howUsed": "sitz bath",
+          "caution": "For a lukewarm sitz bath only; do not drink. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Panchavalkala kwatha sitz bath (avagaha)",
+          "form": "Decoction",
+          "howUsed": "sitz bath",
+          "caution": "For a lukewarm sitz bath only; do not drink. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Shoulder stiffness",
+      "otcMedicinesUsuallyUsed": "Ibuprofen, diclofenac gel",
+      "seeADoctorIf": "pain after a fall, pain with chest discomfort or breathlessness, fever, or inability to lift the arm",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Avabahuka, Tables 27.1–27.2. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Ashwagandha churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Ashwagandha: avoid in pregnancy, thyroid or autoimmune conditions, and before surgery; rare liver injury reported. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Bala churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Rasna churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Chopchini churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashamoola kashaya",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Yogaraja guggulu",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Guggulu tiktakam kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Prasaranyadi kashaya",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Maharasnadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Vidaryadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dhanwantharam kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Balarishta",
+          "form": "Arishta (liquid)",
+          "howUsed": "internal",
+          "caution": "Contains natural alcohol (arishta, about 5–13%). Avoid in pregnancy, with liver disease, before driving, and with metronidazole/tinidazole. Contains bala (Sida cordifolia), which can contain ephedrine-like compounds: avoid with high BP, heart problems, MAOI antidepressants and in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Anu taila",
+          "form": "Oil",
+          "howUsed": "nasal drops",
+          "caution": "Nasal drops: use only as advised, not for young children, and not during a nosebleed or sinus infection with fever. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Karpasasthyadi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Nirgundi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Parinata keryadi taila",
+          "form": "Oil",
+          "howUsed": "external massage",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Period cramps",
+      "otcMedicinesUsuallyUsed": "Mefenamic acid, ibuprofen, dicyclomine",
+      "seeADoctorIf": "pain that is severe or getting worse, very heavy bleeding, pain between periods, or a chance of pregnancy",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Kashtartava, Tables 25.1–25.2. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Hingvadi churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains asafoetida: not for infants or in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Hingvadi gutika",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Contains asafoetida: not for infants or in pregnancy. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Chaturbeeja churna",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Contains fenugreek, which may lower blood sugar; take care with diabetes medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Eranda bhrishta haritaki with shunthi",
+          "form": "Powder",
+          "howUsed": "internal",
+          "caution": "Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Ginger may add to the effect of blood thinners. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Devadarvyadi kwatha",
+          "form": "Decoction",
+          "howUsed": "internal",
+          "caution": "Little safety research exists; avoid in pregnancy and check with a doctor if you take regular medicines. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Yogaraja guggulu",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Mahanarayana taila",
+          "form": "Oil",
+          "howUsed": "external massage (lower back/abdomen)",
+          "caution": "For external use only; stop if the skin becomes irritated. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    },
+    {
+      "complaint": "Gum care (sore or swollen gums)",
+      "otcMedicinesUsuallyUsed": "Chlorhexidine mouthwash, antiseptic gum gels",
+      "seeADoctorIf": "gums that bleed easily without brushing, loose teeth, or swelling of the face",
+      "source": "Ministry of AYUSH, Ayurvedic Standard Treatment Guidelines (2017), Dantaveshta, Table 35.1. https://main.ayush.gov.in/ayurvedic-standard-treatment-guidelines/",
+      "options": [
+        {
+          "name": "Panchavalkala kwatha",
+          "form": "Decoction",
+          "howUsed": "gargle",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kshiri vriksha kashaya",
+          "form": "Decoction",
+          "howUsed": "hold in mouth, then spit",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Dashana samskara churna",
+          "form": "Powder",
+          "howUsed": "rub on gums",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Kalaka churna",
+          "form": "Powder",
+          "howUsed": "rub on gums",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Pitaka churna",
+          "form": "Powder",
+          "howUsed": "rub on gums",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Irimedadi taila",
+          "form": "Oil",
+          "howUsed": "gum massage",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Khadiradi gutika",
+          "form": "Tablet",
+          "howUsed": "gum massage",
+          "caution": "Apply in the mouth only; do not swallow large amounts. Dose: ask a qualified Ayurvedic doctor."
+        },
+        {
+          "name": "Triphala guggulu",
+          "form": "Tablet",
+          "howUsed": "internal",
+          "caution": "Guggulu: avoid in pregnancy; may interact with BP and thyroid medicines. Buy from a licensed maker (heavy-metal contamination has been found in some products). Laxative. Not for long-term use, children or pregnancy without a doctor's advice. Dose: ask a qualified Ayurvedic doctor."
+        }
+      ]
+    }
+  ]
+}

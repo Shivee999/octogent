@@ -1,0 +1,3638 @@
+[
+ {
+  "id": "hing",
+  "names": {
+   "common_en": "Asafoetida",
+   "hindi": "Hing",
+   "sanskrit": "Hingu",
+   "latin": "Ferula assa-foetida L. (oleo-gum-resin)",
+   "other": [
+    "heeng",
+    "devil's dung"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Hing (compounded powder, usually blended with flour)",
+   "Hingvashtak churna",
+   "Hingwadi vati"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda, usually in small culinary amounts, for general wellbeing of the digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "children",
+    "note": "Case reports describe serious methaemoglobinaemia (reduced oxygen-carrying capacity of the blood) in infants given asafoetida as a home remedy; avoid giving it to infants.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Methemoglobinemia in an infant treated with the folk remedy glycerited asafoetida (Pediatrics, 1984)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6609339/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Severe Methemoglobinemia Secondary to Ferula asafoetida Ingestion in an Infant: A Case Report (Saudi J Med Med Sci, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31929780/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Asafoetida resin contains sesquiterpene coumarins; it is listed among herbs that could theoretically add to bleeding risk with warfarin. No clinical interaction reports found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Traditional uses, phytochemistry and pharmacology of asafoetida (Ferula assa-foetida oleo-gum-resin)-a review (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21130854/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Asafoetida resin contains sesquiterpene coumarins; it is listed among herbs that could theoretically add to bleeding risk with warfarin. No clinical interaction reports found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Traditional uses, phytochemistry and pharmacology of asafoetida (Ferula assa-foetida oleo-gum-resin)-a review (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21130854/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Asafoetida resin contains sesquiterpene coumarins; it is listed among herbs that could theoretically add to bleeding risk with warfarin. No clinical interaction reports found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Traditional uses, phytochemistry and pharmacology of asafoetida (Ferula assa-foetida oleo-gum-resin)-a review (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21130854/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "May slightly add to the blood-pressure-lowering effect of these medicines.",
+    "mechanism": "Hypotensive and smooth-muscle-relaxant activity reported in animal and laboratory studies only.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Watch for dizziness on standing.",
+    "sources": [
+     {
+      "title": "Biological activities and medicinal properties of Asafoetida: A review (J Tradit Complement Med, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28725631/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "saunf",
+  "names": {
+   "common_en": "Fennel",
+   "hindi": "Saunf",
+   "sanskrit": "Mishreya (Madhurika)",
+   "latin": "Foeniculum vulgare Mill. (fruit/seed)",
+   "other": [
+    "sweet fennel",
+    "bitter fennel"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Saunf seeds / mukhwas",
+   "Fennel tea",
+   "Saunf ka arq (fennel distillate)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "The EU herbal monograph does not recommend medicinal fennel preparations during pregnancy because safety has not been established (estragole content). Normal culinary use is not covered by this caution.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "breastfeeding",
+    "note": "Not recommended in medicinal amounts while breastfeeding per the EU monograph; trans-anethole passes into breast milk.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "EU monograph: medicinal fennel not recommended under 4 years, and limited for ages 4-12 by estragole intake. Case reports link long-term fennel tea in infants to early breast development that resolved after stopping.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "A striking and frequent cause of premature thelarche in children: Foeniculum vulgare (J Pediatr Surg, 2008)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18970951/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Premature thelarche related to fennel tea consumption? (J Pediatr Endocrinol Metab, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24030028/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "allergy",
+    "note": "Avoid if allergic to plants of the carrot family (aniseed, caraway, celery, coriander, dill) or to mugwort pollen (cross-reactivity).",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antibiotic_chelating",
+    "severity": "minor",
+    "effect": "Medicinal amounts of fennel taken at the same time may reduce absorption of ciprofloxacin-type antibiotics.",
+    "mechanism": "In a rat study, fennel extract lowered ciprofloxacin peak levels by about 83% and exposure by about 48%, probably by metal-ion chelation. Animal data only; the EU monograph reports no human interactions.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your pharmacist may suggest taking the antibiotic a few hours apart from medicinal fennel preparations.",
+    "sources": [
+     {
+      "title": "Effect of oral administration of fennel (Foeniculum vulgare) on ciprofloxacin absorption and disposition in the rat (J Pharm Pharmacol, 1999)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10678493/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "minor",
+    "effect": "Concentrated fennel products have weak oestrogen-like activity; the effect on hormonal medicines is unknown.",
+    "mechanism": "Anethole and related compounds are considered weakly oestrogenic; supported by traditional reputation and paediatric case reports, not by interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Fennel and anise as estrogenic agents (J Ethnopharmacol, 1980)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6999244/",
+      "type": "peer_review"
+     },
+     {
+      "title": "A striking and frequent cause of premature thelarche in children: Foeniculum vulgare (J Pediatr Surg, 2008)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18970951/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "elaichi",
+  "names": {
+   "common_en": "Green cardamom",
+   "hindi": "Elaichi (chhoti elaichi)",
+   "sanskrit": "Ela (Sukshmaila)",
+   "latin": "Elettaria cardamomum (L.) Maton",
+   "other": [
+    "small cardamom"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Elaichi pods/powder",
+   "Eladi vati",
+   "Eladi churna"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the digestive and respiratory systems.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Aqueous cardamom extract inhibited human platelet aggregation in the test tube; a small uncontrolled study (3 g/day) reported increased fibrinolytic activity. No clinical interaction reports found.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Cardamom extract as inhibitor of human platelet aggregation (Phytother Res, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16106388/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum) (Indian J Biochem Biophys, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20361714/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Aqueous cardamom extract inhibited human platelet aggregation in the test tube; a small uncontrolled study (3 g/day) reported increased fibrinolytic activity. No clinical interaction reports found.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Cardamom extract as inhibitor of human platelet aggregation (Phytother Res, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16106388/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum) (Indian J Biochem Biophys, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20361714/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Aqueous cardamom extract inhibited human platelet aggregation in the test tube; a small uncontrolled study (3 g/day) reported increased fibrinolytic activity. No clinical interaction reports found.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Cardamom extract as inhibitor of human platelet aggregation (Phytother Res, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16106388/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum) (Indian J Biochem Biophys, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20361714/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "minor",
+    "effect": "Larger, supplement-level amounts may slightly add to blood-pressure lowering.",
+    "mechanism": "A small 12-week open-label study (3 g/day cardamom powder, 20 people) reported lower blood pressure; culinary amounts are unlikely to matter.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Watch for dizziness on standing.",
+    "sources": [
+     {
+      "title": "Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum) (Indian J Biochem Biophys, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20361714/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "laung",
+  "names": {
+   "common_en": "Clove",
+   "hindi": "Laung",
+   "sanskrit": "Lavanga",
+   "latin": "Syzygium aromaticum (L.) Merr. & L.M.Perry",
+   "other": [
+    "clove oil (eugenol)"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Clove buds",
+   "Clove oil (dental use)",
+   "Lavangadi vati"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the digestive system and oral freshness.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Clove oil (eugenol) in normal amounts has not been linked to liver injury, but swallowing large amounts, as in overdose, can cause severe liver injury.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LiverTox: Eugenol (Clove Oil)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551727/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Accidental swallowing of clove oil by young children has caused liver failure, seizures and clotting problems; keep clove oil out of reach of children.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Near fatal ingestion of oil of cloves (Arch Dis Child, 1993)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8215554/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Disseminated intravascular coagulation and hepatocellular necrosis due to clove oil (Blood Coagul Fibrinolysis, 1992)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1450336/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Early Administration of N-acetylcysteine in the Treatment of Clove Oil Ingestion (J Pediatr Gastroenterol Nutr, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29601442/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "bleeding",
+    "note": "Clove oil and its components (eugenol, acetyl eugenol) inhibit platelet aggregation in laboratory studies.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Inhibition of platelet aggregation and reduced formation of thromboxane and lipoxygenase products in platelets by oil of cloves (Prostaglandins Leukot Med, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3118394/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acetyl eugenol, a component of oil of cloves (Syzygium aromaticum L.) inhibits aggregation and alters arachidonic acid metabolism in human blood platelets (Prostaglandins Leukot Essent Fatty Acids, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2011614/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Eugenol and acetyl eugenol inhibit platelet aggregation and thromboxane formation in vitro; clove is listed among herbs that could theoretically add to warfarin's effect. Concentrated clove oil/supplements are of more concern than culinary use.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Inhibition of platelet aggregation and reduced formation of thromboxane and lipoxygenase products in platelets by oil of cloves (Prostaglandins Leukot Med, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3118394/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acetyl eugenol, a component of oil of cloves (Syzygium aromaticum L.) inhibits aggregation and alters arachidonic acid metabolism in human blood platelets (Prostaglandins Leukot Essent Fatty Acids, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2011614/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Eugenol Suppresses Platelet Activation and Mitigates Pulmonary Thromboembolism in Humans and Murine Models (Int J Mol Sci, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38396774/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Eugenol and acetyl eugenol inhibit platelet aggregation and thromboxane formation in vitro; clove is listed among herbs that could theoretically add to warfarin's effect. Concentrated clove oil/supplements are of more concern than culinary use.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Inhibition of platelet aggregation and reduced formation of thromboxane and lipoxygenase products in platelets by oil of cloves (Prostaglandins Leukot Med, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3118394/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acetyl eugenol, a component of oil of cloves (Syzygium aromaticum L.) inhibits aggregation and alters arachidonic acid metabolism in human blood platelets (Prostaglandins Leukot Essent Fatty Acids, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2011614/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Eugenol Suppresses Platelet Activation and Mitigates Pulmonary Thromboembolism in Humans and Murine Models (Int J Mol Sci, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38396774/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Eugenol and acetyl eugenol inhibit platelet aggregation and thromboxane formation in vitro; clove is listed among herbs that could theoretically add to warfarin's effect. Concentrated clove oil/supplements are of more concern than culinary use.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Inhibition of platelet aggregation and reduced formation of thromboxane and lipoxygenase products in platelets by oil of cloves (Prostaglandins Leukot Med, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3118394/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acetyl eugenol, a component of oil of cloves (Syzygium aromaticum L.) inhibits aggregation and alters arachidonic acid metabolism in human blood platelets (Prostaglandins Leukot Essent Fatty Acids, 1991)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2011614/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Eugenol Suppresses Platelet Activation and Mitigates Pulmonary Thromboembolism in Humans and Murine Models (Int J Mol Sci, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38396774/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "minor",
+    "effect": "Large amounts of clove oil can injure the liver; combining with other liver-stressing medicines could theoretically add to this.",
+    "mechanism": "Dose-related hepatotoxicity of eugenol in overdose; no interaction studies.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid swallowing clove oil.",
+    "sources": [
+     {
+      "title": "LiverTox: Eugenol (Clove Oil)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK551727/",
+      "type": "gov"
+     },
+     {
+      "title": "Near fatal ingestion of oil of cloves (Arch Dis Child, 1993)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8215554/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "jaiphal",
+  "names": {
+   "common_en": "Nutmeg",
+   "hindi": "Jaiphal",
+   "sanskrit": "Jatiphala",
+   "latin": "Myristica fragrans Houtt. (seed)",
+   "other": [
+    "mace (javitri, aril)"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Jaiphal powder",
+   "Jatiphaladi churna",
+   "Jatiphala-containing sleep or digestive blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda in small amounts for general wellbeing of the digestive system and for restful sleep.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Toxic in large doses: ingesting more than culinary amounts has caused hallucinations, agitation, fast heart rate, dry mouth, tremor and nausea, mainly attributed to myristicin.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Nutmeg poisonings: a retrospective review of 10 years experience from the Illinois Poison Center, 2001-2011 (J Med Toxicol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24452991/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acute nutmeg poisoning (Eur J Emerg Med, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15249817/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Nutmeg Poisoning With Electrolyte Abnormalities: A Case Report (Cureus, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39559662/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Poison-centre data show unintentional nutmeg exposures in children under 13; store powders and products out of reach.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Nutmeg poisonings: a retrospective review of 10 years experience from the Illinois Poison Center, 2001-2011 (J Med Toxicol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24452991/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "minor",
+    "effect": "Large amounts of nutmeg may add to drowsiness, confusion or other nervous-system effects of sedative medicines.",
+    "mechanism": "Psychoactive/anticholinergic-type effects of myristicin at high doses; poison-centre cases involving nutmeg plus other drugs needed more intervention. No controlled interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid more than culinary amounts.",
+    "sources": [
+     {
+      "title": "Nutmeg poisonings: a retrospective review of 10 years experience from the Illinois Poison Center, 2001-2011 (J Med Toxicol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24452991/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acute nutmeg poisoning (Eur J Emerg Med, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15249817/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticholinergic",
+    "severity": "minor",
+    "effect": "Large amounts of nutmeg may add to anticholinergic side effects (dry mouth, fast heart rate, confusion, urinary retention) of medicines such as oxybutynin, sedating antihistamines or TCAs.",
+    "mechanism": "Nutmeg poisoning produces anticholinergic-type symptoms, attributed mainly to myristicin; additive effect with anticholinergic drugs is inferred, not studied.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid more than culinary amounts.",
+    "sources": [
+     {
+      "title": "Acute nutmeg poisoning (Eur J Emerg Med, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15249817/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Nutmeg Poisoning With Electrolyte Abnormalities: A Case Report (Cureus, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39559662/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "minor",
+    "effect": "In theory, high-dose nutmeg could add to the effects of MAO-inhibitor medicines.",
+    "mechanism": "Myristicin and nutmeg showed monoamine oxidase inhibition in an early animal study; clinical relevance unknown.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Evidence of monoamine oxidase inhibition by myristicin and nutmeg (Proc Soc Exp Biol Med, 1963)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13994372/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp1a2_substrate",
+    "severity": "minor",
+    "effect": "Concentrated nutmeg products might raise levels of medicines cleared by CYP1A2 (e.g. theophylline, clozapine); culinary use is unlikely to matter.",
+    "mechanism": "Myristicin is a mechanism-based CYP1A2 inhibitor in human liver microsomes (in vitro only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Identification and characterization of reactive metabolites in myristicin-mediated mechanism-based inhibition of CYP1A2 (Chem Biol Interact, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26091900/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "nagarmotha",
+  "names": {
+   "common_en": "Nut grass (nutsedge)",
+   "hindi": "Nagarmotha",
+   "sanskrit": "Musta (Mustaka)",
+   "latin": "Cyperus rotundus L. (rhizome)",
+   "other": [
+    "mustak",
+    "motha",
+    "nagaramusta (sometimes Cyperus scariosus)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Mustakarishta",
+   "Musta churna",
+   "Mustadi kwath",
+   "Trimada (with chitrak and vidanga)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Rhizome compounds inhibit alpha-glucosidase and alpha-amylase in vitro; hypoglycaemic activity reported in animal studies only.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Inhibitors of α-glucosidase and α-amylase from Cyperus rotundus (Pharm Biol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24044731/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacology of Ativisha, Musta and their substitutes (J Ayurveda Integr Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26167002/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Rhizome compounds inhibit alpha-glucosidase and alpha-amylase in vitro; hypoglycaemic activity reported in animal studies only.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Inhibitors of α-glucosidase and α-amylase from Cyperus rotundus (Pharm Biol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24044731/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacology of Ativisha, Musta and their substitutes (J Ayurveda Integr Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26167002/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Rhizome compounds inhibit alpha-glucosidase and alpha-amylase in vitro; hypoglycaemic activity reported in animal studies only.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Inhibitors of α-glucosidase and α-amylase from Cyperus rotundus (Pharm Biol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24044731/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacology of Ativisha, Musta and their substitutes (J Ayurveda Integr Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26167002/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Ethanol extract and its component (+)-nootkatone inhibited platelet aggregation and prolonged bleeding time in rodents; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Antiplatelet effects of Cyperus rotundus and its component (+)-nootkatone (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21354294/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Ethanol extract and its component (+)-nootkatone inhibited platelet aggregation and prolonged bleeding time in rodents; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Antiplatelet effects of Cyperus rotundus and its component (+)-nootkatone (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21354294/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Ethanol extract and its component (+)-nootkatone inhibited platelet aggregation and prolonged bleeding time in rodents; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Antiplatelet effects of Cyperus rotundus and its component (+)-nootkatone (J Ethnopharmacol, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21354294/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "bala",
+  "names": {
+   "common_en": "Country mallow",
+   "hindi": "Bala (Kharenti)",
+   "sanskrit": "Bala",
+   "latin": "Sida cordifolia L.",
+   "other": [
+    "flannel weed"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Balarishta",
+   "Bala churna",
+   "Bala taila / Ksheerabala taila (external)",
+   "Bala-containing energy or weight-loss blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general strength, vitality and wellbeing of the musculoskeletal and nervous systems.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "May contain ephedrine alkaloids. FDA's 2004 rule banning ephedrine-alkaloid dietary supplements explicitly covers Sida cordifolia. Ephedra-type stimulants have been linked to high blood pressure, heart attack, stroke, seizure and psychosis; people with heart conditions are at higher risk.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "FDA Final Rule (69 FR 6787, 2004): dietary supplements containing ephedrine alkaloids adulterated - names Sida cordifolia as an ephedrine-alkaloid source",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2004-02-11/pdf/04-2912.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: Ephedra - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/ephedra",
+      "type": "gov"
+     },
+     {
+      "title": "Adverse cardiovascular and central nervous system events associated with dietary supplements containing ephedra alkaloids (N Engl J Med, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11117974/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Ephedrine-alkaloid products are considered unsafe in pregnancy and breastfeeding.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Ephedra - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/ephedra",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "surgery",
+    "note": "Ephedra-type stimulants can cause cardiovascular instability around anaesthesia.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Herbal medicines and perioperative care (JAMA, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11448284/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "major",
+    "effect": "May cause a dangerous rise in blood pressure (hypertensive reaction) with MAO-inhibitor antidepressants.",
+    "mechanism": "Sida cordifolia is named by FDA as a botanical source of ephedrine alkaloids; ephedrine raises blood pressure and heart rate. Alkaloid content of Bala products varies and is rarely labelled, so the size of the effect is uncertain. The ephedrine prescribing information lists MAOIs among drugs that augment its pressor effect.",
+    "evidence": "theoretical",
+    "advice": "Avoid this combination unless your doctor has approved it. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed: Akovaz (ephedrine sulfate) injection - prescribing information, section 7 Drug Interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e92f3eda-33eb-4b34-9e8b-db8d32a5dbd9",
+      "type": "gov"
+     },
+     {
+      "title": "FDA Final Rule (69 FR 6787, 2004): dietary supplements containing ephedrine alkaloids adulterated - names Sida cordifolia as an ephedrine-alkaloid source",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2004-02-11/pdf/04-2912.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antihypertensive",
+    "severity": "moderate",
+    "effect": "May raise blood pressure and work against blood-pressure medicines.",
+    "mechanism": "Sida cordifolia is named by FDA as a botanical source of ephedrine alkaloids; ephedrine raises blood pressure and heart rate. Alkaloid content of Bala products varies and is rarely labelled, so the size of the effect is uncertain. Alpha- and beta-blockers antagonise ephedrine's pressor effect per its label.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Monitor your blood pressure.",
+    "sources": [
+     {
+      "title": "DailyMed: Akovaz (ephedrine sulfate) injection - prescribing information, section 7 Drug Interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e92f3eda-33eb-4b34-9e8b-db8d32a5dbd9",
+      "type": "gov"
+     },
+     {
+      "title": "FDA Final Rule (69 FR 6787, 2004): dietary supplements containing ephedrine alkaloids adulterated - names Sida cordifolia as an ephedrine-alkaloid source",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2004-02-11/pdf/04-2912.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Adverse cardiovascular and central nervous system events associated with dietary supplements containing ephedra alkaloids (N Engl J Med, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11117974/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "May increase the risk of irregular heart rhythm with digoxin.",
+    "mechanism": "Sida cordifolia is named by FDA as a botanical source of ephedrine alkaloids; ephedrine raises blood pressure and heart rate. Alkaloid content of Bala products varies and is rarely labelled, so the size of the effect is uncertain. The ephedrine label warns that combining it with cardiac glycosides may increase arrhythmia risk.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed: Akovaz (ephedrine sulfate) injection - prescribing information, section 7 Drug Interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e92f3eda-33eb-4b34-9e8b-db8d32a5dbd9",
+      "type": "gov"
+     },
+     {
+      "title": "FDA Final Rule (69 FR 6787, 2004): dietary supplements containing ephedrine alkaloids adulterated - names Sida cordifolia as an ephedrine-alkaloid source",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2004-02-11/pdf/04-2912.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "theophylline",
+    "severity": "moderate",
+    "effect": "May increase nausea, nervousness and sleeplessness with theophylline.",
+    "mechanism": "Sida cordifolia is named by FDA as a botanical source of ephedrine alkaloids; ephedrine raises blood pressure and heart rate. Alkaloid content of Bala products varies and is rarely labelled, so the size of the effect is uncertain. Listed as an ephedrine interaction in its prescribing information.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed: Akovaz (ephedrine sulfate) injection - prescribing information, section 7 Drug Interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e92f3eda-33eb-4b34-9e8b-db8d32a5dbd9",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "anaesthesia_surgery",
+    "severity": "moderate",
+    "effect": "May cause blood-pressure and heart-rhythm instability during anaesthesia.",
+    "mechanism": "Sida cordifolia is named by FDA as a botanical source of ephedrine alkaloids; ephedrine raises blood pressure and heart rate. Alkaloid content of Bala products varies and is rarely labelled, so the size of the effect is uncertain. Ephedra is a recognised perioperative concern.",
+    "evidence": "theoretical",
+    "advice": "Tell your surgeon or anaesthetist; they may advise pausing Bala products before a planned procedure.",
+    "sources": [
+     {
+      "title": "Herbal medicines and perioperative care (JAMA, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11448284/",
+      "type": "peer_review"
+     },
+     {
+      "title": "DailyMed: Akovaz (ephedrine sulfate) injection - prescribing information, section 7 Drug Interactions",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e92f3eda-33eb-4b34-9e8b-db8d32a5dbd9",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "chitrak",
+  "names": {
+   "common_en": "Ceylon leadwort",
+   "hindi": "Chitrak (Chitra)",
+   "sanskrit": "Chitraka",
+   "latin": "Plumbago zeylanica L. (root)",
+   "other": [
+    "white leadwort"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Chitrakadi vati",
+   "Chitrak haritaki",
+   "Trimada",
+   "Chitraka churna (shodhita/purified)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda, after classical purification (shodhana), for general wellbeing of the digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "Root extract showed anti-implantation and abortifacient activity in rats; avoid during pregnancy or when trying to conceive.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Effect of plumbagin free alcohol extract of Plumbago zeylanica Linn. root on reproductive system of female Wistar rats (Asian Pac J Trop Med, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22118035/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Toxicity rises with plumbagin content: in rats, plumbagin-rich extracts were markedly more toxic and raised liver enzymes and urea. Classical purification is reported to lower plumbagin.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Comparative toxicity profiles of Plumbago zeylanica L. root petroleum ether, acetone and hydroalcoholic extracts in Wistar rats (Ayu, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27313422/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Ayurveda Detoxification Process Reduces Plumbagin from the Roots of Plumbago zeylanica L. - A RP-UFLC Analysis (J Chromatogr Sci, 2025)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39237121/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "liver",
+    "note": "Raised liver enzymes and organ-weight changes in sub-acute rat toxicity studies.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Comparative toxicity profiles of Plumbago zeylanica L. root petroleum ether, acetone and hydroalcoholic extracts in Wistar rats (Ayu, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27313422/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "moderate",
+    "effect": "Could raise blood levels of narrow-margin medicines cleared by CYP3A4 (e.g. tacrolimus, cyclosporine).",
+    "mechanism": "Plumbagin inhibits CYP3A4 (and other CYPs) at low micromolar concentrations in human liver microsomes; in vitro only, human relevance unknown.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your doctor may need to check drug levels.",
+    "sources": [
+     {
+      "title": "Evaluation of the inhibition potential of plumbagin against cytochrome P450 using LC-MS/MS and cocktail approach (Sci Rep, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27329697/",
+      "type": "peer_review"
+     },
+     {
+      "title": "In vitro inhibitory effects of plumbagin, the promising antimalarial candidate, on human cytochrome P450 enzymes (Asian Pac J Trop Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26614990/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "minor",
+    "effect": "Could raise blood levels of medicines cleared by CYP2C19 (e.g. omeprazole, citalopram) or reduce activation of clopidogrel.",
+    "mechanism": "Plumbagin inhibited CYP2C19-mediated omeprazole hydroxylation most potently of the CYPs tested (IC50 about 0.8 micromolar) in human liver microsomes; in vitro only.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "In vitro inhibitory effects of plumbagin, the promising antimalarial candidate, on human cytochrome P450 enzymes (Asian Pac J Trop Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26614990/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c9_substrate",
+    "severity": "minor",
+    "effect": "Could raise blood levels of medicines cleared by CYP2C9 (e.g. warfarin, some sulfonylureas).",
+    "mechanism": "Plumbagin was a mixed CYP2C9 inhibitor in human liver microsomes (in vitro only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Evaluation of the inhibition potential of plumbagin against cytochrome P450 using LC-MS/MS and cocktail approach (Sci Rep, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27329697/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2d6_substrate",
+    "severity": "minor",
+    "effect": "Could raise blood levels of medicines cleared by CYP2D6.",
+    "mechanism": "Plumbagin was a mixed CYP2D6 inhibitor in human liver microsomes (in vitro only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Evaluation of the inhibition potential of plumbagin against cytochrome P450 using LC-MS/MS and cocktail approach (Sci Rep, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27329697/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp1a2_substrate",
+    "severity": "minor",
+    "effect": "Could raise blood levels of medicines cleared by CYP1A2.",
+    "mechanism": "Plumbagin inhibited CYP1A2 in human liver microsomes (in vitro only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Evaluation of the inhibition potential of plumbagin against cytochrome P450 using LC-MS/MS and cocktail approach (Sci Rep, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27329697/",
+      "type": "peer_review"
+     },
+     {
+      "title": "In vitro inhibitory effects of plumbagin, the promising antimalarial candidate, on human cytochrome P450 enzymes (Asian Pac J Trop Med, 2015)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26614990/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Plumbagin inhibited platelet aggregation in vitro and after oral dosing in rats; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Effects of plumbagin on platelet aggregation and platelet-neutrophil interactions (Planta Med, 2003)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12898414/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Plumbagin inhibited platelet aggregation in vitro and after oral dosing in rats; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Effects of plumbagin on platelet aggregation and platelet-neutrophil interactions (Planta Med, 2003)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12898414/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Plumbagin inhibited platelet aggregation in vitro and after oral dosing in rats; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Effects of plumbagin on platelet aggregation and platelet-neutrophil interactions (Planta Med, 2003)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12898414/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Plumbagin lowered blood glucose in diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antidiabetic effect of plumbagin isolated from Plumbago zeylanica L. root and its effect on GLUT4 translocation in streptozotocin-induced diabetic rats (Food Chem Toxicol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22960630/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Plumbagin lowered blood glucose in diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antidiabetic effect of plumbagin isolated from Plumbago zeylanica L. root and its effect on GLUT4 translocation in streptozotocin-induced diabetic rats (Food Chem Toxicol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22960630/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Plumbagin lowered blood glucose in diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antidiabetic effect of plumbagin isolated from Plumbago zeylanica L. root and its effect on GLUT4 translocation in streptozotocin-induced diabetic rats (Food Chem Toxicol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22960630/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "minor",
+    "effect": "May counteract oestrogen-containing medicines.",
+    "mechanism": "A plumbagin-free root extract showed anti-oestrogenic activity against ethinyl estradiol in rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effect of plumbagin free alcohol extract of Plumbago zeylanica Linn. root on reproductive system of female Wistar rats (Asian Pac J Trop Med, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22118035/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "nirgundi",
+  "names": {
+   "common_en": "Five-leaved chaste tree",
+   "hindi": "Nirgundi (Sambhalu)",
+   "sanskrit": "Nirgundi",
+   "latin": "Vitex negundo L. (leaf)",
+   "other": []
+  },
+  "kind": "herb",
+  "common_products": [
+   "Nirgundi taila (external)",
+   "Nirgundi ghan vati",
+   "Nirgundi patra kwath"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the joints and musculoskeletal system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extract and an isolated iridoid glucoside lowered blood glucose in mice and diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antihyperglycemic effect of iridoid glucoside, isolated from the leaves of Vitex negundo in streptozotocin-induced diabetic rats with special reference to glycoprotein components (Phytomedicine, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22112721/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Comparative anti-hyperglycemic potentials of medicinal plants (J Ethnopharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16253452/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extract and an isolated iridoid glucoside lowered blood glucose in mice and diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antihyperglycemic effect of iridoid glucoside, isolated from the leaves of Vitex negundo in streptozotocin-induced diabetic rats with special reference to glycoprotein components (Phytomedicine, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22112721/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Comparative anti-hyperglycemic potentials of medicinal plants (J Ethnopharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16253452/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extract and an isolated iridoid glucoside lowered blood glucose in mice and diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antihyperglycemic effect of iridoid glucoside, isolated from the leaves of Vitex negundo in streptozotocin-induced diabetic rats with special reference to glycoprotein components (Phytomedicine, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22112721/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Comparative anti-hyperglycemic potentials of medicinal plants (J Ethnopharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16253452/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "rasna",
+  "names": {
+   "common_en": "Rasna",
+   "hindi": "Rasna (Rayasana)",
+   "sanskrit": "Rasna",
+   "latin": "Pluchea lanceolata (DC.) Oliv. & Hiern (leaf)",
+   "other": [
+    "Alpinia galanga and Vanda roxburghii are also sold as 'rasna' in some regions"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Rasnadi kwath",
+   "Rasnasaptak kwath",
+   "Maharasnadi kwath",
+   "Rasnadi guggulu"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the joints and musculoskeletal system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "minor",
+    "effect": "May add to the immune-suppressing effect of these medicines.",
+    "mechanism": "Leaf extract suppressed humoral and cell-mediated immune responses and delayed graft rejection in mice (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Immunosuppressive properties of Pluchea lanceolata leaves (Indian J Pharmacol, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20606832/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "devdaru",
+  "names": {
+   "common_en": "Himalayan cedar (deodar)",
+   "hindi": "Devdar",
+   "sanskrit": "Devadaru",
+   "latin": "Cedrus deodara (Roxb. ex D.Don) G.Don (heartwood)",
+   "other": []
+  },
+  "kind": "herb",
+  "common_products": [
+   "Devdarvyadi kwath",
+   "Devadarvarishta",
+   "Devdaru oil (external)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the joints and respiratory system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "Root oil given orally to rats caused irritation and erosion of the stomach and intestinal lining; avoid swallowing the essential oil.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Assessment of Cedrus deodara root oil on the histopathological changes in the gastrointestinal tissues in rats (Pak J Pharm Sci, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23625432/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Antidiabetic activity is reported for extracts and fractions in animal studies, as summarised in a 2021 review; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Cedrus deodara (Roxb. ex D.Don) G.Don: A review of traditional use, phytochemical composition and pharmacology (J Ethnopharmacol, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34166738/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Antidiabetic activity is reported for extracts and fractions in animal studies, as summarised in a 2021 review; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Cedrus deodara (Roxb. ex D.Don) G.Don: A review of traditional use, phytochemical composition and pharmacology (J Ethnopharmacol, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34166738/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Antidiabetic activity is reported for extracts and fractions in animal studies, as summarised in a 2021 review; no human data.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Cedrus deodara (Roxb. ex D.Don) G.Don: A review of traditional use, phytochemical composition and pharmacology (J Ethnopharmacol, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34166738/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "jyotishmati",
+  "names": {
+   "common_en": "Black oil plant / staff tree",
+   "hindi": "Malkangni",
+   "sanskrit": "Jyotishmati",
+   "latin": "Celastrus paniculatus Willd. (seed)",
+   "other": [
+    "intellect tree"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Jyotishmati taila (seed oil)",
+   "Jyotishmati seed powder",
+   "Memory/brain-tonic blends"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of memory and the nervous system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Seed oil given by injection to rats for 30 days caused focal liver necrosis, which reversed after stopping.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Antispermatogenic action of Celastrus paniculatus seed extract in the rat with reversible changes in the liver (J Ethnopharmacol, 1990)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2335957/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Seed oil had antispermatogenic (anti-fertility) effects in male rats; relevance to people at usual doses is unknown.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Antispermatogenic action of Celastrus paniculatus seed extract in the rat with reversible changes in the liver (J Ethnopharmacol, 1990)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2335957/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidepressant_ssri_snri",
+    "severity": "minor",
+    "effect": "Could theoretically alter the effect of medicines that act on brain serotonin, noradrenaline or dopamine.",
+    "mechanism": "Seed oil decreased brain noradrenaline, dopamine and serotonin turnover in rats; no interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effects of Celastrus paniculatus on passive avoidance performance and biogenic amine turnover in albino rats (J Ethnopharmacol, 1995)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7500635/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "vidari_kand",
+  "names": {
+   "common_en": "Indian kudzu",
+   "hindi": "Vidarikand (Bilai kand)",
+   "sanskrit": "Vidari",
+   "latin": "Pueraria tuberosa (Willd.) DC. (tuber)",
+   "other": [
+    "Ipomoea digitata is also traded as 'vidari'"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Vidarikand churna",
+   "Vidaryadi kwath / ghrita",
+   "Ingredient of Chyawanprash"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda as a rejuvenating tonic for general strength and vitality.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "The tuber is rich in isoflavones (puerarin, genistein, daidzein), which have oestrogen-like activity; people with hormone-sensitive conditions should seek advice before using concentrated products.",
+    "evidence": "theoretical",
+    "sources": [
+     {
+      "title": "Pueraria tuberosa: a review on its phytochemical and therapeutic potential (Nat Prod Res, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24980468/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "minor",
+    "effect": "Plant isoflavones could theoretically add to or compete with oestrogen-containing medicines.",
+    "mechanism": "Isoflavone phyto-oestrogen content; no interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Pueraria tuberosa: a review on its phytochemical and therapeutic potential (Nat Prod Res, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24980468/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticancer",
+    "severity": "minor",
+    "effect": "Phyto-oestrogens could theoretically interfere with hormone-based cancer medicines (e.g. tamoxifen, aromatase inhibitors).",
+    "mechanism": "Isoflavone phyto-oestrogen content; no interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Tell your oncology team about all supplements.",
+    "sources": [
+     {
+      "title": "Pueraria tuberosa: a review on its phytochemical and therapeutic potential (Nat Prod Res, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24980468/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Puerarin (a major isoflavone in this tuber) inhibited platelet aggregation in early laboratory studies (studied from Pueraria lobata); no data for Vidari products.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "[Pharmacology of puerarin. V. Effects of puerarin on platelet aggregation and release of 5-HT from platelets] (Zhongguo Yi Xue Ke Xue Yuan Xue Bao, 1981)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6459876/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pueraria tuberosa: a review on its phytochemical and therapeutic potential (Nat Prod Res, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24980468/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kantakari",
+  "names": {
+   "common_en": "Yellow-berried nightshade",
+   "hindi": "Kateri (Bhatkatiya)",
+   "sanskrit": "Kantakari",
+   "latin": "Solanum virginianum L. (syn. S. xanthocarpum Schrad. & H.Wendl.)",
+   "other": [
+    "Solanum surattense"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Kantakari avaleha",
+   "Kantakaryadi kwath",
+   "Vyaghri haritaki",
+   "Ingredient of Dashmool"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the respiratory system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "diuretic_loop_thiazide",
+    "severity": "minor",
+    "effect": "May add to fluid loss and electrolyte changes with diuretic ('water') tablets.",
+    "mechanism": "Root extract (400 mg/kg) had diuretic activity comparable to furosemide in rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Diuretic potential of aqueous extract of roots of Solanum xanthocarpum Schrad & Wendl, a preliminary study (Indian J Exp Biol, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24266108/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extracts lowered blood glucose in diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antihyperglycemic and antioxidant effects of Solanum xanthocarpum leaves (field grown & in vitro raised) extracts on alloxan induced diabetic rats (Asian Pac J Trop Med, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22014732/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extracts lowered blood glucose in diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antihyperglycemic and antioxidant effects of Solanum xanthocarpum leaves (field grown & in vitro raised) extracts on alloxan induced diabetic rats (Asian Pac J Trop Med, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22014732/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extracts lowered blood glucose in diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Antihyperglycemic and antioxidant effects of Solanum xanthocarpum leaves (field grown & in vitro raised) extracts on alloxan induced diabetic rats (Asian Pac J Trop Med, 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22014732/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Leaf extract inhibited thrombin activity and thrombin generation in vitro at high concentrations; it did not inhibit platelet adhesion.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Evaluation of Antithrombotic Activities of Solanum xanthocarpum and Tinospora cordifolia (Pharmacognosy Res, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29568195/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Leaf extract inhibited thrombin activity and thrombin generation in vitro at high concentrations; it did not inhibit platelet adhesion.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Evaluation of Antithrombotic Activities of Solanum xanthocarpum and Tinospora cordifolia (Pharmacognosy Res, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29568195/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "varun",
+  "names": {
+   "common_en": "Three-leaved caper",
+   "hindi": "Varun (Barna)",
+   "sanskrit": "Varuna",
+   "latin": "Crateva nurvala Buch.-Ham. (syn. Crataeva nurvala; stem bark)",
+   "other": [
+    "Crateva religiosa",
+    "Crateva magna"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Varunadi kwath",
+   "Varunadi vati",
+   "Varun bark churna"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the urinary system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "minor",
+    "effect": "Could theoretically add to drowsiness from sedative medicines.",
+    "mechanism": "Leaf extract reduced locomotor activity and anxiety-like behaviour in mice, possibly via GABAergic pathways (animal data, leaf not the bark used in Ayurveda).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "The leaves of Crataeva nurvala Buch-Ham. modulate locomotor and anxiety behaviors possibly through GABAergic system (BMC Complement Altern Med, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30340574/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "pashanbhed",
+  "names": {
+   "common_en": "Bergenia (elephant-ears)",
+   "hindi": "Pashanbhed (Patharchur)",
+   "sanskrit": "Pashanabheda",
+   "latin": "Bergenia ligulata (Wall.) Engl. (rhizome)",
+   "other": [
+    "Saxifraga ligulata"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Pashanbhedadi kwath",
+   "Pashanbhed churna",
+   "Multi-herb urinary-wellness tablets containing pashanbhed"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the urinary system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "other",
+    "note": "The name 'Pashanbhed' is applied to several different plants in trade (Bergenia ligulata, Kalanchoe pinnata, Coleus aromaticus, Rotula aquatica), so product identity and safety can vary.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Comparative pharmacognosy of Pashanbhed (J Ayurveda Integr Med, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24948861/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "diuretic_loop_thiazide",
+    "severity": "minor",
+    "effect": "May add to fluid and salt loss with diuretic ('water') tablets.",
+    "mechanism": "Rhizome extract caused diuresis with increased salt excretion in rats; plants sold as Pashanbhed also showed diuresis in rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Antiurolithic effect of Bergenia ligulata rhizome: an explanation of the underlying mechanisms (J Ethnopharmacol, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19118615/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Comparative pharmacognosy of Pashanbhed (J Ayurveda Integr Med, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24948861/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "khadira",
+  "names": {
+   "common_en": "Catechu (cutch)",
+   "hindi": "Katha / Kattha (Khair)",
+   "sanskrit": "Khadira",
+   "latin": "Senegalia catechu (L.f.) P.J.H.Hurter & Mabb. (syn. Acacia catechu; heartwood extract)",
+   "other": []
+  },
+  "kind": "herb",
+  "common_products": [
+   "Khadirarishta",
+   "Khadiradi vati",
+   "Kattha (used in paan)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the skin and oral cavity.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Flavocoxid, a prescription medical food made from Acacia catechu catechins plus Scutellaria baicalin, was linked to clinically significant (reversible) liver injury in a US DILIN case series; which component was responsible is not known.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "LiverTox: Flavocoxid",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548129/",
+      "type": "gov"
+     },
+     {
+      "title": "Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series (Ann Intern Med, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22711078/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "minor",
+    "effect": "Concentrated catechin extracts may add to liver stress from other liver-affecting medicines.",
+    "mechanism": "Based on liver injury reported with flavocoxid (A. catechu catechins + baicalin); no data for traditional Khadira preparations.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Report yellowing of the eyes or skin, dark urine or unusual tiredness.",
+    "sources": [
+     {
+      "title": "LiverTox: Flavocoxid",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548129/",
+      "type": "gov"
+     },
+     {
+      "title": "Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series (Ann Intern Med, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22711078/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "iron_mineral_supplement",
+    "severity": "minor",
+    "effect": "Tannin-rich catechu taken with meals or iron tablets may reduce iron absorption.",
+    "mechanism": "Catechin and tannin-type phenolics bind non-haem iron in the gut and reduce its absorption (human iron-absorption studies of phenolics; not specific to catechu).",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your pharmacist may suggest separating them by a couple of hours.",
+    "sources": [
+     {
+      "title": "Iron absorption and phenolic compounds: importance of different phenolic structures (Eur J Clin Nutr, 1989)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2598894/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kanchnar",
+  "names": {
+   "common_en": "Orchid tree (mountain ebony)",
+   "hindi": "Kachnar",
+   "sanskrit": "Kanchanara",
+   "latin": "Bauhinia variegata L. (stem bark)",
+   "other": []
+  },
+  "kind": "herb",
+  "common_products": [
+   "Kanchnar guggulu",
+   "Kanchnar bark churna / kwath"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the lymphatic and glandular systems.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extract lowered plasma glucose in diabetic rats, and an extract and its constituent roseoside increased insulin release from beta-cells in vitro (no human data; bark is the part used in Ayurveda).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Bauhinia variegata (Caesalpiniaceae) leaf extract: An effective treatment option in type I and type II diabetes (Biomed Pharmacother, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27470559/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Enhancement of insulin release from the beta-cell line INS-1 by an ethanolic extract of Bauhinia variegata and its major constituent roseoside (Planta Med, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20143296/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extract lowered plasma glucose in diabetic rats, and an extract and its constituent roseoside increased insulin release from beta-cells in vitro (no human data; bark is the part used in Ayurveda).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Bauhinia variegata (Caesalpiniaceae) leaf extract: An effective treatment option in type I and type II diabetes (Biomed Pharmacother, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27470559/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Enhancement of insulin release from the beta-cell line INS-1 by an ethanolic extract of Bauhinia variegata and its major constituent roseoside (Planta Med, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20143296/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Leaf extract lowered plasma glucose in diabetic rats, and an extract and its constituent roseoside increased insulin release from beta-cells in vitro (no human data; bark is the part used in Ayurveda).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Bauhinia variegata (Caesalpiniaceae) leaf extract: An effective treatment option in type I and type II diabetes (Biomed Pharmacother, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27470559/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Enhancement of insulin release from the beta-cell line INS-1 by an ethanolic extract of Bauhinia variegata and its major constituent roseoside (Planta Med, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20143296/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "bael",
+  "names": {
+   "common_en": "Bael (stone apple)",
+   "hindi": "Bel / Bael",
+   "sanskrit": "Bilva",
+   "latin": "Aegle marmelos (L.) Corrêa",
+   "other": [
+    "bengal quince",
+    "wood apple (in some regions)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Bilvadi churna",
+   "Bilva avaleha",
+   "Bael murabba / sharbat",
+   "Ingredient of Dashmool (root)"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda for general wellbeing of the digestive system.",
+  "traditional_source_type": "API monograph",
+  "general_safety": [
+   {
+    "flag": "thyroid",
+    "note": "Leaf extract and its constituent scopoletin lowered thyroid hormone levels in mice and rats; relevance to people is unknown.",
+    "evidence": "preclinical",
+    "sources": [
+     {
+      "title": "Relative efficacy of three medicinal plant extracts in the alteration of thyroid hormone concentrations in male mice (J Ethnopharmacol, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12065164/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Evaluation of the antithyroid, antioxidative and antihyperglycemic activity of scopoletin from Aegle marmelos leaves in hyperthyroid rats (Phytother Res, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17078113/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Seed and bark extracts lowered blood glucose in normal and diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Hypoglycemic and antihyperglycemic activity of Aegle marmelos seed extract in normal and diabetic rats (J Ethnopharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16781099/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Seed and bark extracts lowered blood glucose in normal and diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Hypoglycemic and antihyperglycemic activity of Aegle marmelos seed extract in normal and diabetic rats (J Ethnopharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16781099/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Seed and bark extracts lowered blood glucose in normal and diabetic rats (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Hypoglycemic and antihyperglycemic activity of Aegle marmelos seed extract in normal and diabetic rats (J Ethnopharmacol, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16781099/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "thyroid_hormone",
+    "severity": "minor",
+    "effect": "Concentrated leaf products could theoretically work against thyroid-hormone replacement.",
+    "mechanism": "Leaf extract and scopoletin reduced circulating thyroid hormones in rodents (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your doctor may want to recheck thyroid levels if you start or stop it.",
+    "sources": [
+     {
+      "title": "Relative efficacy of three medicinal plant extracts in the alteration of thyroid hormone concentrations in male mice (J Ethnopharmacol, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12065164/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Evaluation of the antithyroid, antioxidative and antihyperglycemic activity of scopoletin from Aegle marmelos leaves in hyperthyroid rats (Phytother Res, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17078113/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antithyroid",
+    "severity": "minor",
+    "effect": "Concentrated leaf products could theoretically add to the effect of antithyroid medicines.",
+    "mechanism": "Leaf extract and scopoletin reduced circulating thyroid hormones in hyperthyroid rodents (animal data only).",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Relative efficacy of three medicinal plant extracts in the alteration of thyroid hormone concentrations in male mice (J Ethnopharmacol, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12065164/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Evaluation of the antithyroid, antioxidative and antihyperglycemic activity of scopoletin from Aegle marmelos leaves in hyperthyroid rats (Phytother Res, 2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17078113/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "kokum",
+  "names": {
+   "common_en": "Kokum",
+   "hindi": "Kokum",
+   "sanskrit": "Vrikshamla",
+   "latin": "Garcinia indica (Thouars) Choisy (fruit rind)",
+   "other": [
+    "Vrikshamla is also applied to Garcinia gummi-gutta in some texts"
+   ]
+  },
+  "kind": "food_spice",
+  "common_products": [
+   "Kokum sherbet / agal",
+   "Dried kokum rind (amsul)",
+   "Kokum butter (external)",
+   "Garcinia indica / HCA extract capsules"
+  ],
+  "traditional_context": "Traditionally used in Ayurveda and coastal Indian cooking for general wellbeing of the digestive system.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Kokum contains hydroxycitric acid (HCA), the same marketed constituent as Garcinia cambogia weight-loss supplements, which have been linked to liver injury. No liver injury reports were found for kokum food use; caution applies mainly to concentrated HCA extracts.",
+    "evidence": "theoretical",
+    "sources": [
+     {
+      "title": "Pharmacological Activity of Garcinia indica (Kokum): An Updated Review (Pharmaceuticals (Basel), 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34959738/",
+      "type": "peer_review"
+     },
+     {
+      "title": "LiverTox: Garcinia Cambogia",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548087/",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidepressant_ssri_snri",
+    "severity": "minor",
+    "effect": "Concentrated HCA extracts could theoretically add to serotonin effects.",
+    "mechanism": "Extrapolated from a case of serotonin toxicity with Garcinia cambogia (HCA) plus an SSRI; no data for kokum.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Serotonin toxicity associated with Garcinia cambogia over-the-counter supplement (J Med Toxicol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24699886/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Pharmacological Activity of Garcinia indica (Kokum): An Updated Review (Pharmaceuticals (Basel), 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34959738/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "minor",
+    "effect": "Concentrated HCA extracts could theoretically add to liver stress from liver-affecting medicines.",
+    "mechanism": "Extrapolated from liver injury with Garcinia cambogia (HCA) supplements; no data for kokum.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "LiverTox: Garcinia Cambogia",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548087/",
+      "type": "gov"
+     },
+     {
+      "title": "Pharmacological Activity of Garcinia indica (Kokum): An Updated Review (Pharmaceuticals (Basel), 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34959738/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "poor",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "garcinia_cambogia",
+  "names": {
+   "common_en": "Garcinia cambogia (Malabar tamarind)",
+   "hindi": "",
+   "sanskrit": "",
+   "latin": "Garcinia gummi-gutta (L.) Roxb. (syn. G. cambogia; fruit rind extract, hydroxycitric acid)",
+   "other": [
+    "brindle berry",
+    "kudampuli",
+    "HCA"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Garcinia cambogia / HCA weight-management capsules",
+   "Multi-ingredient fat-burner blends (often with green tea extract)"
+  ],
+  "traditional_context": "The fruit rind is a traditional souring agent in South Indian cooking; concentrated extracts are sold as weight-management supplements.",
+  "traditional_source_type": "brand literature",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Linked to clinically apparent acute liver injury that can be severe and occasionally fatal or require transplant, alone or combined with green tea extract.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LiverTox: Garcinia Cambogia",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548087/",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: Garcinia Cambogia - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/garcinia-cambogia",
+      "type": "gov"
+     },
+     {
+      "title": "Garcinia cambogia, Either Alone or in Combination With Green Tea, Causes Moderate to Severe Liver Injury (Clin Gastroenterol Hepatol, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34400337/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Acute liver injury following Garcinia cambogia weight-loss supplementation: case series and literature review (Intern Emerg Med, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29802521/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Case reports of mania (sometimes with psychosis) after starting Garcinia cambogia products.",
+    "evidence": "case_reports",
+    "sources": [
+     {
+      "title": "Mania Induced by Garcinia cambogia: A Case Series (Prim Care Companion CNS Disord, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27486540/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Possible Garcinia cambogia-Induced Mania With Psychosis: A Case Report (J Pharm Pract, 2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28982303/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "FDA has found weight-loss products labelled as Garcinia cambogia that contained hidden sibutramine, a withdrawn drug that can raise blood pressure and heart rate.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "FDA Public Notification: Fruta Planta Life (Garcinia Cambogia Premium) contains hidden drug ingredient (sibutramine)",
+      "url": "https://www.fda.gov/drugs/medication-health-fraud/public-notification-fruta-planta-life-garcinia-cambogia-premium-contains-hidden-drug-ingredient",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Little is known about safety in pregnancy or breastfeeding.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Garcinia Cambogia - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/garcinia-cambogia",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antidepressant_ssri_snri",
+    "severity": "moderate",
+    "effect": "May increase the risk of serotonin toxicity (agitation, tremor, fever, fast heart rate) with SSRI/SNRI antidepressants.",
+    "mechanism": "Case report of serotonin toxicity with Garcinia cambogia plus escitalopram; HCA is proposed to raise serotonin availability. NCCIH notes reported interactions with drugs affecting serotonin.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Seek urgent care for agitation, shaking, fever or a racing heart.",
+    "sources": [
+     {
+      "title": "Serotonin toxicity associated with Garcinia cambogia over-the-counter supplement (J Med Toxicol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24699886/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Garcinia Cambogia - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/garcinia-cambogia",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "moderate",
+    "effect": "Could theoretically increase serotonin-related side effects with MAO-inhibitor antidepressants.",
+    "mechanism": "Extrapolated from serotonergic case reports with SSRIs; no direct data.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Serotonin toxicity associated with Garcinia cambogia over-the-counter supplement (J Med Toxicol, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24699886/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Garcinia Cambogia - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/garcinia-cambogia",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "moderate",
+    "effect": "May add to liver injury risk with other liver-affecting medicines (e.g. methotrexate, high-dose paracetamol, valproate).",
+    "mechanism": "Product-associated hepatotoxicity; NCCIH notes reported interactions with some drugs affecting the liver.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Report yellowing of the eyes or skin, dark urine or unusual tiredness.",
+    "sources": [
+     {
+      "title": "NCCIH: Garcinia Cambogia - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/garcinia-cambogia",
+      "type": "gov"
+     },
+     {
+      "title": "LiverTox: Garcinia Cambogia",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548087/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antitubercular",
+    "severity": "moderate",
+    "effect": "May add to liver injury risk with liver-affecting TB medicines (isoniazid, rifampicin, pyrazinamide).",
+    "mechanism": "Additive hepatotoxicity reasoning from Garcinia-associated liver injury; no direct reports.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "LiverTox: Garcinia Cambogia",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548087/",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: Garcinia Cambogia - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/garcinia-cambogia",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "green_tea_extract",
+  "names": {
+   "common_en": "Green tea (extract)",
+   "hindi": "Hari chai",
+   "sanskrit": "",
+   "latin": "Camellia sinensis (L.) Kuntze, unfermented leaf",
+   "other": [
+    "EGCG",
+    "matcha"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Green tea extract capsules (EGCG)",
+   "Weight-management blends containing green tea extract",
+   "Green tea / matcha beverages"
+  ],
+  "traditional_context": "Green tea is a traditional beverage in East Asia; concentrated extracts are sold for general wellness and weight management.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "liver",
+    "note": "Green tea extracts (and, rarely, very large amounts of tea) have been implicated in acute liver injury, including liver failure needing transplant. EFSA found that 800 mg/day or more of EGCG from supplements raised liver enzymes.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "LiverTox: Green Tea",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547925/",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: Green Tea - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/green-tea",
+      "type": "gov"
+     },
+     {
+      "title": "Scientific opinion on the safety of green tea catechins (EFSA J, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32625874/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "pregnancy",
+    "note": "Contains caffeine; keep caffeine intake moderate in pregnancy. The EU monograph does not recommend medicinal use in pregnancy or breastfeeding.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Green Tea - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/green-tea",
+      "type": "gov"
+     },
+     {
+      "title": "EMA HMPC: Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Caffeine-containing; EU monograph contraindicates medicinal use with high blood pressure, irregular heartbeat or stomach/duodenal ulcers, and advises against bedtime use. Extracts can raise blood pressure.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: Green Tea - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/green-tea",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "thyroid",
+    "note": "EU monograph lists an overactive thyroid as a contraindication for medicinal green tea preparations (caffeine).",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "type": "gov"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "antihypertensive",
+    "severity": "moderate",
+    "effect": "May sharply lower blood levels of some blood-pressure medicines (nadolol, lisinopril), making them less effective.",
+    "mechanism": "Catechins (EGCG) inhibit intestinal uptake transporters (OATP1A2); in healthy volunteers green tea cut nadolol exposure by about 85% and green tea extract cut lisinopril exposure by about two-thirds. A similar effect occurred with fexofenadine.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Avoid taking them at the same time and monitor your blood pressure.",
+    "sources": [
+     {
+      "title": "Green tea ingestion greatly reduces plasma concentrations of nadolol in healthy subjects (Clin Pharmacol Ther, 2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24419562/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Impact of Green Tea Catechin Ingestion on the Pharmacokinetics of Lisinopril in Healthy Volunteers (Clin Transl Sci, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33048477/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Green tea and nadolol interaction: A risk of therapeutic inefficiency, a case report and extensive review (Therapie, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37951784/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Green Tea - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/green-tea",
+      "type": "gov"
+     },
+     {
+      "title": "Exposure of Fexofenadine, but Not Pseudoephedrine, Is Markedly Decreased by Green Tea Extract in Healthy Volunteers (Clin Pharmacol Ther, 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35678032/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "statin",
+    "severity": "minor",
+    "effect": "May modestly lower blood levels of atorvastatin.",
+    "mechanism": "Green tea extract (300-600 mg) reduced atorvastatin exposure by about 22-24% in healthy volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effects of Green Tea Extract on Atorvastatin Pharmacokinetics in Healthy Volunteers (Eur J Drug Metab Pharmacokinet, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31997084/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Green Tea - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/green-tea",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "moderate",
+    "effect": "Very large amounts of green tea may weaken warfarin's effect (lower INR).",
+    "mechanism": "Case report: INR fell from 3.79 to 1.37 after drinking 0.5-1 gallon of green tea daily, attributed to vitamin K; INR recovered after stopping the tea. Extracts generally contain little vitamin K.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Keep tea intake steady; your INR may need checking if your intake changes.",
+    "sources": [
+     {
+      "title": "Probable antagonism of warfarin by green tea (Ann Pharmacother, 1999)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10332534/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Potential interactions between alternative therapies and warfarin (Am J Health Syst Pharm, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10902065/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticancer",
+    "severity": "moderate",
+    "effect": "Green tea polyphenols may block the effect of bortezomib and related boronic-acid cancer medicines.",
+    "mechanism": "EGCG binds the boronic acid group and prevented bortezomib-induced tumour cell death in cell and mouse studies (preclinical, but on-target).",
+    "evidence": "preclinical",
+    "advice": "Tell your oncology team before using green tea extracts during cancer treatment. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Green tea polyphenols block the anticancer effects of bortezomib and other boronic acid-based proteasome inhibitors (Blood, 2009)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19190249/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "moderate",
+    "effect": "May add to liver injury risk with other liver-affecting medicines.",
+    "mechanism": "Idiosyncratic hepatotoxicity of concentrated green tea catechins; EGCG at 800 mg/day or more raises transaminases.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Report yellowing of the eyes or skin, dark urine or unusual tiredness.",
+    "sources": [
+     {
+      "title": "LiverTox: Green Tea",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547925/",
+      "type": "gov"
+     },
+     {
+      "title": "Scientific opinion on the safety of green tea catechins (EFSA J, 2018)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32625874/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "minor",
+    "effect": "Heavy green tea intake might alter tacrolimus levels.",
+    "mechanism": "Single case report of supratherapeutic tacrolimus levels in a liver-transplant patient drinking large amounts of home-made green tea with orange extract; mechanism (CYP3A4/P-gp) not confirmed.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Keep intake steady; your doctor may check drug levels.",
+    "sources": [
+     {
+      "title": "Brewing an Interaction: Non-commercial Green Tea-Associated Supratherapeutic Tacrolimus Levels Presenting With Gastrointestinal Symptoms (Cureus, 2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42226872/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "minor",
+    "effect": "Caffeine in green tea may reduce the effect of sedative medicines.",
+    "mechanism": "EU monograph: caffeine-containing preparations reduce actions of sedative substances and increase side effects of sympathomimetic drugs.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "iron_mineral_supplement",
+    "severity": "minor",
+    "effect": "Tea taken with iron tablets or folic acid can reduce how much is absorbed.",
+    "mechanism": "Tea polyphenols bind non-haem iron in the gut; green tea also lowered folic acid absorption in volunteers.",
+    "evidence": "clinical",
+    "advice": "Take iron or folic acid supplements a couple of hours apart from tea or green tea extract. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Iron absorption and phenolic compounds: importance of different phenolic structures (Eur J Clin Nutr, 1989)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2598894/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Influence of green and black tea on folic acid pharmacokinetics in healthy volunteers: potential risk of diminished folic acid bioavailability (Biopharm Drug Dispos, 2008)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18551467/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "ginseng",
+  "names": {
+   "common_en": "Ginseng (Asian/Korean and American)",
+   "hindi": "Ginseng",
+   "sanskrit": "",
+   "latin": "Panax ginseng C.A.Mey.; Panax quinquefolius L. (root)",
+   "other": [
+    "Korean red ginseng",
+    "not the same as ashwagandha ('Indian ginseng')"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Korean red ginseng capsules/extract",
+   "Ginseng in energy drinks",
+   "Multi-herb vitality blends"
+  ],
+  "traditional_context": "Used in traditional East Asian medicine as a general tonic for energy and vitality.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "May be unsafe in pregnancy (a ginseng compound caused birth defects in animals); EU monograph does not recommend use in pregnancy or breastfeeding.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Panax ginseng C.A.Mey., radix (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Some experts advise against use in infants and children; EU monograph says use under 18 is not established.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Panax ginseng C.A.Mey., radix (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "autoimmune",
+    "note": "May worsen autoimmune disorders.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "bleeding",
+    "note": "May interfere with blood clotting.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "hypoglycaemia",
+    "note": "May lower blood sugar.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     },
+     {
+      "title": "American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus (Arch Intern Med, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10761967/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "flag": "surgery",
+    "note": "Recognised perioperative concern because of effects on bleeding and blood sugar.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Herbal medicines and perioperative care (JAMA, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11448284/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "moderate",
+    "effect": "May reduce warfarin's effect (lower INR), raising clot risk.",
+    "mechanism": "Randomised trial: American ginseng reduced INR and warfarin levels in healthy volunteers; a case report describes a fall in INR with Panax ginseng.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your INR may need checking more often if you start or stop ginseng.",
+    "sources": [
+     {
+      "title": "Brief communication: American ginseng reduces warfarin's effect in healthy patients: a randomized, controlled Trial (Ann Intern Med, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15238367/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Probable interaction between warfarin and ginseng (Am J Health Syst Pharm, 1997)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9075501/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Panaxynol from ginseng inhibited platelet aggregation in vitro (ginsenosides had little effect); NCCIH notes ginseng may interfere with clotting.",
+    "evidence": "preclinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Antiplatelet actions of panaxynol and ginsenosides isolated from ginseng (Biochim Biophys Acta, 1989)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2923911/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "moderate",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "American ginseng reduced post-meal blood glucose in people with and without type 2 diabetes in a small randomised study; NCCIH notes Asian ginseng may lower blood sugar.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus (Arch Intern Med, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10761967/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "moderate",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "American ginseng reduced post-meal blood glucose in people with and without type 2 diabetes in a small randomised study; NCCIH notes Asian ginseng may lower blood sugar.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus (Arch Intern Med, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10761967/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "moderate",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "American ginseng reduced post-meal blood glucose in people with and without type 2 diabetes in a small randomised study; NCCIH notes Asian ginseng may lower blood sugar.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus (Arch Intern Med, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10761967/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "moderate",
+    "effect": "Reported to cause headache, tremor and manic-like symptoms with phenelzine.",
+    "mechanism": "Case report of interaction with phenelzine; mechanism unclear.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Interaction of ginseng with phenelzine (J Clin Psychopharmacol, 1987)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3597812/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "moderate",
+    "effect": "May lower blood levels of medicines cleared by CYP3A4.",
+    "mechanism": "Panax ginseng 500 mg twice daily for 28 days reduced midazolam exposure by about one-third (CYP3A induction) in healthy volunteers; P-gp was unaffected.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your doctor may need to check drug levels.",
+    "sources": [
+     {
+      "title": "Influence of Panax ginseng on cytochrome P450 (CYP)3A and P-glycoprotein (P-gp) activity in healthy participants (J Clin Pharmacol, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21646440/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticancer",
+    "severity": "moderate",
+    "effect": "Reported liver injury when combined with imatinib.",
+    "mechanism": "Case report of imatinib hepatotoxicity after 3 months of Panax ginseng energy drinks, possibly via CYP3A4 effects. LiverTox notes ginseng may cause herb-drug interactions leading to liver injury.",
+    "evidence": "case_reports",
+    "advice": "Tell your oncology team before using ginseng. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Imatinib and Panax ginseng: a potential interaction resulting in liver toxicity (Ann Pharmacother, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20332334/",
+      "type": "peer_review"
+     },
+     {
+      "title": "LiverTox: Ginseng",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548200/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiretroviral",
+    "severity": "moderate",
+    "effect": "Reported liver injury when combined with raltegravir-based HIV treatment.",
+    "mechanism": "Case report of raised liver enzymes and jaundice (probable causality) in a patient on raltegravir plus lopinavir/ritonavir who took ginseng.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Elevated liver enzymes resulting from an interaction between Raltegravir and Panax ginseng: a case report and brief review (Drug Metabol Drug Interact, 2012)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23092794/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "minor",
+    "effect": "May contribute to liver injury when combined with other liver-affecting medicines.",
+    "mechanism": "LiverTox: ginseng itself is not a recognised cause of liver injury but may cause interactions that lead to it.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "LiverTox: Ginseng",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548200/",
+      "type": "gov"
+     },
+     {
+      "title": "Imatinib and Panax ginseng: a potential interaction resulting in liver toxicity (Ann Pharmacother, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20332334/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "minor",
+    "effect": "Could theoretically work against immune-suppressing medicines.",
+    "mechanism": "Immune-stimulating activity and possible worsening of autoimmune disorders (NCCIH); no interaction studies.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "NCCIH: Asian Ginseng - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "minor",
+    "effect": "Ginseng can falsely raise or lower digoxin blood-test results with some laboratory methods.",
+    "mechanism": "Digoxin-like immunoreactive components in ginseng interfere with certain digoxin immunoassays (assay interference, not a true level change).",
+    "evidence": "preclinical",
+    "advice": "Tell the lab and your doctor you take ginseng if your digoxin level is being checked. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Effect of Brazilian, Indian, Siberian, Asian, and North American ginseng on serum digoxin measurement by immunoassays and binding of digoxin-like immunoreactive components of ginseng with Fab fragment of antidigoxin antibody (Digibind) (Am J Clin Pathol, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16040294/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anaesthesia_surgery",
+    "severity": "moderate",
+    "effect": "May increase bleeding and low-blood-sugar risk around surgery.",
+    "mechanism": "Perioperative review: bleeding and hypoglycaemia are recognised direct effects of ginseng.",
+    "evidence": "clinical",
+    "advice": "Tell your surgeon or anaesthetist; they may advise pausing ginseng before a planned procedure.",
+    "sources": [
+     {
+      "title": "Herbal medicines and perioperative care (JAMA, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11448284/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "st_johns_wort",
+  "names": {
+   "common_en": "St John's wort",
+   "hindi": "",
+   "sanskrit": "",
+   "latin": "Hypericum perforatum L. (herb)",
+   "other": [
+    "hypericum"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "St John's wort extract tablets/capsules",
+   "St John's wort tea",
+   "Mood-support blends containing hypericum"
+  ],
+  "traditional_context": "Used in European herbal tradition for general emotional wellbeing; included here as a reference herb because it interacts with many medicines.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "pregnancy",
+    "note": "Not recommended in pregnancy or breastfeeding; animal studies showed reproductive toxicity and breastfed infants may have side effects.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "other",
+    "note": "Can cause sensitivity to sunlight; avoid intense UV exposure while using it.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "children",
+    "note": "Not recommended under 18 years (insufficient data).",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "flag": "surgery",
+    "note": "Interactions with anaesthesia medicines should be identified before elective surgery; it may need to be discontinued.",
+    "evidence": "regulatory",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Herbal medicines and perioperative care (JAMA, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11448284/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "immunosuppressant",
+    "severity": "major",
+    "effect": "Can sharply lower cyclosporine, tacrolimus, sirolimus or everolimus levels; organ-transplant rejection has occurred.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. The EU monograph contraindicates these combinations.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining. Do not start or stop St John's wort without your transplant team.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Acute heart transplant rejection due to Saint John's wort (Lancet, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10683008/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Drug interaction of St John's wort with cyclosporin (Lancet, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10866469/",
+      "type": "peer_review"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "major",
+    "effect": "Can reduce the effect of warfarin-type anticoagulants, raising clot risk.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. Contraindicated with coumarin-type anticoagulants in the EU monograph.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     },
+     {
+      "title": "St John's wort (Hypericum perforatum): drug interactions and clinical outcomes (Br J Clin Pharmacol, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12392581/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "major",
+    "effect": "Can lower rivaroxaban/apixaban levels and reduce protection against clots.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. The rivaroxaban label says to avoid combined P-gp and strong CYP3A inducers such as St John's wort.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "DailyMed: Xarelto (rivaroxaban) prescribing information - avoid combined P-gp and strong CYP3A inducers such as St. John's wort",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610",
+      "type": "gov"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiretroviral",
+    "severity": "major",
+    "effect": "Can greatly lower levels of HIV medicines (e.g. protease inhibitors, nevirapine), risking treatment failure and resistance.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. Indinavir exposure fell markedly in volunteers; contraindicated with protease inhibitors and NRTIs in the EU monograph.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Indinavir concentrations and St John's wort (Lancet, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10683007/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Drug interaction between St John's wort and nevirapine (AIDS, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11273226/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "hormonal_contraceptive_estrogen",
+    "severity": "major",
+    "effect": "Can reduce the effectiveness of birth-control pills and cause breakthrough bleeding; unplanned pregnancy is possible.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. Lowered ethinyl estradiol/progestin exposure and increased breakthrough bleeding in controlled studies.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Use an additional non-hormonal contraceptive method if combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Interaction of St. John's Wort with oral contraceptives: effects on the pharmacokinetics of norethindrone and ethinyl estradiol, ovarian activity and breakthrough bleeding (Contraception, 2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15914127/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Interaction of St John's wort with low-dose oral contraceptive therapy: a randomized controlled trial (Br J Clin Pharmacol, 2003)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14616430/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Co-administration of St. John's wort and hormonal contraceptives: a systematic review (Contraception, 2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27444983/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticancer",
+    "severity": "major",
+    "effect": "Can lower levels of cancer medicines such as irinotecan, imatinib and docetaxel, making them less effective.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. Irinotecan active-metabolite levels fell by about 42% and imatinib exposure fell in clinical studies; contraindicated with cytostatics metabolised by these pathways.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination. Tell your oncology team about all supplements.",
+    "sources": [
+     {
+      "title": "Effects of St. John's wort on irinotecan metabolism (J Natl Cancer Inst, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12189228/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Effect of St John's wort on imatinib mesylate pharmacokinetics (Clin Pharmacol Ther, 2004)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15470331/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp3a4_substrate_narrow",
+    "severity": "major",
+    "effect": "Can lower levels of narrow-margin CYP3A4 medicines, risking loss of effect.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping.",
+    "evidence": "clinical",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Clinical relevance of St. John's wort drug interactions revisited (Br J Pharmacol, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31742659/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_ssri_snri",
+    "severity": "major",
+    "effect": "May cause serotonin syndrome (agitation, sweating, fast heartbeat, fever, tremor) with SSRI/SNRI antidepressants.",
+    "mechanism": "Additive serotonergic effects; the EU monograph and NCCIH warn of serious serotonin-related side effects.",
+    "evidence": "case_reports",
+    "advice": "Avoid this combination. Talk to your doctor or pharmacist before combining. Seek urgent care for agitation, shaking, fever or a racing heart.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_maoi",
+    "severity": "moderate",
+    "effect": "May add to serotonin effects with MAO-inhibitor antidepressants.",
+    "mechanism": "Serotonergic activity; the EU monograph warns about combining with other serotonergic substances. No specific MAOI studies found.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidepressant_tca",
+    "severity": "moderate",
+    "effect": "Can lower levels of amitriptyline and related antidepressants.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. Amitriptyline is named among affected drugs.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "cardiac_glycoside",
+    "severity": "moderate",
+    "effect": "Can lower digoxin levels.",
+    "mechanism": "P-glycoprotein induction; digoxin exposure fell by about 25% after 10 days of co-treatment in volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Your doctor may need to check digoxin levels.",
+    "sources": [
+     {
+      "title": "Pharmacokinetic interaction of digoxin with an herbal extract from St John's wort (Hypericum perforatum) (Clin Pharmacol Ther, 1999)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10546917/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "pgp_substrate",
+    "severity": "moderate",
+    "effect": "Can lower levels of medicines carried by P-glycoprotein (e.g. digoxin, dabigatran, fexofenadine).",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Pharmacokinetic interaction of digoxin with an herbal extract from St John's wort (Hypericum perforatum) (Clin Pharmacol Ther, 1999)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10546917/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "statin",
+    "severity": "moderate",
+    "effect": "Can lower simvastatin (and other CYP3A4-cleared statin) levels.",
+    "mechanism": "CYP3A4 induction; simvastatin acid exposure fell while pravastatin was unaffected in volunteers.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "Different effects of St John's wort on the pharmacokinetics of simvastatin and pravastatin (Clin Pharmacol Ther, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11753267/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "sedative_hypnotic",
+    "severity": "moderate",
+    "effect": "Can lower levels of midazolam, alprazolam and diazepam, reducing their effect.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "opioid",
+    "severity": "moderate",
+    "effect": "Can lower methadone and oxycodone levels, reducing pain relief or triggering withdrawal.",
+    "mechanism": "CYP3A4 induction; oxycodone exposure fell markedly in volunteers and methadone levels dropped in patients.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "St John's wort greatly reduces the concentrations of oral oxycodone (Eur J Pain, 2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20106684/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Methadone maintenance treatment and St. John's Wort - a case report (Pharmacopsychiatry, 2003)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12649774/",
+      "type": "peer_review"
+     },
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "theophylline",
+    "severity": "moderate",
+    "effect": "Can lower theophylline levels, reducing its effect.",
+    "mechanism": "Induction of CYP1A2; identified as a clinically significant interaction in a regulatory/systematic review of case reports.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Your doctor may need to check theophylline levels, especially if you stop St John's wort.",
+    "sources": [
+     {
+      "title": "St John's wort (Hypericum perforatum): drug interactions and clinical outcomes (Br J Clin Pharmacol, 2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12392581/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c19_substrate",
+    "severity": "moderate",
+    "effect": "Can lower levels of medicines cleared by CYP2C19 (e.g. omeprazole, some antidepressants) and may increase activation of clopidogrel.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping. The EU monograph lists CYP2C19 among the induced enzymes.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Clinical relevance of St. John's wort drug interactions revisited (Br J Pharmacol, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31742659/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "photosensitizing",
+    "severity": "moderate",
+    "effect": "May add to sun sensitivity (burning, rash) caused by photosensitising medicines such as tetracyclines, fluoroquinolones, thiazides, isotretinoin or amiodarone.",
+    "mechanism": "Hypericin in St John's wort causes photosensitivity; the EU monograph advises avoiding intense UV exposure and NCCIH notes severe skin reactions after sun exposure. Additive effect with photosensitising drugs is inferred.",
+    "evidence": "case_reports",
+    "advice": "Talk to your doctor or pharmacist before combining. Use sun protection and avoid intense UV exposure.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "NCCIH: St. John's Wort - Usefulness and Safety",
+      "url": "https://www.nccih.nih.gov/health/st-johns-wort",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "cyp2c9_substrate",
+    "severity": "moderate",
+    "effect": "Can lower levels of medicines cleared by CYP2C9.",
+    "mechanism": "St John's wort induces CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein, lowering blood levels of many medicines; the effect rises with hyperforin content and lasts about a week after stopping.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "moderate",
+    "effect": "May increase the antiplatelet effect of clopidogrel.",
+    "mechanism": "Induction of CYP enzymes that activate clopidogrel; increased platelet inhibition in clopidogrel low-responders in a small randomised trial.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "St. John's Wort in patients non-responders to clopidogrel undergoing percutaneous coronary intervention: a single-center randomized open-label trial (St. John's Trial) (J Cardiovasc Transl Res, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23463297/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "hepatotoxic",
+    "severity": "minor",
+    "effect": "May increase liver toxicity of other medicines by changing how they are metabolised.",
+    "mechanism": "LiverTox: not a convincing cause of liver injury itself, but may increase hepatotoxicity of other agents via interactions.",
+    "evidence": "theoretical",
+    "advice": "Talk to your doctor or pharmacist before combining.",
+    "sources": [
+     {
+      "title": "LiverTox: St. John's Wort",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548880/",
+      "type": "gov"
+     }
+    ]
+   },
+   {
+    "drug_class": "anaesthesia_surgery",
+    "severity": "moderate",
+    "effect": "May alter the effect of anaesthesia and other medicines used around surgery.",
+    "mechanism": "Enzyme induction affects many perioperative drugs; enzyme activity returns to normal about 1 week after stopping.",
+    "evidence": "clinical",
+    "advice": "Tell your surgeon or anaesthetist; they may advise pausing St John's wort before a planned procedure.",
+    "sources": [
+     {
+      "title": "EMA HMPC: European Union herbal monograph on Hypericum perforatum L., herba (Rev. 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "type": "gov"
+     },
+     {
+      "title": "Herbal medicines and perioperative care (JAMA, 2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11448284/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "good",
+  "last_checked": "2026-10"
+ },
+ {
+  "id": "sea_buckthorn",
+  "names": {
+   "common_en": "Sea buckthorn",
+   "hindi": "Chharma (Leh berry)",
+   "sanskrit": "",
+   "latin": "Hippophae rhamnoides L. (berry, seed oil)",
+   "other": [
+    "tsermang / star-bu (Sowa-Rigpa)"
+   ]
+  },
+  "kind": "herb",
+  "common_products": [
+   "Sea buckthorn juice",
+   "Sea buckthorn berry/seed oil capsules (omega-7)",
+   "Leh berry products"
+  ],
+  "traditional_context": "Used in Sowa-Rigpa (Amchi) and Himalayan food traditions for general wellbeing and vitality.",
+  "traditional_source_type": "classical text",
+  "general_safety": [
+   {
+    "flag": "bleeding",
+    "note": "Sea buckthorn berry oil (5 g/day for 4 weeks) reduced platelet aggregation in a small crossover study of healthy men.",
+    "evidence": "clinical",
+    "sources": [
+     {
+      "title": "Sea buckthorn berry oil inhibits platelet aggregation (J Nutr Biochem, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11120446/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "interactions": [
+   {
+    "drug_class": "anticoagulant_vka",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside warfarin-type blood thinners.",
+    "mechanism": "Berry oil reduced ADP-induced platelet aggregation in a small 4-week crossover study; seed fractions inhibit platelet responses in vitro. Clinical bleeding not reported.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding; your INR may need checking.",
+    "sources": [
+     {
+      "title": "Sea buckthorn berry oil inhibits platelet aggregation (J Nutr Biochem, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11120446/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Anti-Platelet Activity of Sea Buckthorn Seeds and Its Relationship with Thermal Processing (Foods, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39123591/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "anticoagulant_doac",
+    "severity": "minor",
+    "effect": "May slightly add to bleeding tendency alongside newer oral blood thinners.",
+    "mechanism": "Berry oil reduced ADP-induced platelet aggregation in a small 4-week crossover study; seed fractions inhibit platelet responses in vitro. Clinical bleeding not reported.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Sea buckthorn berry oil inhibits platelet aggregation (J Nutr Biochem, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11120446/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Anti-Platelet Activity of Sea Buckthorn Seeds and Its Relationship with Thermal Processing (Foods, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39123591/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antiplatelet",
+    "severity": "minor",
+    "effect": "May slightly add to the anti-clotting effect of antiplatelet medicines.",
+    "mechanism": "Berry oil reduced ADP-induced platelet aggregation in a small 4-week crossover study; seed fractions inhibit platelet responses in vitro. Clinical bleeding not reported.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. Report unusual bruising or bleeding.",
+    "sources": [
+     {
+      "title": "Sea buckthorn berry oil inhibits platelet aggregation (J Nutr Biochem, 2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11120446/",
+      "type": "peer_review"
+     },
+     {
+      "title": "Anti-Platelet Activity of Sea Buckthorn Seeds and Its Relationship with Thermal Processing (Foods, 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39123591/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_insulin",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Sea buckthorn fruit puree (90 mL/day for 5 weeks) slightly lowered fasting glucose versus placebo in people with impaired glucose regulation.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Effect of Sea Buckthorn on Plasma Glucose in Individuals with Impaired Glucose Regulation: A Two-Stage Randomized Crossover Intervention Study (Foods, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33917994/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_sulfonylurea",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Sea buckthorn fruit puree (90 mL/day for 5 weeks) slightly lowered fasting glucose versus placebo in people with impaired glucose regulation.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Effect of Sea Buckthorn on Plasma Glucose in Individuals with Impaired Glucose Regulation: A Two-Stage Randomized Crossover Intervention Study (Foods, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33917994/",
+      "type": "peer_review"
+     }
+    ]
+   },
+   {
+    "drug_class": "antidiabetic_other",
+    "severity": "minor",
+    "effect": "May add to the blood-sugar-lowering effect of this medicine, raising the chance of low blood sugar.",
+    "mechanism": "Sea buckthorn fruit puree (90 mL/day for 5 weeks) slightly lowered fasting glucose versus placebo in people with impaired glucose regulation.",
+    "evidence": "clinical",
+    "advice": "Talk to your doctor or pharmacist before combining. If you combine them, check your blood sugar more often and know the signs of low blood sugar.",
+    "sources": [
+     {
+      "title": "Effect of Sea Buckthorn on Plasma Glucose in Individuals with Impaired Glucose Regulation: A Two-Stage Randomized Crossover Intervention Study (Foods, 2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33917994/",
+      "type": "peer_review"
+     }
+    ]
+   }
+  ],
+  "data_quality": "limited",
+  "last_checked": "2026-10"
+ }
+]
